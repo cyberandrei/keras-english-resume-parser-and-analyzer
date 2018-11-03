@@ -1,0 +1,20 @@
+content	education	Bryant High School Bryant, AR
+content	education	2013 to 2016
+content	education	High school or equivalent
+meta	experience	Sales Representative
+meta	experience	TruGreen - Little Rock, AR
+meta	experience	June 2018 to August 2018
+meta	experience	D2D sales.
+meta	experience	Shift Leader
+meta	experience	Pasta Jacks - Bryant, AR
+meta	experience	August 2014 to June 2018
+meta	experience	Being here so long I have have done about everything in the restaurant from dishes and cleaning to counting money and serving customers. management time, training, and a little book keeping.
+meta	experience	Childcare Staff
+meta	experience	Childcare Network - Bryant, AR
+meta	experience	August 2017 to November 2017
+meta	experience	Was an assistant teacher for children ages infinite to 5.
+meta	experience	Hostess/Cashier
+meta	experience	US Pizza Company - Bryant, AR
+meta	experience	November 2016 to April 2017
+meta	experience	Host/Cashier
+meta	experience	Prep food, customer service, handle money, count down drawer end of each shift, and cleaning.

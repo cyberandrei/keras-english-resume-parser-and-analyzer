@@ -1,0 +1,18 @@
+content	education	N/A in Psychology
+content	education	Calhoun Community College Huntsville, AL
+content	education	August 2003 to June 2005
+content	education	General in General
+content	education	S. R. Butler High Huntsville, AL
+content	education	August 1999 to May 2003
+meta	experience	Sales Associate
+meta	experience	Pier 1 Imports - Huntsville, AL
+meta	experience	February 2012 to October 2012
+meta	experience	As a sales associate, I greeted customers, engaged customers with questions for their specific needs, provide customer service, operate cash registers and promptly answer phones, and assist the store manager with store operations.
+meta	experience	Assistant Store Manager
+meta	experience	Things Remembered - Huntsville, AL
+meta	experience	October 2008 to August 2010
+meta	experience	As the Assistant Store Manager, I assumed many responsibilities such as store operations, opening and closing the store, schedule making, and daily office paperwork. I also recruited new team members and assisted in the hiring process. I assisted weekly with freight processing and paperwork, as well as making sure all products made it to the sales floor in a reasonable amount of time. I executed counter moves (the store was a large kiosk) as well as assisting customers in selecting occasion appropriate items, as well as engraving.
+meta	experience	Third Assistant Manager
+meta	experience	Kirkland's Home - Huntsville, AL
+meta	experience	October 2004 to December 2008
+meta	experience	As the Third Assistant Store Manager, I assumed many responsibilities such as store operations, opening and closing the store, schedule making, and daily office paperwork. I also recruited new team members and assisted in the hiring process. I assisted weekly with freight processing and paperwork, as well as making sure all products made it to the sales floor in a reasonable amount of time. I executed floor moves as well as assisting customers and executing returns and exchanges.

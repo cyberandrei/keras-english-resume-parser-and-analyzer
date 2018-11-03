@@ -1,0 +1,17 @@
+content	education	College e.g in Auto motive ,communications, computer technology
+content	education	Rio Solado Phoenix, AZ
+content	education	December 2010 to May 2015
+content	education	Phoenix, AZ in Automotive technology,  computer technology
+content	education	Rio solado Phoenix, AZ
+content	education	December 2010 to May 2015
+meta	experience	Sales Representative
+meta	experience	Phoenix AZ automotive car sales - Phoenix, AZ
+meta	experience	March 2017 to September 2017
+meta	experience	Sales representative; My responsibilities included  punctual , Reliable, motivated, self reliable in setting appointments through expanding  your own clientele list  all while networking by effectively promoting your dealership and yourself.  Efficiently by presenting your automotive inventory outstandingly and correctly.
+meta	experience	Automotive Technician
+meta	experience	Firestone/Bridgestone - Laveen, AZ
+meta	experience	June 2015 to March 2016
+meta	experience	MY DAILY TASKS INCLUDED MAINTENANCING OF CUSTOMERS VEHICLES , GIVE A RECOMMENDATION AND OVERALL DIAGNOSIS ON A CUSTOMER VEHICLES,  REPORT TO MANAGEMENT AND PROCEED WITH FIXING THE PROBLEM , MECHANICALLY AND PERSONALLY.  WRITTING OUT MY WORK ORDER TICKETS CALCULATE WORK CLOCKING RATE AND OVERALL DELIVER SATISFIED WORK LEAVING CLIENTELE SATISFIED.
+meta	experience	Sales Representative
+meta	experience	Elite solar concepts - Phoenix, AZ
+meta	experience	Sales representative:my position required myself to represent my company as thee most effective,  efficient,  productive and Reliable solar system company on the market.  Always be ready and prepared for our morning meetings , which requires an alert energetic frame of thought. To be punctual and Reliable enough to head out to the field set your appointments and Dependable enough to return to your appointments. Introduce your company , present your company and all in all make your company money while profiting financially and economically personally.

@@ -1,0 +1,55 @@
+content	education	Bachelor of science in Business
+content	education	University of Phoenix Lone Tree, CO
+content	education	2012 to 2015
+meta	experience	Sales
+meta	experience	SunGlo Window Films - Lakewood, CO
+meta	experience	September 2016 to Present
+meta	experience	Both inside and outside sales. Follow up on leads, schedule installs, estimate window film installs, and meet customers on site and recommend film. Schedule auto installs, follow up with leads and inventory film for both auto and flat glass.  Manage several accounts and create new relationships to further growth within the company.
+meta	experience	Manager
+meta	experience	HCCW - Castle Rock, CO
+meta	experience	July 2015 to August 2016
+meta	experience	Responsibilities include but not limited to:
+meta	experience	Manage 10-15 employees.  Oversee day to day operations of Gas Station, Car Wash and detail shop.  Continuous improvement of entire operation.  Train new hires in customer service, sales and professionalism.  Interact with customers, vendors and contractors to make sure all standards are met.  
+meta	experience	Accomplishments
+meta	experience	Improved sales by 15% each month along with bringing in new business and maintaining or improving current vendors.  
+meta	experience	Skills Used
+meta	experience	Leadership, accountability and flexibility.
+meta	experience	Maintenance mechanic
+meta	experience	RMO - Denver, CO
+meta	experience	November 2012 to July 2015
+meta	experience	Provide recommendations on equipment needs, use, maintenance, procurement, justification and any modifications to drive efficiency and cost improvements
+meta	experience	* Develop preventative maintenance schedules and ensure implementation in production facility
+meta	experience	* Work closely with Production Manager & Supervisors to ensure machine efficiency by adjusting machinery to ensure faster production
+meta	experience	* Ensure Health and Safety guidelines, policies and procedures are being followed and update facilities to OSHA standards
+meta	experience	* Key contributor in transitioning physical paper Material Safety Data Sheets to online version
+meta	experience	* Developing computerized ticketing system for Maintenance requests
+meta	experience	* Establish new vendor contacts to ensure all machines and parts for the company are providing the best quality of service at competitive pricing.
+meta	experience	Maintenance Mechanic
+meta	experience	Nestle - Denver, CO
+meta	experience	April 2012 to November 2012
+meta	experience	Troubleshoot and maintain electrical, pneumatic, hydraulic and heating equipment in an industrial environment
+meta	experience	* Responsible for new machine set up and testing
+meta	experience	* Coordinate, set up, review and implement standard operating procedures for production areas, ensuring quality standards are met and maintained
+meta	experience	* Monitor product to ensure quality standards are met including testing PH balance, checking coding, and inspecting packaging and pallets
+meta	experience	* Create, track and use metrics that emphasize safety, quality and efficiency
+meta	experience	* Analyze production and quality to detect and correct problems
+meta	experience	Maintenance Technician
+meta	experience	Canteen - Fresno, CA
+meta	experience	2007 to 2011
+meta	experience	Troubleshoot and maintain electric motors, switches, relays, circuit boards, refrigeration systems, and heating elements for vending machines
+meta	experience	* Initiate material resource planning including determining and managing material resource requirements
+meta	experience	* Work directly with vendors to establish new accounts for purchasing of parts
+meta	experience	* Maintain inventory and place order of parts stock in van and shop
+meta	experience	* On call for customer service requests requiring prioritization of jobs according to customer need
+meta	experience	Maintenance Mechanic
+meta	experience	Various Companies - Fresno, CA
+meta	experience	2004 to 2007
+meta	experience	Troubleshoot and maintain electrical controls, relay logic, ladder logic circuits, hydraulics, pneumatics, extrusion, foam cutting dies, bagging machines, heating beds, photo detectors, centrifugal pumps, pneumatic actuators, and chain conveyor systems for both plastic and metal
+meta	experience	* Individual machine set up and calibration for each product specifications
+meta	experience	* Daily service of pneumonia cooling compressor and pumps
+meta	experience	Aircraft Electrical and Environmental specialist/Shift Supervisor
+meta	experience	U.S. Air Force - McChord AFB, WA
+meta	experience	1996 to 2004
+meta	experience	Inspect, troubleshoot, and maintain aircraft E & E systems, subsystems, components and associated test equipment
+meta	experience	* Performed maintenance on electrical and environmental systems on C-17 and U-2 aircraft
+meta	experience	* Responsible for managing team of eight to ensure adequate scheduling and resources

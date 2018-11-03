@@ -1,0 +1,38 @@
+content	education	High school or equivalent
+content	education	Queen Anne's County High School Centreville, MD
+content	education	2003 to 2007
+meta	experience	Sales and Service Technician
+meta	experience	Precision Door Service - Wilmington, DE
+meta	experience	February 2018 to Present
+meta	experience	- Top sales earner in the company nationwide multiple times
+meta	experience	- Consecutively in the top 3 highest grossing sales within the division
+meta	experience	- Average weekly sales between $10,000-$15,000
+meta	experience	- Maintain up to date knowledge of multiple styles of doors, motors and parts
+meta	experience	- Diagnosis customers issues and repair all problems
+meta	experience	- Follow up on leads, cold calling lead generation
+meta	experience	Head Waterfowl Guide
+meta	experience	Waterfowl Haven Outfitters - Greeley, CO
+meta	experience	September 2016 to December 2017
+meta	experience	- Establish and maintain direct contact with clients prior to appointments
+meta	experience	- Provide a great hunting experience and answer client questions
+meta	experience	- Oversee the other guides in the company, aid and train as needed
+meta	experience	- Build and upkeep blinds and decoys
+meta	experience	Electrician
+meta	experience	Gulf State Electric - Baton Rouge, LA
+meta	experience	January 2016 to September 2016
+meta	experience	- Run jobs when the owner was not present
+meta	experience	- Bidding on jobs, supply ordering
+meta	experience	- Complete the contractor punch out lists
+meta	experience	- Services calls, troubleshooting, lighting design and circuit distribution
+meta	experience	Waterfowl Guide
+meta	experience	Webfoot Connection - Haskell, TX
+meta	experience	October 2015 to January 2016
+meta	experience	- Locate, procure and lease property for business use
+meta	experience	- Establish customer contact prior to appointments, answering all questions
+meta	experience	- Providing top notch customer service, including setting up entertainment, meals and activities
+meta	experience	Electrician
+meta	experience	Garret German & Sons Electric - Centreville, MD
+meta	experience	April 2013 to June 2015
+meta	experience	- Assisted in running jobs, training and directing crew members
+meta	experience	- Residential service calls
+meta	experience	- Install on new construction homes, landscape/agricultural lighting, wiring of inground pools

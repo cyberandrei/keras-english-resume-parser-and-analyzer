@@ -1,0 +1,153 @@
+content	education	Bachelor of Arts in Communications and Media Studies
+content	education	Arizona State University Tempe, AZ
+content	education	2004 to 2005
+meta	experience	National Sales Executive (Tech Sales US & Canada)
+meta	experience	National Sales Executive (Tech Sales US & Canada) - Scottsdale, AZ
+meta	experience	June 2017 to Present
+meta	experience	-Specialize in sales negotiations and strategy development with the major buying groups: Nationwide, MEGA, NECO, BrandSource, and BKBG.
+meta	experience	-Streamline product data and real-time competitive pricing for: Whirpool, GE, LG, Samsung, Frigidaire, Electrolux, etc.
+meta	experience	-Develop and implement strategies for Key client retention and sales growth.
+meta	experience	-Trade show leader and public speaker (North America).
+meta	experience	-Sandler Sales Academy trained and certified.
+meta	experience	Senior Real Estate Executive
+meta	experience	Gannett - Phoenix, AZ
+meta	experience	June 2016 to June 2017
+meta	experience	- Co-Director of Sales for Street Scout (The USA Today & The Arizona Republic)
+meta	experience	- Selected to pilot the launch of new digital Real Estate Platform
+meta	experience	- Leader in organization
+meta	experience	- Consistently exceed quota.
+meta	experience	- Responsible for sales development.
+meta	experience	- Represent The USA Today in trade shows on a regular basis.
+meta	experience	- Responsible for marketing strategies and executing them in the Phoenix market.
+meta	experience	- Examples of clients: Berkshire Hathaway, REMAX, Realty Executives, Keller Williams, Homesmart, Toll Brothers, and ect.
+meta	experience	- Use Salesforce CRM and Mactive on daily basis.
+meta	experience	Alliance Manager
+meta	experience	First Data - Phoenix, AZ
+meta	experience	September 2015 to June 2016
+meta	experience	- Phoenix, Arizona area
+meta	experience	- Interchange pricing certified
+meta	experience	- Clover Systems certified
+meta	experience	- Successfully passed all exams after month long training in Atlanta, Georgia (September 2015)
+meta	experience	- Consult with businesses who are Alliance members.
+meta	experience	- Analyze merchant statements and price interchange rates.
+meta	experience	- Negotiate basis points.
+meta	experience	- Sales include: SAAS, Clover systems, next generation point of sale technologies, and credit card transaction processing.
+meta	experience	- Grow and manage relationships with the Alliance and clients.
+meta	experience	- Use Salesforce CRM on daily basis.
+meta	experience	- Team leader.
+meta	experience	- Consultative and Solution sales expert.
+meta	experience	Regional Account Executive
+meta	experience	Gannett
+meta	experience	August 2013 to August 2015
+meta	experience	Outside sales
+meta	experience	- G/O Digital (Downtown Phoenix, Arizona)
+meta	experience	- 129% to goal Q1 2015
+meta	experience	- 92% to goal Q2 2015
+meta	experience	- 329% to goal Q1 2014
+meta	experience	- 151% to goal Q2 2014
+meta	experience	- 114% to goal Q3 2014
+meta	experience	- Attended top 10% National Sales Exec's Summits- Chicago (June 2014 & April 2015)
+meta	experience	- Google AdWords Certified (Score: 96% - March 2015)
+meta	experience	- One of four RAE's chosen to pilot sales for Gannett's new digital mobile platform Total Loyalty Solutions (November 2014).
+meta	experience	- Closed 25 digital deals from 1/14 - 11/14 (7th most in sales organization)
+meta	experience	- Extensively trained by Gannett in SMB/Enterprise level sales. Successfully passed examinations and certifications in Space Coast, FL (November 2013).
+meta	experience	- Consult with regional and national businesses to develop a digital marketing solution tailored to the businesses needs and requirements.
+meta	experience	- Specialize in PPC/SEM, SEO sales.
+meta	experience	- Other solutions: Social Media Management, Facebook retargeting, Web Development, Google Maps & Reputation Management, Email Targeting, and Daily Deals (DealChicken) to Gannett's affiliates: The Arizona  Republic, 12 News NBC, and azcentral.com.
+meta	experience	- Successful with managing and strengthening relationships with clients.
+meta	experience	- Sales cycle: Prospect clients, conduct first meeting and access clients needs, coordinate a digital audit with pre-sales team, analyze audit results, build and tailor a digital marketing campaign, present audit analytics and necessary products for close of the deal. Once client is on boarded, expand and grow the relationship in preparation for renewal or upsell.
+meta	experience	Gannett
+meta	experience	Account Executive - Outside Sales/Account Management
+meta	experience	- Arizona Republic Downtown Phoenix, Arizona
+meta	experience	- Closed 45 deals in the first three months of the position (Fall 2013).
+meta	experience	- Closed the Arizona State University Football account (Fall 2013).
+meta	experience	- Leader in West Region (Aug, Sep, Oct 2013)
+meta	experience	- Sold Gannett's digital product "DealChicken.com", which offered commercial space on Gannett's affiliates "The Arizona Republic, 12 News NBC, and azcentral.com."
+meta	experience	- Successfully managed relationships with SMB/Enterprise clients.
+meta	experience	- Prioritized tasks and projects to meet tight deadlines.
+meta	experience	- Attended daily sales meetings and quarterly sales trainings.
+meta	experience	- Prospected and conducted face to face meetings with business executives and owners throughout Phoenix.
+meta	experience	- Kept detailed records of daily activities through online client database (Salesforce).
+meta	experience	- Salesforce expert.
+meta	experience	- Echosign/Tinderbox expert.
+meta	experience	Account Executive - Outside Sales/Account Management
+meta	experience	Gannett
+meta	experience	June 2012 to August 2013
+meta	experience	- News 10 ABC KXTV Sacramento, California.
+meta	experience	- Closed four deals with the Sacramento Kings (November 2012).
+meta	experience	- Closed three deals with the Stockton Thunder (December 2012).
+meta	experience	- Closed deal with the Stockton Ports (January 2013).
+meta	experience	- Closed two deals with Super Foods In Motion (March 2013).
+meta	experience	- Sold the highest grossing deal in the Sacramento market to date (Sacramento Kings).
+meta	experience	- Starred in commercial for ABC News - Sacramento
+meta	experience	- Sold Gannett's digital product "DealChicken.com", which offered on air commercial space on Gannett's broadcast affiliate "News 10 ABC", front and center ad space on News10.net, My Neighborhood, social media, and News 10 ABC's morning show "Sac & Co."
+meta	experience	- Managed and strengthened relationships with SMB/Enterprise accounts.
+meta	experience	- Prioritized tasks and projects to meet tight deadlines
+meta	experience	- Attended daily sales meetings and quarterly sales trainings.
+meta	experience	- Prospected and conducted face to face meetings with business executives and owners throughout Sacramento
+meta	experience	- Kept detailed records of daily activities through online client database
+meta	experience	- Exceeded revenue goals consistently
+meta	experience	- Director for Coats for Kids (News 10 ABC's charity)
+meta	experience	- Salesforce and Echosign expert.
+meta	experience	- Tinderbox trained.
+meta	experience	Multimedia Market Consultant
+meta	experience	Gannett
+meta	experience	January 2012 to June 2012
+meta	experience	- Downtown Phoenix, Arizona
+meta	experience	- Inside sales.
+meta	experience	- Sold Gannett's digital product "DealChicken.com".
+meta	experience	- Completed 70 dials a day
+meta	experience	- Exceeded team sales goals
+meta	experience	- Prioritized tasks and projects to meet tight deadlines.
+meta	experience	- Attended daily sales meetings and quarterly sales trainings.
+meta	experience	- Prospected and conducted over the phone sales calls with business executives and directors throughout assigned territory.
+meta	experience	- Kept detailed records of daily activities through online customer database.
+meta	experience	- Team lead of the inside sales team
+meta	experience	Intern
+meta	experience	Gannett
+meta	experience	September 2011 to January 2012
+meta	experience	- Downtown Phoenix, Arizona
+meta	experience	- Inside sales.
+meta	experience	- Sold Gannett's digital product "DealChicken.com".
+meta	experience	- Completed 70 dials a day.
+meta	experience	- Prioritized tasks and projects to meet tight deadlines.
+meta	experience	- Attended daily sales meetings and quarterly sales trainings.
+meta	experience	- Prospected and conducted over the phone sales calls with business executives and directors throughout assigned territory.
+meta	experience	- Kept detailed records of daily activities through online customer database.
+meta	experience	- Exceeded team sales goals.
+meta	experience	- Salesforce trained and efficient.
+meta	experience	- Echosign trained and efficient.
+meta	experience	Intern
+meta	experience	New York Life Insurance - Scottsdale, AZ
+meta	experience	April 2011 to July 2011
+meta	experience	- New York Life sales trained, such as: life insurance and long term care.
+meta	experience	- Prospected new clients.
+meta	experience	- Qualified new clients.
+meta	experience	- Worked alongside other agents.
+meta	experience	Sales Associate
+meta	experience	Kenneth Cole Productions - Scottsdale, AZ
+meta	experience	September 2010 to January 2011
+meta	experience	- Sold all Kenneth Cole merchandise.
+meta	experience	- Managed inventory.
+meta	experience	- Customer Service.
+meta	experience	- Administrative duties.
+meta	experience	College Representative
+meta	experience	Procter & Gamble - Tempe, AZ
+meta	experience	March 2010 to July 2010
+meta	experience	- Responsible for marketing the Procter & Gamble product "Tide".
+meta	experience	- Held on-campus Tide promotions, such as: distributing large quantities of Tide products to the ASU student body. Also held on campus events displaying Tide laundry solutions.
+meta	experience	- Directed and produced videos of students using Tide products, such as: laundry detergent demonstrations.
+meta	experience	Studio Technician
+meta	experience	Studio One Media - Scottsdale, AZ
+meta	experience	April 2009 to September 2009
+meta	experience	- Responsible for sound engineering in the recording studio.
+meta	experience	- Operated electrical equipment.
+meta	experience	- Worked with artists to create the highest quality recording production.
+meta	experience	- Performed behind the scenes labor.
+meta	experience	Recreation Leader
+meta	experience	City of Scottsdale - Scottsdale, AZ
+meta	experience	March 2006 to August 2008
+meta	experience	- Community liaison.
+meta	experience	- Managed youth events, such as: after school programs, summer athletic camps, and elderly programs.
+meta	experience	- Administrative office duties.
+meta	experience	- Customer Service.

@@ -1,0 +1,6 @@
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Superior Chevrolet - Conway, AR
+meta	experience	June 2018 to Present
+meta	experience	Car sales
+meta	experience	Sales Associate

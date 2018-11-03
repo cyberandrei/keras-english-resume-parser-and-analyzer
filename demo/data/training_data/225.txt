@@ -1,0 +1,49 @@
+content	education	Bachelors of Science in Business
+content	education	University of Minnesota, Carlson School of Management
+content	education	September 1985 to June 1990
+meta	experience	Co-founder, Gabriel Sales
+meta	experience	Gabriel Sales - Boulder, CO
+meta	experience	2001 to Present
+meta	experience	Co-founder. Head of Client Services, Sales Operations, Sales Consulting, and
+meta	experience	Database Management. Acting Marketing and Sales Manager for 5-10 clients at any time. Responsible for SOW goals and targets; reporting weekly, monthly, and
+meta	experience	quarterly. This requires detailed project management, multi-tasking, and process
+meta	experience	development.
+meta	experience	Sales Management: Ensuring the reps are staying on message, calling on the correct targets, managing the databases and keeping the team motivated for
+meta	experience	success.
+meta	experience	My responsibilities include developing client relationships, scoping and selling
+meta	experience	consulting engagements, identifying talent and human resources, leading project
+meta	experience	delivery and most importantly - building long-term relationships by providing
+meta	experience	exceptional service and measurable ROI.
+meta	experience	Client Servicing, execution and oversight for sales and marketing operational
+meta	experience	setup or an overhaul. Demand Generation, Pipeline Management, Marketing
+meta	experience	Automation, Sales Management and Closing deals for our clients.
+meta	experience	In the last 17 years, Gabriel Sales has supported over 100 clients, of which I have
+meta	experience	been personally actively involved in over 70. Serviced clients in the following
+meta	experience	industries: Contact Center Outsourcing, Back Office Outsourcing, B2B SaaS,
+meta	experience	Web Development, Professional Services, Publishing, and Real Estate
+meta	experience	Development. With the greatest experience in selling software.
+meta	experience	Additional Duties:
+meta	experience	● HR, Talent Management & Recruiting
+meta	experience	● Vendor Management
+meta	experience	● Financial Planning & Bookkeeping Oversight
+meta	experience	Sales Director, Customer Asset
+meta	experience	 - San Mateo, CA
+meta	experience	2000 to 2001
+meta	experience	Enterprise Sales and Client Services for a revolutionary start-up of an outsourced call center and database marketing firm based in India, serving the Fortune 500 and Global 2000.
+meta	experience	Met and exceeded all goals set and outperformed all team members. Built a
+meta	experience	strong rolodex of the Fortune 500 with large call centers and direct marketing
+meta	experience	divisions. As first U.S. salesperson, helped grow company from 0-$5M in one
+meta	experience	year.
+meta	experience	Regional Sales Manager
+meta	experience	Autoweb.com - Santa Clara, CA
+meta	experience	1998 to 2000
+meta	experience	Outside and Inside Sales for on-line car buying service. Consistently performed in top 20% in sales and account retention. Attained 170% of monthly sales quota.
+meta	experience	Managed most competitive territory that generates 20% of the company's lead
+meta	experience	revenues.
+meta	experience	Staffing Manager
+meta	experience	Robert Half International - Walnut Creek, CA
+meta	experience	1996 to 1998
+meta	experience	Outside Sales and Recruiter of temporary services for the Accountemps division.
+meta	experience	In first six months, successfully developed accounts to increase our division's
+meta	experience	sales by 50%. Within one year performed in the top 5% for sales in the Western
+meta	experience	Region and received the District Sales Award.

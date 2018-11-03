@@ -1,0 +1,24 @@
+content	education	Bachelor's in Literature and Language of French
+content	education	Ewha Woman’s University Seoul, South Korea
+content	education	March 1981 to February 1985
+meta	experience	Sales Representative
+meta	experience	My Lady Fashion - West Hartford, CT
+meta	experience	May 2012 to May 2014
+meta	experience	Sales Associate
+meta	experience	Clerk, Bookkeeper
+meta	experience	AMCO - Englewood Cliffs, NJ
+meta	experience	September 1994 to January 1995
+meta	experience	In charge of Import and Export documents
+meta	experience	Senior Travel Consultant
+meta	experience	Pro Travel and Hotel - Rutherford, NJ
+meta	experience	February 1991 to January 1992
+meta	experience	Reservations and Ticketings of international and domestic airline tickets, and Hotel bookings
+meta	experience	Senior Ticketing Agent
+meta	experience	Korean Air - New York, NY
+meta	experience	September 1988 to January 1991
+meta	experience	In charge of Controls for Korean Air Agencies,
+meta	experience	and ticketings and customer services.
+meta	experience	Ticket Agent
+meta	experience	Korean Air - Seoul, KR
+meta	experience	January 1985 to June 1988
+meta	experience	Ticketing and Customer services

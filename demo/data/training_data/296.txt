@@ -1,0 +1,19 @@
+content	education	High school in math,varied
+content	education	Conard High School West Hartford, CT
+content	education	September 1981 to June 1985
+meta	experience	Sales Associate
+meta	experience	footbeats/striderite - Canton, MI
+meta	experience	July 2018 to Present
+meta	experience	sales of course  measuring mostly children, fitting shoes properly, stock,opening, closing,maintenance, maintaining stockroom,etc.
+meta	experience	Department Manager/Key Holder
+meta	experience	Joseph A. Bank - Plainville, CT
+meta	experience	February 2017 to April 2018
+meta	experience	customer service,sales,measuring clients,marking for suits,shipment,orders,merchandising,maintenance,opening,closing,etc.
+meta	experience	Sales/Key Holder
+meta	experience	L'Occitane - West Hartford, CT
+meta	experience	July 2016 to February 2017
+meta	experience	sales,customer service,product demonstration and application, shipment,merchandising,maintenance,events,opening,closing,etc.
+meta	experience	Assistant Manager
+meta	experience	Sally Beauty Supply. - Bristol, CT
+meta	experience	August 2004 to May 2012
+meta	experience	sales,shipment, merchandising,sale sets, plannograms, overseeing staff,maintenance, opening,closing,etc.

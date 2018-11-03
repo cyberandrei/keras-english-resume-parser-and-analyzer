@@ -1,0 +1,40 @@
+content	education	Texarkana Community College
+content	education	1983 to 1984
+content	education	Vocational in Machine shop
+content	education	Madison Vocational Richmond, KY
+content	education	Estill County High School Irvine, KY
+meta	experience	Contract Sales
+meta	experience	ALPINE MACHINERY SALES
+meta	experience	2013 to Present
+meta	experience	Machine Tool Sales in Arkansas, Oklahoma, and Tennessee
+meta	experience	Working with Engineers and Shop owners finding solutions to manufacturing issues
+meta	experience	Worked with manufacturer to integrate machines with robotics, cutting tools and fixturing in turnkey
+meta	experience	applications
+meta	experience	Industrial sales in Arkansas
+meta	experience	INDUSTRIAL MILL AND MAITENANCE - Texarkana, TX
+meta	experience	March 2011 to March 2013
+meta	experience	Sales of machine tools conventional and CNC, industrial supplies, cutting tools, coolants, parts washers
+meta	experience	Industrial Sales in Arkansas and Tennessee
+meta	experience	OLIVER H. VAN HORN L LC
+meta	experience	1995 to 2009
+meta	experience	1995--2009
+meta	experience	Landed two of the biggest orders in the history of this 100 year old company at that time in 1998
+meta	experience	Timex, Caterpillar
+meta	experience	Industrial Sales in Arkansas and Tennessee
+meta	experience	Conventional mill, Lathes, drill press grinders, heat treat ovens, parts washers, CNC Lathes and Milling
+meta	experience	Machines from the following manufactures:
+meta	experience	Cincinnati Milacron
+meta	experience	Landis (Centerless, Grinders & Center Type, Camshaft Grinders)
+meta	experience	Emco
+meta	experience	Index Traub
+meta	experience	Doosan Machine Tools
+meta	experience	Lagun Machine Tools
+meta	experience	Sharp Machine Tools
+meta	experience	Clausing Colchester Machine Tools
+meta	experience	Grutzpy Roll Turning Machines
+meta	experience	Omni Turn CNC Lathes
+meta	experience	Eitel Straightening Presses
+meta	experience	Toyoda Machine Tools
+meta	experience	Absolute Machine Tool
+meta	experience	Leadwell Machine Tools
+meta	experience	Siemens/Cincinnati Milacron (Retrofit and Remanufactured machin

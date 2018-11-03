@@ -1,0 +1,46 @@
+content	education	Calhoun Community College Huntsville, AL
+content	education	1986 to 1988
+meta	experience	Service Support Specialist
+meta	experience	Goodman - Fayetteville, TN
+meta	experience	December 2016 to Present
+meta	experience	Responsible for providing technical support to customers by identifying issues, performing root cause analysis, and determining necessary course of action to resolve technical issues with HVAC, heat pumps, and Ptac units, products, equipment selection, and product applications.
+meta	experience	• Communicate with customers regarding technical issues via telephone, fax, or email
+meta	experience	• Provide accurate technical data to customers to include information on recall notices, warranties and product registration, performing basic troubleshooting, providing wiring diagrams and parts information, and directing customers to additional resources available online
+meta	experience	• Work with Ptac customers throughout the United States and Canada, to include hotels and nursing homes, to expedite unit repairs through searching of parts in stock, or ordering out of stock items and ensuring timely delivery to locations
+meta	experience	• Contact HVAC repair businesses in and around customer locations to procure and schedule repairs
+meta	experience	• Input caller/product information into Microsoft Dynamics CRM call tracking program
+meta	experience	• Provide product reliability and service complaint information to Product Specialists
+meta	experience	• Manage customer correspondence consisting of but not limited to letters of authorization, repair procedures and special instructions
+meta	experience	Collector
+meta	experience	Qualitest-Par-Pharmaceuticals - Huntsville, AL
+meta	experience	February 2016 to September 2016
+meta	experience	Responsible as point of contact for delinquent collections; handling customer correspondence; working with customers to resolve disputes; preparing write-off recommendations for management; processing and distributing dunning statements; and performing other duties as assigned.
+meta	experience	• Reconciled various customer accounts to ensure proper invoice pricing, rebates, chargebacks, returns, failure to supply, and bill only on various products
+meta	experience	• Maintained good customer relations for collection of all invoices, updating line narratives in the SAP system to ensure correct coding of various discounts, credits, and write-offs.  Also analyzing
+meta	experience	• Analyzed, reviewed, and approved numerous Med turns for customer credit requests and verifying additional credit allowances for specific states and adjusting in the system
+meta	experience	• Resolved collections by examining customer payment plans, payment history, and credit lines
+meta	experience	• Coordinated contact with collections department
+meta	experience	Accounts Receivable Clerk
+meta	experience	Dykes Restaurant Supply - Huntsville, AL
+meta	experience	July 2007 to October 2015
+meta	experience	Responsible for processing and monitoring incoming payments and securing revenue by verifying and posting receipts; performing day to day financial transactions including verifying and processing incoming payments, and classifying, computing, posting, and recording accounts receivable data; reconciling accounts receivable ledger to ensure all payments were accounted for and properly posted; generating financial statements and reports detailing accounts receivable status; assisting with monthly, quarterly, and year end closings and audits; and performing other duties as assigned.
+meta	experience	• Posted customer payments by recording cash, checks, and credit card transactions
+meta	experience	• Posted revenues by verifying and entering transactions form lock box and local deposits
+meta	experience	• Updated receivables by totaling unpaid invoices
+meta	experience	• Maintained records by microfilming invoices, debits, and credits
+meta	experience	• Verified validity of account discrepancies by obtaining and investigating information from sales, trade promotions, customer service departments, and from customers
+meta	experience	• Resolved valid or authorized deductions by entering adjusting entries, as well as invalid or unauthorized deductions by entering adjusting entries
+meta	experience	• Summarized receivables by maintaining invoice accounts, coordinating monthly transfer to accounts receivable account, verifying totals, and preparing report
+meta	experience	• Utilized desktop deposits to make daily bank deposits
+meta	experience	• Reconciled and managed petty cash of $2500
+meta	experience	• Managed inventory and ordered supplies as necessary
+meta	experience	• Assisted with accounts payable by pulling invoices and matching totals to prepare for payment
+meta	experience	• Conducted customer credit checks through Dun and Bradstreet
+meta	experience	Accounts Receivable Clerk
+meta	experience	Verilink Inc - Huntsville, AL
+meta	experience	August 2004 to July 2007
+meta	experience	Responsible for producing invoices using SAP applications; collecting from component customers worldwide; and entering all terms on all credit approved accounts.
+meta	experience	Accounts Receivable Clerk
+meta	experience	Avocent Inc - Huntsville, AL
+meta	experience	September 2000 to August 2004
+meta	experience	Responsible for producting invoices using SAP applications; training new employees; managing internal records and logs; obtaining and processing purchase orders from vendors; configuring taxes and special rates for all customers; and managing and collecting current and past due accounts.

@@ -1,0 +1,15 @@
+content	education	Buisness
+content	education	Folsom Lake College Sacramento, CA
+content	education	August 2015 to December 2020
+meta	experience	Sales
+meta	experience	HD Supply - Sacramento, CA
+meta	experience	October 2017 to Present
+meta	experience	Place special order sales, coordinate deliveries, customer service, reports.
+meta	experience	Leasing Consultant
+meta	experience	First Pointe Management Group - Rocklin, CA
+meta	experience	April 2014 to July 2015
+meta	experience	Maintain occupancy percentage, resident retention, marketing, reports, fair housing compliance.
+meta	experience	Floor Associate
+meta	experience	Home Depot - Folsom, CA
+meta	experience	March 2011 to April 2014
+meta	experience	Customer service, merchandising, lumber cutting, paint mixing.

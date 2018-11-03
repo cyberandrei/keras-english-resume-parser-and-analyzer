@@ -1,0 +1,25 @@
+content	education	Business/Communications
+content	education	Colorado State University Fort Collins, CO
+content	education	January 2010 to December 2011
+meta	experience	Sales
+meta	experience	Longmont Dairy Farm - Englewood, CO
+meta	experience	March 2018 to October 2018
+meta	experience	Sell and sample farm fresh milk as well as other assorted local and national food products door to door throughout greater Denver area. Set up and sell from booth at farmers markets as well as spreading brand awareness. One of the top earners in the South Denver sales office while maintaining high long term retention rates for customers. Responsible for creating own leads and succeeding in customer relationships. Assisted in training and feedback of new employees and potential hires.
+meta	experience	Route Sales
+meta	experience	Hall's Culligan - Englewood, CO
+meta	experience	June 2014 to February 2018
+meta	experience	Sell and deliver bottled water and associated products to territory covering Fort Collins to Castle Rock, CO. Strong customer relationships built on excellent service, reliability and problem resolution. Develop sales and marketing approaches for existing customers based on knowledge of the customer and their needs and
+meta	experience	personality. Upselling to current customers by offering new products and services as well as identifying and soliciting new clients, generating additional revenue. Manage account documentation accurately.
+meta	experience	Lawn Specialist
+meta	experience	Scott's Lawn Service - Parker, CO
+meta	experience	September 2013 to April 2014
+meta	experience	Product expert. Provided analysis and treatment of lawns to create healthy, attractive home environments. Grew customer base by providing excellent service to existing customers and identifying prospective new customers, often through neighbors seeing the results of the service provided. Completed service documentation in a timely and accurate manner.
+meta	experience	Prep Cook/Server
+meta	experience	Positano's - Fort Collins, CO
+meta	experience	August 2012 to June 2013
+meta	experience	Prep cook duties for restaurant serving Italian cuisine, including specialty pizzas.
+meta	experience	Opening/closing and cleaning responsibilities as well as acting as server during lunch rush and cashier when needed. Excellent customer service.
+meta	experience	Package Handler
+meta	experience	UPS - Fort Collins, CO
+meta	experience	September 2011 to June 2013
+meta	experience	Warehouse duties, shipping and receiving, sorting, loading trucks according to design in high-volume, fast-paced work environment. Very physical position. Consistently low error rate. Maintained safe working environment at all times. Assisted in helping others when called upon.

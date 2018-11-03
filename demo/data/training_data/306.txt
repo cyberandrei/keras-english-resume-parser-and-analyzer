@@ -1,0 +1,11 @@
+content	education	Social Service
+content	education	Cumberland County College Vineland, NJ
+content	education	September 2005 to September 2006
+meta	experience	Sales Associate
+meta	experience	Walmart - Vineland, NJ
+meta	experience	April 2016 to Present
+meta	experience	I assist with cashing out customers, retuning items back to sales floor and stocking shelves.
+meta	experience	Cashier
+meta	experience	Shop Rite
+meta	experience	April 2014 to December 2015
+meta	experience	Cashing out customers and refacing the shelves and stocking shelves

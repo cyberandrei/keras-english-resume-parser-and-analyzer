@@ -1,0 +1,58 @@
+content	education	Associate in Applied science in healthcare technology systems
+content	education	Ultimate Medical Academy-Tampa Little Rock, AR
+content	education	May 2017 to September 2018
+content	education	Diploma in Cosemotology
+content	education	Regency Beauty Institute Little Rock, AR
+content	education	2013 to 2014
+meta	experience	Sales Consultant
+meta	experience	Comcast - Little Rock, AR
+meta	experience	August 2016 to Present
+meta	experience	Sales of cable, phone , internet ,and home security. Customer Service, take and process bill payments. Stocking, organizing , and bank deposits.
+meta	experience	Cosmetologist
+meta	experience	Smart Styles - Little Rock, AR
+meta	experience	Responsibilities
+meta	experience	Provide customer service, retail sales, marketing, clean and sanitize, inventory, stock, handle large cash transactions, and bank deposits. Cut ,color, and style men ,women and children. Provide waxing services .Ensure every client leaves out feeling better than when they arrived
+meta	experience	Accomplishments
+meta	experience	earned several award such as highest tickets sells in district , highest combo ticket . Ranked in the top twenty in the district. Also been offered management positions
+meta	experience	Skills Used
+meta	experience	 customer service skills, communication skills, listening skills ,cosmetology skills , team work, sales and marketing
+meta	experience	Telemarketing Sales Representative
+meta	experience	Heritage
+meta	experience	May 2016 to July 2016
+meta	experience	Contact individuals in attempt to collect donations
+meta	experience	Customer Service Representative
+meta	experience	FIS - Little Rock, AR
+meta	experience	June 2013 to May 2014
+meta	experience	Responsibilities
+meta	experience	Provided oustanding customer service, took inbound calls, problem solving, replied to emails and customer complaints, meet and exceeded all goals and quotas 
+meta	experience	Accomplishments
+meta	experience	Perfect attendace award, honored for exceeded all expectations 
+meta	experience	Skills Used
+meta	experience	communication skills , computer skills , listening skills
+meta	experience	Customer Service Representative
+meta	experience	aerotek - Little Rock, AR
+meta	experience	January 2013 to June 2013
+meta	experience	Responsibilities
+meta	experience	made outbound calls in attempt to sign people up for fundrasier events
+meta	experience	Met all quotas
+meta	experience	Customer Service Representative
+meta	experience	FIS - Little Rock, AR
+meta	experience	October 2010 to May 2012
+meta	experience	Customer Service Representative
+meta	experience	SALLIE MAE - Niles, IL
+meta	experience	May 2006 to May 2008
+meta	experience	Responsibilities
+meta	experience	Provided customer service . Made outbound calls in attempt to collect on outstanding student loan balances. Met all goals and quotas 
+meta	experience	Accomplishments
+meta	experience	best call handle time , perfect attendance 
+meta	experience	Skills Used
+meta	experience	computer , communcation , listening ,typing
+meta	experience	Supervisor
+meta	experience	Jamba Juice - Chicago, IL
+meta	experience	April 2004 to April 2006
+meta	experience	Responsibilities
+meta	experience	supervised staff , Trained Staff , inventory , stock , cash handling, provided customer service , made sure store ran smoothly 
+meta	experience	Accomplishments
+meta	experience	employee of the month 
+meta	experience	Skills Used
+meta	experience	communication skills , team work ,leadership

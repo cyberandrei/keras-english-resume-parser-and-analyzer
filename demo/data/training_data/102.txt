@@ -1,0 +1,96 @@
+content	education	Morrisville State Morrisville, NY
+content	education	August 1992 to June 1994
+meta	experience	Sales
+meta	experience	Cleo's Furniture - Little Rock, AR
+meta	experience	2018 to Present
+meta	experience	• Brought aboard to help with stagnant sales.
+meta	experience	• First quarter sales leader in only 71 out of 90 days
+meta	experience	• Handle sales to their completion. From on the floor to sales writing to inventory management and cash or credit transactions to scheduling delivery.
+meta	experience	• Service calls scheduled and special orders.
+meta	experience	• Training to move into store management.
+meta	experience	Bar Manager
+meta	experience	Movie Tavern - Little Rock, AR
+meta	experience	2017 to 2018
+meta	experience	• Brought in to be a part of a grand opening
+meta	experience	• Helped implement standards
+meta	experience	• Lead training and development
+meta	experience	• Hired and guided the entire bar tending staff
+meta	experience	• Traveled to multiple locations to assist with procedures
+meta	experience	• Helped with the design of the Little Rock location
+meta	experience	• Placed all opening orders
+meta	experience	• Set the standards for inventory
+meta	experience	• Onboarding and I-9 set up
+meta	experience	• Developed uniform standards
+meta	experience	General Manager
+meta	experience	Little Caesars - Little Rock, AR
+meta	experience	2017 to 2017
+meta	experience	• Brought in to stabilize a location
+meta	experience	• Reorganized the location for maximum efficiency
+meta	experience	• Set forth a new path of training and development
+meta	experience	• Re staffed the store to inject new life to the store
+meta	experience	• Cut labor and set new food cost standards
+meta	experience	• Raised the product standards
+meta	experience	• Gained a new client base
+meta	experience	Bar and Hospitality Manager
+meta	experience	Red Lobster - Jonesboro, AR
+meta	experience	2016 to 2017
+meta	experience	• Recruited to help continue store growth
+meta	experience	• Restarted key positions for maximum efficiency
+meta	experience	• Raised the cleanliness standard
+meta	experience	• Was able to draw a spike in bar related business
+meta	experience	• In charge of ordering all liquor and involved in all orders
+meta	experience	• Created a contest to drive add ons to the highest level in store history
+meta	experience	• Raised our guest satisfaction survey score ranking from 683 out of 704 to a top 100 in 6 months.
+meta	experience	• Developed a new sence of pride and passion
+meta	experience	General Manager
+meta	experience	Pizza Hut - Paragould, AR
+meta	experience	2016 to 2016
+meta	experience	• Brought in to help a failing store.
+meta	experience	• Restaffed the store and established common practices for human resources
+meta	experience	• Focused on cleanliness and gave the store a deep cleaning and established daily cleaning lists
+meta	experience	• Began local marketing to reestablish Pizza Hut as a brand in Paragould
+meta	experience	• Fully trained an Assistant Manager
+meta	experience	• 100% on learning zone track
+meta	experience	• First time in 7 plus months C.H.A.M.P.S. was reached and brought in store times from 26 minutes to 18 minutes with an increased focus on our guests.
+meta	experience	General Manager of Operations
+meta	experience	Buffalo Wild Wings - Jonesboro, AR
+meta	experience	2013 to 2016
+meta	experience	• Manage front house/back house restaurant operations for high volume restaurant.
+meta	experience	• Direct efficient guest flow through participative shift management, scheduling a full working staff of up to 100 crew members including servers, bus persons, hosts/hostesses and kitchen staff.
+meta	experience	• Oversee employee relations encompassing staff recruitment, training and performance evaluation
+meta	experience	• Prepare and distribute payroll for up to 80 employees.
+meta	experience	• Handle weekly inventory and vendor relations to ensure the timely and cost-effective purchasing of food, beverages, uniforms, and small wares.
+meta	experience	• Effectively lead and motivate managers and employees through implementation of in-house training and incentive plans, resulting in increased productivity levels and employee satisfaction.
+meta	experience	• Prepare and track sales budgets, consistently meeting a weekly sales volume of $80,000.
+meta	experience	• Hold P&L accountability; manage sales analysis, forecasting, and reporting activities.
+meta	experience	• Ensure the integrity of restaurant operations through excellence in customer relations.
+meta	experience	• Attract, retain, and promote new business through proactive community service efforts.
+meta	experience	• Ran the grand opening and set a company sales record for a week at 125,997.00 and a sales day of 25,958.00
+meta	experience	Store Manager
+meta	experience	America's Mattress - Paragould, AR
+meta	experience	2012 to 2013
+meta	experience	• Guiding customers through the store and directing them to products
+meta	experience	• Clarifying differences in products
+meta	experience	• Explaining warranties, products protection and other service related aspects of the sale
+meta	experience	• Up Selling of accessories and other related items
+meta	experience	• Customer follow-up via phone calls and/or thank you note
+meta	experience	• Always keeping customer satisfaction as the top priority
+meta	experience	• Cleaning and maintaining the appearance of the store including dusting, vacuuming, cleaning restrooms, changing light bulbs, garbage removal and other duties as needed
+meta	experience	• Strong attention to detail in maintaining the store appearance/merchandising
+meta	experience	Key Holder, Sales Rep
+meta	experience	Ashley Furniture HomeStore - Jonesboro, AR
+meta	experience	2010 to 2012
+meta	experience	• Conduct training courses through lectures and other training techniques and evaluate training through participant's evaluation of application
+meta	experience	• Stay in constant contact with our guests to insure they are being treated with the utmost respect and all their needs are met
+meta	experience	• Maintain elevated levels of sales and insure the staff has everything they need to be a success
+meta	experience	• Open and close the store, run the daily reports, make sure the store is staffed at the appropriate level and handle customer service issues
+meta	experience	• Was number 1 in the store for sales and maintained a level of 9 out of 10 in our K.P.I.'S
+meta	experience	Sales
+meta	experience	Car Today - Jonesboro, AR
+meta	experience	2009 to 2010
+meta	experience	• Prepare the lot for the day's events, set the cars on the lot, manage inventory
+meta	experience	• Manage the internet site, keep the cars up to date and to make sure the information is correct
+meta	experience	• In charge of staffing the lot and making sure that we were performing at a top level, set the record for the number of cars sold in Batesville
+meta	experience	• Going to the auction to see what cars we need to bring in to generate sales
+meta	experience	• Sign all the contracts band make sure all the paperwork is in order
+meta	experience	• From August until November I moved to the Batesville lot to work as the Sales manager

@@ -1,0 +1,40 @@
+content	education	Hope Christian Academy Toney, AL
+content	education	August 2016
+meta	experience	Sales Associate
+meta	experience	TJX Companies, Marshall's - Huntsville, AL
+meta	experience	September 2017 to Present
+meta	experience	Sales Associate 
+meta	experience	Responsible for customer experience and transactions.
+meta	experience	Greet the customer, talk to the customer, find any problems they may of had.
+meta	experience	Ring up customer's purchase, ask about the tjx credit card and complete application if the customer wants the card.
+meta	experience	Sales Market Manager
+meta	experience	Transomic Technologies - Huntsville, AL
+meta	experience	September 2017 to Present
+meta	experience	Sales Marketer for a biotech company.
+meta	experience	Worked from home
+meta	experience	Responsible for running my own marketing campaign.
+meta	experience	Gathering customer information to go into excel, Microsoft applications and other software applications.
+meta	experience	Gathering my own information for new customers and relaying my information to my sales Director.
+meta	experience	Running advertisements on social media sites.
+meta	experience	Directing my own sales strategy and executing the strategy for results.
+meta	experience	Gathering sales data from ads and processing them to understand where and what time customers are most active in certain parts of the world in order to better the sales campaign and market at a better efficiency.
+meta	experience	Crew Member
+meta	experience	McDonalds - Athens, AL
+meta	experience	February 2015 to January 2016
+meta	experience	• Serve customers in eating places that specialize in fast service and inexpensive carry-out food.
+meta	experience	• Accept payment from customers, and make change as necessary.
+meta	experience	• Clean and organize eating, service, and kitchen areas.
+meta	experience	• Notify kitchen personnel of shortages or special orders.
+meta	experience	• Communicate with customers regarding orders, comments, and complaints.
+meta	experience	• Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee using proper safety precautions and sanitary measures.
+meta	experience	• Select food items from serving or storage areas and place them in dishes, on serving trays, or in takeout bags.
+meta	experience	• Relay food orders to cooks.
+meta	experience	• Prepare and serve cold drinks, or frozen milk drinks or desserts, using drink-dispensing, milkshake, or frozen custard machines.
+meta	experience	• Collect and return dirty dishes to the kitchen for washing.
+meta	experience	• Cook or re-heat food items such as french fries.
+meta	experience	• Wash dishes, glassware, and silverware after meals.
+meta	experience	• Pack food, dishes, utensils, tablecloths, and accessories for transportation from catering or food preparation establishments to locations designated by customers.
+meta	experience	• Distribute food to servers.
+meta	experience	• Plan, prepare, and deliver meals to individuals with special dietary needs.
+meta	experience	• Arrange tables and decorations according to instructions.
+meta	experience	• Serve food and beverages to guests at banquets or other social functions.

@@ -1,0 +1,23 @@
+content	education	Associate's in multimedia
+content	education	Springfield Technical Community College
+meta	experience	USED CAR SALES REP
+meta	experience	US AUTO SALES
+meta	experience	May 2005 to March 2011
+meta	experience	LAWRENCEVILLE, Ga
+meta	experience	sell cars and trucks by appointment and to walk-in prospects and work to continue repeat business with previous customers. They show vehicles, demonstrate features and close sales.
+meta	experience	Mortgage Loan Officer
+meta	experience	Money Wise Solutions LLC
+meta	experience	March 2003 to February 2005
+meta	experience	WEST SPRINGFIELD, MA
+meta	experience	Take thorough and complete loan applications; analyze and prequalify applicant information to determine viability of the client's desired loan program. Pull credit, analyze credit, and compare for
+meta	experience	accuracy with the mortgage borrower's statements. Correct inaccuracies and determine the correct loan
+meta	experience	options for the borrower based upon the applicant's present situation, future plans, and preferred loan
+meta	experience	product. Provide guidance and information relevant to the risks and benefits of each program the applicant is qualified for; effectively explain and communicate the terms of each product and ensure all
+meta	experience	documents necessary are signed by the borrower. Gather all initial documentation required based upon the applicant's selected loan program and the 1003 including all disclosure requirements. Provide the
+meta	experience	loan package to the loan processor for review, stacking, and pre-submission audit. Work with the loan
+meta	experience	processor to provide any letters of explanation, or additional documentation as necessary and required by underwriting to clear all conditions and close each loan. Maintain a working file for the office as required for compliance. A net loan officer will likely either work from home or in the field.
+meta	experience	Account Executive
+meta	experience	Republican Newspaper
+meta	experience	January 2002 to February 2003
+meta	experience	Springfield, Ma
+meta	experience	Sell or solicit advertising, including graphic art, advertising space in publications.

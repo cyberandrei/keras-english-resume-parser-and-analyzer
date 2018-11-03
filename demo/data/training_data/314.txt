@@ -1,0 +1,39 @@
+content	education	Bachelors of Arts
+content	education	Punjab University
+meta	experience	Sales Specialist Appliances
+meta	experience	Sears - Wilmington, DE
+meta	experience	May 2016 to October 2018
+meta	experience	sales of appliances and service contract.
+meta	experience	Data Integrity Specialist
+meta	experience	Kmart Corp - Jacksonville, NC
+meta	experience	July 2014 to April 2016
+meta	experience	Responsibilities
+meta	experience	verification and reconciliation of inventory data.
+meta	experience	Import Billing Coordinator
+meta	experience	DB Schenker Logistics - Philadelphia, PA
+meta	experience	December 2012 to June 2013
+meta	experience	Worked for a multi-national logistic supply chain company.
+meta	experience	• Billed all related global charge to inter-office braches around the world and to corporate accounts.
+meta	experience	• Issued credits and solved any discrepancies.
+meta	experience	• Monthly billing reports matched with SAP.
+meta	experience	Import Manager
+meta	experience	Unisource Buying House LLC - Philadelphia, PA
+meta	experience	April 2006 to December 2012
+meta	experience	Domestic and global sourcing for consumer's products.
+meta	experience	• Managing complete import process.
+meta	experience	• Opened letter of credits, payments via LC, terms and wire transfers.
+meta	experience	• Managed A/R and A/P activities.
+meta	experience	• Handled accounts, reports, and customer service.
+meta	experience	• Performed bank reconciliation and the month end closing.
+meta	experience	Product Manager/Bidding
+meta	experience	ATD American Corporation
+meta	experience	June 2003 to March 2006
+meta	experience	Worked as accounts payable for freight invoices for one year.
+meta	experience	• Managed preparation of RFQs.
+meta	experience	• Prepared for federal, state and local bids.
+meta	experience	• Analyzed completed bids.
+meta	experience	• Selected qualified suppliers.
+meta	experience	• Managed suppliers for product specifications and requirements.
+meta	experience	• Performed Purchase Price Variance (PPV) analysis, trends, and OTD initiatives
+meta	experience	• Negotiated prices and terms
+meta	experience	• Accomplished customer service and logistic duties for movements of freight goods into warehouses.

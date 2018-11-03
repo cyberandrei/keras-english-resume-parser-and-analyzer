@@ -1,0 +1,10 @@
+content	education	Diploma in Generals
+content	education	Stevens High School Rapid City, SD
+content	education	August 2012 to May 2016
+meta	experience	Sales Associate
+meta	experience	Arizona Car Sales - Mesa, AZ
+meta	experience	October 2017 to Present
+meta	experience	Sales Consultant
+meta	experience	Showcase Honda - Phoenix, AZ
+meta	experience	March 2017 to September 2017
+meta	experience	Great starting job in sales, enjoyed and progressed.

@@ -1,0 +1,11 @@
+content	education	High School Diploma
+content	education	WJ Keenan High School
+content	education	2009 to 2013
+meta	experience	Sales associate
+meta	experience	Walmart
+meta	experience	August 2014 to Present
+meta	experience	Unload trucks, stock freight on the sales floor, zone merchandise, assist customers, assist other associates in other departments, maintain clean work area, use heavy machinery such as fork-lift and walkie-stacker
+meta	experience	Server
+meta	experience	Waffle House
+meta	experience	May 2014 to June 2014
+meta	experience	Take orders, serve customers, wash dishes and bus tables

@@ -1,0 +1,38 @@
+content	education	DIPLOMA
+content	education	MIDDLETOWN HIGH SCHOOL
+content	education	Degree in Human resources
+content	education	Pierce College Philadelphia, PA
+meta	experience	Sales Representative
+meta	experience	28th street auto sales - Wilmington, DE
+meta	experience	September 2018 to Present
+meta	experience	Office attendant
+meta	experience	• create inventory
+meta	experience	• File and document important information
+meta	experience	• write up sales
+meta	experience	• Run all social media accounts
+meta	experience	• Data entry
+meta	experience	sales
+meta	experience	• Cold call for collections
+meta	experience	• Sell cars to walk in customers
+meta	experience	Sales Representative
+meta	experience	Raymour & Flanigan - Christiana, DE
+meta	experience	April 2018 to September 2018
+meta	experience	To greet and assist customers, consult on how to properly design a room while creating a lasting relationship with a customer in a professional setting.
+meta	experience	• Ranked in the top 25 of two sales preformance categories within four months of employment
+meta	experience	COMPUTER SERVICE TECHNICIAN
+meta	experience	CAPITAL ONE
+meta	experience	July 2017 to January 2018
+meta	experience	• My responsibilities are to find, track, process and trouble shoot problems.
+meta	experience	• Completed Capital One Internal Customer Services training.
+meta	experience	• Assisted in Major Software migration for all customer facing Associates.
+meta	experience	Asssistant Manager
+meta	experience	Sears - Wilmington, DE
+meta	experience	March 2015 to April 2017
+meta	experience	• Monitor inventory
+meta	experience	• Motivate employees
+meta	experience	•  Set up displays
+meta	experience	• Resolve associate conflicts
+meta	experience	•  Cashier Duties
+meta	experience	•  Accept merchandise
+meta	experience	• Set up new Promotions
+meta	experience	• Inform associates on new promotions.

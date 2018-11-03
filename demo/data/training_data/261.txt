@@ -1,0 +1,5 @@
+content	education	Some High School
+meta	experience	Retail Sales
+meta	experience	Reboot Computer Sales & Service - Bristol, CT
+meta	experience	August 2015 
+meta	experience	Worked as an intern with sales. Assisted and independently fixed laptops and desktop computers, troubleshooted issues. Replaced electronic components like screens, hard drives and battery.

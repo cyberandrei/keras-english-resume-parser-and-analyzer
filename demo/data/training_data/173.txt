@@ -1,0 +1,61 @@
+content	education	BA in Business Administration
+content	education	California Coast University Santa Ana, CA
+content	education	2014 to 2018
+content	education	High School Diploma in General
+content	education	Rio Americano High School Sacramento, CA
+content	education	2002 to 2006
+meta	experience	Wine and Spirits Merchandiser
+meta	experience	Gallo Sales Company - Sacramento, CA
+meta	experience	July 2017 to Present
+meta	experience	Responsibilities
+meta	experience	-Perform Professional Sales Calls at Grocery and Chain Stores
+meta	experience	-Help Identify Opportunities for Cross Merchandising Products in Accounts
+meta	experience	-Maintain Products on Shelves and in the Cold Case to Company Standards
+meta	experience	-Maintain Proper Inventory Levels in All Accounts
+meta	experience	-Maintain Positive Brand Image in All Accounts
+meta	experience	-Assist with Special Projects like Store Resets and Account Surveys
+meta	experience	Meat Clerk
+meta	experience	Bel Air Supermarkets - Sacramento, CA
+meta	experience	October 2016 to June 2017
+meta	experience	Responsibilities
+meta	experience	-Direct Customer Interaction
+meta	experience	-Direct Interaction with Vendors to Ensure Optimum Product Placement to Maximize Sales
+meta	experience	-Write Full Orders 3 Days a Week to Keep the Department Fully Stocked all Week
+meta	experience	-Keep Extensive Inventory of Back-Stock to Ensure Proper Inventory Numbers to Reduce Loss
+meta	experience	-Properly Rotate Product on Shelves in Accordance with State Health Codes
+meta	experience	Bakery Clerk
+meta	experience	Bel Air Supermarkets - Sacramento, CA
+meta	experience	January 2016 to June 2017
+meta	experience	Responsibilities
+meta	experience	-Direct Customer Interaction
+meta	experience	-Started Shift at 3 AM to Ensure All Products Were Baked and on the Shelves Before Store Opening
+meta	experience	-Properly Rotate Product to Reduce Loss
+meta	experience	Produce Clerk
+meta	experience	Bel Air Supermarkets - Sacramento, CA
+meta	experience	May 2015 to June 2017
+meta	experience	Responsibilities
+meta	experience	-Direct Customer Interaction
+meta	experience	-Properly Stock and Store Produce According to State Health Codes
+meta	experience	-Rotate Products on Shelves to Reduce Loss
+meta	experience	Dairy Clerk
+meta	experience	Bel Air Supermarket - Sacramento, CA
+meta	experience	November 2006 to June 2017
+meta	experience	Responsibilities
+meta	experience	-Organize and restock product on store shelves
+meta	experience	-Keep extensive inventory so correct orders can be placed
+meta	experience	-Make sure stock on shelves is properly rotated in accordance with State       health codes
+meta	experience	Deli Clerk
+meta	experience	Bel Air Supermarket - Sacramento, CA
+meta	experience	July 2006 to June 2017
+meta	experience	Responsibilities
+meta	experience	-Direct customer interaction
+meta	experience	-Write and send product orders to ensure proper inventory
+meta	experience	-Cook and maintain food at correct temperatures in accordance with State health codes
+meta	experience	-Maintain professional logs
+meta	experience	-Work as a team to ensure customers are helped and all tasks are completed
+meta	experience	Courtesy Clerk / Cashier
+meta	experience	Bel Air Supermarkets - Sacramento, CA
+meta	experience	November 2005 to June 2017
+meta	experience	-Direct customer Interaction
+meta	experience	-Complete, track, and organize Transactions
+meta	experience	-Work in a small team to ensure exemplary customer service experience

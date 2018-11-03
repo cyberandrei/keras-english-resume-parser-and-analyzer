@@ -1,0 +1,22 @@
+content	education	High school or equivalent
+meta	experience	Infant Teacher
+meta	experience	Premier Preschool
+meta	experience	November 2017 to Present
+meta	experience	conduct focused observations of children, develop action plans, carry out activities on a daily basis and evaluate the effectiveness of child development activities, ensure the safety and well-being of the children,
+meta	experience	maintain regular communication with parents
+meta	experience	This resume is made with Free Resume App
+meta	experience	Dietary Aide
+meta	experience	Brookshire Healthcare Center
+meta	experience	September 2016 to March 2017
+meta	experience	works along with the dietary manager to prepare meals. She also assists in clean up, kitchen maintenance and setting up and taking down the dining areas. Other job duties include delivering food to residents' rooms,
+meta	experience	preparing and serving snacks and taking inventory of food and kitchen supplies.
+meta	experience	Infant Teacher
+meta	experience	YMCA
+meta	experience	March 2016 to September 2016
+meta	experience	conduct focused observations of children, develop action plans, carry out activities on a daily basis and evaluate the effectiveness of child development activities, ensure the safety and well-being of the children,
+meta	experience	maintain regular communication with parents
+meta	experience	People Greeter
+meta	experience	Walmart
+meta	experience	April 2015 to March 2016
+meta	experience	meet customers at store entrances. Greeters at Walmart may assist customers with cart selection, offer
+meta	experience	coupons, or simply welcome people to the store. Walmart greeters may direct customers to specific areas of the store or note a return a customer brings back.

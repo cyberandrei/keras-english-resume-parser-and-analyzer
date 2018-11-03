@@ -1,0 +1,30 @@
+content	education	HVAC Certified
+content	education	Lincoln Technical Institute
+content	education	1997 to 1998
+content	education	Burling County Community College
+content	education	1996 to 1997
+meta	experience	Director of Sales
+meta	experience	Recovery Solutions Group - Milford, DE
+meta	experience	April 2018 to Present
+meta	experience	• Primary sales lead required to meet daily and monthly metrics while managing a team for employees.
+meta	experience	•  Researched potential clients.
+meta	experience	•  Maintained and nurtured client relationships.
+meta	experience	• Trained and mentored team members on core sales processes.
+meta	experience	• Proficient in the use of Microsoft Office tools and multiple client-specific applications.
+meta	experience	Branch Manager
+meta	experience	Defenders, Inc - Cherry Hill, NJ
+meta	experience	March 2013 to March 2018
+meta	experience	•  Began as sales technician and quickly achieved top sales position which lead to "lead technician" promotion followed by branch manager promotion.
+meta	experience	•  Maintained Top Sales numbers in branch for 4 years.
+meta	experience	•  Provided superior customer service.
+meta	experience	•  Assisted customers achieve home automation while offering a competitive price in the market.
+meta	experience	• Able to trouble shoot and resolve technical issues remotely and on-site.
+meta	experience	Maverick Home Improvements
+meta	experience	Lead Foreman
+meta	experience	N Coles Ave - Maple Shade, NJ
+meta	experience	June 2012 to November 2013
+meta	experience	• Provided sales assistance and estimates.
+meta	experience	• Experienced installation of doors, windows, siding, roofing, and flooring.
+meta	experience	• Experienced with bathroom and kitchen overhauls and remodels.
+meta	experience	• Ability to create and maintain work schedule and crew for job completions.
+meta	experience	•

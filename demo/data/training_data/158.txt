@@ -1,0 +1,32 @@
+content	education	San Francisco State
+meta	experience	Sales
+meta	experience	S&G Carpet and More
+meta	experience	January 2018 to October 2018
+meta	experience	• Flooring Consultant Sales
+meta	experience	• Customer Service, Creating Proposals, Merchandising
+meta	experience	• Data Entry, Scanning, Answering Phones
+meta	experience	Server
+meta	experience	The Party Staff, Inc - San Francisco, CA
+meta	experience	September 2016 to November 2017
+meta	experience	• Customer Service/ Hosting/ Serving
+meta	experience	• Set up/ Breakdown
+meta	experience	• Busser
+meta	experience	Logistics Specialist
+meta	experience	Men's Wearhouse
+meta	experience	June 2001 to April 2016
+meta	experience	• Review and approve international bulk shipments and shipping documents
+meta	experience	• Send approved documents to US Customs Brokerage Team
+meta	experience	• Review and approve freight invoices
+meta	experience	• Answering Phones/ Greeting Vendors/ Client Relations
+meta	experience	• Data Entry, Scanning, Filing
+meta	experience	• Shipping, Tracking
+meta	experience	• Maintain Email Inbox
+meta	experience	• Strong customer service skills/ presentation skills
+meta	experience	• Sales
+meta	experience	Store Manager
+meta	experience	October 2000 to May 2001
+meta	experience	• Managed 3 of the stores within the district
+meta	experience	• Provided overall team leadership
+meta	experience	• Improved store merchandising to meet the company's vision
+meta	experience	• Surpassed monthly sales goals
+meta	experience	• Conducted sales training and support

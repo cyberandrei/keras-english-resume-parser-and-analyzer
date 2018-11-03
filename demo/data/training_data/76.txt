@@ -1,0 +1,40 @@
+content	education	Business Education, Marketing
+content	education	California State University Fullerton, CA
+content	education	August 1983 to May 1986
+meta	experience	Sales Manager
+meta	experience	Killer Auto Sales - Phoenix, AZ
+meta	experience	March 2017 to August 2018
+meta	experience	Managed all used cars present in dealership.
+meta	experience	Developed forecasts and objectives for various sales and expenses and prepared monthly and annual reports for same.
+meta	experience	Monitored vehicle inventory and updated it regularly.
+meta	experience	Updated all used sales vehicle sales persons on all advertising campaigns and sales in facility.
+meta	experience	Reviewed and performed appraisals on all used vehicle in facility.
+meta	experience	Trained sales staff in selling of used cars.
+meta	experience	Coordinated with Sales Manager and administered all management of inventory.
+meta	experience	Recorded customer data on a monthly, quarterly and yearly basis.
+meta	experience	Internet Manager
+meta	experience	 - Phoenix, AZ
+meta	experience	February 2015 to March 2017
+meta	experience	As the Internet Manager my main responsibility was to facilitate the sales of automobiles to prospects who contacted the dealer via the Internet. To do so, I maintained the dealer website, promoted the dealership online, managed the export of inventory to various digital marketplaces, and directed a team of 5-6 salespeople. new workstation setup, troubleshooting and repair, networking, malicious software removal, network phone setup, graphic design and training employees to effectively use the dealer's CRM software.
+meta	experience	Internet Sales, and Sales Manager
+meta	experience	Luxury Motorsports - Phoenix, AZ
+meta	experience	February 2012 to January 2015
+meta	experience	85022
+meta	experience	Automotive Sales and Repair Services
+meta	experience	Greet customers upon entry to the dealership to aid them in all inquiries
+meta	experience	Determine the needs and desires of the customer to show them viable options
+meta	experience	Show and explain all vehicle features and functions Go over financial aspect of purchasing a car and financing options available
+meta	experience	Perform credit check for potential customers
+meta	experience	Draft all necessary paperwork for the purchase of a new car
+meta	experience	Internet Manager
+meta	experience	Certified Benz&Beemer - Scottsdale, AZ
+meta	experience	January 2010 to February 2012
+meta	experience	85257
+meta	experience	Working Leads and phone ups to generate appointments. Worked closely with management to sell vehicle and maintain a high gross average. Cultivate relationships with new customers to achieve sales objectives and provide insight into new products, features, and options.
+meta	experience	Strategically negotiate with customers to close on deals and increase sales; personally, work deals, interest rates, leases, and calculate financial requirements prior to obtaining approval from dealership manager and F&I manager.
+meta	experience	Qualify and follow up on warm Internet leads regarding new and pre-owned vehicle availability, price, and options.
+meta	experience	Maintain contact with customers via email, phone calls, and regular updates on promotional offers
+meta	experience	ASM
+meta	experience	April 2007 - December 2009
+meta	experience	Superior 1 | Omaha, Nebraska
+meta	experience	Maintaining ongoing communications with current and previous customers. Approved customer financing options and assigned trade-in value to vehicles. Attended periodic sales meetings and met weekly with sales staff. Determined cost-effective ways to increase sales. Ensured that dealership website was kept up-to-date. Courteously addressed customer service issues.

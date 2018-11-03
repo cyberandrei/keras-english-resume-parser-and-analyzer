@@ -1,0 +1,13 @@
+content	education	High school or equivalent
+content	education	Huntsville High School
+meta	experience	Sales Associate
+meta	experience	Belk - Huntsville, AL
+meta	experience	Sales associate, cashier, stocker.
+meta	experience	Cashier
+meta	experience	Walmart - Huntsville, AL
+meta	experience	February 2017 to December 2018
+meta	experience	Cashier
+meta	experience	Operator
+meta	experience	Polaris Industries - Huntsville, AL
+meta	experience	May 2017 to October 2018
+meta	experience	Operating

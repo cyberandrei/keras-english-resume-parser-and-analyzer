@@ -1,0 +1,35 @@
+content	education	BACHELOR OF SCIENCE in Communications and Public Relations
+content	education	Montana State University Billings, MT
+content	education	1997 to 1998
+content	education	ASSOCIATES in BUSINESS ADMINISTRATION
+content	education	Macon State College Macon, GA
+meta	experience	LICENSED SALES  PRODUCER
+meta	experience	Allstate & State Farm
+meta	experience	December 2016 to Present
+meta	experience	Property and Casualty Sales and Service
+meta	experience	Life and Health Sales and Service
+meta	experience	NON PROFIT BUSINESS ADMINISTRATION
+meta	experience	Arkansas Children's Hospital Foundation and Hospital - Conway, AR
+meta	experience	November 2015 to December 2016
+meta	experience	Temporary Fundraising Assistant & Patient Information Assistant
+meta	experience	PROPERTY AND CASUALTY CLAIMS ASSISTANT
+meta	experience	CUSTARD INSURANCE & SPEARS PROPERTY AND CASUALTY CLAIMS - Little Rock, AR
+meta	experience	2006 to 2015
+meta	experience	11/06 - 12/08 - Custard Insurance Adjusters
+meta	experience	12/08 - 4/12 - Spears Property and Casualty Claims
+meta	experience	VOLUNTEER AND INTERN COORDINATOR
+meta	experience	Arkansas Educational Television Network Foundation - Conway, AR
+meta	experience	April 2004 to November 2006
+meta	experience	Coordinated State Wide Volunteer and Intern Program
+meta	experience	Event Assistance
+meta	experience	Grant Writing Assistance.  (Awarded $ 10,000 Volunteer Grant, Co-Wrote and awarded $ 75,000 and $ 25,000 Production Grants)
+meta	experience	NATIONAL AND COMMUNITY SERVICE VOLUNTEER/LEADER
+meta	experience	Volunteer in Service to America Domestic PeaceCorps - National - GA and MT
+meta	experience	1997 to 1998
+meta	experience	and 2003 - 2005
+meta	experience	Over 6000 National and Community Service Hours building sustainability with non-profits advocating against poverty and poverty related issues, Building Communities Against Violence and Mentoring vulnerable youth.
+meta	experience	NON PROFIT OFFICE MANAGER
+meta	experience	Covenant Care Services - Macon, GA
+meta	experience	1994 to 1997
+meta	experience	1994 -1995 - Office Manager, Birth Coach, Notary
+meta	experience	1996 -1997 - Volunteer Court Advocate, Life Coach and Sheltering Family  for CCS client and her children.

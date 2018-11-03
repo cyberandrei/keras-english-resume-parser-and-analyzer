@@ -1,0 +1,9 @@
+content	education	business
+content	education	Blinn College
+content	education	April 1970 to September 1970
+content	education	High school diplomaHouston, TX
+content	education	September 1965 to May 1969
+meta	experience	Sales Associate
+meta	experience	Home Depot - Huntsville, TX
+meta	experience	February 1990 to October 2018
+meta	experience	sales aossociate in plumbing

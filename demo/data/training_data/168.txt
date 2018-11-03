@@ -1,0 +1,29 @@
+content	education	Nursing Assistant Certificate
+content	education	Fremont Adult School Fremont, CA
+content	education	2010 to 2010
+content	education	BA in teaching in teaching
+content	education	teacher institute Baghdad, IQ
+content	education	1984 to 1989
+meta	experience	Sales
+meta	experience	Erwin Pearl Jewelry
+meta	experience	December 2017 to Present
+meta	experience	Provide excellent customer service.
+meta	experience	Sales and meet each day's goals and budgets.
+meta	experience	Provide on-phone customer services.
+meta	experience	Business Owner
+meta	experience	Orange Tree Frozen Yogurt - Cupertino, CA
+meta	experience	March 2013 to 2015
+meta	experience	Prepared cash drawer and petty cash as required.
+meta	experience	Maintained high standards of quality control, cleanliness and safety.
+meta	experience	Checked stock levels and ordered supplies.
+meta	experience	Nurse Assistant
+meta	experience	Cupertino Health Care Center - Cupertino, CA
+meta	experience	October 2010 to March 2012
+meta	experience	Provided nursing and nursing related services to residents.
+meta	experience	Maintained homelike environment for the residents.
+meta	experience	Sales Associate
+meta	experience	Macy's Department Store-Oakridge Mall - San Jose, CA
+meta	experience	September 2009 to 2011
+meta	experience	Assisted customers in making selections and finalizing sales.
+meta	experience	convinced new customers to sign up for the Macy's store credit card.
+meta	experience	Handled incoming calls for a variety of sales customer service and returns issues for customers.

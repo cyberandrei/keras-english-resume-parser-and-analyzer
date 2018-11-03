@@ -1,0 +1,65 @@
+content	education	Pulaski Technical College
+content	education	January 2015 to Present
+content	education	Lyon College
+content	education	September 2014 to September 2015
+content	education	HS Diploma
+content	education	Maumelle High School
+meta	experience	Sales Representative
+meta	experience	New Star Communications - North Little Rock, AR
+meta	experience	September 2017 to Present
+meta	experience	Entry level sales experience. Commission only.
+meta	experience	100-200 per sale.
+meta	experience	Field Marketer
+meta	experience	Leaf Filter Gutter Protection - Maumelle, AR
+meta	experience	May 2017 to Present
+meta	experience	Independent Contractor
+meta	experience	May 2010 to Present
+meta	experience	Soccer Referee   ~~~~~~~~~~~
+meta	experience	• Maintain the safety of soccer games.
+meta	experience	• Enforce the rules and regulations of soccer games.
+meta	experience	Sales Team Manager
+meta	experience	Arkansas Democrat Gazette - Little Rock, AR
+meta	experience	June 2018 to October 2018
+meta	experience	I started off as a door to door sales associate and changed to a team leader in which I organized leads and routes for team memebers, provided them transportation, managed their sales reports, and continued to obtain sales for myself.
+meta	experience	Earned salary plus commission
+meta	experience	i met my quota almost every week
+meta	experience	Delivery Driver
+meta	experience	Papa John's
+meta	experience	March 2017 to September 2017
+meta	experience	Salary $6.00/hr + tips
+meta	experience	• Delivered pizza to customers in Maumelle.
+meta	experience	Cook
+meta	experience	Sonic Drive-In
+meta	experience	January 2016 to March 2016
+meta	experience	Salary $9.25/hr
+meta	experience	• Cooked food for customers.
+meta	experience	• Performed janitorial tasks in and outside of the drive-in.
+meta	experience	Grounds Crew
+meta	experience	City of Maumelle, Parks and Rec
+meta	experience	May 2015 to June 2015
+meta	experience	Salary $8.00/hr
+meta	experience	• Maintained appearance of Maumelle Parks. May 2016 - July 2016
+meta	experience	• Assisted in setting up for city events hosted by the parks. Salary $8.25/hr
+meta	experience	• Maintained functional operations of Maumelle Parks.
+meta	experience	Office Assistant
+meta	experience	Lyon College
+meta	experience	August 2014 to May 2015
+meta	experience	Salary $8.00/hr
+meta	experience	• Assisted in the Lyon College Athletic Office with filing and data entry.
+meta	experience	Rec Aide
+meta	experience	City of Maumelle - Maumelle, AR
+meta	experience	August 2012 to July 2014
+meta	experience	August 2012 - July 2014
+meta	experience	Recreational Aid Salary $7.50/hr
+meta	experience	• Ran over desk at the Jess Odom community center. June 2015  - July 2015
+meta	experience	• Ran over membership sales, maintenance, and security. Salary $7.75/hr
+meta	experience	• Assisted in city events hosted by the community center. March 2016 - May 2016
+meta	experience	Salary $8.00/hr
+meta	experience	July 2016 - March 2017
+meta	experience	Salary $8.00/hr
+meta	experience	Aquatic Staff
+meta	experience	City of Maumelle, Parks and Rec
+meta	experience	May 2012 to August 2012
+meta	experience	Salary $7.25/hr
+meta	experience	• Maintained the safety of the patrons at the pool slides.
+meta	experience	• Ran over concession stand operations.

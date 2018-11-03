@@ -1,0 +1,20 @@
+content	education	High School Diploma
+content	education	Decatur High School Decatur, AL
+content	education	May 2012
+meta	experience	Cashier
+meta	experience	Walmart - Madison, AL
+meta	experience	2017 to Present
+meta	experience	DUTIES: Customer service, scanning merchandise, heavy lifting, bending, standing 8+ hours
+meta	experience	Cash handling, cashing payroll/personal checks, money transfers through money gram and walmart2walmart, loading\unloading prepaid debit cards, cleaning, organizing, zoning,
+meta	experience	Customer Service Representative
+meta	experience	TITLEMAX - Decatur, AL
+meta	experience	2016 to 2017
+meta	experience	Duties: Customer service, conflict resolution, Clerical work (filling, labeling, printing, copying, faxing etc) appraising vehicles, vehicle inventory, processing credit applications, printing checks, handling bank deposits, business to business marketing, planning marketing and fundraising events as well as customer appreciation events, cleaning, collection calls, marketing calls.
+meta	experience	Customer Service Representative
+meta	experience	DirecTV/ATT - Huntsville, AL
+meta	experience	2014 to 2016
+meta	experience	Duties: Inbound calls, billing, technical support, sales, meeting sales goals, multitasking through different computer applications, meeting daily goals.
+meta	experience	Home Health Aide
+meta	experience	Robins Nest - Decatur, AL
+meta	experience	2012 to 2014
+meta	experience	Duties: Providing direct care to patients with intellectual disabilities, monitoring behaviors, documenting, giving medication, transporting, assisting with grooming, hygiene duties, cooking, cleaning, bed checks.

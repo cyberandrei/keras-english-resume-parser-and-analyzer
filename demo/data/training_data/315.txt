@@ -1,0 +1,10 @@
+content	education	07/2004  Diploma ​​ in Major: Agricultural Science 1
+content	education	Jose Marti Technical High School, Saint Catherine, MS
+content	education	2000 to 2004
+meta	experience	Merchandiser/Sales
+meta	experience	August 2010 to Present
+meta	experience	• Works in a retail setting to assure that a Home Depot’s products are properly presented to customers to maximize product sales. 
+meta	experience	• Design displays in a store, clean product and shelves 
+meta	experience	• Report inventory levels to the Management.
+meta	experience	• Provide information to store personnel on new products
+meta	experience	• Set shelve (bay) for new products.

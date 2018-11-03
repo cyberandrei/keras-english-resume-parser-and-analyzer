@@ -1,0 +1,97 @@
+content	education	Master of Business Administration in Marketing
+content	education	University of Denver Denver, CO
+content	education	Bachelor of Arts in Accounting
+content	education	Rutgers University Camden, NJ
+meta	experience	ACOSTA SALES & MARKETING
+meta	experience	Natural Specialty Sales Division - Budd Lake, NJ
+meta	experience	2017 to Present
+meta	experience	that supports retailers and suppliers for natural and organic products.
+meta	experience	Senior Business Manager
+meta	experience	Natural Specialty Sales Division
+meta	experience	2017 to Present
+meta	experience	Manage the merchandising, sales, distribution, product mix,
+meta	experience	budgeting and planning for dietary supplement and natural body care clients. Communicate and Implement new
+meta	experience	item launches and placement at both distributors and retailers. Work with a group of 15 national clients to review brand strategy and market position to determine promotional plans and trade spending budgets.
+meta	experience	Measure and present sales performance to clients and management as part of annual and quarterly business
+meta	experience	review process. Participate in cross-functional teams with all areas of the organization to grow sales and exceed client needs.
+meta	experience	NATURAL MARKETS FOOD GROUP - Irvington, NY
+meta	experience	2014 to 2017
+meta	experience	Mrs. Green's Neighborhood Markets natural grocery retailer with 17 stores in 4 states.
+meta	experience	Director of Natural Living & Grocery
+meta	experience	NATURAL MARKETS FOOD GROUP
+meta	experience	2014 to 2017
+meta	experience	Managed all pricing, promotions, product assortment and marketing integration for the following categories: vitamins, supplements, body care, sports nutrition, baby,
+meta	experience	pet, cleaning and general merchandise. Responsible for all aspects of merchandising plan execution from category reviews through product and program launches along with related associate training and store level
+meta	experience	implementation. Determined and developed SOPs that identify department specific actions to support corporate
+meta	experience	budget and profit goals for shrink and inventory reduction. Mentored associates on operational "Best Practices".
+meta	experience	Major Contributions:
+meta	experience	• Produced double digit increases in same store sales and total department sales vs previous year.
+meta	experience	• Created staff training sessions to educate on new items, selling techniques and merchandising.
+meta	experience	• Developed our private label brand and contracted with suppliers to manufacture products.
+meta	experience	• Implemented "One More Item In the Basket" programs to increase shopping trip transactions through cross merchandising, juice bar and front-end placement initiative's.
+meta	experience	National Group Manager Supplier Relationship Management
+meta	experience	UNITED NATURAL FOODS INC
+meta	experience	2012 to 2014
+meta	experience	Motivated and provided
+meta	experience	guidance to a team of associates to maximize the productivity of our product assortment, support category
+meta	experience	management, increase margin dollars and optimize inventory investment. Negotiated new item launch
+meta	experience	programs, legal agreements and discount structures with our supplier partners to benefit our retail customers.
+meta	experience	Resume
+meta	experience	Major Contributions:
+meta	experience	• Exceeded group budget goals for revenue by 10% and generated over 2 million dollars.
+meta	experience	• Led national corporate initiative to improve DC capacity and meet a 5% reduction in occupied slots.
+meta	experience	• Provided category management and subject matter expertise for several major retail partners.
+meta	experience	• Led cross-functional new store on-boarding team that included sales, retail category management,
+meta	experience	accounting and inventory purchasing and replenishment teams.
+meta	experience	UNITED NATURAL FOODS INC - Aurora, CO
+meta	experience	2011 to 2014
+meta	experience	Independent national distributor of natural, organic, specialty and non-foods products for retail and food service.
+meta	experience	Supplier Relationship Manager
+meta	experience	UNITED NATURAL FOODS INC
+meta	experience	2011 to 2012
+meta	experience	Managed suppliers, product selection and assortment.
+meta	experience	Monitored internal, channel and consumer trend data to increase market opportunities and company revenue.
+meta	experience	GLOBAL MARKET DEVELOPMENT CENTER - Colorado Springs, CO
+meta	experience	2008 to 2011
+meta	experience	Non-profit retail trade association serving 800 grocery, drug and general merchandise retail members.
+meta	experience	Director of Education and Insights
+meta	experience	GLOBAL MARKET DEVELOPMENT CENTER
+meta	experience	2008 to 2011
+meta	experience	Managed efforts to provide members with education and insights including education on consumer buying behaviors, industry advances, industry issues, opportunities to
+meta	experience	increase sales and merchandising tactics as well as employee education. Contributed to the management of
+meta	experience	Educational Leadership Council. Managed contractors such as graphic artists, printers, market researchers and member sponsors to deliver approved projects/work to vendors within time-line and budget.
+meta	experience	Director of Holistic Health Department
+meta	experience	WILD OATS MARKETS INC
+meta	experience	2007 to 2008
+meta	experience	Managed daily functions of department including over
+meta	experience	$300M in category sales, $1.5 M in co-op advertising sales, category managers and department support team
+meta	experience	totaling 15 employees. Supervised category development, buyers and supply chain logistics for over 100 stores across 3 formats and managed in-store merchandising, monthly promotional planning and programs, category
+meta	experience	resets and category reviews, and the set up of new stores. Led the development of private label and Signature
+meta	experience	Consumer Programs including: Cold & Flu and About & About, Anti-Aging and Condition Specific Brochures.
+meta	experience	Major Contributions:
+meta	experience	• Achieved 10% department sales growth and exceeded budget for: co-op revenue and gross margin.
+meta	experience	• Increased department website presence with web content, promotional programs and vendor resources.
+meta	experience	• Awarded Bound for Excellence Award.
+meta	experience	• Managed department back door receiving initiative so products could be electronically received, priced and added to inventory.
+meta	experience	• Developed one-of-a-kind natural sports nutrition set to meet consumer needs for artificial free products.
+meta	experience	WILD OATS MARKETS INC - Boulder, CO
+meta	experience	2003 to 2008
+meta	experience	Large natural retail grocery store with 13K employees and 118 stores nationally.
+meta	experience	National Category Manager
+meta	experience	WILD OATS MARKETS INC
+meta	experience	2004 to 2007
+meta	experience	Managed 45 categories and sub- categories in Holistic Health Department.
+meta	experience	National Buyer
+meta	experience	WILD OATS MARKETS INC
+meta	experience	2003 to 2004
+meta	experience	Purchased for department with over $200M in sales.
+meta	experience	NBTY, PHYSIOLOGICS DIVISION - Thornton, CO
+meta	experience	2000 to 2003
+meta	experience	Physiologics Division sells dietary supplements to doctors and pharmacies and direct to patients.
+meta	experience	Marketing Manager
+meta	experience	NBTY, PHYSIOLOGICS DIVISION
+meta	experience	2000 to 2003
+meta	experience	Managed department including a team of 8, managed customer service
+meta	experience	team, product line development, marketing, brand management and operational logistics. Analyzed industry and market to identify new opportunities, and developed products to meet identified opportunities. Supervised
+meta	experience	marketing and product development such as sales sheets, brochures, product pricing, promotional programs,
+meta	experience	discounts, catalogs, website and direct mail programs. Created the PhysioKids and PhysioPacks brands.

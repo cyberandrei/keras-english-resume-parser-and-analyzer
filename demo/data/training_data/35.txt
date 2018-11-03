@@ -1,0 +1,21 @@
+content	education	Diploma in Basic Studies
+content	education	Gardendale High School Gardendale, AL
+content	education	August 2008 to May 2011
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Cricket Wireless - Decatur, AL
+meta	experience	February 2018 to July 2018
+meta	experience	Setting up New accounts,porting numbers,tech support,and sales
+meta	experience	Sales Associate
+meta	experience	Electronic Express - Decatur, AL
+meta	experience	August 2017 to March 2018
+meta	experience	Merchandising,Customer service, financing, inventory, product knowledge, and sales
+meta	experience	Deli Associate
+meta	experience	Walmart - Decatur, AL
+meta	experience	January 2017 to July 2017
+meta	experience	Date checks,stocking,cooking, temping products, following food handling procedures, slicing and prepping fresh foods .
+meta	experience	Team Trainer
+meta	experience	Arbys - Decatur, AL
+meta	experience	June 2015 to February 2017
+meta	experience	Training all New crew members to follow Arbys policies and proper food handling procedures, cashier, backline cook,  opening/closing store.
+meta	experience	Sales Associate

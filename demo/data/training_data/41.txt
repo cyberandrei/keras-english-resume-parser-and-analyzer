@@ -1,0 +1,20 @@
+content	education	N/ASelma, AL
+content	education	Ged
+content	education	Selma High School Selma, AL
+meta	experience	Mechanic and Sales
+meta	experience	Earl Auto Accessories
+meta	experience	May 2010 to August 2018
+meta	experience	Automechanic and sales of products
+meta	experience	Delivery Driver and Sales
+meta	experience	Anita's Decorating &Gifts
+meta	experience	April 2005 to March 2010
+meta	experience	Delivery driver and Sales
+meta	experience	Machine Operator
+meta	experience	Pilliod of Alabama
+meta	experience	August 1995 to March 2000
+meta	experience	Assembly line, Production,
+meta	experience	•   Furniture Maker
+meta	experience	Candy Maker
+meta	experience	American candy factor - Huntsville, AL
+meta	experience	October 1993 to February 1995
+meta	experience	Making candy

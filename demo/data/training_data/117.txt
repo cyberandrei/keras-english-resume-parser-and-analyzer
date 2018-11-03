@@ -1,0 +1,51 @@
+content	education	Bachelor of Science in Business Administration
+content	education	Strayer University Memphis, TN
+content	education	September 2018
+content	education	USAF Security Police Academy
+content	education	1981
+content	education	Benton Senior High School
+content	education	1975 to 1978
+meta	experience	Sales Consultant
+meta	experience	McLarty Mazda VW
+meta	experience	February 2018 to Present
+meta	experience	New and Used Car Sales
+meta	experience	Assist in special finance purchases
+meta	experience	Explain benefits and features
+meta	experience	Close deals for sales consultant
+meta	experience	Maintain excellent score on customer service index
+meta	experience	Assistant Store Manager
+meta	experience	Carite of Memphis - Memphis, TN
+meta	experience	February 2017 to February 2018
+meta	experience	Hire customer experience guides (sales staff).
+meta	experience	Plan and develop short and long-term goals for the sales department and customer experience guides.
+meta	experience	Effectively communicate with the Store Leader on a weekly basis to review departmental forecasts and ensure consistency with annual projections
+meta	experience	Recommend and create improved courses of action to the Store Leader where necessary.
+meta	experience	Explain the policies and procedures to the customer experience guides and follow up with employees to ensure that these issues are understood and followed.
+meta	experience	Assist Store Leader with weekly reports on the financial condition of the dealership.
+meta	experience	Oversee the monthly financial statement to ensure it is complete, accurate and submitted on time to the management/dealership owners.
+meta	experience	Coordinate with the business/administrative office to ensure that records and analyses are correctly maintained.
+meta	experience	Create a good working relationship with lending institutions.
+meta	experience	Coordinate regular meetings with the customer experience guides
+meta	experience	Maintain an enthusiastic attitude to build positive employee attitudes and morale.
+meta	experience	Focus on any customer complaints from the sales department.
+meta	experience	Special Finance Manager
+meta	experience	North Point Mazda VW/McLarty Mazda VW - Sherwood, AR
+meta	experience	November 1997 to February 2017
+meta	experience	Arranged financing and reviewed required documents to determine approval/rejection.
+meta	experience	Tracked daily sales and generated activity and productivity reports.
+meta	experience	Verified customer information including income information and signature.
+meta	experience	Assisted sales staff in determining available financing options.
+meta	experience	Kept charge-backs at an acceptable level without sacrificing on quality.
+meta	experience	Handled vehicle demonstrations and made arrangements for test drives.
+meta	experience	Assistant Manager
+meta	experience	Safeway/Harvest Foods - Little Rock, AR
+meta	experience	1978 to 1994
+meta	experience	Improved profit and attained sales target of the supermarket
+meta	experience	Dealt with all complaints, queries, and other related customer service issues
+meta	experience	Recruited and interviewed new staff for the supermarket
+meta	experience	Oversaw receiving orders and stock control
+meta	experience	Assigned and scheduled tasks for specific employees and also followed up on the results they
+meta	experience	generated
+meta	experience	Established good rapport with existing and potential customers
+meta	experience	Collaborated with other members of staff that have good understanding about service
+meta	experience	requirements

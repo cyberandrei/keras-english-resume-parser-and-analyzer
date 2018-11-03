@@ -1,0 +1,27 @@
+content	education	Associate
+content	education	Pasadena City College
+content	education	High school or equivalent
+content	education	La Puente High School
+content	education	Psychology
+content	education	Ottawa University-Surprise Surprise, AZ
+meta	experience	Sales Consultant
+meta	experience	Toyota of Surprise - Surprise, AZ
+meta	experience	May 2018 to Present
+meta	experience	Car sales
+meta	experience	Infantryman
+meta	experience	Army National Guard - Buckeye, AZ
+meta	experience	September 2017 to Present
+meta	experience	Infantryman in leadership position to help lead team in missions
+meta	experience	Team Sports Associate
+meta	experience	Dick's Sporting Goods
+meta	experience	July 2016 to Present
+meta	experience	Security Guard
+meta	experience	PAEZ PATROL SECURITY - Covina, CA
+meta	experience	December 2016 to May 2017
+meta	experience	Graveyard at junkyard. Overseeing entire lot to ensure nobody gains entry after hours. Loss prevention.
+meta	experience	Cook/Prep
+meta	experience	Buffalo Wild Wings
+meta	experience	July 2015 to July 2016
+meta	experience	Admin Clerk
+meta	experience	United States Marines
+meta	experience	February 2012 to June 2015

@@ -1,0 +1,23 @@
+content	education	Bachelor of Arts in Mathematics Education in Mathematics Education
+content	education	Columbia College Columbia, SC
+meta	experience	Sales Analyst
+meta	experience	Vertiv - Huntsville, AL
+meta	experience	2015 to 2018
+meta	experience	* Calculate and maintain attainment summaries for sales teams' commissions in the Americas, Europe, and Asia.
+meta	experience	* Provide weekly performance reports to sales managers detailing year-to-date sales and sales opportunities.
+meta	experience	* Create quarterly PowerPoint presentations for North America sales manager detailing performance versus quota for various product groups, project forecast progression, and sales mix by customer/size.
+meta	experience	Career Highlights
+meta	experience	✓ Using Excel expertise, reduced attainment calculation time from 3 weeks to 10 days.
+meta	experience	✓ Restructured and documented processes for 50+ reports.
+meta	experience	Program Administration Specialist, US Army Corp of Engineers
+meta	experience	Vision Centric, Inc - Huntsville, AL
+meta	experience	2015 to 2015
+meta	experience	* Support USACE program managers in monitoring and managing contractor performance and execution of service orders.
+meta	experience	* Track status, metrics, and other contractual obligations in order to meet project performance requirement and prepare reports of anticipated surplus or shortfall programs.
+meta	experience	Senior Business Data Analyst
+meta	experience	EarthLink - Huntsville, AL
+meta	experience	2006 to 2015
+meta	experience	* Administer Telecom Expense Management System (TEMS) for inaccurate invoice loading and system functionality.
+meta	experience	* Conduct weekly call with vendors and Line Cost Audit/Analysis teams to discuss unresolved and recurring billing concerns.
+meta	experience	* Serve liaison between internal and external auditors for Sarbanes-Oxley (SOX) systems compliance.
+meta	experience	* Revamp and maintain team process manual.

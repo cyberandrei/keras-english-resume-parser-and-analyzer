@@ -1,0 +1,20 @@
+content	education	Delaware Technical and Community College Dover, DE
+content	education	May 2008
+meta	experience	Appointment Taker, Photographer, Sales
+meta	experience	JCP Portrait Studio - Dover, DE
+meta	experience	October 2012 to January 2013
+meta	experience	graphic design                       Dover, DE
+meta	experience	- printing press production           Appointment Taker, Photographer, Sales
+meta	experience	302-734-9870
+meta	experience	- dark room and digital photography
+meta	experience	Genesee Community College - Batavia, NY
+meta	experience	May 2011 to May 2012
+meta	experience	Cashier, Beauty Advisor
+meta	experience	BOCES, Batavia, NY - Harrington, DE
+meta	experience	2008 to 2009
+meta	experience	302-398-1200
+meta	experience	BOCES, Batavia, NY
+meta	experience	Spartanburg Regional Hospital, Mary Black Hospital
+meta	experience	June 2008 to June 2008
+meta	experience	June, 2008                       Mom 365, Feb. 2013- June, 2014
+meta	experience	Spartanburg Regional Hospital, Mary Black Hospital

@@ -1,0 +1,37 @@
+content	education	Bachelor of science
+content	education	cal State fullerton
+content	education	AA
+content	education	De Anza junior college
+meta	experience	Internet Sales Manager
+meta	experience	AUTONATION HONDA ROSEVILLE
+meta	experience	July 2018 to Present
+meta	experience	Sales, Delivery, Documents, Customer Service, Closing Sales
+meta	experience	Special Finance Manager, roseville VW
+meta	experience	December 2016 to July 2018
+meta	experience	Top sales month after month, promoted to BDM and then to Special Finance Manager. As a top performer I have been able to advance quickly.
+meta	experience	CSE III/Owner Advisor Trainee
+meta	experience	March 2018 to May 2018
+meta	experience	TESLA ROCKLIN
+meta	experience	Sales, Delivery, Documents, Customer Service, Closing Sales
+meta	experience	Sales consultant, downtown ford
+meta	experience	August 2016 to December 2016
+meta	experience	Qualifying buyers by understanding buyer's needs, building rapport, closing sales.
+meta	experience	Internet Sales manager, future ford lincoln
+meta	experience	April 2016 to July 2016
+meta	experience	Qualifying buyers by understanding buyer's needs, building rapport, closing sales.
+meta	experience	Sales Consultant
+meta	experience	ROSEVILLE VOLKSWAGEN
+meta	experience	August 2015 to April 2016
+meta	experience	Qualifying buyers by understanding buyer's needs, building rapport, closing sales.
+meta	experience	District manager in training
+meta	experience	iStorage.com
+meta	experience	June 2013 to October 2014
+meta	experience	Responsible for the hiring, training and operations for all stores in the Western United States.
+meta	experience	Hair stylist
+meta	experience	Minx salon
+meta	experience	January 2007 to May 2013
+meta	experience	hues salon
+meta	experience	Customer relations, retail, accounting, providing service for customers.
+meta	experience	finance Manager, sales Manager, HR, store manager cope & mcphetres marine
+meta	experience	January 1986 to May 2006
+meta	experience	With this family business that started in 1946 by my Grandfather, it grew to 13 Boat Dealerships in 3 states. I was fortunate enough to learn every aspect of this business through my exposure and learning. Even greater than my college education.

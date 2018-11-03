@@ -1,0 +1,7 @@
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Walgreens - Huntsville, AL
+meta	experience	• Sales
+meta	experience	• Stocking
+meta	experience	• Cashier
+meta	experience	Sales Associate

@@ -1,0 +1,22 @@
+content	education	Bachelors of Science in Education
+content	education	University of Connecticut Storrs, CT
+content	education	August 2008 to May 2013
+meta	experience	Sales Consultant
+meta	experience	Enterprise Car Sales - East Hartford, CT
+meta	experience	February 2018 to Present
+meta	experience	• Meet competitive sales goals ; sales goals: 10/month, consistently exceeded sales by 20% or more. 
+meta	experience	• Ability to market effectively to our referral sources to increase market share over our competitors ; Increased total referrals monthly by 15% or more.
+meta	experience	• Build rapport and utilize fact finding questions to learn more about customer specific needs and be able to offer them the best solution to ensure complete satisfaction. This has been noted by 20% or more of my personal sales per month being either repeat customers or previous customer referrals.
+meta	experience	• Coaching new employees in how to recognize and approach prospective customers; trained 3 employees within the last 3 months. Trained employees became went from meeting goals to exceeding goals monthly by more than 20%.
+meta	experience	Assistant Branch Manager
+meta	experience	Enterprise Truck Rental - East Granby, CT
+meta	experience	September 2014 to February 2018
+meta	experience	• Assisted in managing every aspect of a business on a branch level with the main objectives of retention, customer service, growth and profit. 
+meta	experience	• Maintained high levels of customer service and retention with our cliental as well our team, noted by a 94% or more customer satisfaction score month to month and a retention score of 100% over the last 2 years. 
+meta	experience	• A top performer on the sales matrix every month for inside and outside sales, with an average of $15,000 new business added monthly. Managed individual accounts, ensuring complete satisfaction and increasing profits at every opportunity.
+meta	experience	Administrative Assistant
+meta	experience	USI Consulting Group - Glastonbury, CT
+meta	experience	August 2013 to March 2014
+meta	experience	• Answered participant phone calls/emails for assigned clients. Maintained data to allow for calculation of benefits, determination of vesting and other eligibilities, and grouping of participants by status type. Generated internal and client specific reports, processed client requests for loans, contributions and distributions. 
+meta	experience	• Undertook financial administration work and provided financial & general administrative support, including month end reporting. 
+meta	experience	• Filed and retrieved documents and reference materials.

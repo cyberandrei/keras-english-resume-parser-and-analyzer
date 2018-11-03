@@ -1,0 +1,27 @@
+content	education	Bachelor of Science degree in Geography
+content	education	University of Central Arkansas Conway, AR
+content	education	May 2018
+content	education	High School Diploma
+content	education	Lake Hamilton High School Pearcy, AR
+content	education	2013
+meta	experience	Sales Consultant
+meta	experience	C2 POWERSPORTS - Conway, AR
+meta	experience	June 2018 to Present
+meta	experience	Conway, AR
+meta	experience	Salesmen June 2018 - Present
+meta	experience	• Achieved sales goals each month
+meta	experience	• Contributed 35 out of the 71 sales during the two-month sales competition
+meta	experience	• Generated finance contacts.
+meta	experience	Seasonal Manager
+meta	experience	SPA CITY FIREWORKS - Hot Springs, AR
+meta	experience	May 2012 to Present
+meta	experience	• Managed daily operations and employees of 3 locations
+meta	experience	• Generated an increase in yearly recurring costumers
+meta	experience	• Trained employees on sales tactics and daily duties
+meta	experience	• Increased total sales the first year by 40% at one location
+meta	experience	• Produced the highest yearly sales numbers at one location
+meta	experience	• Ranked in the top 2 managers for total sales revenue each year
+meta	experience	NABHOLZ CONSTRUCTION - Conway, AR
+meta	experience	May 2017 to September 2017
+meta	experience	• Assisted skilled workers with construction projects in all phases of rough and finish carpentry
+meta	experience	• Cleaned all construction areas to avoid hazards.

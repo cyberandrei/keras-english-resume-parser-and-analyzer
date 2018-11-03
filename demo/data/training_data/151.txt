@@ -1,0 +1,84 @@
+content	education	Some college
+meta	experience	Sales Manager
+meta	experience	Safi Auto Sales - Sacramento, CA
+meta	experience	May 2016 to Present
+meta	experience	Taking care of sales, Financing, Technical and DMV processing
+meta	experience	Solar System Design/AutCAD Drafting Technician
+meta	experience	Energy Resoultions - Rancho Cordova, CA
+meta	experience	February 2016 to March 2016
+meta	experience	Responsibilities
+meta	experience	Electrical Calculations of the solar systems and Drafting the drawings
+meta	experience	Skills Used
+meta	experience	applying the experience got in the electrical field and using AutoCAD 2016
+meta	experience	Electrical &Telecom System Planning Engineer
+meta	experience	DCDA - Kabul
+meta	experience	February 2013 to August 2015
+meta	experience	Kabul, Afghanistan
+meta	experience	• Planning & Designing Electrical and telecom infrastructures for Kabul New city
+meta	experience	• Provided designs, scope of works and cost estimations of Electrical and Telecom Facilities
+meta	experience	Electrical Contractor
+meta	experience	Tolo e Noor- Bagram Air Base Kabul - Kabul
+meta	experience	January 2013 to March 2013
+meta	experience	Afghanistan
+meta	experience	• Installation of Power, Lighting and Smoke detection Systems of Buildings, Distribution systems to the buildings from Utility, Quality Control (QC), management of team and finance of the project
+meta	experience	Senior Electrical Design Engineer
+meta	experience	AMEC E & I - Kabul
+meta	experience	August 2009 to December 2012
+meta	experience	Kabul, Afghanistan
+meta	experience	• Quality Assurance (QA) and Quality Control (QC) of the electrical projects
+meta	experience	• Installation of buildings wiring distribution systems and power plants
+meta	experience	• Planning for new projects, Preparing Scope of work, RFP & cost estimation
+meta	experience	• Designing of low voltage and medium voltage distribution systems.
+meta	experience	• Designing diesel power plants up to 30MW and Solar power system  up to 25kW
+meta	experience	• Conducting electrical site assessment surveys and preparing reports
+meta	experience	Workshops
+meta	experience	AMEC
+meta	experience	2012 to 2012
+meta	experience	2. Alternative energy resources workshop (AMEC 2012)
+meta	experience	3. Leadership program (AMEC 2011)
+meta	experience	4. Project quality control and quality assurance training (MACTEC 2010)
+meta	experience	Pre sales and IT support
+meta	experience	Alcatel-lucent GSM - Cairo
+meta	experience	2009 to 2011
+meta	experience	and MW Trainings Cairo, Egypt, SEP 2007
+meta	experience	Electrical Contractor
+meta	experience	WGG- MOD - Kabul
+meta	experience	May 2009 to July 2009
+meta	experience	Kabul, Afghanistan
+meta	experience	• Installation of Power, Lighting and Smoke detection Systems of Buildings, Distribution systems to the buildings, Quality Control (QC), management of team and finance of  the project
+meta	experience	Pre-Sales and Bid Manager
+meta	experience	ALCTEL-LUCENT - Kabul
+meta	experience	June 2006 to April 2009
+meta	experience	Kabul, AFGHANISTAN
+meta	experience	• Business development, presenting ALU's products & Solutions portfolio to the customers
+meta	experience	• Customer's networks need identification, providing presentations for technologies from ALU point of view, establishing local subcontractor's network, managing LAN network and DHCP server and providing IT support to the team
+meta	experience	• Finding customers networks technical weaknesses and advising solutions, technical analysis of the RFPs then presenting in the decision meetings, submitting proposals and clearing client's technical queries.
+meta	experience	• Market research and updating business information in the country.
+meta	experience	O & M Engineer GSM network
+meta	experience	AWCC Kabul Afghanistan
+meta	experience	July 2002 to May 2006
+meta	experience	• Installation of Diesel Power Generators, Rectifiers, DC and AC Power systems.
+meta	experience	• Operation & Maintenance of the power systems, Trouble shooting all types of power outages, faults and taking care of the HVAC systems of the BTS and MW rooms
+meta	experience	• Managing the smooth operation of BSCs, real time analysis of all BSC alarms and analysis of traffic and quality, new sites installation, commissioning, integration and testing
+meta	experience	• Surveying and Planning of MW access and BB links, installation, Testing, Commissioning and Maintenance of micro wave SDH/PDH links.
+meta	experience	Sales Manager
+meta	experience	Samsung Electronics - Peshawar
+meta	experience	February 2001 to May 2002
+meta	experience	Peshawar, Pakistan
+meta	experience	• Marketing & selling all Samsung products, responsible of customer care services in Peshawar Region.
+meta	experience	Electronic Technician
+meta	experience	Kabul Engineering Centre - Peshawar
+meta	experience	1998 to 2000
+meta	experience	Peshawar, Pakistan
+meta	experience	•   Repairing TV, VCR & other electronic equipment.
+meta	experience	Teacher
+meta	experience	Attaqwa high school - Peshawar
+meta	experience	1997 to 1998
+meta	experience	Peshawar, Pakistan
+meta	experience	• Teaching mathematics & Physics
+meta	experience	Electrician
+meta	experience	Hayatabad - Peshawar
+meta	experience	1997 to 1997
+meta	experience	Peshawar, Pakistan
+meta	experience	• Installation of conceal & exposed conduit wiring, surface mounted race ways, & 11kV transmission lines, poles and Transformers
+meta	experience	TRAININGS AND SEMINARS ATTENDED:

@@ -1,0 +1,40 @@
+content	education	Bachelor of Science in Business Management
+content	education	Arizona State University Tempe, AZ
+content	education	May 2018
+content	education	Certificate in Arizona General Educational Curriculum
+content	education	Mesa Community College
+content	education	August 2013 to December 2015
+content	education	Associate in Business
+content	education	Mesa Community College Mesa, AZ
+content	education	December 2015
+content	education	W.P. Carey School of Business
+meta	experience	Office Clerk
+meta	experience	Interconnect - Scottsdale, AZ
+meta	experience	November 2017 to Present
+meta	experience	Full Time Women's Manager
+meta	experience	Pacific Sunwear - Mesa, AZ
+meta	experience	May 2017 to Present
+meta	experience	Engaged customers and demonstrated passion for selling Pacific Sunwear fashion, brands and trends
+meta	experience	● Managed operational duties with regard to staffing, payroll, marketing and visual merchandising while meeting all
+meta	experience	execution and compliance goals
+meta	experience	Marketing Chair
+meta	experience	Arizona Asian American Association
+meta	experience	April 2016 to Present
+meta	experience	Social media accounts team manager for 21 st  Annual Arizona Asian Festival utilizing media platforms.
+meta	experience	● Led team meetings to ensure proper analysis of progress reports.
+meta	experience	● Participated in monthly meetings to discuss future and current events related to Asian Pacific awareness.
+meta	experience	Email Representative for PayPal
+meta	experience	Education at Work - Tempe, AZ
+meta	experience	June 2016 to May 2017
+meta	experience	Utilized problem solving skills to create solutions for customers through email which resulted in a higher Net Promoter
+meta	experience	Score.
+meta	experience	● Managed time to provide a well-thought out and proactive educating email within the handle time goal of 340/354
+meta	experience	seconds.
+meta	experience	Sales Associate
+meta	experience	Tilly's - Mesa, AZ
+meta	experience	July 2013 to March 2015
+meta	experience	Offered excellent customer service by immediately responding to customer's needs and questions to ensure the creation of a strong relationship between the store and consumers resulting in a lift in customer sales and conversion rates.
+meta	experience	● Assisted with semi-annual updates by strictly following the instructions of the merchandising store manager in a time
+meta	experience	efficient manner.
+meta	experience	● Effectively managed growth and development of newly hired employees by coaching them on company guidelines,
+meta	experience	procedures and culture.

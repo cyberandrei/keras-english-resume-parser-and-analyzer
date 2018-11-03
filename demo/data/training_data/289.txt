@@ -1,0 +1,35 @@
+content	education	Manchester Community College Manchester, CT
+content	education	Westfield State University Westfield, MA
+content	education	2011 to 2012
+content	education	Granby Memorial High School
+content	education	2011
+meta	experience	Office Manager
+meta	experience	Checkered Flag Auto Sales LLC - Tariffville, CT
+meta	experience	July 2018 to Present
+meta	experience	Schedule service appointments, answer and direct phone calls, help with car sales and documentation, run errands, keep office organized
+meta	experience	Data Entry Clerk
+meta	experience	Hartford Springfield Auction Co-op - East Granby, CT
+meta	experience	December 2015 to Present
+meta	experience	Assistant Manager
+meta	experience	Dunkin Donuts - Simsbury, CT
+meta	experience	May 2016 to August 2018
+meta	experience	Manage employees, handle cash, bank deposits and paperwork/inventory.
+meta	experience	Customer Service Associate
+meta	experience	Cumberland Farms - Granby, CT
+meta	experience	May 2014 to November 2015
+meta	experience	Provided world class customer service to all patrons.  Responsible for all cash transactions and store cleanliness.
+meta	experience	Crew Member/Shift Leader/Management
+meta	experience	Dunkin Donuts - East Granby, CT
+meta	experience	March 2014 to January 2015
+meta	experience	Promoted from Crew Member to Shift Leader in May 2014
+meta	experience	Preparing beverages and foods for customers and learning about management to further my expereince. Responsibilities include watching over other employess to make sure duties and processes run smoothly and efficiently. Occasionally filing inventory and management paperwork daily to ensure all data is correct. Handling money and ensuring each customer is satisfied with the service provided.
+meta	experience	Assisting other employees
+meta	experience	Sir Speedy Printing and Marketing Services - Bloomfield, CT
+meta	experience	November 2013 to December 2013
+meta	experience	Bloomfield, CT                           November 25, 2013-December 31, 2013
+meta	experience	Document Prepper
+meta	experience	Assisting other employees to finish projects such as binding, taping, folding  and copying for incoming projects. Work including sending mail to companies and working with others to finish a job due within several days to several weeks. Dropping certain duties to complete immediate work jobs.
+meta	experience	Data Correlation Associate
+meta	experience	Staffmark Staffing
+meta	experience	May 2013 to August 2013
+meta	experience	Assessed information viability utilizing financial processes and approved bank mechanisms. Responsible for safe guarding sensitive financial information during data entry and other processes.  Cross functionally liaised with various departments in order to complete assignments.  Generated basic reports utilizing Microsoft Office.

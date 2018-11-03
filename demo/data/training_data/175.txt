@@ -1,0 +1,66 @@
+content	education	Management
+content	education	American River College Sacramento, CA
+content	education	August 2017 to August 2019
+content	education	Biotechnology
+content	education	American River College Sacramento, CA
+content	education	August 2014 to August 2018
+meta	experience	Sales Supervisor
+meta	experience	Support.com
+meta	experience	April 2011 to May 2012
+meta	experience	*    Started with company as a sales representative and quickly became one of the top sales performers.
+meta	experience	*      Joined "mentoring" group successfully training new employees on proper sales techniques ensuring their success.
+meta	experience	*      As a sales supervisor monitored sales performance of employees, call handle time and sales conversions. Sales team was constantly number one within company's weekly sales reports.
+meta	experience	Collections Representative
+meta	experience	Citibank - Albuquerque, NM
+meta	experience	November 2009 to September 2010
+meta	experience	* Received inbound calls from delinquent card members in need of assistance with overdue credit card debt.
+meta	experience	* Negotiate with card members while figuring out the best option available for the customer depending on financial situations.
+meta	experience	* Assisted card members in finding alternative interest rates and pay down options to help customers in hardship situations.
+meta	experience	Sales Associate
+meta	experience	Comcast - Albuquerque, NM
+meta	experience	April 2009 to November 2009
+meta	experience	*    Received inbound calls from new and existing customers inquiring about various products and promotions.
+meta	experience	*      Educated customers about existing products and informed them about new services.
+meta	experience	*    Sold existing customers bundles covering the range of products Comcast offered to not only keep them as customers, but to keep them satisfied knowing all products were under one low price.
+meta	experience	*    Handled retention overflow calls when cancellation calls were high. Lead my team in sales percentages and customer saves week to week.
+meta	experience	Account Manager / Retention Specialist
+meta	experience	Sprint - Albuquerque, NM
+meta	experience	April 2008 to September 2008
+meta	experience	* Received inbound calls from current Sprint PCS customers assisting with fixing billing issues, technical issues, product questions and providing reasons why they should stay with Sprint.
+meta	experience	* Retained customer who called to cancel services by explaining benefits of service. compared to competitors' offers and upsold products according to customer's usage.
+meta	experience	* Out of training I consistently exceeded set targets and surpassed payout goals.
+meta	experience	Lead Businese Sales Representative
+meta	experience	Verizon Wireless - Folsom, CA
+meta	experience	April 2007 to April 2008
+meta	experience	* Managed outside sales team straight out of working as a temp for VZW
+meta	experience	* Joined team attending outside sales events persuading government employees & B2B to join Verizon Wireless at a discount.
+meta	experience	* Increased productivity and sales numbers by coaching employees on a daily basis resulting in increasing their commission and creating the top team in Northern California.
+meta	experience	* Managed daily progress reports for Folsom team manager including a detailed breakdown of daily sales numbers and accounts called.
+meta	experience	Business Channel Telesales Representative
+meta	experience	Verizon Wireless - Folsom, CA
+meta	experience	August 2005 to July 2007
+meta	experience	*    Initiated outbound sales calls to Corporate / Employee Liable, Business Customers, and Consumer accounts.
+meta	experience	*       As a senior representative composed a training guideline to use with new representatives including writing new scripts for outbound calling.
+meta	experience	*    Sold data products at over 200% of expected daily sales numbers.
+meta	experience	*    Managed daily progress reports for Folsom team supervisor.
+meta	experience	Collections Representative
+meta	experience	NCA Financial - Sacramento, CA
+meta	experience	April 2005 to August 2005
+meta	experience	* Worked with high balance charged off MBNA credit card balances.
+meta	experience	* Made outbound calls explaining urgency and assisted customers in finding funds to take care of their outstanding debts.
+meta	experience	Customer service
+meta	experience	AT&T Wireless / Cingular Wireless - Sacramento, CA
+meta	experience	June 2003 to April 2005
+meta	experience	*      Received inbound calls from new and existing customers with billing, technical, account questions, and cancellation requests.
+meta	experience	*      Maintained a 91% save rate during AT&T/Cingular merger.
+meta	experience	*      Slowed the possibility of churn by offering upgrades on devices and calling plans on every call eligible which, in turn, would extend customers current contracts.
+meta	experience	Outbound Telesales Rep
+meta	experience	Sacramento Bee - Sacramento, CA
+meta	experience	October 2002 to June 2003
+meta	experience	Made outbound calls contacting new and former Sacramento Bee customers offering home delivery service.
+meta	experience	Outbound Telesales rep
+meta	experience	MCI Worldcom - Albuquerque, NM
+meta	experience	January 1999 to September 2002
+meta	experience	*      Called various campaigns selling residential home service, long distance service, international long distance service, wireless phone service, retention and winback.
+meta	experience	*       As a senior rep I mentored new employees assisted manager in additional training for new hires and created additional scripting for those reps that were not as successful.
+meta	experience	*      Was awarded quarterly "MCI Club Award" for being in the top 10% in sales performance in the call center eleven times in a row. Was placed in the "Hall of Fame" after my tenth award.

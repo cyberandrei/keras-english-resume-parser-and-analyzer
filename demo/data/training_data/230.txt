@@ -1,0 +1,49 @@
+content	education	Mechnical Engineering
+content	education	BOSTON UNIVERSITY Boston, MA
+meta	experience	Owner
+meta	experience	The Sales Advocate - Littleton, CO
+meta	experience	June 2016 to June 2018
+meta	experience	The Sales Advocate provides client companies guided development creating a foundation to assure
+meta	experience	sustainable growth and be properly prepared for 2020 and beyond. Specialist in
+meta	experience	Industrial Manufacturing; Wholesale Distribution and Construction, with the knowledge and experience of the long and complex sales cycles involved. Some popular services I provide include:
+meta	experience	CRM Implementation, Migration, Integration, Sales Development, utilizing Adult Learning
+meta	experience	Techniques, Individual In-The-Field Coaching, Executive/Leadership Coaching and Small Business
+meta	experience	Multi-Branch Manager
+meta	experience	Labor Ready-Spartan Staffing/Trueblue
+meta	experience	October 2010 to January 2015
+meta	experience	Hired to turnaround the Boulder branch which had over a year of negative NOI (Net Operating Income) and turned it to a positive NOI in less than 90 days. This was accomplished by building partnerships with companies as their preferred staffing provider. Trained staff on providing exceptional customer service,
+meta	experience	educated team on our strategy and its execution. Laid out actionable steps for each team member with their areas of prime responsibility. Transferred to Metro Denver, to reverse the Denver-South branch
+meta	experience	experiencing negative NOI and declining business. Harnessing long-term relationships and focusing the team on complete customer satisfaction, created positive NOI in less than 60 days. Targeted the light
+meta	experience	industrial market. Increasing sales volume, gaining more steady and repeat business. This minimized the
+meta	experience	"seasonal" lull of the construction trades. This provided for net sales over 50%, while providing a gross
+meta	experience	margin increase from 30% to 36%. Due to previous achievements, was offered becoming a multi-branch
+meta	experience	manager and a beta for corporate management, first of 7 in North America. Comparable results were
+meta	experience	achieved. With my professional development became; OSHA-10 Certified and CDOT Certified Traffic
+meta	experience	Technician.
+meta	experience	1
+meta	experience	Kenneth J. "Skip" Lang             )
+meta	experience	skipperlang69@gmail.com
+meta	experience	Account Manager
+meta	experience	United Site Services
+meta	experience	December 2009 to October 2010
+meta	experience	Hired to expand sales in the southern region of Colorado, and mainly the Colorado Springs, CO office.
+meta	experience	Sold 3 of the largest soil & erosion control projects for the COS office. Increased the customer base by 17%, utilizing long-term relationships. Became CDOT certified SWMP's Supervisor and CDOT Erosion
+meta	experience	Control Supervisor. Selected as Rocky Mountain Region Lead for Windows® Dynamics Development and
+meta	experience	Implementation.
+meta	experience	Sales and Marketing Manager
+meta	experience	Oxford Recycling Company
+meta	experience	February 2007 to December 2009
+meta	experience	Diversified concrete, asphalt & wood recycler from being principally a provider of recycled aggregate to the heavy civil and infrastructure markets. After research, found other market segments to focus on.
+meta	experience	These segments not only used the produced product, but required additional support. Revenue gains
+meta	experience	were realized when inventory was adjusted and added to, enabling increasing revenue and profit.
+meta	experience	Industries added: retaining wall contractors, landscapers and astro-turf contractors. Instituted ACT(TM)
+meta	experience	contact software and employed it as a CRM program. Created companies first 4-color brochure.
+meta	experience	Sales Manager
+meta	experience	Faris Machinery Co
+meta	experience	February 2004 to November 2006
+meta	experience	Developed, implemented and directed strategic sales plan that included management by objective
+meta	experience	techniques & target account acquisition resulting in record sales revenue and profit year for this
+meta	experience	equipment dealer. Deployed complete sales force automation, including laptop's and ACT(TM) contact
+meta	experience	software, which was operated used for customer relationship management and marketing. As a
+meta	experience	member of the senior management team worked to institute a new sales compensation program.
+meta	experience	Accountable for a sales force of 11 in 3 Branch offices in the State of Colorado.

@@ -1,0 +1,18 @@
+content	education	Associates Degree in General Studies-Business in Accounting
+content	education	Calhoun Community College Huntsville, AL
+content	education	August 2016 to May 2019
+content	education	Advanced High School Diploma
+content	education	Buckhorn High School New Market, AL
+content	education	August 2013 to May 2017
+meta	experience	Sales Associate
+meta	experience	Charlotte Russe
+meta	experience	June 2018 to Present
+meta	experience	As sales associate, I managed register and sales, worked in shoes, keyholder for fitting rooms, put out new shipment weekly and did price changes.
+meta	experience	Awards and Acknowledgements
+meta	experience	Completed CIS with knowledge in Windows, Word, PowerPoint, Outlook, and Excel
+meta	experience	Dean's List Fall 2017
+meta	experience	President's List Spring 2018
+meta	experience	Delivery Coordinator
+meta	experience	Jason's Deli
+meta	experience	May 2016 to June 2018
+meta	experience	Delivery Coordinator required delivering exceptional customer service. As Delco my duties consisted of logging and tracking deliveries, applying payments, following up with customers after the delivery, managing the delivery drivers and cashiers, as well as counting down drivers and holding them accountable for their money.

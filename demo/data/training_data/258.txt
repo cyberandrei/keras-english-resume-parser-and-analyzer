@@ -1,0 +1,27 @@
+content	education	general
+content	education	high school grad Meriden, CT
+content	education	1962 to 1966
+meta	experience	retail sales
+meta	experience	terryville chevy - Terryville, CT
+meta	experience	April 2014 to January 2016
+meta	experience	automotive sales.
+meta	experience	automotive sale
+meta	experience	gengras chevy
+meta	experience	April 2011 to March 2014
+meta	experience	automotive sales
+meta	experience	automotive sales
+meta	experience	carter chevy - Manchester, CT
+meta	experience	March 2008 to March 2011
+meta	experience	retail sales
+meta	experience	automotive sale
+meta	experience	scranton chevy - Windsor, CT
+meta	experience	January 2001 to March 2008
+meta	experience	retail sales, internet and sale manager
+meta	experience	retail sales
+meta	experience	bedding barn - Newington, CT
+meta	experience	January 1998 to January 2001
+meta	experience	store manager, training, Number one in company for 3 years...
+meta	experience	deli store owner
+meta	experience	demontes grocery - Meriden, CT
+meta	experience	February 1981 to April 1990
+meta	experience	store owner, Italian deli, catering, meat cutter...

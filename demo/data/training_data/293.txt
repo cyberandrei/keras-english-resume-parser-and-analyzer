@@ -1,0 +1,44 @@
+content	education	Bachelor's in Program
+content	education	Framingham State University Framingham, MA
+content	education	1981 to 1985
+meta	experience	Sales Manager
+meta	experience	Anthem Propane Exchange - Waterbury, CT
+meta	experience	2014 to Present
+meta	experience	Outside Sales Professional- Waterbury/New York State Territory
+meta	experience	Outside Sales Representative-Connecticut Territory
+meta	experience	Bemers Petroleum - Glastonbury, CT
+meta	experience	2012 to 2014
+meta	experience	Outside Sales Representative-Connecticut/Western MA/ New York State Territory
+meta	experience	Babfar Equipment Rental - Millis, MA
+meta	experience	2010 to 2012
+meta	experience	New England Account Manager (Outside Sales Rep)
+meta	experience	Ferrellgas/Blue Rhino - Chepachet, RI
+meta	experience	2008 to 2010
+meta	experience	Connecticut/ Rhode Island
+meta	experience	Business Owner / DBA Nomads Adventure Quest
+meta	experience	South Windsor Entertainment - South Windsor, CT
+meta	experience	2004 to 2010
+meta	experience	Sales Manager/Account Manager
+meta	experience	Ouodata
+meta	experience	1996 to 2004
+meta	experience	Manager of Software Support/Sales Team
+meta	experience	Connecticut Mutual Life
+meta	experience	1987 to 1996
+meta	experience	Investment Accountant/Financial Analyst
+meta	experience	PROFESSIONAL PERFORMANCE
+meta	experience	• Marketing and Sales - Presented company's products to medium/large businesses across the northeast, closed sales, developed leads and identified sales opportunities to expand customer range.
+meta	experience	• Business ownership - Responsible for the design, capital development and financial stability of largest indoor family entertainment center of its kind in Connecticut
+meta	experience	Selected Achievements:
+meta	experience	• Increase sales volume and amount of orders by at least 50% every year.
+meta	experience	• Constantly lead Northeast Sales Team with most new sets per month.
+meta	experience	• Increased revenue using cold calling, trade shows, referral and other various sales techniques.
+meta	experience	• Successfully employed sales management tools and marketing data for enhanced efficiency.
+meta	experience	• Responsible for cost-savings documentation to ensure accurate and timely tank sets and equipment swap-outs.
+meta	experience	• Raised over 1.5M in start-up costs for new business. Designed and general contracted 61,000 sqft. build-out.
+meta	experience	Key Contributions:
+meta	experience	• Arranged company-customer liaisons for updates on services, latest product releases, and pricing.
+meta	experience	• Made appointments with customers to review product requirements and to establish future opportunities.
+meta	experience	• Spent time daily planning meetings with customers to conduct presentations.
+meta	experience	• Organized and attended joint sales meetings - Regularly attended trade shows and conferences.
+meta	experience	• Supervised technical support and conducted product training - Attended professional training to increase expertise in new products and procedures.
+meta	experience	• Sales activities - Provided product quotes to customers as needed - Kept accounts and prepared sales records.

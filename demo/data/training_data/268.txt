@@ -1,0 +1,28 @@
+content	education	certificate in Medical
+content	education	U.S. Career Institute Fort Collins, CO
+content	education	June 2012
+content	education	Associate of Science in Legal and Medical
+content	education	Tunxis Community Technical College Farmington, CT
+content	education	June 1997
+meta	experience	Sales
+meta	experience	The Hartford Insurance - Windsor, CT
+meta	experience	May 2006 to November 2017
+meta	experience	Department for two years after becoming licensed in Auto and Home Insurance, and after two years was offered a position in Compliance.  In that job we did both Sales and
+meta	experience	Service.  The last eight years I also assisted the Billing Department with customer calls.
+meta	experience	Customer Service in the Liability Department
+meta	experience	Cigna Insurance - Bristol, CT
+meta	experience	January 2000 to April 2006
+meta	experience	Bristol, Connecticut
+meta	experience	I held the job of processing Medical Claims for three years, and then worked in the Customer Service in the Liability Department for three years.
+meta	experience	Surgical Secretary
+meta	experience	Bradley Memorial Hospital - Southington, CT
+meta	experience	December 1997 to December 2000
+meta	experience	taking customer service patient calls for insurance, orders and scheduling.
+meta	experience	Data Entry Specialist
+meta	experience	Omni Home Health Agency - Wallingford, CT
+meta	experience	April 1995 to November 1997
+meta	experience	who processed patients' medical insurance and scheduled nurse visits.
+meta	experience	Data Entry Clerk
+meta	experience	Bristol Press - Bristol, CT
+meta	experience	May 1984 to December 1994
+meta	experience	on local stories and Customer Service orders for customers' ads.

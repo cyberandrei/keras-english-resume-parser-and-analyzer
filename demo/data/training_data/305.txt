@@ -1,0 +1,9 @@
+content	education	G.E.D
+content	education	Center for human resources Bridgeton, NJ
+meta	experience	Sales Representative
+meta	experience	Rent-A-Center - Bridgeton, NJ
+meta	experience	August 2018 to Present
+meta	experience	I answer phones, makes sales phone calls.
+meta	experience	Lead sales and service associate
+meta	experience	United states postal service - Millville, NJ
+meta	experience	April 2013 to April 2018

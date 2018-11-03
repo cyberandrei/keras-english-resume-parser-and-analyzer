@@ -1,0 +1,19 @@
+content	education	Communication, Administration
+content	education	Rhema College Tulsa, OK
+content	education	September 1988 to May 1991
+meta	experience	Sales
+meta	experience	Public Storage - Gilbert, AZ
+meta	experience	May 2015 to Present
+meta	experience	Deliver prepared sales talks
+meta	experience	● Describe products and services, in order to persuade potential customers to purchase products or service
+meta	experience	Sales Manager
+meta	experience	I Genesis - Tempe, AZ
+meta	experience	September 2013 to April 2015
+meta	experience	Plan and direct staffing, training and performance evaluation to develop and control sales and service
+meta	experience	programs
+meta	experience	● Resolve customer complaints regarding sales and service
+meta	experience	Sales Associate
+meta	experience	Accelerated Web Solutions - Phoenix, AZ
+meta	experience	September 2012 to September 2013
+meta	experience	Confer with customers by telephone to provide information about products and services 
+meta	experience	Solicit sales of new or additional services and products

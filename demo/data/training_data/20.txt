@@ -1,0 +1,38 @@
+content	education	Certificate in business
+content	education	Wyoming Technical Institute Laramie, WY
+content	education	Mundelein High School Mundelein, IL
+meta	experience	Sales
+meta	experience	ACEL Automotive - Huntsville, AL
+meta	experience	2016 to Present
+meta	experience	Responsibilities includes sales of automotive chemicals and services in Alabama and the Florida Panhandle
+meta	experience	Sales
+meta	experience	Firestone Complete Car Care Center - Huntsville, AL
+meta	experience	2015 to 2016
+meta	experience	* Responsibilities includes sales of service, tires and scheduling
+meta	experience	* Helping to train/mentor my current manager
+meta	experience	* Teach mechanics ways to do their job more efficiently
+meta	experience	Owner & Manager
+meta	experience	Gibbs Trinkets and Treasures - Varina, NC, US
+meta	experience	2011 to 2015
+meta	experience	* Utilized highly effective sales strategies to conduct estate sales, business liquidations and warehouse sales
+meta	experience	* Oversee all aspects of business, including functions pertaining to inventory management, advertisements and displays, research, cost analysis, scheduling and reporting
+meta	experience	District Manager
+meta	experience	AAA Carolinas Car Care centers - Raleigh, NC
+meta	experience	2004 to 2011
+meta	experience	* #1 in Sales and Customer Satisfaction - 98% (CSI) or above * Built a trust with customers helping to increase repeat business
+meta	experience	* Oversaw the east area of NC with a profit of $1.8M
+meta	experience	* Maintained responsibility for 12 stores, with 12 managers and 180 employees in the North Carolina region
+meta	experience	* Responded to customers' inquiries and promptly resolved their problems
+meta	experience	* Interviewed and hired sales staff, while motivating staff to achieve goals, along with building good employee relationships
+meta	experience	* Oversaw daily store operations, managed inventory
+meta	experience	* Performed tasks pertaining to scheduling, reporting and yearly budgeting.
+meta	experience	* Oversaw the implementation of construction projects for new stores
+meta	experience	* Interfaced with customers, ensuring the consistent delivery of quality customer service.
+meta	experience	* Analyzed non-profitable stores and implemented successful measures to enhance their productivity
+meta	experience	* Technical Trainer for all employees (including managers, service writers and technicians)
+meta	experience	* Designed training materials
+meta	experience	* Built company from 4 stores to 30 and from a $4 million a year company to a $40 million a year company
+meta	experience	Master Technician
+meta	experience	Crossroads Ford - Cary, NC
+meta	experience	1998 to 2004
+meta	experience	Team Leader

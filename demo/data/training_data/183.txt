@@ -1,0 +1,27 @@
+content	education	MBA in Executive Management
+content	education	California State University Eastbay Hayward, CA
+content	education	August 2017 to August 2018
+content	education	09 (MBA) level units completed in Business admin
+content	education	California State University Stanislaus Turlock, CA
+content	education	August 2014 to December 2016
+content	education	Undergrad units(20) in Undecided
+content	education	Woodland Community College Woodland, CA
+content	education	December 2009
+content	education	BACHELOR in Communication in CERCOM
+content	education	Université F. H. Boigny
+content	education	2005 to 2006
+content	education	MASTER'S DEGREE in Accounting, Finance &Bank, Management, International Marketing
+content	education	Université F. H. Boigny Ivory, FR
+content	education	2001 to 2005
+meta	experience	SALES ASSOCIATE
+meta	experience	WAL-MART, DIXON-CA
+meta	experience	January 2009 to September 2016
+meta	experience	• Great sales Experience with strong customers' assistance and items sales
+meta	experience	• Excellent Sales' Knowledge
+meta	experience	• Accurate Inventory Preparatory management
+meta	experience	• Tremendous Retail sales, and nice floor display potentials
+meta	experience	•Etc.
+meta	experience	Executive & SENIOR ACCOUNTANT
+meta	experience	IGEC-SYSTEMS - CI
+meta	experience	January 2002 to January 2007
+meta	experience	Bookkeeping, Filing taxes, Payroll, Merchandises purchases, Account Payable, Account Receivable, etc.

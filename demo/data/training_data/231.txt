@@ -1,0 +1,22 @@
+content	education	Fort Lewis College
+content	education	2001 to 2002
+content	education	Eaglecrest High School
+content	education	1998 to 2001
+meta	experience	Sales
+meta	experience	AUTO PROFIT MASTERS - Littleton, CO
+meta	experience	September 2014 to November 2015
+meta	experience	•  Developed a working knowledge of the Sales and Marketing software; helped medium to small auto-repair shops become more efficient and improve process all to quickly affect profits
+meta	experience	•  Managed Lead pool and used cold calling to build rapport with business owners
+meta	experience	•  Worked with manager to build a script that helped sales team identify decision makers and successfully handle objections
+meta	experience	•  Made Sales Presentations to potential buyers
+meta	experience	•  Worked with customers to troubleshoot issues and develop effective marketing tools using software
+meta	experience	INTEGRATED ASSET SERVICES, Denver Tech Center CO
+meta	experience	Dispute Resolution & Exceptions Manager
+meta	experience	•  Oversaw quality and production to ensure all files met client specific objectives
+meta	experience	•  Managed the Resolution Team personnel and process, tasked to resolve client initiated disputes ensuring a satisfactory product was provided within contractual timelines
+meta	experience	•  Compiled and presented a number of daily and monthly reports tracking department performance focusing on analyzing Key Performance Indicators
+meta	experience	•  (KPI) and projections of results for the subsequent client score card
+meta	experience	•  Analyzed department processes and performance to identify training opportunities and deficient processes, highlighting the changes that would provide the largest impact within the least amount of time
+meta	experience	•  Created training material specific to areas of weakness that were designed to make an immediate impact on quality
+meta	experience	•   Developed a broker training program and spearheaded a campaign initiative that successfully improved rapport between quality reviewers and brokers
+meta	experience	•  Worked alongside the chief appraiser to develop a cohesive approach aimed at simplifying processes and help Brokers better explain how they arrived at their value

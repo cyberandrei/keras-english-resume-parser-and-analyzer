@@ -1,0 +1,23 @@
+content	education	Indiana State University
+content	education	August 1981 to June 1983
+meta	experience	Sales rep
+meta	experience	Sales rep. APC
+meta	experience	February 2012 to February 2018
+meta	experience	PALLET INC.
+meta	experience	602-254-4821 supervisor Carlos Carranza
+meta	experience	6/2011-2/2012  outside sales rep. Gulf Arizona  Packaging
+meta	experience	602-278-2830 mgr. Paul Corley
+meta	experience	Operation Manager
+meta	experience	Huttig Building Products
+meta	experience	August 2006 to August 2010
+meta	experience	Managed an operations of fifteen forklift operators and twelve drivers for distribution of building materials in Arizona.
+meta	experience	Operation Manager
+meta	experience	Weyerhaeuser Phoenix
+meta	experience	June 1994 to May 2006
+meta	experience	602-269-3541)
+meta	experience	Managed thirty forklift operators and twenty two drivers for storing and distribution of building materials for Arizona & New Mexico.
+meta	experience	Interface with sales staff to support customer service functions.
+meta	experience	CDL Truck Driver, Forklift Operator
+meta	experience	Boise Cascade Phoenix BMD
+meta	experience	June 1985 to October 1992
+meta	experience	Supervisor-Dave Reynolds

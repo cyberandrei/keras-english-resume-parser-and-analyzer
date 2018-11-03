@@ -1,0 +1,67 @@
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Verizon Authorized Retailer - Victra - Easton, MD
+meta	experience	April 2018 to October 2018
+meta	experience	• Increased purchase totals by recommending additional items.
+meta	experience	• Set aside merchandise for on-hold reservations.
+meta	experience	• Organized and displayed items in visually appealing manner.
+meta	experience	• Developed and executed sales promotions.
+meta	experience	• Met incoming customers and provided immediate assistance.
+meta	experience	• Worked flexible schedule to accommodate changing customer levels.
+meta	experience	• Completed purchases with cash, credit and debit payment methods.
+meta	experience	• Greeted customers with enthusiasm and offered immediate and friendly service.
+meta	experience	• Offered product and service consultations and employed upselling techniques to increase sales by [Number]% over [Timeframe].
+meta	experience	• Served as a customer service team lead by enforcing adherence to company policies, answering coworkers' questions and training new personnel.
+meta	experience	• Explained information about the quality, value and style of products to Influence customer buying decisions.
+meta	experience	• Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices.
+meta	experience	• Maintained up-to-date knowledge of customer buying habits.
+meta	experience	• Recommended merchandise based on customer needs.
+meta	experience	• Listened to customer needs and preferences to provide accurate advice.
+meta	experience	• Provided expert product and service information.
+meta	experience	• Guided customers in choosing items that reflected personal style and shape.
+meta	experience	• Administered all point of sale opening and closing procedures.
+meta	experience	• Operated a cash register to process cash, check and credit card transactions.
+meta	experience	• Computed sales prices, totaled purchases, and processed payments.
+meta	experience	• Placed special orders and called other stores to find desired items.
+meta	experience	• Answered incoming telephone calls with professional and knowledgeable responses.
+meta	experience	• Described merchandise and explained product operation to customers.
+meta	experience	Caregiver
+meta	experience	Apex Nursing Services Inc - Easton, MD
+meta	experience	August 2016 to April 2018
+meta	experience	• Assisted disabled individuals to foster independence while still closely monitoring safety.
+meta	experience	• Supervised frequent activities such as medication and personal hygiene to ensure safety.
+meta	experience	• Developed strong and trusting rapport with each client to facilitate best care possible.
+meta	experience	• Maintained a clean and well-organized environment to promote client happiness and safety.
+meta	experience	• Monitored clients' progress to report necessary changes.
+meta	experience	• Worked to improve patient outlook and daily living through compassionate care.
+meta	experience	• Tracked and escalated compliance, care and quality issues.
+meta	experience	• Assisted patients with healing and recovery after surgery.
+meta	experience	• Accurately documented all elements of nursing assessment, treatments, medications, discharge instructions and follow-up care.
+meta	experience	Shift Leader
+meta	experience	Subway - Easton, MD
+meta	experience	April 2015 to August 2016
+meta	experience	• Mentored team members on techniques necessary to complete job tasks.
+meta	experience	• Allocated tasks to employees on a daily basis and monitored activity and task completion.
+meta	experience	• Developed open and professional relationships with team members, enabling better, more effective issue resolution.
+meta	experience	• Complied with all company safety procedures, policies and regulations to promote a safe working environment.
+meta	experience	• Unloaded trucks, stocked shelves and carried merchandise out on the floor for customers.
+meta	experience	• Informed customers about sales and promotions in a friendly and engaging manner.
+meta	experience	• Worked as a team member performing cashier duties, product assistance and cleaning.
+meta	experience	• Responsible for ringing up customers in a timely manner and guaranteeing high level of customer service.
+meta	experience	• Replenished merchandise shelves with items from the stockroom.
+meta	experience	• Computed accurate sales prices for purchase transactions.
+meta	experience	• Processed all sales transactions accurately and in a timely fashion.
+meta	experience	• Balanced the needs of multiple customers simultaneously in a fast-paced retail environment.
+meta	experience	• Confirmed that appropriate changes were made to resolve customers' problems.
+meta	experience	Sandwich Maker
+meta	experience	Arby's - Easton, MD
+meta	experience	October 2014 to September 2015
+meta	experience	• Prepared food items, including sandwiches and other products to meet customer specifications.
+meta	experience	• Organized food preparation stations and replenished supplies as needed.
+meta	experience	• Cleaned and maintained all food preparation stations.
+meta	experience	• Delivered superior customer service focused on quality and meeting customer needs in a timely manner.
+meta	experience	• Executed all daily tasks and assisted other team members when needed.
+meta	experience	• Stocked, priced, front-faced and rotated merchandise.
+meta	experience	• Consistently adhered to quality expectations and standards.
+meta	experience	• Hand-washed dishes and glassware thoroughly.
+meta	experience	• Maintained safe food handling and other standards at all times.

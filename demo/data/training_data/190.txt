@@ -1,0 +1,33 @@
+meta	experience	Sales Manager
+meta	experience	CarMax - Sacramento, CA
+meta	experience	January 2014 to October 2018
+meta	experience	I oversee a sales team of 10-12 sales consultants as direct reports.  In addition I run the sales floor of 55 sales consultants.  My responsibilities include training and development of sales consultants, insuring compliance with finance contracts, attracting and retaining sales consultants.
+meta	experience	• Mentored, trained and promoted 3 of my sales consultants to the position of sales manager
+meta	experience	• Helped train sales staff at 4 CarMax locations grand openings
+meta	experience	• Helped grow the South Sacramento CarMax location from selling 250 cars per month in 2014, to 650 cars per month in 2018
+meta	experience	Store manager
+meta	experience	You Bake Incorporated dba Papa Murphy's Pizza - Sacramento, CA
+meta	experience	February 2013 to December 2013
+meta	experience	I oversee 1 store for franchisee, 15 employees and $700,000 in revenue. Responsible of all P&L, labor costs, food costs, managing waste and all operations.
+meta	experience	• I have taken the store from trending towards 2 stars and we now trend towards 4 stars.
+meta	experience	Store manager
+meta	experience	Gamestop Corporation - Sacramento, CA
+meta	experience	June 2009 to January 2013
+meta	experience	Oversaw various locations in Greater Sacramento Area. Responsible for driving sales, improving margins, making labor, training and development of staff, improving key metrics.
+meta	experience	• Ranked 1200th in 2010, 47th in 2011, and 380th in 2012 out of 4500 stores
+meta	experience	• Won regional Awards for highest profit, highest margins and highest pre owned sales in 2011
+meta	experience	• Won regional Awards for highest profit in 2012
+meta	experience	• Had 4 assistant managers promoted to run stores and 4 shift supervisors promoted to assistant manager
+meta	experience	District manager, Build a Bear Workshop
+meta	experience	Pacific Northwest
+meta	experience	March 2007 to June 2009
+meta	experience	Oversaw the formation of the greater Pacific Northwest district of 22 stores.  It has previously been 2 smaller districts of Northern CA and Oregon and Washington. Responsible for 350 staff and $35M in revenue. Responsible for P&L, driving top and bottom line sales, improving key metrics, training and development of managers and staff, Real estate sight surveys,
+meta	experience	• Combined the districts ranked 35th and 32nd in 2006 out of 35 total districts in the company and forged a top performing team that ranked 18th in 2007, 5th in 2008 and 3rd in 2009.
+meta	experience	• Won the most improved District award in 2007
+meta	experience	• Had 2 Store managers promoted to District Manager
+meta	experience	District manager
+meta	experience	Hollywood Video - Sacramento, CA
+meta	experience	January 2003 to March 2007
+meta	experience	Oversaw between 8 and 15 stores with 150 staff and $18M in revenue. Responsible for all P&L, driving sales, improving margins, improving shrink, driving key metrics and implementing new company programs.
+meta	experience	• Ranked in the top 25 of District managers in 2004 and 2005 out of 300 district managers
+meta	experience	• Had 2 store managers promoted to district manager

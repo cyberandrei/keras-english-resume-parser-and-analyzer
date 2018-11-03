@@ -1,0 +1,7 @@
+content	education	Still in high school in Music
+content	education	Waterbury Arts Magnet School (High) Waterbury, CT
+content	education	August 2016 to July 2020
+meta	experience	Sales Associate
+meta	experience	Tjx - Southbury, CT
+meta	experience	July 2018 to Present
+meta	experience	I work the register, sales floor, and the backroom

@@ -1,0 +1,34 @@
+content	education	SE College of Technology
+content	education	2003
+meta	experience	Sales Advisor
+meta	experience	McLarty BMW - Little Rock, AR
+meta	experience	November 2018 to Present
+meta	experience	Internet Sales and Leasing Consultant
+meta	experience	Internet Manager/Secondary Finance
+meta	experience	Chapman Autoplex
+meta	experience	February 2014 to January 2016
+meta	experience	Role: I was a floater, so whatever we needed done that day I took care of. Some days I sold cars, some days I worked on secondary finance deals, other days I was a floor manager and Internet
+meta	experience	Director.
+meta	experience	FIELD OF INTERESTS
+meta	experience	• Sales Management, Territory Management, Finance, Marketing
+meta	experience	General Manager
+meta	experience	Dickee's Deep Pockets
+meta	experience	February 2011 to November 2013
+meta	experience	Role: Managed the day to day operations of the store. Made schedules, did payroll, ran meetings, managed
+meta	experience	inventory, digital marketing, social media, managed the books, etc
+meta	experience	Internet Director in Herrin-Gear Infiniti
+meta	experience	Internet Sales
+meta	experience	December 2007 to October 2010
+meta	experience	Role: Helped build an internet sales department from scratch. Started with about 50 leads a month and grew it to 300+ a month. Was promoted into a Director/Management role where I was in charge of dispensing the leads, training/managing the internet sales reps, followed up with customers, closed deals, handled marketing and digital media, etc
+meta	experience	Sales/Project Manager
+meta	experience	Sound Concepts
+meta	experience	September 2006 to November 2007
+meta	experience	Role: Designed custom audio/video solutions, managed inventory, over saw projects from creation to installation and did follow up
+meta	experience	Sales Senior/Department Supervisor
+meta	experience	Best Buy
+meta	experience	July 2004 to June 2006
+meta	experience	Role: Supervised and trained sales reps, ran meetings, set schedules, etc
+meta	experience	Small Business Solutions Advisor
+meta	experience	Gateway Country
+meta	experience	March 2001 to July 2004
+meta	experience	Role: Designed custom networks for small businesses and homes. Retail Sales

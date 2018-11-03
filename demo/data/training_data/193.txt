@@ -1,0 +1,26 @@
+content	education	Cosumnes Oaks High School Culinary Arts Program Elk Grove, CA
+content	education	2018
+meta	experience	Sales Associate
+meta	experience	Marshalls - Sacramento, CA
+meta	experience	October 2017 to June 2018
+meta	experience	I was trained in the fitting room, on the sales floor and on cash register.
+meta	experience	Sales
+meta	experience	Classy Hippie Tea Co. - Sacramento, CA
+meta	experience	May 2017 to August 2017
+meta	experience	Set up booths at events and sell organic tea.
+meta	experience	Member
+meta	experience	Cosumnes Oaks High School Culinary Arts - Elk Grove, CA
+meta	experience	2014 to 2017
+meta	experience	of the COHS Culinary Academy, I helped implement events by assisting the department chair with bookkeeping, supply management, money collection, and spreadsheets.
+meta	experience	● State recognized partnership academy, which trains in commercial catering, hospitality, sanitation
+meta	experience	and high-end food production.
+meta	experience	● Trained on how to properly use and clean commercial equipment
+meta	experience	● Course curriculum includes Baking and Pastry, Food and Nutrition, World Cuisines, and Advanced Culinary Techniques.
+meta	experience	● California Foodhandler's Card
+meta	experience	Best Bite Café
+meta	experience	● Lunch café that serviced the staff of Cosumnes Oaks High School. I held the position of prep,
+meta	experience	line, steward, expediter and delivery.
+meta	experience	Babysitting
+meta	experience	 - Sacramento, CA
+meta	experience	2013 to 2016
+meta	experience	Entertaining, feeding and bathing my neighbor’s child.

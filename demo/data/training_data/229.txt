@@ -1,0 +1,23 @@
+content	education	Bachelor of Science in Sports Administration
+content	education	Baker University Baldwin City, KS
+content	education	May 2018
+meta	experience	Sales Executive
+meta	experience	Denver Connections - Denver, CO
+meta	experience	May 2018 to September 2018
+meta	experience	* B2B sales
+meta	experience	* Team management
+meta	experience	Strength, Speed, and Conditioning Coach
+meta	experience	Impact Sports Performance - Superior, CO
+meta	experience	2017 to 2018
+meta	experience	Social Media
+meta	experience	Founder/Owner
+meta	experience	Over Everything - Westminster, CO
+meta	experience	2016 to 2018
+meta	experience	* Marketing and Sales
+meta	experience	* Organized product photoshoot with models for social media campaign
+meta	experience	Customer support and set-up at trade shows
+meta	experience	Data Connect Corporation - Centennial, CO
+meta	experience	2012 to 2013
+meta	experience	* Centennial, Colorado
+meta	experience	* Trade Show service technician responsible for upselling services and additional equipment.
+meta	experience	* Customer support and set-up at trade shows

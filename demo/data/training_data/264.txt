@@ -1,0 +1,25 @@
+content	education	Bachelor of Science in Management & Marketing
+content	education	Westfield State University Westfield, MA
+content	education	August 2013 to August 2016
+content	education	English
+content	education	Goodwin College
+content	education	June 2012 to August 2013
+meta	experience	Sales
+meta	experience	UnitedHealth Group
+meta	experience	October 2016 to Present
+meta	experience	Related work:
+meta	experience	• Ensures proper completion of marketing agreements, sales contracts, and documentation of sales targets
+meta	experience	• Provide sales support and administrative services to sales producers such as marketing organizations
+meta	experience	• Assist with completing daily tasks issued by the sales/marketing department (research, data gathering, marketing inquiries, etc.)
+meta	experience	• Assists in sale support, marketing, and customer service to ensure customer satisfaction
+meta	experience	• Managing and providing insights in regards to insurance products offered by the company
+meta	experience	Marketing Associate (Internship)
+meta	experience	Central Business Strategies - Meriden, CT
+meta	experience	January 2016 to March 2016
+meta	experience	Related Internship work:
+meta	experience	• Assists in social media marketing and management of social platforms (Facebook, Instagram, LinkedIn etc.)
+meta	experience	• Content creation and design (website building and ad design)
+meta	experience	• Marketing research (analyzing social data and metrics)
+meta	experience	• Assists in business to business and business to consumer projects issued by management
+meta	experience	• Partake in daily management and marketing training
+meta	experience	• Assist in providing insights towards identifying effective marketing tools to increase sales

@@ -1,0 +1,10 @@
+content	education	J.A. Fair High School
+content	education	High school or equivalent in Enviromental Science
+meta	experience	Floor Sales Associate
+meta	experience	Journeys
+meta	experience	October 2018 to Present
+meta	experience	Makes Sales, Clean, Stock
+meta	experience	Crew Member/Cashier/Leader
+meta	experience	Sonic Drive-In
+meta	experience	December 2016 to October 2018
+meta	experience	Cashier, Sales, COOK

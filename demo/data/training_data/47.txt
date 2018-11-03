@@ -1,0 +1,11 @@
+content	education	Bachelors in Kinesiology Clinical Exercise Sciences
+content	education	Sam Houston State University Huntsville, TX
+content	education	August 2018 to April 2022
+meta	experience	Brand Representative/Sales Associate
+meta	experience	Hollister Co - Cedar Hill, TX
+meta	experience	March 2018 to August 2018
+meta	experience	In charge of Customer service, Sales and Stocking.
+meta	experience	Carhop/Cashier
+meta	experience	Sonic Drive-In - Red Oak, TX
+meta	experience	February 2017 to October 2017
+meta	experience	Bagged food, Made ice cream, Brought food out to customers.

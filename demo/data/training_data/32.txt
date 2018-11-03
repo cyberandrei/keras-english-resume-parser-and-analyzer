@@ -1,0 +1,22 @@
+content	education	Master's of Business Administration in Human Resources Management
+content	education	Strayer University Huntsville, AL
+content	education	May 2016
+content	education	Bachelor's of Science in Business Administration
+content	education	Alabama A&M University Huntsville, AL
+content	education	May 2012
+meta	experience	Sales Manager
+meta	experience	AT&T - Madison, AL
+meta	experience	August 2017 to Present
+meta	experience	Responsible for motivating and advising sales reps to improve their performance, as well as hiring and training new sales representatives.
+meta	experience	Sales Representative
+meta	experience	AT&T - Huntsville, AL
+meta	experience	February 2016 to August 2017
+meta	experience	Responsible for selling all products and services offered by AT&T and providing  efficient, courteous customer service and assist in all aspects of product  offerings and services.
+meta	experience	Sales Floor Team Member
+meta	experience	Target - Huntsville, AL
+meta	experience	October 2014 to February 2016
+meta	experience	Responsible for greeting customers, stocking shelves, organizing displays, taking inventory, and assisting in sales
+meta	experience	Lead Sales Associate
+meta	experience	Dollar General - Huntsville, AL
+meta	experience	July 2013 to April 2014
+meta	experience	Responsible for assisting customers in locating and purchasing merchandise,  operating a cash register, stocking and recovering merchandise, cleaning the store,  and performing other duties as assigned by the Store Manager.

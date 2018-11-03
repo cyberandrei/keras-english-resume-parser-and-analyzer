@@ -1,0 +1,5 @@
+content	education	High school or equivalent
+meta	experience	Retail Sales Associate
+meta	experience	Walmart
+meta	experience	May 2014 to June 2018
+meta	experience	Garden Center Sales Associate

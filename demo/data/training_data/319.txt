@@ -1,0 +1,47 @@
+content	education	High school or equivalent
+content	education	Smyrna High School Dover, DE
+content	education	August 2013 to May 2017
+meta	experience	Cashier and Sales Associate
+meta	experience	Halloween City - Dover, DE
+meta	experience	October 2018 to Present
+meta	experience	Price check inventory 
+meta	experience	Stock sales floor
+meta	experience	Cash out customers 
+meta	experience	Process exchanges and returns
+meta	experience	Daycare Assistant
+meta	experience	Beginnings And Beyond - Dover, DE
+meta	experience	September 2018 to Present
+meta	experience	Watch kids for 3 hours when teachers leave 
+meta	experience	Take trash out 
+meta	experience	Clean play area
+meta	experience	Kirklands
+meta	experience	Kirkland's - Dover, DE
+meta	experience	June 2017 to May 2018
+meta	experience	Provide great customer service, help with all their needs. Stocked all the shelves. Unloading trucks.
+meta	experience	KFC/Taco Bell
+meta	experience	KFC - Smyrna, DE
+meta	experience	May 2017 to January 2018
+meta	experience	Take orders
+meta	experience	Cash operator 
+meta	experience	Drive thru cashier
+meta	experience	Make orders
+meta	experience	McDonald's Team Member
+meta	experience	McDonald's
+meta	experience	June 2017 to September 2017
+meta	experience	Take oders from front and drive thru
+meta	experience	Make orders
+meta	experience	Give orders out
+meta	experience	Baby sister
+meta	experience	Friend of the Family
+meta	experience	October 2012 to August 2017
+meta	experience	Watch 2 kids for 8 hours a day
+meta	experience	Make snacks
+meta	experience	Change diapers 
+meta	experience	Watch nap time
+meta	experience	Cashier/Sales Associate
+meta	experience	MetroPCS - Dover, DE
+meta	experience	January 2017 to March 2017
+meta	experience	Active phones
+meta	experience	Make bill payments
+meta	experience	Switch from one carrier to another 
+meta	experience	Do upgrades

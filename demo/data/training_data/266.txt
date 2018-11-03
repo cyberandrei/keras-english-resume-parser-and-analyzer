@@ -1,0 +1,14 @@
+content	education	hsd in na
+content	education	nbhs New Britain, CT
+meta	experience	Sales Associate
+meta	experience	Burlington Stores - Farmington, CT
+meta	experience	February 2018 to September 2018
+meta	experience	sales associate
+meta	experience	Marshalls Sales Associate
+meta	experience	Marshalls - New Britain, CT
+meta	experience	June 2016 to August 2016
+meta	experience	summer ryouth employment job sales associate
+meta	experience	Janitor/Maintenance
+meta	experience	Ebony Horsewomen - Hartford, CT
+meta	experience	June 2015 to August 2015
+meta	experience	summer youth employment .

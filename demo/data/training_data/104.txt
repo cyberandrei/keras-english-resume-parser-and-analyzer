@@ -1,0 +1,21 @@
+content	education	High school or equivalent
+meta	experience	Sales
+meta	experience	Superior - Conway, AR
+meta	experience	2014 to Present
+meta	experience	Sales associate, "Great ambition
+meta	experience	Assistant
+meta	experience	Medical
+meta	experience	2010 to 2014
+meta	experience	GS)   General   Service   5.   Supervisor   Administrative   Support
+meta	experience	Assistant   .GS-7.   Transportation   Foreman/   Motor   Vehicle   Operator   Supervisor   (WS)   Work   Supervisor.   WS-8.
+meta	experience	Civil   Service   Work   Supervisor   WS-8.   Department   of   Veterans   Affairs.   Little   Rock   Arkansas.
+meta	experience	Operator
+meta	experience	Vehicle
+meta	experience	1998 to 2010
+meta	experience	WG)   Wage   Grade.   WG-6.   Beneficiary   Travel   and
+meta	experience	Transportation   Supervisor.   GS-9.   Department   of   Veterans   Affairs.   Syracuse   New   York.
+meta	experience	Staff
+meta	experience	United
+meta	experience	1978 to 1995
+meta	experience	Sergeant   E-6.   Tank   Crew   Member, Tank   Commander, Instructor
+meta	experience	Non-   Commissioned   Course   and   Drill   Instructor.   United   States   and   overseas.

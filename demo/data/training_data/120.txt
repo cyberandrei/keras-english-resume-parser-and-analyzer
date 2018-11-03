@@ -1,0 +1,22 @@
+content	education	Dance Major
+content	education	Parkview Magnet High School Little Rock, AR
+content	education	August 2005 to August 2009
+content	education	Diploma in Dance Major
+content	education	Parkview Magnet High School Little Rock, AR
+content	education	August 2005 to May 2009
+content	education	High school or equivalent
+meta	experience	Sales Manager
+meta	experience	Aaron's Sales and Lease Ownership
+meta	experience	December 2011 to Present
+meta	experience	Managing the sales floor to be ready for display
+meta	experience	Managing product technicians to prepare deliveries
+meta	experience	Handling payments, service calls, prep for inventory, logging numbers for the day, sales calls and marketing
+meta	experience	Former Customer Sales Representative for 5+ years before promoted to management
+meta	experience	Processing customer applications in store and online
+meta	experience	Furniture repairs and moving around showroom
+meta	experience	File audits
+meta	experience	Unit Coordinator
+meta	experience	Lubys Cafeteria - Little Rock, AR
+meta	experience	February 2009 to July 2011
+meta	experience	I took care of all human resources paperwork for all employees.
+meta	experience	Multi talked between line server, waitress, cashier, and prep.

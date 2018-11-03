@@ -1,0 +1,22 @@
+content	education	High school
+content	education	northglenn high
+meta	experience	Inside Sales Representative
+meta	experience	sales solutions
+meta	experience	April 2016 to Present
+meta	experience	Take inbound calls setting up moves from local to long distant. Outbound calls averaging 150 calls per day.
+meta	experience	sales & marketing
+meta	experience	allstate - Denver, CO
+meta	experience	April 2015 to July 2015
+meta	experience	Responsibilities
+meta	experience	Sales, marketing,cold calling, customer service
+meta	experience	Accomplishments
+meta	experience	Helped bring up sales on a weekly basis
+meta	experience	Skills Used
+meta	experience	Computer
+meta	experience	sales manager
+meta	experience	L & L auto sales - Denver, CO
+meta	experience	2001 to 2015
+meta	experience	Responsibilities
+meta	experience	Bought and sold cars to the public and also to other dealers. Handled all auctions. Made sure all vehicles were clean, mechanical ready for sale. Negotiated price with customer, explained all financing and warranty with customers. 
+meta	experience	Accomplishments
+meta	experience	brought dealership from 10 retail deals to 40 plus per month. Wholesale units from 20 to60 plus per month

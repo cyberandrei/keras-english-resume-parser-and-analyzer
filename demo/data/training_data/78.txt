@@ -1,0 +1,51 @@
+content	education	Bachelor of Arts in Business Administration & Marketing
+content	education	SACRAMENTO STATE COLLEGE Sacramento, CA
+content	education	1993 to 1995
+content	education	Techincal in Electonics
+content	education	NAVAL ELECTRONIC SCHOOL
+meta	experience	New & Pre-Owned Autos - Internet & Retail Sales
+meta	experience	AUTOMOTIVE SALES
+meta	experience	2015 to Present
+meta	experience	2015 - Current
+meta	experience	New & Pre-Owned Autos - Internet & Retail Sales
+meta	experience	• Engage new and existing clients through internet lead follow-up and cold calling
+meta	experience	• Meet or exceed goals though follow-up, referrals and networking
+meta	experience	• Substantial after-the-sale follow-up
+meta	experience	Consumer Electronics Retail - Business Development - Outside/Inside Sales/Design
+meta	experience	STARPOWER - Scottsdale, AZ
+meta	experience	2014 to 2015
+meta	experience	• Performed extensive outside business development, expanded and managed new business relationships with builders, designers, architects increasing company awareness to end-users and businesses,
+meta	experience	• Sold over $1M in projects
+meta	experience	Electronic Integration - Sales/ Design
+meta	experience	ARTISAN CINEMA & SOUND - Scottsdale, AZ
+meta	experience	2007 to 2014
+meta	experience	• Design and sold high-end application specific solutions to residential and commercial accounts consisting of automation and control, audio/video conferencing, front projection, theatre, distributed video and audio, security & surveillance, acoustical design and peripheral systems.
+meta	experience	• Consistently sold over $1M Annually
+meta	experience	Electronics Distributor - Northwest Regional Manager
+meta	experience	DSI SYSTEMS INC - Seattle, WA
+meta	experience	2004 to 2007
+meta	experience	• Management of $8 Million dollar account base in four-state northwest regional area, negotiated sales of audio/video and appliances to independent retail and custom businesses, consistently awarded  (one of) top producing branches in US in 2007, managed all branch departments: sales, warehouse & office personnel.
+meta	experience	• Directed turnaround of an under-performing regional distribution branch into one of top 30 branches in US. Established guidelines and sales methodologies, increasing sales volume, profitability, and improved account and employee participation while dramatically increasing company exposure and brand loyalty.  Consistently earning top company performance levels.
+meta	experience	Electronic Integration - Owner/Sales/Design
+meta	experience	AUDIO EXCELLENCE - Surprise, AZ
+meta	experience	2001 to 2004
+meta	experience	Designed, sold & managed new construction and retro-fit projects involving mid to upper-end automation and control systems, home-theatre, music systems, distributed audio and video, security, acoustical design and peripheral systems. Worked with builders, architects, designers and consumers
+meta	experience	Consumer Electronics Retail - Retail Department Manager
+meta	experience	BUZZ JENSEN'S SOUND ADVICE - Phoenix, AZ
+meta	experience	1997 to 2001
+meta	experience	• Managed all operations of $10 Million dollar retail environment
+meta	experience	• Sales, merchandising, inventory, and service department
+meta	experience	• Increased department sales and per-ticket profitability through dedicated sales and product training programs and floor merchandising.
+meta	experience	Audio Electronics Manufacturer - Director of Sales & Marketing
+meta	experience	THRESHOLD ELECTRONICS - Sacramento, CA
+meta	experience	1988 to 1997
+meta	experience	• Directed international Sales & Marketing efforts of $15 Million Dollar Company
+meta	experience	• Managed Threshold Brand & Forte Brands
+meta	experience	• Sales of high-end audio products to specialty retailers and distributors worldwide
+meta	experience	• Directed turn-around effort involving company restructure, product design, marketing implementation, dealer and distributor restructuring, and manufacturing organization; instrumental in designing and releasing 6 products within a period of 8 months, did chassis design, circuit implementation, and established sonic parameters.
+meta	experience	• Dealer & consumer seminars and International Shows
+meta	experience	Mobile Audio Electronics - Co-Owner + Sales + Marketing + Product Design
+meta	experience	MOBILE AUDIO REFERENCE SYSTEMS - Los Angeles, CA
+meta	experience	1987 to 1993
+meta	experience	• Development of high-end analog-based mobile audio amplifiers and electronic cross-over products.
+meta	experience	• Coordinated from start-up to $2M

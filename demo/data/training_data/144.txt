@@ -1,0 +1,38 @@
+content	education	High School Diploma
+content	education	Northeast High School North Little Rock, AR
+meta	experience	Sales Associate
+meta	experience	Hank's Furniture - Conway, AR
+meta	experience	September 2018 to October 2018
+meta	experience	I worked in sales. I met and greeted customers, gathered information, demonstrated products, and tried to close sales, along with follow up. I was let go due to not being "aggressive enough".
+meta	experience	Office Manager
+meta	experience	Alcohol Detection Systems/ Amvet Asset Recovery
+meta	experience	July 2017 to April 2018
+meta	experience	Manage the day to day operations of the business.  Responsibilities include managing and maintaining vehicle inventory, performing maintenance and preparing assets for sale or delivery, sales and service for alcohol detection systems, accounts receivable/payable administrator via Quickbooks, Also assist owner with ad-hoc tasks and participate in the strategic planning for the business.
+meta	experience	Server
+meta	experience	Red Lobster
+meta	experience	August 2016 to May 2017
+meta	experience	Work in restaurant dining areas to ensure the efficient delivery of quality food and service. Greet patrons, answer questions about menu items, record guest orders, and serve prepared meals and beverages. Additional job duties included securing
+meta	experience	payments, operating computerized cash register systems to finalize sales transactions, and cleaning tables for new guests.
+meta	experience	Design & Sales Consultant
+meta	experience	Haverty's Furniture
+meta	experience	September 2016 to April 2017
+meta	experience	Reinforcing customer selections and helping them complete their rooms. Entering client information (including email addresses and phone numbers) into the customer relationship management (CRM) system, and conducting prompt and professional
+meta	experience	follow-up before and after the sales. Explaining special financing plans, delivery procedures, warranties, etc. Coordinating
+meta	experience	delivery between customer and distribution/delivery system. Maintaining knowledge of a broad range of furniture styles and products.
+meta	experience	Substitute Teacher
+meta	experience	Springdale School District
+meta	experience	February 2013 to July 2013
+meta	experience	Fulfill both short- and long-term substitute assignments across all subject areas, effectively teaching students of varied academic/age levels (grades K-12) and diverse cultural backgrounds. Instruct classes of as many as 24 students; communicate with teachers, administrators and parents; and build a positive rapport with students.
+meta	experience	Commercial Pest Control Technician
+meta	experience	Terminix
+meta	experience	June 2009 to February 2013
+meta	experience	Hard working Commercial Pest Tech with a thorough knowledge of the common practices, tools and terminology used to control pests.  Experienced in the use and characteristics of pesticides with knowledge of the hazards and safety precautions associated with the work.   Worked from sketches, drawings, plans or specifications and followed oral and written instructions.  Applied pesticides chemicals in accordance with established regulations and to read, understand and follow chemical
+meta	experience	label instructions.  Performed mathematical calculations to estimate materials and time needed to complete task.  Established and maintained effective working relationships and communicated with a diverse population.  Skilled in the use of tools and equipment necessary to perform tasks.
+meta	experience	Front Desk Supervisor
+meta	experience	Days Inn
+meta	experience	January 2002 to April 2009
+meta	experience	Responsible for supervising and working alongside in hands on capacity with Front Desk Staff to demonstrate the highest quality of service; Receive reservations for various sources: reservations terminal, telephone, and correspondence; Ensure that all Guest Services personnel receive adequate training in all Front Desk Procedures and the handling of any guests concerns, questions, problems, etc.; Participate in the hiring, developing, and evaluating of the Guest Services staff; Responsible for all cash handling procedures and training; Addresses and resolves guest complaints, problems and situations in accordance with property policies and common sense; A minimum of three years experience in Front Office/Reservations systems and procedures; English language and professional communications skills are required; Commitment to quality service, and hotel operations knowledge. Flexible schedule including weekends and holidays required.
+meta	experience	Sales Associate
+meta	experience	Brashears Furniture
+meta	experience	May 2008 to February 2009
+meta	experience	Sold high-end furniture to select clientele; consulted with customers in need of decorating assistance; drew up sales agreements and warranty documents.  In charge of moving furniture from one area to another, changing displays, making signs for special promotion days, answering customer questions, directing them to requested areas of the store/warehouse.

@@ -1,0 +1,74 @@
+content	education	Business Accounting and Business Administration
+content	education	Calhoun Community College
+content	education	Psychology
+content	education	Jacksonville State University
+content	education	Grissom High School
+meta	experience	Acosta Military Sales
+meta	experience	Military Sales & Service
+meta	experience	March 2009 to Present
+meta	experience	P.O. Box 55178
+meta	experience	Jacksonville, FL. 32255-1708
+meta	experience	Duties Include:
+meta	experience	Hired as Beauty Advisor and Retail Merchandiser working at
+meta	experience	Redstone Arsenal PX to maintain proper level of stock and display merchandise appropriately with signage and shelf placement.
+meta	experience	This includes set-up, plan-o-gram execution as well as stocking, facing and rotating manufacture products.
+meta	experience	Hired has an Account Manager for the PX (Post Exchange)
+meta	experience	Military Sales & Service - Dallas, TX
+meta	experience	May 2008 to Present
+meta	experience	5301 Westmoreland Rd.
+meta	experience	Dallas, TX, 75237
+meta	experience	469-221-4144
+meta	experience	Duties include:
+meta	experience	Hired has an Account Manager for the PX (Post Exchange) on Redstone Arsenal. Responsible for the maintaining of customer accounts, such as, Chanel, Dolce & Cabana, Gucci, Perry Ellis, Guess, Toshiba, Fuji, Lexmark and several others on a weekly basis, which includes: ordering of current stock, keeping shelves stocked, maintaining plan-o-gram compliance, building displays, setting visual displays for new launch of product, inventory control, data collection.
+meta	experience	Retail Merchandiser
+meta	experience	Mosaic - Irving, TX
+meta	experience	May 2005 to Present
+meta	experience	75038-2236
+meta	experience	Duties include:
+meta	experience	Merchandising of the video and pc games for Wal-Mart stores. Checking availability of product, stocking, data collection, pop placement, doing resets or modulars on a regular basis, and keeping area clean. Helping stores with placement of games to maximize sales with new release information.
+meta	experience	Retail Merchandiser
+meta	experience	Procter & Gamble - Cincinnati, OH
+meta	experience	2001 to February 2007
+meta	experience	45202
+meta	experience	Duties include:
+meta	experience	New and existing product plan-o-gram resets, point-of-purchase and point-of-sale placement, data collection, product sampling, and fixture and promotional display activity.
+meta	experience	Retail Merchandiser
+meta	experience	News America Marketing - Knoxville, TN
+meta	experience	1999 to 2001
+meta	experience	37914
+meta	experience	Duties included:
+meta	experience	Installing coupon machines and other devices in grocery, drug, and mass merchandising stores on twenty-eight day cycle with three weeks of maintenance between ad changes.
+meta	experience	Secretary for DCI Calibration
+meta	experience	DCI Calibration, Inc - Madison, AL
+meta	experience	January 1993 to October 1993
+meta	experience	P.O. Box 622
+meta	experience	Madison, AL 35758
+meta	experience	Moved back to Huntsville with husband's job in August of 1992. Hired as Secretary for DCI Calibration. Duties included: Typing reports, letters, memos, filing, answering phone, taking messages, responsible for purchasing of equipment and supplies, run errands when necessary, other duties as assigned. Left DCI Calibration in October, during my 8th month of pregnancy.
+meta	experience	Human Resources 07/1991 to 06/1992
+meta	experience	3100 West End Ave. Suite 100
+meta	experience	Nashville, TN 37203
+meta	experience	First assignment was with Fenders & More as Secretary. Duties included: Answering phone, taking messages, typing letters, memos, reports, updating catalogs on a weekly basis which involved using Symphony and Q&A Data Base, ordering supplies, handling shipping claims, and mailing requests for catalogs. My Next assignment was with Home Management Company as Secretary/Receptionist. Duties included: Answering phone, routing calls, taking messages, typing letters, reports, memos, budgets, reminders. Also responsible for mail outs, distribution of mail, assisting with Accounts Payable and Receivable, run errands when necessary, making appointments for the General Manager, work orders, maintenance of files, other duties as assigned.
+meta	experience	Receptionist/Typist
+meta	experience	Atlantic Aerial Surveys - Huntsville, AL
+meta	experience	March 1991 to June 1991
+meta	experience	Duties included: Answering phone, routing calls, taking messages, and greeting visitors, typing labels, photo sleeves, letters, memos, reports, reach to descriptions, mail merges, transmittals, preparing outgoing mail, distribution of incoming mail, run errands when necessary, assist office manager as needed.
+meta	experience	Receiving/Data Entry Clerk
+meta	experience	United Technologies - Huntsville, AL
+meta	experience	May 1988 to November 1990
+meta	experience	Duties included: Typing information from requisition to purchase orders on Sperry 1100 system. Obtaining copies of invoices on a daily basis and inputting on system, checking for over shipments and informing buyers when the need arose, also responsible for maintenance of closed purchase order files, which included filing various paperwork in purchase orders, closing purchase order files when all items had been received and check out of purchase order files. In October of 1989 took on responsibility of expediting for all buyers. Duties included: Receiving a weekly report for each buyer showing items still open, contacting requester and/or vendor when necessary for status of items, making a report of information obtained and giving it to buyers. Also back up typist for purchase orders, proof reader for all purchase orders typed in the department.
+meta	experience	Receptionist/Secretary
+meta	experience	Onan Corporation - Madison, AL
+meta	experience	February 1988 to April 1988
+meta	experience	Hired for temporary work to help personnel department get paperwork caught up. Duties included: Receive and badge visitors, maintain register of all visitors in the plant, receive applicants, and issue applications, type bulletin board notices, job posting, safety data, security data, recreational data, and job descriptions, operate PBX equipment, sort incoming mail and other duties as assigned.
+meta	experience	Service Secretary
+meta	experience	University Dodge - Huntsville, AL
+meta	experience	November 1987 to January 1988
+meta	experience	Duties included: Responsible for all service repair orders, cash income from parts and service departments, PBX operator, payroll for technicians, schedule appointments for customers for service repairs, posting all paperwork on a daily basis from parts and service departments, make deposit of monies form previous days work, do dock report on daily basis showing previous days profits, other duties as assigned.
+meta	experience	Receptionist/Cashier
+meta	experience	Bill Penney Oldsmobile - Huntsville, AL
+meta	experience	May 1986 to November 1987
+meta	experience	Duties included: Responsible for all service repair orders, cash income from parts and service, PBX operator, payroll for technicians, gas and diesel consumption daily, invoicing new cars. Promoted in October of 1986 to Warranty Claims Clerk. Duties included: Submitting claims on TC 1000 computer system to Oldsmobile Division on a daily basis, balance credit to schedule, post credit memo, correct claims rejected and resubmit, clear out schedule of any credits, also submit campaign transfers on terminal. Promoted in July of 1987 to Accounts Receivable. Duties included: Balancing paperwork from parts and service departments with receivables taken in on a daily basis and making deposits, control of petty cash, sending card vouchers for payment on a weekly basis, sending in warranties and service contracts for payment of work covered by those companies. Keeping accounts current, reconciliation of accounts at end of month.
+meta	experience	Receptionist/Cashier
+meta	experience	Redstone Officer's Club - Huntsville, AL
+meta	experience	December 1984 to May 1986
+meta	experience	Duties included: Answering phone, take messages, give information about club, sale of tickets for special functions, take dinner reservations, assist with payroll, typing letters, some Accounts Receivable, cash checks, exchange currency, etc.

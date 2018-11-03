@@ -1,0 +1,37 @@
+content	education	High school or equivalent
+meta	experience	Part-Time Sales Manager
+meta	experience	OshKosh B'Gosh - Rehoboth Beach, DE
+meta	experience	May 2017 to Present
+meta	experience	Part-Time Sales Manager I oversee 13 employees, handle freight, place online orders, ring customers, help with scheduling, presentation/new launch.
+meta	experience	Customer Service Rep
+meta	experience	Furniture Land / Ashley Furniture Home Store - Delmar, DE
+meta	experience	June 2010 to April 2011
+meta	experience	• Answering multi-line phones
+meta	experience	• Putting sales and credit memo's into two different systems
+meta	experience	• Ordering parts
+meta	experience	• Handling customer complaints and concerns
+meta	experience	• Responsible for weekly reports that were sent to management
+meta	experience	• Being in weekly contact with vendors
+meta	experience	• Helping customers find and complete furniture protection claims
+meta	experience	Customer Service / Dispatch
+meta	experience	George & Lynch / River Asphalt Delmar - Dagsboro, DE
+meta	experience	June 2008 to July 2009
+meta	experience	• Answering multi-line phone
+meta	experience	• Calling customers to get orders for following day
+meta	experience	• Staying in constant contact with supervisors and foreman out on the jobsite
+meta	experience	• Manage and scheduling up to 100 trucks a day for jobs
+meta	experience	• Making sure that all trucks showed up on time, had proper equipment on their trucks for the job they were going to, and that they had directions to get to the correct job they were assigned to
+meta	experience	Weigh Master
+meta	experience	Tilcon - Delmar, MD
+meta	experience	March 2006 to May 2008
+meta	experience	• Answering multi-line phone
+meta	experience	• Helping walk in customers with the type of material that would be best for their job needs
+meta	experience	• Making sure trucks were loaded with correct materials for the job they were going to • Weighing trucks taking freight out and bringing in
+meta	experience	Senior Customer Service Rep
+meta	experience	M&T Bank - Millsboro, DE
+meta	experience	November 2004 to February 2008
+meta	experience	• Answered calls as they came through queue
+meta	experience	• Helped customers balance checking and savings accounts
+meta	experience	• Took over the phone payments for loans and lines of credit
+meta	experience	• Transferred funds between accounts
+meta	experience	• Assisted customers with what type of products would be best for them

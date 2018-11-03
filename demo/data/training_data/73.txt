@@ -1,0 +1,68 @@
+content	education	Camelback High School Phoenix, AZ
+content	education	May 2004
+content	education	Criminal justice
+content	education	Phoenix College Phoenix, AZ
+meta	experience	Inside Sales
+meta	experience	Signature Sales inc - Corona, CA
+meta	experience	April 2015 to Present
+meta	experience	* Responsible for writing all parts order up both factory and from local stock.
+meta	experience	* Responsible for handling warranty parts for customers.
+meta	experience	* Working one on one with customers over the phone with parts identification
+meta	experience	* Reviewing past orders to accurately ordering the appropriate inventory to fulfill orders
+meta	experience	* Tasked with wiring various water heaters to certain specs requested by the customer
+meta	experience	* Assisting customers with will call pick ups, getting orders ready to shipment
+meta	experience	* Providing technical assistance with trouble shooting assistance over the phone
+meta	experience	Floor lead/Floor Manager
+meta	experience	Elsinore Distribution Center/S.S.I - Lake Elsinore, CA
+meta	experience	September 2012 to April 2015
+meta	experience	* Responsible for opening up warehouse each morning.
+meta	experience	* Prepare warehouse for the day's inbound deliveries
+meta	experience	* Accurately pull and stage orders based on picking sheet.
+meta	experience	* Correctly scanning those heaters to the assigned delivery number given. Verify that the * job was pulled correctly.
+meta	experience	* Verify all other employee jobs were pulled and labeled correctly.
+meta	experience	* Working one on one with all inbound trucking companies on and off the phone and email.
+meta	experience	* Assist the office staff with scheduling incoming trucks updating calendars and the log sheets.
+meta	experience	* Responsible to maintain a clean and safe work environment in the warehouse.
+meta	experience	* Trained warehouse staff on ow to safely handle water heaters to minimize damage to the product
+meta	experience	* while being diligent with employee safety minimizing possible injuries.
+meta	experience	* Pulling and verifying Cash Acme orders. After they are verified box up, weigh and shipping label is made and applied to the package.
+meta	experience	Lead Cashier, Customer Service/Sales
+meta	experience	Petsmart - Murrieta, CA
+meta	experience	March 2011 to March 2013
+meta	experience	* Stock Shelves with proper Product
+meta	experience	* Greet customer's, recommend products based on what the customer is looking for. This required
+meta	experience	* strong knowledge of the various products offered in the store.
+meta	experience	* Responsible to handle register responsibilities including receiving cash, credit and check purchases.
+meta	experience	* Assisted customers both on the phone and in person with different product details.
+meta	experience	* Worked with customers to resolve and product issues that dud not meet the customer's expectations
+meta	experience	* Assisted with making phone calls to sell products and services.
+meta	experience	Responsible to properly and quickly rep are rooms for new patients
+meta	experience	Fallbrook Hospital - Fallbrook, CA
+meta	experience	June 2009 to November 2009
+meta	experience	Fallbrook, CA
+meta	experience	Environmental Services - 06/09-11/09
+meta	experience	* Responsible to sanitize patient rooms after discharge of a patient.
+meta	experience	* Given the responsibility to keep specific areas of the hospital clean and safe for all staff and patients and staff.
+meta	experience	* Responsible to properly dispose of hazardous medical waste including sharps containers.
+meta	experience	* Clean departments to the state of California standards.
+meta	experience	* Responsible to sanitize surgical rooms before and after surgeries.
+meta	experience	* Responsible to properly and quickly rep are rooms for new patients.
+meta	experience	* Earned the reputation of exceeding expectations of department manager as well as medical and hospital staff.
+meta	experience	Power source Installation Specialist
+meta	experience	Gruber Technical - Phoenix, AZ
+meta	experience	October 2008 to November 2009
+meta	experience	* Assisted in the installation of back up power systems for hospitals, jails, and other public service facilities.
+meta	experience	* Responsible for running wire from the building power to the back up power source.
+meta	experience	* Ran wiring from back up power to new sub panel.
+meta	experience	* Responsible to deliver power sources to job site this included moving the unit into place and installing it to the platform.
+meta	experience	Apprentice Electrician
+meta	experience	Lone Wolf Electric inc - Phoenix, AZ
+meta	experience	November 2003 to October 2008
+meta	experience	* Specialized in wiring dental offices in the Phoenix area.
+meta	experience	* Responsible to run electrical wiring for office equipment and medical equipment.
+meta	experience	* Equipped offices with data cables and other specialty cables.
+meta	experience	* Tested circuitry for conductivity and proper power levels.
+meta	experience	* Analyzed, diagnosed and resolved any wiring and circuitry issues
+meta	experience	* Worked  with specialty equipment suppliers to insure the wiring met all electrical requirements for their particular piece of equipment
+meta	experience	* Integrated last minutes client changes in to schedule
+meta	experience	* Worked closely with clients to insure n schedule issuance of occupancy permit.

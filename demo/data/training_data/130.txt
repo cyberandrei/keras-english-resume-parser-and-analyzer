@@ -1,0 +1,54 @@
+content	education	accounting
+content	education	University of Central Arkansas Conway, AR
+content	education	May 2006 to August 2006
+content	education	Bachelor of Science in Business Administration
+content	education	Arkansas Tech University Russellville, AR
+content	education	May 2004
+meta	experience	Sales Lead Rep
+meta	experience	Acxiom Corporation
+meta	experience	November 2016 to April 2018
+meta	experience	Work with sales leads and distribute leads out to the sales team
+meta	experience	Acxiom Corporation - Conway, AR
+meta	experience	2006 to April 2018
+meta	experience	Data Architect
+meta	experience	Acxiom Corporation
+meta	experience	2012 to 2016
+meta	experience	support team)
+meta	experience	Managed workload through Sales Force and ACC
+meta	experience	Worked support tickets of all ranges, solving problems and figuring out what went wrong each time
+meta	experience	Led the team for Abilitec product research
+meta	experience	Worked solutions with up to 100 and more transforms and work flows
+meta	experience	Modified and tested flows on the fly
+meta	experience	• Fielded other routine support tasks
+meta	experience	Senior Data Delivery Analyst
+meta	experience	Acxiom Corporation
+meta	experience	2006 to 2012
+meta	experience	Managed workload through Order Tracking System
+meta	experience	Created orders based on client requirements through Order Entry System
+meta	experience	Set up complex processes through Orbiter and tested them to make sure they were done accurately
+meta	experience	Ran the jobs and delivered them to the client or account teams
+meta	experience	Conducted meetings with the client and client account teams to discuss changes to special projects
+meta	experience	Trained new team members
+meta	experience	Stepped in as the team leader when needed
+meta	experience	Worked with the legal team to investigate who resold our data without consent, receiving Employee of the year 2011 as a result
+meta	experience	Led the transition of all of our work from Mainframe to Orbiter
+meta	experience	• Was the team's point of contact for job failures and resolution
+meta	experience	Logistics Supervisor
+meta	experience	Old Navy - North Little Rock, AR
+meta	experience	March 2005 to May 2006
+meta	experience	Managed the Shipment, Facilities, and Marketing teams
+meta	experience	Created a positive work environment
+meta	experience	• Handled inventory control
+meta	experience	Team Leader
+meta	experience	 - Conway, AR
+meta	experience	May 2004 to March 2005
+meta	experience	Managed two specialists
+meta	experience	Managed more than 50 team members
+meta	experience	Handled inventory control
+meta	experience	• Assisted customers
+meta	experience	Grip
+meta	experience	Golf - Beebe, AR
+meta	experience	1998 to 2001
+meta	experience	Store Manager
+meta	experience	Promoted from associate to manager in six months
+meta	experience	• Generated sales promotions to draw in customers

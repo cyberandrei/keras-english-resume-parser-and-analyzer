@@ -1,0 +1,5 @@
+content	education	Some college
+meta	experience	Sales Associate
+meta	experience	Spendlove Boutiques - Accra
+meta	experience	January 2013 to February 2018
+meta	experience	Motivated Sales Associate

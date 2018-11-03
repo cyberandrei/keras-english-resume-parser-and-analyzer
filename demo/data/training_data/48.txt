@@ -1,0 +1,80 @@
+content	education	Bachelor of Science in Business Administration
+content	education	University of Alabama in Huntsville Huntsville, AL
+content	education	2009
+content	education	General Studies
+content	education	Calhoun Community College Decatur, AL
+content	education	2000 to 2004
+meta	experience	Sales Representative
+meta	experience	Railroad Bazaar - Athens, AL
+meta	experience	July 2017 to October 2017
+meta	experience	Processed sales at checkout counter.
+meta	experience	Provided customer assistance with various musical instrument and equipment needs.
+meta	experience	Provided customer assistance over the phone, answering questions and providing quotes.
+meta	experience	Assisted with research for new Point Of Sale system, as needed.
+meta	experience	Phone Receptionist
+meta	experience	Apple Lane - Tanner, AL
+meta	experience	November 2016 to December 2016
+meta	experience	Take food orders over the phone.
+meta	experience	Provide quotes to companies for larger orders.
+meta	experience	Report orders to management for preparation.
+meta	experience	Unload trucks and package orders on as needed basis.
+meta	experience	Server
+meta	experience	Apple Lane Farms - Decatur, AL
+meta	experience	April 2016 to June 2016
+meta	experience	Customer service excellence.
+meta	experience	Food preparation.
+meta	experience	Sandwich making.
+meta	experience	Cleaning work and eating areas.
+meta	experience	Jr. IT Security Engineer
+meta	experience	Dynetics Technical Services Redstone Arsenal, AL
+meta	experience	May 2014 to June 2015
+meta	experience	Customer service excellence.
+meta	experience	Vulnerability scanning, assessment and management via McAfee Vulnerability Management tool.
+meta	experience	Patch management via Dell Kace tool.
+meta	experience	Spreadsheet data analysis.
+meta	experience	Technical Support Rep
+meta	experience	Digium, Inc - Huntsville, AL
+meta	experience	December 2013 to April 2014
+meta	experience	Customer service excellence.
+meta	experience	Managed workload between answering customer phone calls and working web-based cases.
+meta	experience	Performed bulk of work in Linux Terminal
+meta	experience	Assisted customers with technical questions concerning Asterisk software configuration, Digium telephony hardware troubleshooting, and advanced networking concepts.
+meta	experience	Wrote articles on commonly used tasks for addition to an ever growing knowledge base.
+meta	experience	Pharmacy Technician
+meta	experience	Wal-Mart Pharmacy - Athens, AL
+meta	experience	September 2013 to November 2013
+meta	experience	Customer service excellence
+meta	experience	Interacted with patients by answering their questions, providing proper medical guidance and understanding, and assisting with any other medical needs.
+meta	experience	Managed inventory, processed prescriptions, and completed payment transactions.
+meta	experience	Information Manager
+meta	experience	Freedom Information Systems, Inc - Madison, AL
+meta	experience	February 2010 to January 2013
+meta	experience	Customer service excellence
+meta	experience	Performed project and data management within ICE and IEC DDMS Windchill environments.
+meta	experience	Executed Confluence Wiki and Liferay Portal development within Freedom and NASA environments.
+meta	experience	Involved in corporate commercial website development efforts.
+meta	experience	Provided Information Management support for the Jacobs ESTS Group efforts within the NASA Ares and SLS programs.
+meta	experience	Developed processes, work instructions, and standards for Information Management personnel and end users.
+meta	experience	Pharmacy Technician
+meta	experience	Walgreen's Pharmacy - Huntsville, AL
+meta	experience	2007 to 2008
+meta	experience	Responsibilities
+meta	experience	Customer service excellence
+meta	experience	Trained and managed new employees.
+meta	experience	Interacted with patients by answering their questions, providing proper medical guidance and understanding, and assisting with any other medical needs.
+meta	experience	Managed inventory, processed prescriptions, and completed payment transactions.
+meta	experience	Pharmacy Technician
+meta	experience	Main Drug Store - Union Springs, AL
+meta	experience	2006 to 2007
+meta	experience	Responsibilities
+meta	experience	Customer service excellence
+meta	experience	Trained and managed new employees.
+meta	experience	Interacted with patients by answering their questions, providing proper medical guidance and understanding, and assisting with any other medical needs.
+meta	experience	Managed inventory, processed prescriptions, and completed payment transactions.
+meta	experience	Pharmacy Technician
+meta	experience	Wal-Mart Pharmacy - Athens, AL
+meta	experience	2001 to 2006
+meta	experience	Customer service excellence
+meta	experience	Trained and managed new employees.
+meta	experience	Interacted with patients by answering their questions, providing proper medical guidance and understanding, and assisting with any other medical needs.
+meta	experience	Managed inventory, processed prescriptions, and completed payment transactions.

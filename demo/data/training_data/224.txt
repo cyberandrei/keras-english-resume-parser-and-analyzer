@@ -1,0 +1,63 @@
+content	education	computer science
+content	education	university of Texas in El paso El Paso, TX
+content	education	2013 to 2014
+content	education	computer science
+content	education	coastal bend college beevile, TX
+content	education	2011 to 2013
+content	education	computer science
+content	education	El paso community college El Paso, TX
+content	education	2010 to 2011
+content	education	computer science
+content	education	enterprise state junior college Enterprise, AL
+content	education	2008 to 2009
+meta	experience	Sales Representative
+meta	experience	TruGreen - Wheat Ridge, CO
+meta	experience	July 2017 to September 2017
+meta	experience	Customer service
+meta	experience	Sales /Upsale
+meta	experience	Tech Support
+meta	experience	Xerox - El Paso, TX
+meta	experience	March 2016 to February 2017
+meta	experience	Responsibilities
+meta	experience	Multi-tasking; using multiple computer screens and programs simultaneously while conversing with the customer in a fast paced environment. 
+meta	experience	Willingness to accept feedback and participate in our coaching environment. 
+meta	experience	Conversation skills to build rapport, show empathy and engage with customers. 
+meta	experience	Listening intently to customers to confidently resolve issues. 
+meta	experience	Diffusing frustrated or distressed customers. Enthusiastically guiding customers in product recommendations.
+meta	experience	Explain products or services and prices, and answer questions from customers.
+meta	experience	Obtain customer information such as name, address, and payment method, and enter orders into computers.
+meta	experience	Record names, addresses, purchases, and reactions of prospects contacted.
+meta	experience	Adjust sales scripts to better target the needs and interests of specific individuals.
+meta	experience	Answer telephone calls from potential customers who have been solicited through advertisements.
+meta	experience	Schedule appointments for sales representatives to meet with prospective customers or for customers to attend sales presentations.
+meta	experience	Explain products or services and prices, and answer questions from customers.
+meta	experience	Sales Representative
+meta	experience	Alorica-Directv - El Paso, TX
+meta	experience	September 2014 to March 2015
+meta	experience	Responsibilities
+meta	experience	Multi-tasking; using multiple computer screens and programs simultaneously while conversing with the customer in a fast paced environment. 
+meta	experience	Willingness to accept feedback and participate in our coaching environment. 
+meta	experience	Conversation skills to build rapport, show empathy and engage with customers. 
+meta	experience	Listening intently to customers to confidently resolve issues. 
+meta	experience	Diffusing frustrated or distressed customers. Enthusiastically guiding customers in product recommendations.
+meta	experience	Explain products or services and prices, and answer questions from customers.
+meta	experience	Obtain customer information such as name, address, and payment method, and enter orders into computers.
+meta	experience	Record names, addresses, purchases, and reactions of prospects contacted.
+meta	experience	Adjust sales scripts to better target the needs and interests of specific individuals.
+meta	experience	Answer telephone calls from potential customers who have been solicited through advertisements.
+meta	experience	Schedule appointments for sales representatives to meet with prospective customers or for customers to attend sales presentations.
+meta	experience	Explain products or services and prices, and answer questions from customers.
+meta	experience	Team member/Cook/Prep
+meta	experience	Charley's - Fort Bliss, TX
+meta	experience	March 2013 to June 2013
+meta	experience	Responsibilities
+meta	experience	Prep and customer service
+meta	experience	Sales Associate/ Customer Service Rep
+meta	experience	Walmart - El Paso, TX
+meta	experience	January 2011 to July 2011
+meta	experience	Responsibilities
+meta	experience	Excellent customer service,  retail work,  warehouse loading and unloading and maintain plastic and chemical department. 
+meta	experience	Accomplishments
+meta	experience	Positive attitude and easy to get along with, also bringing determination and confidence to my sales team. 
+meta	experience	Skills Used
+meta	experience	My ability to adjust and complete my assignments on time consistently.

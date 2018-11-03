@@ -1,0 +1,18 @@
+meta	experience	Sales Associate
+meta	experience	Forever 21 - Folsom, CA
+meta	experience	April 2018 to June 2018
+meta	experience	Organizing sales floor 
+meta	experience	Worked in fitting rooms
+meta	experience	Aided customers with questions they had
+meta	experience	Tutor
+meta	experience	High School Equivalency Program (HEP) - Lodi, CA
+meta	experience	June 2017 to June 2017
+meta	experience	Aided students with school work in which they had trouble with.
+meta	experience	● Revised and examined study guides for future exams.
+meta	experience	● Assisted in meetings to discuss how students were following up.
+meta	experience	Cashier
+meta	experience	Jack in the Box - Galt, CA
+meta	experience	2017 to January 2017
+meta	experience	Monitored cash register and handled money with customers
+meta	experience	● Recommended customers to purchase merchandise
+meta	experience	● Kept area cleaned and restocked food needed

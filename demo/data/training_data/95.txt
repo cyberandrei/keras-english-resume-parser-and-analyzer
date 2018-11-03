@@ -1,0 +1,43 @@
+content	education	Bachelor's in Information Technology
+content	education	University of Miami Miami, FL
+meta	experience	Sales
+meta	experience	IES COMM - Phoenix, AZ
+meta	experience	March 2015 to Present
+meta	experience	Phoenix Arizona  03/2015 - PRESENT
+meta	experience	Delivered service excellence by maintaining 100%, Installation and  troubleshooting .Reduced Mean time to delivery services, Implemented a VoIP and Cisco Telepresence video conferencing system which reduced telephony and client
+meta	experience	Travel costs. Plan, design implement and optimize the company network infrastructure in support of all Data Center,
+meta	experience	Sales, Manufacturing. Install networking equipment lift/shift, Installation Blades servers and Chassis, Working in CyrusOne Virginia to install the Network Backbone cables Fiber and Copper, Moved to CyrusOne DC3 in Ohio to work Delivered Services and maintain the Network and the maintain the cable matrix update
+meta	experience	PARSONS TECHNOLOGIES
+meta	experience	February 2013 to February 2015
+meta	experience	Cubs Spring Training Facility is the new open outdoor baseball stadium. Provided Installation new Access Control and Surveillance System using S2 and integrated with Ocularis IP Video Platform, also Voice & Data, Sound reinforcement with 9 individual AV systems.
+meta	experience	PROJECT MANAGER / PROJECT ESTIMATOR
+meta	experience	PARSONS TECHNOLOGIES
+meta	experience	July 2004 to February 2015
+meta	experience	Minnesota and Arizona 07/2004 - 02/2015
+meta	experience	Responsible for the detailed Telecom Standards, Design and deployment for  all global Telecom Monitoring and management .Tools for Lan, Wireless, Wan, Voice, Video and Security. Outside Plant (OSP) maintenance of outside plant facilities Codes, standards and organizations that regulate OSP, Grounding and bounding, Splicing, Route design underground Direct-buried and Aerial cable plant. Strong Knowledge voice networking environments VOIP rest and
+meta	experience	Decode TCP/IP Identify the correct IP address class and Subnets. Maintenance and repair Analog IP cameras, PTZ protocols, Video testing and troubleshooting, Video storage, Fiber Optic Communications, Access and Control Systems, Electronic Locking Systems. Crestron  Control Solutions simple press the button to instantly Access Lighting, Shades, Thermostats, Digital Media, AV presentation all from the same touch screen. Installation Digital Signal Processing DSP and Cable flow.
+meta	experience	PROJECT MANAGER / PROJECT ESTIMATOR
+meta	experience	As a project Manager I have full responsibility for accounts execution in all local, regional and national assigned accounts. Supervise teams within a Minnesota, Arizona and Florida area comprised of large accounts, such as Miami Dade public schools, Miami Dade County, Miami Dade College and FT Lauderdale public schools. Responsible for the execution of all sales priorities, as well as identifying and developing core talent, including coaching and development of direct reports while ensuring a culture of learning and development exists throughout the selling organization.
+meta	experience	• Represent Company in local government / community forums, as needed, on issues that impact our business.
+meta	experience	• Drive Live Positively initiatives in field.
+meta	experience	• Responsible for Military Installation and Security.
+meta	experience	• Maintain effective communication with all internal and external customers.
+meta	experience	• Identify and develop new opportunities for increased business.
+meta	experience	PARSONS TECHNOLOGIES - Berkeley, CA
+meta	experience	June 2012 to February 2013
+meta	experience	California Memorial Stadium is the outdoor football Stadium for the University of California, Golden Bears, provided
+meta	experience	The Broadcast, Sound, AV and SMATV System. Installation and testing TRAIX cable, video and audio cable installation,
+meta	experience	Television production trucks were developed to take television studios on the road so video productions could be made at distant locations for a remote  broadcast, outside broadcasting (OB), electronic field production (EFP) with multiple camera setup and a support of a number of different technologies to bring everything together.
+meta	experience	PARSONS TECHNOLOGIES - Miami, FL
+meta	experience	October 2011 to June 2012
+meta	experience	The Florida Marlin Ballpark is the new Baseball Stadium constructed in Little Havana, Broadcast, AV Systems, Teledata  and speaker, Comprehensive solutions for all infrastructure types CAT5e, CAT6, CAT6a, CAT7, fiber optic, and Wireless networks. Our own guaranteed for life, Black Box GigaTrue  and GigaBase CAT5e solutions. Outside plant capabilities for buried and aerial cable networks, CATV, and video systems, including placing poles and erecting transmitters and receivers.
+meta	experience	PARSONS TECHNOLOGIES - Minneapolis, MN
+meta	experience	March 2011 to October 2011
+meta	experience	The new Minnesota Twins Ballpark in downtown Minneapolis provided and install Technology Systems including Broadcast cable, SMATV, sound reinforcing, AV Systems Voice and Data cabling infrastructure and Security Systems
+meta	experience	(Access control and Surveillance)
+meta	experience	PARSONS TECHNOLOGIES - Fort Hood, TX
+meta	experience	August 2010 to March 2011
+meta	experience	Soldier's Family Assistance Center provided Structural cabling for the project Cat6, and Cat7 cable 1876 Station cables, 144 Fiber Optic in 10 IDF rooms, Charge of planning coordinating and directing telecommunications projects, Perform required design calculations .Write and edit applicable technical specifications.  Develop construction cost estimates, Perform follow up for bidding and construction phases. Display expertise in all electronic security systems. Provide the design specifications, configuration, and commissioning of large scale local, integrated and network based systems.
+meta	experience	PARSONS TECHNOLOGIES - Laveen, AZ
+meta	experience	January 2010 to August 2010
+meta	experience	The new Vee Quiva Casino and Hotel replace the Gila River Tribe's Technologies scope of work included the installation of the Voice and Data, Audio Visual and Security Systems.

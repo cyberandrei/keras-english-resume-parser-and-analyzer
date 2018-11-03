@@ -1,0 +1,22 @@
+content	education	Radio/Television Ad Sales
+content	education	ARKANSAS STATE UNIVERSITY
+content	education	1994 to 1996
+content	education	CAVE CITY HIGH SCHOOL
+content	education	1990 to 1993
+meta	experience	Retail Sales Representative
+meta	experience	Acosta Sales and Marketing
+meta	experience	October 2016 to Present
+meta	experience	Service multiple retail locations in a specified region on a daily basis and introduce new products to management. Initiate the order process and cut in the SKUs for each. Set up retail displays for the placement of client products to increase sales. Distribution checks for each of Acosta's clients, indicating whether or not product is in stock or out. Inform management of any out of stock items and confirm product reorder. Perform daily data transfers of information to the Acosta home office.
+meta	experience	Office Manager and Outside Sales and Client Relations
+meta	experience	KC's Consulting - Greenbrier, AR
+meta	experience	March 2003 to March 2010
+meta	experience	Managed an office on a daily basis performing tasks such as answering the telephone, computing, faxing and filing of client reports. Going to new car dealerships to assist in the sales of new product and picking up new monthly sales contracts.
+meta	experience	Parts Sales
+meta	experience	United Motor Company Dodge Chrysler - Conway, AR
+meta	experience	March 2000 to March 2003
+meta	experience	Gold Certified Daimler/Chrysler Parts Sales
+meta	experience	Assisted and selling of automobile parts in and outside of the dealership on a daily basis. Working with large accounts regularly including invoicing. Checking in, entering into inventory and stocking of products daily. Assisted and managed product inventory on a regular basis.
+meta	experience	Product Merchandiser/Product Sales
+meta	experience	Coca-Cola Refreshments - Jonesboro, AR
+meta	experience	June 1996 to March 2000
+meta	experience	Assisted and stocking of merchandise in large and small grocery chains. Daily product sales and account distribution, while taking care of the largest account in the state. Meeting with store managers on advancing the marketing of our product. Making sure that all cleanliness codes are met at all of my accounts.

@@ -1,0 +1,4 @@
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Sams
+meta	experience	Sales associate

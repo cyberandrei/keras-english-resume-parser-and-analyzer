@@ -1,0 +1,6 @@
+content	education	North Little Rock High School North Little Rock, AR
+content	education	August 1992 to May 1995
+meta	experience	Sales Representative
+meta	experience	Fletcher Auto Group - Sherwood, AR
+meta	experience	August 2013 to Present
+meta	experience	Sales

@@ -1,0 +1,5 @@
+content	education	Some high school
+meta	experience	Wal mart
+meta	experience	Sales
+meta	experience	July 2016 to November 2016
+meta	experience	Overnight sales

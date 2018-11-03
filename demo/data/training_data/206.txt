@@ -1,0 +1,16 @@
+content	education	Sports Management
+content	education	Campbellsville University Campbellsville, KY
+meta	experience	Inventory Manager & Sales
+meta	experience	Sterling Auto Sales
+meta	experience	August 2017 to Present
+meta	experience	- Franktown
+meta	experience	* Responsible for entire Inventory gaining an average asset turnover of over 100 units per month between multiple locations
+meta	experience	* Facilitated and improved on interdepartmental functionality between inventory, maintenance, sales and management.
+meta	experience	* Coordinated all employees/schedules involved in inventory movement/maintenance.
+meta	experience	Assistant Director of Team Colorado / Skill Director
+meta	experience	Bardo's Diamond Sports - Parker, CO
+meta	experience	June 2013 to August 2017
+meta	experience	Bardos
+meta	experience	* Created new curriculum for individual and team development used successfully for over 4 years.
+meta	experience	* Coordinated meetings and events as well as facilitating recruiting.
+meta	experience	* Coordinated all financial planning, tournament scheduling along with travel plans/expenses for multiple organization teams.

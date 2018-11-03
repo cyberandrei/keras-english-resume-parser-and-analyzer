@@ -1,0 +1,27 @@
+content	education	High School Diploma
+content	education	Garden Grove High School Garden Grove, CA
+content	education	June 2010
+meta	experience	Counter Sales Representative
+meta	experience	A to Z Equipment Rentals & Sales - Goodyear, AZ
+meta	experience	2016 to Present
+meta	experience	• Contact new and existing customers to discuss their needs
+meta	experience	• Resolve customer complaints regarding sales and service
+meta	experience	• Answer customers' questions about products, prices, availability, and credit terms
+meta	experience	• Enter orders into automated system
+meta	experience	• Increased the sales of the store, following companies' new strategies and plans
+meta	experience	• Work with management team to achieve revenue maximization
+meta	experience	Counter Sales Representative
+meta	experience	F&B Rentals - Santa Ana, CA
+meta	experience	2012 to 2016
+meta	experience	• Gained excellent communication skills through effectively communicating with customers and management.
+meta	experience	• Assisted in delivery tracking and confirmation of receipt
+meta	experience	• Addressed any customer service issues arising from non-supplied, under orders, over orders and damaged goods
+meta	experience	• Achieve personal sales goals while supporting team goals
+meta	experience	• Assisting customers in making product selections
+meta	experience	Bellman
+meta	experience	Embassy Suites - Santa Ana, CA
+meta	experience	2010 to 2012
+meta	experience	• Escorted incoming hotel guests to rooms
+meta	experience	• Assisted guest with hand luggage, and offered information pertaining to hotel services
+meta	experience	• Clarified features of room and operations of hotel facility
+meta	experience	• Conveyed to guests аbοut the premises and local attractions

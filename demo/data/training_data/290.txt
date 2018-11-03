@@ -1,0 +1,28 @@
+content	education	B.B.A in Business Management
+content	education	Western Connecticut State University Danbury, CT
+content	education	May 2015
+meta	experience	Sales
+meta	experience	TNT Fireworks, Central CT
+meta	experience	2011 to Present
+meta	experience	Retail sales
+meta	experience	• Customer service
+meta	experience	Activities: -Member in the Marketing Club
+meta	experience	Volunteer Projects:
+meta	experience	- Campaigned for Linda McMahon
+meta	experience	- Volunteered in teaching basketball for Special Olympics
+meta	experience	- Helped organize events with Glastonbury Chamber of Commerce
+meta	experience	Host
+meta	experience	J. Gilberts Wood Fired Steaks & Seafood - Glastonbury, CT
+meta	experience	May 2009 to Present
+meta	experience	Hostess
+meta	experience	• Busser
+meta	experience	• Food Runner
+meta	experience	Accomplishments:
+meta	experience	• Best of Hartford service staff
+meta	experience	• Number 1 in gift card sales December 2014
+meta	experience	Host
+meta	experience	Pond House Grille - Glastonbury, CT
+meta	experience	May 2013 to August 2013
+meta	experience	Managed large party reservations
+meta	experience	• Handled gift cards and to-go orders
+meta	experience	Accomplishments:

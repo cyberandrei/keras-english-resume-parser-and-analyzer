@@ -1,0 +1,18 @@
+content	education	Certificate of Entrepreneurship in Entrepreneurship
+content	education	Business Marketing Springfield Technical Community College
+content	education	October 2016
+meta	experience	Sales Associate
+meta	experience	Savers - Springfield, MA
+meta	experience	October 2018 to Present
+meta	experience	Sales Associate and Cashier
+meta	experience	Parts Sales And Water Tech
+meta	experience	NAMCO POOLS - Springfield, MA
+meta	experience	April 2018 to October 2018
+meta	experience	Cashier, parts sales, water tech, and stocking
+meta	experience	Cashier
+meta	experience	Dani's Mini Mart - Springfield, MA
+meta	experience	March 2017 to October 2017
+meta	experience	Cashier and Customer Service
+meta	experience	Caretaker
+meta	experience	Sunshine Daycare - Springfield, MA
+meta	experience	May 2016 to January 2017

@@ -1,0 +1,39 @@
+content	education	General Studies
+content	education	Northwest Shoals Community College Birmingham, AL
+content	education	August 2009 to December 2013
+meta	experience	Retail Merchandiser
+meta	experience	Acosta Sales & Marketing - Huntsville, AL
+meta	experience	March 2018 to Present
+meta	experience	• Deliver sales fundamentals (Distribution, Shelving, and Merchandising) and accomplishes goals in assigned territory and performs special reset projects
+meta	experience	• Coordinate and maintain all merchandising events in assigned territory and follow Company policy in execution of work
+meta	experience	• Develop and execute personal Performance Agreement
+meta	experience	• Read a schematic and reset a category, receiving and reporting work through a web based application; may transport on-site delivery of all materials, supplies and equipment
+meta	experience	• Maintain full distribution and display of products in assigned accounts
+meta	experience	• Rotate stock, clean and stock display and price merchandise as appropriate
+meta	experience	• Perform such duties as checking date codes, ensuring adherence to approved plan-o-gram replacing decals/re-order tags or ads and placing point of purchase material
+meta	experience	• Communicates customer needs and completes objectives as assigned by Unit or Sales Manager
+meta	experience	• Report observations to Unit manager regarding outdated products, unbalanced stock, out-of-stock situations
+meta	experience	Retail Team Trainer
+meta	experience	CROSSMARK
+meta	experience	November 2015 to Present
+meta	experience	• Responsible for training new retail representatives the Crossmark policies and procedures.
+meta	experience	• Working with both new and current employees to demonstrate new duties such as display resetting and store auditing.
+meta	experience	• Consistently communicate with district manager in order to ensure store coverage is thorough and staffing needs are addressed.
+meta	experience	• Ensure retail representatives are certified to report projects properly and to use all company owned mobile devices.
+meta	experience	Retail Team Supervisor - Birmingham District
+meta	experience	CROSSMARK
+meta	experience	March 2015 to November 2015
+meta	experience	• Consistently meet and exceed sales and execution goals.
+meta	experience	• Supervised up to 80 part time reps in the Alabama/Mississippi area.
+meta	experience	• Responsible for reading and communicating daily sales, execution, and resource allocation reports to various teams and corporate.
+meta	experience	• Monitor and manage payroll time entries and expenses.
+meta	experience	• Assign and manage team projects efficiently.
+meta	experience	• Ensure quality execution.
+meta	experience	Retail Team Mentor
+meta	experience	CROSSMARK
+meta	experience	January 2012 to February 2015
+meta	experience	• Mentor to existing representatives
+meta	experience	• Train new representatives
+meta	experience	• Work with various Big Box retail management teams to ensure Planograms are set properly for each client.
+meta	experience	• Sell in displays as well as place in dominant areas.
+meta	experience	• Use rapport to build relationships with all pertinent managers throughout the store.

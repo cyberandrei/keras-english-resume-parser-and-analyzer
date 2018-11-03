@@ -1,0 +1,30 @@
+content	education	Bachelor of Science in Education in Education
+content	education	University of Alabama Birmingham, AL
+content	education	Certification in Acquisitions and Contract Management
+content	education	Athens State University Athens, AL
+meta	experience	Sales, Keyholder
+meta	experience	Gap, Inc - Huntsville, AL
+meta	experience	August 2017 to Present
+meta	experience	Excellent sales and customer service,
+meta	experience	Substitute Teacher
+meta	experience	Huntsville City Schools - Huntsville, AL
+meta	experience	April 2012 to Present
+meta	experience	Sales Associate
+meta	experience	Kohl's - Huntsville, AL
+meta	experience	March 2017 to August 2017
+meta	experience	Sales Associate
+meta	experience	Dillard's - Huntsville, AL
+meta	experience	July 2016 to February 2017
+meta	experience	Software Sales Account Manager
+meta	experience	Dell Inc - Atlanta, GA
+meta	experience	January 2010 to October 2010
+meta	experience	Recruited to sell into State and Local Government Accounts in Georgia, South Carolina, and Washington DC.  Team Lead for major Microsoft contract with the State of Georgia.
+meta	experience	Enterprise Sales Representative
+meta	experience	Hewlett-Packard Company - Atlanta, GA
+meta	experience	November 2003 to February 2008
+meta	experience	Recruited to company to develop new business opportunities within the mid-to-large account space focusing on technical solutions requiring software, services, server and storage hardware.  Strong knowledge of complex computer environments, virtualization, IT services consulting, consolidation, Storage Area Networks, enterprise storage solutions, backup and recovery strategies, disaster tolerant solutions and multiple operating systems allowed me to consistently achieve revenue goals each year by establishing relationships within assigned accounts and developing solutions to meet customer business goals of increased efficiency at a lower cost. Working as a team leader with strategic partners to develop solutions around outsourcing, disaster recovery, consolidation projects and new application initiatives provided for the successful completion of customer projects and increased market share for HP. With consistent forecasting between 12-15 opportunities per quarter led to growing the territory by approximately $20 million in four years.
+meta	experience	Over-achievement of revenue quota FY04, FY05, FY06, FY07.
+meta	experience	• Closed $2.8M hardware, software, and consulting services for SAP opportunity
+meta	experience	• Closed $3.0M hardware, software, storage, stack assessment and application migration services opportunity
+meta	experience	• Award for Best 'New Business' Opportunity, FY07
+meta	experience	• MARTA opportunity for 4M; Oracle solution project for hardware, software and services.

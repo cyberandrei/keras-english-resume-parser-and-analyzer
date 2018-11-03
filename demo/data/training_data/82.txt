@@ -1,0 +1,24 @@
+content	education	N/A in Science
+content	education	Estrella Mountain Community College Avondale, AZ
+content	education	August 2016 to May 2020
+content	education	MEDICAL ASSISTING
+content	education	Wes-MEC Northeast campus Phoenix, AZ
+content	education	2014 to 2016
+content	education	Copper Canyon High School Glendale, AZ
+content	education	2012 to 2016
+meta	experience	Sales
+meta	experience	JCPenney - Peoria, AZ
+meta	experience	June 2018 to August 2018
+meta	experience	I worked as a cashier, I did sales with the credit cards they have, cleaned up the store throughout the day and during closing.
+meta	experience	Driver Helper
+meta	experience	UPS - Avondale, AZ
+meta	experience	November 2017 to January 2018
+meta	experience	Helped deliver packages during busy holiday
+meta	experience	Sales Associate
+meta	experience	Ross Dress For Less - Avondale, AZ
+meta	experience	April 2017 to December 2017
+meta	experience	I did cashiering while also being the front end supervisor. I also worked in the fitting room, organizing clothes on the rack and making sure the area was secured from theft. I did some security in the store and I had to greet customers as they came in. I worked on the sales floor, restored the store, and made sure it looked the way it did when we opened.
+meta	experience	Driver Helper
+meta	experience	UPS - Avondale, AZ
+meta	experience	December 2016 to January 2017
+meta	experience	Helped UPS driver deliver packages

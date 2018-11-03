@@ -1,0 +1,24 @@
+content	education	HENRY HIGH SCHOOL MPLS Minneapolis, MN
+content	education	Music
+content	education	College Primarily
+meta	experience	Managing General Partner
+meta	experience	Prairie View RV Sales
+meta	experience	June 2009 to June 2018
+meta	experience	Responsible for all day to day operations. Gross sales doubled year over year for first five years.
+meta	experience	Sales Associate
+meta	experience	Camping World and RV Sales
+meta	experience	September 2007 to March 2009
+meta	experience	Despite being new to the industry, one of only 4 Sales Associates kept on during the great recession of 2008.
+meta	experience	Sales/Technician
+meta	experience	MTE Technologies
+meta	experience	March 2003 to June 2007
+meta	experience	Made and received sales calls for telephone, audio and internet systems. Also configured and installed low voltage systems. Managed existing accounts.
+meta	experience	Owner
+meta	experience	CMS Denver Metro
+meta	experience	August 1997 to August 2002
+meta	experience	Prospected and sold systems to the Broadcast Television world and commercial presentation companies.
+meta	experience	Regional Account Manager
+meta	experience	Digital Images Inc
+meta	experience	April 1995 to 1997
+meta	experience	Performed all aspects involved with high ticket consultative sales to the Broadcast Television and Post Production industry. Sold over $1Million my first year.
+meta	experience	*additional details or employers available upon request

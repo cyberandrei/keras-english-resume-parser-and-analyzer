@@ -1,0 +1,40 @@
+content	education	Bachelors of Science in Business Administration
+content	education	University of Colorado, Leeds School of Business Boulder, CO
+content	education	May 2014
+content	education	Associates of Applied Science in Business
+content	education	Frontrange College Longmont, CO
+content	education	June 2013
+content	education	Associate of Arts in Business
+content	education	Frontrange College Boulder, CO
+content	education	June 2013
+meta	experience	Retail Sales Associate
+meta	experience	Nordstroms - Costa Mesa, CA
+meta	experience	May 2018 to July 2018
+meta	experience	Sales associate
+meta	experience	Sales & Marketing Associate
+meta	experience	Flamestower - Boulder, CO
+meta	experience	May 2015 to January 2016
+meta	experience	Stower is an energy company. Running end-to-end distributed systems, creating reliable, economic solutions to specific power needs. Providing off-grid charging for varies electronics
+meta	experience	Retail Sales
+meta	experience	Macy's - Boulder, CO
+meta	experience	November 2014 to May 2015
+meta	experience	Macy's, Boulder CO Nov. 2014- May 2015
+meta	experience	Retail Sales Associate
+meta	experience	-Men's clothing and home furnishings department
+meta	experience	Sales & Marketing Associate
+meta	experience	HobbyDB, Inc - Boulder, CO
+meta	experience	July 2014 to November 2014
+meta	experience	HobbyDB is an internet-based searchable database for collectors which include transaction capabilities. I used direct telemarketing, social media, electronic searching and contact, market research and editing of postings to website
+meta	experience	Volunteer
+meta	experience	Service Work - Boulder, CO
+meta	experience	March 2012 to June 2014
+meta	experience	-Keynote speaker at Rogers Memorial Hospital groundbreaking $36M expansion of the adolescence campus
+meta	experience	-Motivational Speaker at Frontrange College, University of Colorado, & Eagle County High Schools
+meta	experience	Sales & Accounting Associate
+meta	experience	Neve Designs - Boulder, CO
+meta	experience	August 2013 to January 2014
+meta	experience	Assisted in purchasing and logistics, marketing on-line and through retail channels, inventory and distribution and general ledger accounting. Cohosted Neve Design's annual sales event.
+meta	experience	Volunteer
+meta	experience	Service Work
+meta	experience	March 2012 to January 2013
+meta	experience	-Tutored and mentored middle and elementary school students

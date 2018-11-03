@@ -1,0 +1,77 @@
+content	education	Phlebotomy
+content	education	Mid South Community College West Memphis, AR
+content	education	August 2012 to August 2014
+content	education	AA in Business Accounting
+content	education	Pulaski Technical College North Little Rock, AR
+content	education	2011 to 2014
+content	education	Diploma in General Education
+content	education	Greenbrier High School Greenbrier, AR
+content	education	2004 to 2006
+meta	experience	Accounting Assistant
+meta	experience	Northside Sales - North Little Rock, AR
+meta	experience	August 2018 to Present
+meta	experience	• Create customer invoices
+meta	experience	• Create Sales orders
+meta	experience	• Accounts Receivable
+meta	experience	• Manage customer accounts
+meta	experience	• Package and ship customer orders
+meta	experience	• Credit card system
+meta	experience	• File documents
+meta	experience	• Run daily reports
+meta	experience	• Run UPS
+meta	experience	Server
+meta	experience	Beef O' Brady's - Maumelle, AR
+meta	experience	March 2018 to August 2018
+meta	experience	Food and drink service
+meta	experience	Customer service
+meta	experience	Accounting Assistant
+meta	experience	Staffmark - North Little Rock, AR
+meta	experience	September 2016 to October 2017
+meta	experience	Enter vendor invoices in company system
+meta	experience	Mail out customer invoices
+meta	experience	Add checks received
+meta	experience	Check Deposit
+meta	experience	Print checks
+meta	experience	Post payments
+meta	experience	Accounts payable/receivable
+meta	experience	Answer phone
+meta	experience	Print monthly statements
+meta	experience	Medical Billing Specialist
+meta	experience	Complete Care - North Little Rock, AR
+meta	experience	September 2014 to August 2016
+meta	experience	Responsibilities
+meta	experience	Medical Billing
+meta	experience	Patient Accounts
+meta	experience	Incoming and Outgoing payments
+meta	experience	Insurance adjustments
+meta	experience	Medical Claims
+meta	experience	Insurance Claims
+meta	experience	Filing
+meta	experience	Copying
+meta	experience	Faxing
+meta	experience	Accomplishments
+meta	experience	New billing software
+meta	experience	Skills Used
+meta	experience	Accounting, customer service, HIPPA, Microsoft, as400 software
+meta	experience	Accounting Assistant
+meta	experience	Career Staffing Services - North Little Rock, AR
+meta	experience	May 2014 to August 2014
+meta	experience	Close out customer invoices
+meta	experience	Accounts payable/receivable 
+meta	experience	Run order and invoice reports
+meta	experience	Total all customer service accounts
+meta	experience	File important documents
+meta	experience	Run national uploads
+meta	experience	Bill customers 
+meta	experience	Data entry
+meta	experience	Microsoft Excel and Word
+meta	experience	Customer Service
+meta	experience	Open new customer accounts
+meta	experience	KIVA, Warehouse
+meta	experience	Dillard's Fulfillment Center - Maumelle, AR
+meta	experience	March 2012 to May 2014
+meta	experience	Organize Cosmetics
+meta	experience	Package customer orders
+meta	experience	Quality Control   
+meta	experience	Warehouse Inventory
+meta	experience	Hazmat Certified

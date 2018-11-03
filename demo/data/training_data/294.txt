@@ -1,0 +1,35 @@
+content	education	BS in Industrial Engineering
+content	education	Western New England University Springfield, MA
+content	education	January 1988 to June 1993
+meta	experience	Preowned Vehicle Facilitator
+meta	experience	Enfield Street Auto Sales - Enfield, CT
+meta	experience	August 2013 to Present
+meta	experience	Family Owned Used Vehicle Sales
+meta	experience	Whatever needs to be done to get cars ready for sales, auctions, or customer delivery.
+meta	experience	Owner and Manager
+meta	experience	Forest Park Rentals - Springfield, MA
+meta	experience	April 2004 to July 2013
+meta	experience	Owner and Operator of Rental Company
+meta	experience	Renting Party Equipment, Tents, Tables, Supplies, etc. 
+meta	experience	Renting Power equipment, generators, compressors, etc.
+meta	experience	Renting small scale tools
+meta	experience	Purchased, Maintained, and Disposed of items to maximize profits and competitiveness.
+meta	experience	Sales Consultant
+meta	experience	Lewbar Imports  (Mercedes Benz  West Springfield, MA) - West Springfield, MA
+meta	experience	October 1996 to March 2004
+meta	experience	Full Time Salesperson
+meta	experience	Acting Sales Manager last two years
+meta	experience	Held 3rd Highest Grosses in New England  2001, 2002
+meta	experience	Production Supervisor 2nd Shift
+meta	experience	Olympic Sales - Enfield, CT
+meta	experience	November 1987 to October 1996
+meta	experience	Specialty Marketing Products.
+meta	experience	Printing, Packaging, and preparing Stationary items for retail sale.
+meta	experience	Managed night shift crew (23-70) in fast paced production environment.
+meta	experience	Warehouse Worker
+meta	experience	American Honda Motor Co - Davenport, IA
+meta	experience	January 1980 to October 1987
+meta	experience	Aircraft Maintenance Technician
+meta	experience	US Air Force
+meta	experience	1976 to 1980
+meta	experience	Veteran

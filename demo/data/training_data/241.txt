@@ -1,0 +1,50 @@
+content	education	Marketing and Sales
+content	education	Metropolitan State University of Denver Denver, CO
+content	education	August 2016 to May 2020
+content	education	Front Range Community College Westminster, CO
+content	education	2014 to 2016
+content	education	General Education
+content	education	Legacy High School Broomfield, CO
+content	education	2014
+meta	experience	Sales Representative
+meta	experience	Club Pilates - Thornton, CO
+meta	experience	January 2018 to Present
+meta	experience	*Retail Sales
+meta	experience	*Membership Sales
+meta	experience	* Cold Calls & Texts
+meta	experience	* Creating emails & Sending them out
+meta	experience	* Costumer Service
+meta	experience	Event Coordinator, Email Marketer
+meta	experience	Mile High Wine Tours - Denver, CO
+meta	experience	April 2017 to March 2018
+meta	experience	• Create monthly marketing emails
+meta	experience	• Check Metrics
+meta	experience	• Send emails out to costumers
+meta	experience	• Come up with marketing strategies to get costumers to open email and buy tours.
+meta	experience	•  Designing & writing emails
+meta	experience	• Sales by getting corporations to do events with us
+meta	experience	• Make and create events for business and private events.
+meta	experience	Retail Sales Associate
+meta	experience	H&M - Westminster, CO
+meta	experience	September 2014 to 2016
+meta	experience	Responsibilities
+meta	experience	Sales, Customer Service, truck (new products, stock them)
+meta	experience	Hostess
+meta	experience	Fox and Hound
+meta	experience	2012 to 2015
+meta	experience	• Welcome customers in a friendly professional manner.
+meta	experience	• Manage Pool Tables.
+meta	experience	• Responsible for the cleanliness of the customer dining area.
+meta	experience	• Seating
+meta	experience	• Took some orders
+meta	experience	• Managed call in and pick up orders
+meta	experience	• Managed Alcohol log
+meta	experience	• TV's
+meta	experience	Retail Sales Associate
+meta	experience	Justice - Broomfield, CO
+meta	experience	2012 to 2013
+meta	experience	• Cashier operations.
+meta	experience	• Customer greeting.
+meta	experience	• Responsible for the set-up of clothing displays.
+meta	experience	• Inventory and stocking.
+meta	experience	• Store cleaning.

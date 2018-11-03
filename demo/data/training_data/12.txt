@@ -1,0 +1,29 @@
+content	education	High School Diploma in Basic Studies
+content	education	John F. Kennedy High School New Orleans, LA
+content	education	1999 to 2002
+meta	experience	Food and Beverage Attendant
+meta	experience	Post Restaurant - Redstone Arsenal, AL
+meta	experience	March 2016 to Present
+meta	experience	Serving food, prepping, and cleaning my  area.
+meta	experience	Line Cook/Prep Cook
+meta	experience	Ruth's Chris - Sizzling Steak Concepts - Huntsville, AL
+meta	experience	September 2013 to March 2016
+meta	experience	Prepare a variety of foods; meat, seafood, poultry, vegetable, and cold food.
+meta	experience	Use food preparation tools in accordance with manufactures instructions. Assist with all duties as assigned by Kitchen Manager.
+meta	experience	Inventory Clerk
+meta	experience	Huntsville Hospital - Huntsville, AL
+meta	experience	October 2010 to August 2013
+meta	experience	Compiles and maintains records of quantity, type, and value of material, equipment, merchandise, or supplies stocked in establishment. Count material and posts totals to inventory records.  Prepares reports, such as inventory balance, price lists, and shortages. Verifies clerical computations against physical count of stock and adjust errors in computation or count, or investigates and reports reasons for discrepancies.
+meta	experience	Machine Press Operator
+meta	experience	Matsu Alabama - Huntsville, AL
+meta	experience	August 2008 to October 2010
+meta	experience	Responsible for measuring completed work pieces to verify conformance to specifications, using micrometers, gauges, calipers, templates, or rulers. Load work pieces, plastic material, or chemical solutions into machines.  Install, align, and lock specified punches, dies, cutting blades, or other fixtures or beds of machines. Start machines, monitor their operations, and record operational data. Set up, operate, or tend machines to saw, cut, shear, slit, punch, crimp metal or plastic.
+meta	experience	Driver/Warehouse
+meta	experience	Sticks "N" Stuff Furniture - Meridianville, AL
+meta	experience	October 2006 to November 2009
+meta	experience	Organize and monitor inventory levels to maximize efficiency.  Monitor inventory levels to maximize efficiency. Trained new employees on company customer service policies and service level standards. Schedule employee shifts as well as organize the shipment and reception of products.
+meta	experience	Solderer/Production Assembly
+meta	experience	Benchmark Electronics - Madison, AL
+meta	experience	May 2004 to September 2006
+meta	experience	Responsibilities
+meta	experience	Duties included testing and repairing motherboards and servers. Mechanical assembly of Dell and Sun Libraries. Hand loading and soldering of P.C. boards. Assembly of cable harness and making solder connection.

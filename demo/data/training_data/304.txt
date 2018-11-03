@@ -1,0 +1,11 @@
+content	education	High school or equivalent in Business
+content	education	Polytech High School Woodside, DE
+content	education	August 2006 to May 2010
+meta	experience	Sales Associate
+meta	experience	Walmart - Middletown, DE
+meta	experience	June 2014 to August 2016
+meta	experience	Sales Associate/Cashier
+meta	experience	Machinist/Floor Operator
+meta	experience	Letica Corporation - Middletown, DE
+meta	experience	February 2011 to October 2012
+meta	experience	Production Line Worker

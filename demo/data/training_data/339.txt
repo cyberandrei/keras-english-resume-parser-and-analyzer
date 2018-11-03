@@ -1,0 +1,48 @@
+content	education	Master of Science in (M.S.), Criminal Justice Administration
+content	education	Columbia Southern University Orange Beach, AL
+content	education	2017
+content	education	DOA Security Guard Academy
+content	education	2017
+content	education	Bachelor of Science in (B.S.), Criminal Justice Administration
+content	education	Columbia Southern University Orange Beach, AL
+content	education	2013
+content	education	Associate of Science in (A.S.), Criminal Justice
+content	education	Park University Parkville, MO
+content	education	2005
+meta	experience	Mercedes Sales Consultant
+meta	experience	I.G. Burton & Co, Inc - Milford, DE
+meta	experience	2018 to Present
+meta	experience	• Created and maintained excellent relationships with new and existing customers
+meta	experience	• Followed up on all sales leads from a variety of sources; brought in customers
+meta	experience	• Talked about and demonstrated all vehicle features to customers; answered all customer questions
+meta	experience	Operations Analyst / Manager
+meta	experience	United States Army
+meta	experience	1993 to 2018
+meta	experience	• Facilitated monthly meetings, conferences, visitor request forms, and coordinated additional forces upon request of state governors; developed and maintained effective relationships with personnel at all levels; coordinated assignments to collect, evaluate, develop, and maintain databases required to prepare analysis, reports, projections, and briefings
+meta	experience	• Prepared monthly report status, personnel records, organizational policies, training, and evaluation of approximately 50 personnel; provided oversight for the administration of recommended policies and procedures
+meta	experience	• Trained and employed as additional armed security during heightened threats and emergency situations; demonstrated expertise in the use of weapons, communications, random searches, and control systems for national security
+meta	experience	Aviation Operations Supervisor
+meta	experience	• Established senior leadership goals and objectives, and set priorities for accomplishing overall organizational functions; managed personnel services for aviation personnel in 54 States and Territories congruent with the Department of the Army; oversaw 22 highly technical aviation career fields and 107 associated Non-Commissioned Officer Courses
+meta	experience	• Provided tactical / technical expertise to subordinates & superiors in aviation operations; ensured the quality control of the applicant screening / waiver process of > 3000 aviation quota allocations, budgets, and schedules; ensured readiness of all 54 states & territories; researched, analyzed, and collected related data on quota distribution projects
+meta	experience	• Determined schedules and sequences, and assigned allocations based on work priority, quantity of equipment, and skill of personnel; maintained flight records and reports using the Centralized Aviation Flight Records System for 150 people; cultivated a culture of high employee engagement through activities that increased morale, accountability, and training
+meta	experience	Military Funeral Honors Leader / Trainer
+meta	experience	• Supervised and trained 28 active duty personnel on the base Honors Team; led the first ever Garrison full honors team in conducting 2 to 4 funerals per week/ 16 per month; ensured that team rendered full honors and plane side honors
+meta	experience	• Successfully trained 11 senior level leaders for a high-profile mission to conduct 7 funeral honors in one day; mentored and trained over 50 subordinates routinely in preparation for high profile funerals outside of the Virginia area
+meta	experience	• Managed budget, weapons, supplies, uniforms, training, health, and welfare of all personnel; provided vital additional support to the Casualty Assistance Center leadership
+meta	experience	• Maximized the use of all available resources saving over $60,000 with limited resources; performed HR/recruiting duties, such as writing job descriptions, conducting interviews, and contributing to offer decisions
+meta	experience	• Managed and led personnel in all aspects of career progression, to include required training compliance, security clearance updates, periodic reviews, personnel improvement plans, termination, and promotion updates/requirements
+meta	experience	Security Officer
+meta	experience	Securitas - North Springfield, VA
+meta	experience	2014 to 2016
+meta	experience	Part-time)
+meta	experience	• Implemented measures to maintain optimal security for personnel/property; performed security assessments, identified risk exposures, & counseled customers on security policy/practices; no data, equipment, or document security breaches
+meta	experience	• Confirmed work scheduling; performed and completed per company regulations; liaised with local police department and emergency services personnel regarding assistance calls to the property
+meta	experience	• Created incident reports as outlined in the post orders; answered telephone calls and took messages, answered questions, and provided information; randomly inspected building perimeter and all activities on CCTV for unlawful entries
+meta	experience	Armed Security Officer
+meta	experience	Chenega Security - Fort Belvoir, VA
+meta	experience	2009 to 2011
+meta	experience	Part-time)
+meta	experience	• Guarded clients as they conducted business in high-risk areas, enforced rules on property, properly relayed information via radio, provided detail verbal and written reports, and used and maintained weapons
+meta	experience	• Secured buildings and conducted rounds within confidential areas of operations; investigated suspicious activity in or around the facility while conducting a 100% ID check for those entering and exiting the grounds
+meta	experience	• Screened visitors and checked all packages for weapons upon entry into the government facilities; developed and maintained professional relations with employees and visitors and ensured appropriate courtesy to everyone; assured the protection of client's property, assets, and employees
+meta	experience	• Utilized knowledge and understanding of Army Regulations, such as AR 190-56 and AR 190-14, and attended mandatory training sessions regarding security procedures and threat management; prepared and submitted written reports, criminal, non-criminal informational, and supplemental follow-up incident reports

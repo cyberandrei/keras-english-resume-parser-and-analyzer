@@ -1,0 +1,57 @@
+content	education	BS in Physical Education
+content	education	California State University Fresno Fresno, CA
+content	education	1969 to 1971
+content	education	college athletics
+meta	experience	Cardiovascular Sales Specialist
+meta	experience	Summit Med Health - Sacramento, CA
+meta	experience	March 2015 to August 2015
+meta	experience	Responsibilities
+meta	experience	Independent cardiovascular device sales
+meta	experience	Cardiovascular Sales Specialist
+meta	experience	Bristol-Myers Squibb Biopharmacuetical - Sacramento, CA
+meta	experience	March 1996 to January 2015
+meta	experience	of Eliquis and Onglyza with responsibility for product formulary approval, stocking & pull through.
+meta	experience	- Retail Sales to Cardiology/Primary Care with emphasis on how products can help improve patient outcomes.
+meta	experience	- Retail Pharmacy Sales, which includes pharmacist education, product stocking, and help with insurance reimbursement.
+meta	experience	- Organized, facilitated and led efforts to solve customer problems or concerns, while mentoring others on successful strategies.
+meta	experience	- Proven Success
+meta	experience	➢ 40 % Trialist Milestone for Eliquis launch (awarded to 5 people in nation)
+meta	experience	➢ 100% Eliquis stocking in institutions during 11 month launch
+meta	experience	➢ 40% Trialist Milestone for Onglyza
+meta	experience	➢ Multiple District Leadership Awards
+meta	experience	➢ Northwest Region Vision Award for Leadership
+meta	experience	➢ District Sales Trainer for multiple districts
+meta	experience	➢ Peak Sales Winner for the nation's highest Pravachol share
+meta	experience	Nutritional Sales Representative
+meta	experience	Mead Johnson Nutritional Division (BMS) - Sacramento, CA
+meta	experience	July 1981 to March 1996
+meta	experience	Responsibilities
+meta	experience	Nutritional Sales across 10 states
+meta	experience	Accomplishments
+meta	experience	Proven Success: two time Pinnacle Award Winner (top 10%)
+meta	experience	District Business Manager
+meta	experience	Mead Johnson Nutritional Division (BMS)
+meta	experience	July 1990 to January 1994
+meta	experience	- Responsibility for 10 states and hiring, training, and directing 10-12 representatives.
+meta	experience	- Contract design, negotiation, and nutritional product pull through for long term care, hospital chains, county and state government institutions, pharmaceutical distributors, consultant pharmacies, & physicians.
+meta	experience	- Proven success:  National Manager of the Year, Pinnacle Award Winner, Sales Leader
+meta	experience	Adult Nutritional Sales Representative
+meta	experience	Mead Johnson Nutritional Division (BMS)
+meta	experience	March 1987 to July 1990
+meta	experience	- Nutritional sales across 10 states to a variety of customers and selling environments.
+meta	experience	- Proven Success:
+meta	experience	➢ Two-time Pinnacle Award Winner (1988, 1989)
+meta	experience	Regional Sales Trainer
+meta	experience	Mead Johnson Nutritional Division (BMS) - Western, NE
+meta	experience	April 1986 to March 1987
+meta	experience	- Liaison between District Business and Region Business Managers and Sales Training Department.
+meta	experience	- Trained and evaluated all new representatives in the Western Region.
+meta	experience	- Completed Management Candidate Program.
+meta	experience	Medical Sales Representative
+meta	experience	Mead Johnson Nutritional Division (BMS)
+meta	experience	July 1981 to April 1986
+meta	experience	Sold infant and adult nutritional products to pediatricians and primary care physicians.
+meta	experience	District Sales Trainer
+meta	experience	Mead Johnson Nutritional Division (BMS)
+meta	experience	1983 to 1986
+meta	experience	with responsibilities for training and testing all new district representatives.

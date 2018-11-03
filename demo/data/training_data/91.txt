@@ -1,0 +1,24 @@
+content	education	High school or equivalent
+meta	experience	Ttech partner
+meta	experience	Google Sales
+meta	experience	May 2018 to Present
+meta	experience	• Cold calling/ outbound sales
+meta	experience	• Inbound sales
+meta	experience	• Budget consultant
+meta	experience	• Insurance/Licensing check
+meta	experience	• Finalize online profile
+meta	experience	International General Manager
+meta	experience	LA Fitness
+meta	experience	January 2017 to May 2018
+meta	experience	• Manage Gym facility
+meta	experience	• Supervise sales team and front desk employees
+meta	experience	• Present membership rate options and finalize all inbound/outbound sales
+meta	experience	• Provide members with exceptional service
+meta	experience	• Meet monthly sales quota
+meta	experience	Progressive Roofing Supervisor
+meta	experience	2010 to 2017
+meta	experience	• Construction/sales
+meta	experience	• Supervise 7-9 employees
+meta	experience	• Install various types of roofing
+meta	experience	• Prepare estimates and finalize sales
+meta	experience	• Inspect finished work

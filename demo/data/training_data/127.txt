@@ -1,0 +1,67 @@
+content	education	BBA in Business
+content	education	University Central Arkansas Conway, AR
+meta	experience	Sales Associate
+meta	experience	Arkansas Specialty Orthopaedics - Conway, AR
+meta	experience	July 2017 to Present
+meta	experience	Ensure high levels of customer satisfaction through excellent sales
+meta	experience	service
+meta	experience	● Assess customers needs and provide assistance and information on product features
+meta	experience	● Welcome customers to the store and answer their queries
+meta	experience	● Follow and achieve department's sales goals on a monthly, quarterly and yearly basis"Go the extra mile" to drive sales
+meta	experience	● Process POS (point of sale) purchases Cross sell products Handle
+meta	experience	returns of merchandise
+meta	experience	Front Desk Clerk/Cashier
+meta	experience	Arkansas Specialty Orthopaedics - Conway, AR
+meta	experience	December 2016 to Present
+meta	experience	Up sell guest rooms and promoting hotel services
+meta	experience	● Register and process guests and their assigned rooms
+meta	experience	● Responsible for client satisfaction
+meta	experience	● Developed and maintained guest relationships through daily contact
+meta	experience	● Handling cash payments
+meta	experience	Verification Specialist
+meta	experience	Arkansas Specialty Orthopaedics - Little Rock, AR
+meta	experience	November 2015 to Present
+meta	experience	Maintain patient benefit information in the organization's insurance
+meta	experience	system and verify that existing information is accurate
+meta	experience	● Verify Commercial and Medicaid insurance for eligibility and benefit
+meta	experience	● Responsible for entering data in an accurate manner, update patient
+meta	experience	benefit information in the organization's insurance system and verify that
+meta	experience	existing information is accurate
+meta	experience	● Support medical-claim billing and compliance for mail order, managed
+meta	experience	care, & leading Retail pharmacies to maximize operational & financial
+meta	experience	results
+meta	experience	● Support of services to optimize client's reimbursement rates for Medicare
+meta	experience	Part B, Medicaid, & Commercial Payers
+meta	experience	● Regularly review analytics to ensure clients' goals are met and contractual obligations are fulfilled
+meta	experience	Conway- Manager
+meta	experience	Sassy Elegance Boutique
+meta	experience	November 2010 to November 2015
+meta	experience	Handle Merchandise Employees Payroll And all other duties assigned
+meta	experience	Manage all human resource functions to hire, retain and develop people to achieve store sales and customer service goals.Provide appropriate
+meta	experience	staffing levels to ensure operations succeed.
+meta	experience	● Effectively resolve all employee relations' issues and address concerns.
+meta	experience	● Produced and analyzed market trends, productivity, and demographic
+meta	experience	buying preferences.
+meta	experience	● Prepared financial reports for evaluating and calculating gross margin
+meta	experience	profits, and performance of fashion groups.
+meta	experience	● Developed seasonal themes and provided appropriate inventory
+meta	experience	levels.Created and planned store budgets for each store.
+meta	experience	● Suggest ways to improve sales (e.g. planning marketing activities,
+meta	experience	changing the store's design)Effectively resolve all employee relations'
+meta	experience	issues and address concerns.
+meta	experience	● Supported day-to-day post-sales order transactions (i.e., credits, returns,
+meta	experience	order entry) and reported customer issues.
+meta	experience	Conway - Account Manager/Consultant
+meta	experience	Mackey Insurance Agency
+meta	experience	August 2006 to November 2010
+meta	experience	Respond to service related issues/concerns within required time frame to meet customer expectation
+meta	experience	● Maintains good customer relations while identifying opportunities for improvement
+meta	experience	● Demonstrates problem solving skills recognizes opportunities and takes
+meta	experience	appropriate action
+meta	experience	● Delivers the highest quality service which meets or exceeds the requirements of our customers
+meta	experience	● Demonstrates time management and prioritization skills Utilizes approved
+meta	experience	database system to maintain accurate record keeping of case activity
+meta	experience	● Filling Collecting Payments Insurance Coding Account Follow up Handle
+meta	experience	● Acted as a coordination point for activities between internal groups and organizations to resolve issues and/or obtain information to address
+meta	experience	customer needs as well as execution of and improvement to operational
+meta	experience	processes across the sales cycle

@@ -1,0 +1,22 @@
+content	education	AA in Entrepreneurial, Communications
+content	education	STCC Springfield, MA
+content	education	September 2016 to May 2018
+content	education	Associate
+meta	experience	Sales Manager
+meta	experience	Guitar Center
+meta	experience	November 2016 to Present
+meta	experience	Leads sales associate, Excellent Customer Service award, Pro-audio Certified
+meta	experience	Product Specialist
+meta	experience	Balise Motor Sales Company
+meta	experience	April 2016 to September 2016
+meta	experience	Top 3 in sales every month
+meta	experience	Sales Associate
+meta	experience	Sears
+meta	experience	September 2015 to April 2016
+meta	experience	Account Representative
+meta	experience	Fastenal
+meta	experience	May 2015 to August 2015
+meta	experience	Picker
+meta	experience	C&S Wholesale Grocers - Westfield, MA
+meta	experience	May 2014 to September 2014
+meta	experience	Summer college work internship program. Wharehouse Picking in -120*f freezer  %112 productivity rate

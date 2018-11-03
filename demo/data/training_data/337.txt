@@ -1,0 +1,39 @@
+content	education	Bachelor of Science degree in Communications
+content	education	Indiana University of Pennsylvania
+content	education	August 2009
+meta	experience	Sales Manager
+meta	experience	Mattress Firm
+meta	experience	August 2018 to Present
+meta	experience	Completed daily store operating procedures including inventory management, store
+meta	experience	transfers, and setting current promotions
+meta	experience	● Recommended and fitted guests for relevant products to fit their need in commission
+meta	experience	based sales environment
+meta	experience	● Provided guests with various financing options including credit card application and lease-to-own
+meta	experience	Freelance Software Design and Media Services
+meta	experience	2006 to Present
+meta	experience	Video production and editing services.
+meta	experience	● Media Conversion and authoring services.
+meta	experience	● Computer software and networking support for local clients.
+meta	experience	● Video game, mobile app. and software creation for various platforms including Android
+meta	experience	and Windows.
+meta	experience	Tech and Mobility Sales Supervisor
+meta	experience	Staples of Rehoboth Beach - Rehoboth Beach, DE
+meta	experience	May 2017 to August 2018
+meta	experience	Modeled and developed proper selling behavior for sales associates
+meta	experience	● Responsible for driving sales of electronic products, services, and extended warranties
+meta	experience	● Maintained customer satisfaction by resolving concerns and requests
+meta	experience	Certified Computer Technician and Sales Associate Staples
+meta	experience	Staples of Rehoboth Beach - Rehoboth Beach, DE
+meta	experience	June 2013 to May 2017
+meta	experience	Engaged with and assisted customers on sales floor
+meta	experience	● Recommended appropriate products and services to meet the customers needs
+meta	experience	● Installed and upgraded computer hardware and software.
+meta	experience	● Resolved computer and networking issues in store, homes, or local businesses.
+meta	experience	Therapeutic Support Staff
+meta	experience	Behavioral Advancements of DuBois - DuBois, PA
+meta	experience	October 2009 to 2013
+meta	experience	Provided in school, home, and community environments with children and teens with learning, social disabilities, or on the Autism Spectrum.
+meta	experience	● Carried out Behavior plans including; data tracking, reinforcements, social interactions,
+meta	experience	and various coping skills.
+meta	experience	● Worked with parents and support staff to develop positive social and developmental
+meta	experience	skills.

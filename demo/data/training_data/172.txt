@@ -1,0 +1,10 @@
+content	education	AA in Business
+content	education	American River Carmichael, CA
+meta	experience	General Manager
+meta	experience	Aarons sales lease - Woodland, CA
+meta	experience	September 2008 to Present
+meta	experience	Hire and train new associates.  Responsible for associates schedules and payroll. Insure all company guidelines are followed. Order merchandise on a weekly basis too insure sales floor is full for customers. Take a full inventory weekly to keep stock at required levels. Make sure customers are greeted within 30 seconds of entering the sales floor. Help out sales manager and customer service representative by closing all sales and insuring our new guests are completely satisfied with their purchase and the service they received. Incresed average sale per customer by 5 % in six months, by pricing items correctly and packageing items together,(add on sales).
+meta	experience	Operations Manager
+meta	experience	CALIFORNIA BACKYARD - Roseville, CA
+meta	experience	February 2006 to September 2008
+meta	experience	Helped sales associates with ordering and processing custom orders. Did scheduling for associates and completed the nightly closing process and banking paperwork. The store sold high end custom outdoor patio furniture and gas grills, such as Webber. After my first month, I implemented a planogram too showcase all the products that are available for use with the grills and patio furniture. Sales of these items increased immediatley. Also responsible for scheduling delivery of the items too the customers homes.

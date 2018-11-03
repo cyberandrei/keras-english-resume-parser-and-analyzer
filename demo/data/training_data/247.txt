@@ -1,0 +1,33 @@
+content	education	Bachelor of Interdisciplinary Studies in Areas
+content	education	Arizona State University Tempe, AZ
+content	education	December 2005
+meta	experience	Sales
+meta	experience	Transamerica Capital, Inc - Denver, CO
+meta	experience	March 2009 to Present
+meta	experience	Denver, CO
+meta	experience	March 2009-Present
+meta	experience	Internal Wholesaler
+meta	experience	• Consistently a TOP producing territory for variable annuities: 2014 Sales: $280M, 2015
+meta	experience	Sales: $190M, YTD Sales: $130M
+meta	experience	•   Make proactive sales calls on a daily basis with existing representatives to strengthen
+meta	experience	relationships and uncover selling opportunities
+meta	experience	•   Identify and convert prospects into producing representatives
+meta	experience	•   Work closely with the External Wholesaler to develop and execute an appropriate business
+meta	experience	plan to maximize territory sales
+meta	experience	•   Ability to effectively handle multiple projects while meeting related deadlines
+meta	experience	Senior Insurance Services Specialist
+meta	experience	Edward Jones - Tempe, AZ
+meta	experience	August 2007 to January 2009
+meta	experience	Deliver excellent sales and service support leveraging extensive insurance product
+meta	experience	knowledge
+meta	experience	•   Collaborate with senior management to improve training program and department procedures
+meta	experience	•   Train and mentor associates within a fast-paced and production oriented work environment
+meta	experience	•   Participate in Emerging Leaders program to strengthen and diversify skill set
+meta	experience	Sales and Service Representative
+meta	experience	Farmers Insurance and Financial Services - Gilbert, AZ
+meta	experience	June 2004 to August 2007
+meta	experience	• Directly contribute to 400% policy increase by prospecting new business accounts and cross- selling to existing clients
+meta	experience	•   Ensure high level of retention and profitability by completing annual review appointments and developing trustworthy relationships with clients
+meta	experience	•   Regular review of business plan to determine effectiveness and track progress towards sales
+meta	experience	goals
+meta	experience	•   Able to quickly develop rapport with clients by providing exceptional customer service and exceeding expectations

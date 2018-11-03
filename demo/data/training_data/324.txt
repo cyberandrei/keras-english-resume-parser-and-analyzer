@@ -1,0 +1,11 @@
+content	education	Diploma
+content	education	Eleanor Roosevelt High School Greenbelt, MD
+content	education	August 2014 to May 2018
+meta	experience	Sales
+meta	experience	Maryland Renaissance Festival
+meta	experience	September 2018 to October 2018
+meta	experience	Selling flower garlands, helping customers, and maintaining a neat and attractive workspace. Also responsible for cash handling.
+meta	experience	Culinary Team Member
+meta	experience	Six Flags, Inc. - Upper Marlboro, MD
+meta	experience	July 2018 to September 2018
+meta	experience	Making and serving food, operating a cash register, cleaning both the kitchen and restaurant areas of the establishment, other duties as assigned to me

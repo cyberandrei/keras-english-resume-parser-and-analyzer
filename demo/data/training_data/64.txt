@@ -1,0 +1,46 @@
+content	education	Psychology
+content	education	Interamerican University of Panama
+content	education	2002 to 2008
+content	education	Special Education
+content	education	University of the Americas
+content	education	1998 to 2001
+meta	experience	Office Manager / Operations and Sales
+meta	experience	PRECISION REPAIR & AUTO SALES
+meta	experience	2015 to Present
+meta	experience	• Responsible for the marketing and sales success of the company.
+meta	experience	• Management of the bookkeeping, hiring, training and payroll process.
+meta	experience	• Conducted extensive pricing analysis via online databases (CarGurus.com, etc.), before purchasing the vehicle from the auction. Forwarded the Floor Plan of the vehicle to AFC Financial or Nextgear Financial for the final purchase.
+meta	experience	• Management and completion of essential documents such as loan application, proof of income, proof of address and references.
+meta	experience	• Leverage relationships with Subprime Car Lenders and local Credit Unions in order to finalize the appropriate option for the client loan approval.
+meta	experience	Credit/Collection Manager / Teller Supervisor
+meta	experience	MEDICAL COMMUNITY CREDIT UNION
+meta	experience	2010 to 2015
+meta	experience	• Analyze delinquent accounts and prepare report on highest risk accounts including recommendations for resolution.
+meta	experience	• Monitor receivables and collections and provide updates of receivables and provide appropriate reporting procedures.
+meta	experience	• Identify problem accounts and provide regular updates of receivables to management.
+meta	experience	• Negotiate payment programs with delinquent customers.
+meta	experience	• Identify accounts requiring collection agency or legal action and coordinate collections with third party contractors.
+meta	experience	• Develop processes and procedures for evaluating customer financials and setting and changing credit lines/limits, as well as credit holds; implement liens as necessary to major delinquent account as approved.
+meta	experience	• Cash checks and pay out money after verifying that signatures are correct, that written and numerical amounts agree, and that accounts have sufficient funds.
+meta	experience	• Balance currency, coin, and checks in cash drawers at ends of shifts, and calculate daily transactions using computers, calculators, or adding machines.
+meta	experience	• Assisted the loan officers to collect the correct paperwork for the car loans such as loan applications, proof of income, proof of address and references.
+meta	experience	Sales Representative Mens/Women's Fragrance
+meta	experience	DILLARD'S
+meta	experience	2009 to 2010
+meta	experience	• Sales and marketing of all top line fragrances for men and women while exhibiting superior customer service.
+meta	experience	• Ability to fact find with customer to provide desired fragrance feel and experience.
+meta	experience	• Managed cash register for cash, credit transactions, while implementing any price breaks, coupons, specials
+meta	experience	• Flexibility to work long, retail arena hours during nights and holidays as requested.
+meta	experience	• Able to be successful in a team-oriented setting while continuing to meet sales quotas.
+meta	experience	• Continually exceeded personal sales quotas requested of me from management and supervisory board.
+meta	experience	Administrative Sales Assistant, Purchasing/ Medical / Office Supplies and Equipment / Pharmaceutical
+meta	experience	MINISTERIO DE SALUD - Panama City, PA
+meta	experience	2003 to 2009
+meta	experience	Panama City, Panama
+meta	experience	GOVERNMENT HEALTH DEPARTMENT: 2003-2009
+meta	experience	Administrative Sales Assistant, Purchasing/ Medical / Office Supplies and Equipment / Pharmaceutical
+meta	experience	• Sole key point of contact for all Medical channels to Government Health Facility, purchasing, booking appts.
+meta	experience	• Direct administrative and supply management contact for 9 hospitals in the Panama City area.
+meta	experience	• Responsible for implementing purchasing orders and inventory management with key medical customers.
+meta	experience	• Inventory management and routing for deliveries of pharmaceutical, medical/office supplies and equipment, after deliveries.
+meta	experience	• Accounting and bookkeeping duties, checks and balances of Government capital.

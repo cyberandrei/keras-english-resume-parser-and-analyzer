@@ -1,0 +1,135 @@
+content	education	High School Diploma
+content	education	CALHOUN COMMUNITY COLLEGE Decatur, AL
+content	education	March 2006
+content	education	High School Diploma
+content	education	ATHENS HIGH SCHOOL Athens, AL
+content	education	May 2005
+meta	experience	Sales Professional
+meta	experience	LANDERS MCLARTY TOYOTA - Fayetteville, TN
+meta	experience	December 2017 to Present
+meta	experience	• Greet customers and ascertain what each customer wants or needs.
+meta	experience	• Describe merchandise and explain use, operation, and care of merchandise to customers.
+meta	experience	• Recommend, select, and help locate or obtain merchandise based on customer needs and desires.
+meta	experience	• Compute sales prices, total purchases and receive and process cash or credit payment.
+meta	experience	• Answer questions regarding the store and its merchandise.
+meta	experience	• Prepare sales slips or sales contracts.
+meta	experience	• Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.
+meta	experience	• Maintain records related to sales.
+meta	experience	• Demonstrate use or operation of merchandise.
+meta	experience	• Place special orders or call other stores to find desired items.
+meta	experience	• Prepare merchandise for purchase or rental.
+meta	experience	• Inventory stock and requisition new stock.
+meta	experience	• Ticket, arrange and display merchandise to promote sales.
+meta	experience	• Sell or arrange for delivery, insurance, financing, or service contracts for merchandise.
+meta	experience	• Estimate and quote trade-in allowances.
+meta	experience	• Estimate cost of repair or alteration of merchandise.
+meta	experience	bellman and driver
+meta	experience	MARRIOTT - Huntsville, AL
+meta	experience	November 2016 to December 2017
+meta	experience	• Provide information about local features, such as shopping, dining, nightlife, or recreational destinations.
+meta	experience	• Make travel arrangements for sightseeing or other tours.
+meta	experience	• Receive, store, or deliver luggage or mail.
+meta	experience	• Perform office duties on a temporary basis when needed.
+meta	experience	• Pick up and deliver items or run errands for guests.
+meta	experience	• Carry out unusual requests, such as searching for hard-to-find items or arranging for exotic services, such as hot-air balloon rides.
+meta	experience	• Arrange for the replacement of items lost by travelers.
+meta	experience	Granulation tech
+meta	experience	PAR PHARMACEUTICALS - Huntsville, AL
+meta	experience	May 2014 to August 2017
+meta	experience	• Maintain proper storage and security conditions for drugs.
+meta	experience	• Mix pharmaceutical preparations, according to written prescriptions.
+meta	experience	• Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods.
+meta	experience	• Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields.
+meta	experience	• Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals, to verify conformity of process conditions.
+meta	experience	• Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.
+meta	experience	• Record operating data, such as process conditions, test results, or instrument readings.
+meta	experience	• Confer with technical and supervisory personnel to report or resolve conditions affecting safety, efficiency, or product quality.
+meta	experience	• Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met.
+meta	experience	• Regulate or shut down equipment during emergency situations, as directed by supervisory personnel.
+meta	experience	• Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels.
+meta	experience	• Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.
+meta	experience	• Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing.
+meta	experience	• Notify maintenance, stationary-engineering, or other auxiliary personnel to correct equipment malfunctions or to adjust power, steam, water, or air supplies.
+meta	experience	• Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency.
+meta	experience	• Direct workers engaged in operating machinery that regulates the flow of materials and products.
+meta	experience	• Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.
+meta	experience	• Repair or replace damaged equipment.
+meta	experience	• Gauge tank levels, using calibrated rods.
+meta	experience	• Calculate material requirements or yields according to formulas.
+meta	experience	Mold Operator
+meta	experience	KOHLER - Huntsville, AL
+meta	experience	May 2013 to April 2014
+meta	experience	• Clean, finish, and lubricate molds and mold parts.
+meta	experience	• Operate and adjust controls of heating equipment to melt material or to cure, dry, or bake filled molds.
+meta	experience	• Read work orders or examine parts to determine parts or sections of products to be produced.
+meta	experience	• Load or stack filled molds in ovens, dryers, or curing boxes, or on storage racks or carts.
+meta	experience	• Set the proper operating temperature for each casting.
+meta	experience	• Measure and cut products to specified dimensions, using measuring and cutting instruments.
+meta	experience	• Remove excess materials and level and smooth wet mold mixtures.
+meta	experience	• Trim or remove excess material, using scrapers, knives, or band saws.
+meta	experience	• Align and assemble parts to produce completed products, using gauges and hand tools.
+meta	experience	• Bore holes or cut grates, risers, or pouring spouts in molds, using power tools.
+meta	experience	• Construct or form molds for use in casting metal, clay, or plaster objects, using plaster, fiberglass, rubber, casting machines, patterns, or flasks.
+meta	experience	• Tap or tilt molds to ensure uniform distribution of materials.
+meta	experience	• Locate and scribe parting lines on patterns, using measuring instruments, such as calipers, squares, or depth gauges.
+meta	experience	• Smooth surfaces of molds, using scraping tools or sandpaper.
+meta	experience	• Assemble, insert, and adjust wires, tubes, cores, fittings, rods, or patterns into molds, using hand tools and depth gauges.
+meta	experience	assembly tech
+meta	experience	NAVISTAR / RANDSTAD STAFFING - Huntsville, AL
+meta	experience	February 2012 to January 2013
+meta	experience	• Perform quality checks on products and parts.
+meta	experience	• Package finished products and prepare them for shipment.
+meta	experience	• Rotate through all the tasks required in a particular production process.
+meta	experience	• Shovel, sweep, or otherwise clean work areas.
+meta	experience	• Complete production reports to communicate team production level to management.
+meta	experience	• Determine work assignments and procedures.
+meta	experience	• Maintain production equipment and machinery.
+meta	experience	• Provide assistance in the production of wiring assemblies.
+meta	experience	• Supervise assemblers and train employees on job procedures.
+meta	experience	• Operate machinery and heavy equipment, such as forklifts.
+meta	experience	• Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants.
+meta	experience	• Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.
+meta	experience	• Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis.
+meta	experience	• Operate consoles to control automatic palletizing equipment.
+meta	experience	Expediter
+meta	experience	STEELCASE - Athens, AL
+meta	experience	April 2006 to February 2012
+meta	experience	• Adhere to all applicable regulations, policies, and procedures for health, safety, and environmental compliance.
+meta	experience	• Inspect finished products for quality and adherence to customer specifications.
+meta	experience	• Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.
+meta	experience	• Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.
+meta	experience	• Set up and verify the functionality of safety equipment.
+meta	experience	• Monitor and adjust production processes or equipment for quality and productivity.
+meta	experience	• Troubleshoot problems with equipment, devices, or products.
+meta	experience	• Test products or subassemblies for functionality or quality.
+meta	experience	• Plan and lay out work to meet production and schedule requirements.
+meta	experience	• Start up and shut down processing equipment.
+meta	experience	• Prepare and assemble materials.
+meta	experience	• Provide advice or training to other technicians.
+meta	experience	• Install new equipment.
+meta	experience	• Prepare production documents, such as standard operating procedures, manufacturing batch records, inventory reports, or productivity reports.
+meta	experience	• Keep production logs.
+meta	experience	• Clean production equipment or work areas.
+meta	experience	• Collect hazardous or non-hazardous waste in correctly labeled barrels or other containers and transfer them to collection areas.
+meta	experience	• Select cleaning materials, tools, or equipment.
+meta	experience	• Build product subassemblies or final assemblies.
+meta	experience	• Ship packages, following carrier specifications.
+meta	experience	• Maintain inventory of job materials.
+meta	experience	• Build packaging for finished products.
+meta	experience	• Package finished products.
+meta	experience	• Clean scrap materials for recycling or reuse, such as preparing aluminum scrap for cold-bonding processes or preparing paper for pulping or ink removal processes.
+meta	experience	• Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.
+meta	experience	• Separate scrap or waste materials for recycling, reuse, or environmentally sound disposal.
+meta	experience	• Conduct environmental safety inspections in accordance with standard protocols to ensure production activities comply with environmental regulations or standards.
+meta	experience	• Examine documents, materials, or products and monitor work processes to assess completeness, accuracy, and conformance to standards and specifications.
+meta	experience	• Review documents, such as production schedules, work orders, or staffing tables, to determine personnel or materials requirements or material priorities.
+meta	experience	• Confer with department supervisors or other personnel to assess progress and discuss needed changes.
+meta	experience	• Revise production schedules when required due to design changes, labor or material shortages, backlogs, or other interruptions, collaborating with management, marketing, sales, production, or engineering.
+meta	experience	• Confer with establishment personnel, vendors, or customers to coordinate production or shipping activities and to resolve complaints or eliminate delays.
+meta	experience	• Record production data, including volume produced, consumption of raw materials, or quality control measures.
+meta	experience	• Requisition and maintain inventories of materials or supplies necessary to meet production demands.
+meta	experience	• Calculate figures, such as required amounts of labor or materials, manufacturing costs, or wages, using pricing schedules, adding machines, calculators, or computers.
+meta	experience	• Contact suppliers to verify shipment details.
+meta	experience	• Maintain files, such as maintenance records, bills of lading, or cost reports.
+meta	experience	• Arrange for delivery, assembly, or distribution of supplies or parts to expedite flow of materials and meet production schedules.
+meta	experience	• Provide documentation and information to account for delays, difficulties, or changes to cost estimates.

@@ -1,0 +1,12 @@
+content	education	High School Diploma
+content	education	Benton High School
+content	education	May 2011
+meta	experience	Sales Representative
+meta	experience	LANDERS FORD - Benton, AR
+meta	experience	May 2015 to Present
+meta	experience	Promote sales while providing quality customer service
+meta	experience	MHPP-Mental Health Para-Professional
+meta	experience	Birchtree Community
+meta	experience	February 2015 to April 2017
+meta	experience	• Assist members in having a successful life and teach them new skills regarding how to take care of themselves to live a successful life in the community.
+meta	experience	• Stay in contact with Medicaid and document there's symptoms while assisting them through stressful situations.

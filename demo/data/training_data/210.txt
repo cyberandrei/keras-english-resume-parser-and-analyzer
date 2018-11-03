@@ -1,0 +1,43 @@
+content	education	High school or equivalent
+meta	experience	Sales
+meta	experience	I Pawn - Denver, CO
+meta	experience	February 2014 to December 2016
+meta	experience	Warehouse manager, Monthly inventory keeper. Pawn broker and Cashier with great customer service skills.
+meta	experience	Confer with potential customers regarding equipment needs and advise
+meta	experience	customers on types of equipment to purchase.
+meta	experience	Monitor customer preferences to determine focus of sales efforts.
+meta	experience	Resolve customer complaints regarding sales and service.
+meta	experience	Review operational records and reports to project sales and determine
+meta	experience	profitability.
+meta	experience	Direct foreign sales and service outlets of an organization.
+meta	experience	Advise dealers and distributors on policies and operating procedures to ensure
+meta	experience	functional effectiveness of business.
+meta	experience	Direct, coordinate, and review activities in sales and service accounting and recordkeeping, and in receiving and shipping operations.
+meta	experience	Represent company at trade association meetings to promote products.
+meta	experience	Customer Service
+meta	experience	McDonald's 8700 Pena Blvd - Denver, CO
+meta	experience	February 2011 to October 2013
+meta	experience	Confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of
+meta	experience	complaints.
+meta	experience	Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken.
+meta	experience	Check to ensure that appropriate changes were made to resolve customers'
+meta	experience	problems.
+meta	experience	Determine charges for services requested, collect deposits or payments, or arrange for billing.
+meta	experience	Refer unresolved customer grievances to designated departments for further
+meta	experience	investigation.
+meta	experience	Resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills.
+meta	experience	Recommend improvements in products, packaging, shipping, service, or
+meta	experience	billing methods and procedures to prevent future problems.
+meta	experience	cleaning May 2009-Sep 2009
+meta	experience	Firehouse car wash Denver, CO
+meta	experience	Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal
+meta	experience	stock, coal, manufactured articles, plastic, or rubber.
+meta	experience	Drain, clean, and refill machines or tanks at designated intervals, using
+meta	experience	cleaning solutions or water.
+meta	experience	Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions.
+meta	experience	Set controls to regulate temperature and length of cycles, and start conveyors,
+meta	experience	pumps, agitators, and machines.
+meta	experience	Examine and inspect machines to detect malfunctions.
+meta	experience	Record gauge readings, materials used, processing times, and/or test results in production logs.
+meta	experience	Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.
+meta	experience	Load machines with objects to be processed, then unload objects after cleaning and place them on conveyors or racks.

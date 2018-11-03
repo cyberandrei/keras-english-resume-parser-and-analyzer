@@ -1,0 +1,51 @@
+content	education	Fine Artistry - Painting
+content	education	The School of the Art Institute of Chicago Chicago, IL
+content	education	January 1999 to May 2001
+content	education	High School Diploma
+content	education	Desert Mountain High School
+content	education	1999
+content	education	Painting
+content	education	Scottsdale Community College
+meta	experience	Sales
+meta	experience	Signarama Tempe - Tempe, AZ
+meta	experience	September 2016 to September 2017
+meta	experience	As an inside/outside salesman my roles and responsibilities encompass my roles are to build a pipeline of customers through leads, cold calling, faxing capabilities, presentations and to survey and quote a customer in a timely fashion.  In shop responsibilities range from inbound sales calls, customer management, scheduling and emailing clients at various stages of sign ordering.
+meta	experience	Artist/Sign-maker/Graphic Designer/Salesman
+meta	experience	ADDart - Peoria, AZ
+meta	experience	January 2007 to September 2016
+meta	experience	ADDart (623) 243-6754
+meta	experience	As an owner of ADDart  it is my job to design and layout a signage work order, use the provide sign programs and plot and weed vinyl, ordering, invoicing, accounts payable, accounts receivable, front end management, vector based graphics, schematics, architectural layout drafts and work fast and efficiently.  As a salesman of ADDart my roles are to build a pipeline of customers through leads, cold calling, faxing capabilities, presentations and to survey and quote a customer in a timely fashion.
+meta	experience	maker/Graphic Designer
+meta	experience	Sign-A-Rama
+meta	experience	October 2002 to December 2012
+meta	experience	Sign-A-Rama on Mill (480) 756-1577
+meta	experience	As an employee for Sign-A-Rama it is my job to design and layout a signage work order, use the provide sign programs and plot and weed vinyl, ordering, invoicing, accounts payable, accounts receivable, front end management, vector based graphics, schematics, architectural layout drafts and work fast and efficiently.
+meta	experience	May 1, 2003-   November 15,   2003 February 7,   2004 - January
+meta	experience	maker/Graphic Designer/Salesman
+meta	experience	Sign
+meta	experience	2005 to 2005
+meta	experience	Sign-A-Rama on Weber (480) 894-6522
+meta	experience	As an employee for Sign-A-Rama it is my job to design and layout a signage work order, use the provide sign programs and plot and weed vinyl, ordering, invoicing, accounts payable, accounts receivable, front end management, vector based graphics, schematics, architectural layout drafts and work fast and efficiently.  As a salesman for Sign-A-Rama my roles are to build a pipeline of customers through leads, cold calling, faxing capabilities, presentations and to survey and quote a customer in a timely fashion.
+meta	experience	Sign-maker/Graphic Designer
+meta	experience	1 Day Signs - Tempe, AZ
+meta	experience	April 2002 to October 2002
+meta	experience	1 Day Signs (480) 970-8060
+meta	experience	As an employee for 1 Day Signs it was my job to design and layout a signage work order, use the provided sign programs and plot and weed vinyl, ordering, invoicing, accounts payable, accounts receivable, front end management, vector based graphics, schematics, architectural layout drafts, installations, fabricate and work fast and efficiently.
+meta	experience	Delivery Driver/Dough Master/Cut/Cook
+meta	experience	CSR, Pizza Hut, Inc. Tricon Industries - Scottsdale, AZ
+meta	experience	September 1999 to April 2002
+meta	experience	As an employee of Pizza Hut my duties are quality assurance, cleanliness, dealing with time crunch, data entry, CSR, filing, clean 3 year DMV.
+meta	experience	Also worked in Chicago, IL at Pizza Hut, Tricon Industries, part time during school at the School of the Art Institute in Chicago (SAIC).
+meta	experience	Computer Technician
+meta	experience	Financial Administration, The Art Institute of Chicago
+meta	experience	February 2000 to November 2000
+meta	experience	As an employee for The Art Institute of Chicago my duties were to assist the student body, faculty, and other employee's with technical information and know-how.  Data entry, filing, mailing, CSR, maintenance and repair of hardware, maintain integrity of School OS.
+meta	experience	PBX Data Entry Operator
+meta	experience	HomeBase
+meta	experience	June 1999 to November 1999
+meta	experience	Home Base
+meta	experience	As a Home Base employee my roles were to route incoming store calls, Logging, Data Entry, Key Rec's, customer service skills on the phone with team members, potential customer's, and store  vendors.
+meta	experience	Courtesy Clerk/Cashier/Lobby Attendant/Lobby Manager
+meta	experience	Albertson's
+meta	experience	September 1997 to June 1999
+meta	experience	As an Albertson's employee my roles were to serve the customer with politeness under extreme pressure, cleanliness and quality control and assurance of our products to our consumers, balancing, timing, data entry.

@@ -1,0 +1,47 @@
+content	education	Biology
+content	education	Pulaski Technical College North Little Rock, AR
+content	education	2012 to 2014
+content	education	High school or equivalent in General Studies
+content	education	Lincoln Academy Houston, TX
+content	education	2011 to 2012
+meta	experience	Sales Associate
+meta	experience	Belk - Little Rock, AR
+meta	experience	October 2017 to Present
+meta	experience	Make sales/ offer promotions
+meta	experience	Maid/Housekeeping Cleaner
+meta	experience	Be Blessed Cleaning Services - Little Rock, AR
+meta	experience	February 2016 to February 2017
+meta	experience	Clean houses , vacancies & buildings
+meta	experience	Picker/Packer
+meta	experience	Buzzballz - Dallas, TX
+meta	experience	April 2015 to September 2015
+meta	experience	Packing drinks in boxes as well as labeling
+meta	experience	Environmental Technician
+meta	experience	Crothall Healthcare - Little Rock, AR
+meta	experience	November 2014 to December 2014
+meta	experience	Responsibilities
+meta	experience	Clean patients room stay overs/discharge clean restrooms, dust, mop, pull trash
+meta	experience	sanitize OR as patients leave surgery
+meta	experience	Accomplishments
+meta	experience	Making patients feel comfortable during stay with a nice clean environment
+meta	experience	Janitorial
+meta	experience	Pulaski Technical College - North Little Rock, AR
+meta	experience	August 2012 to January 2014
+meta	experience	Responsibilities
+meta	experience	Sweep, store rods in its proper place, throw away non-usable metal,type test
+meta	experience	Accomplishments
+meta	experience	Safety Hazards on work place/off work place
+meta	experience	Environmental Technician
+meta	experience	Valley Ranch Nursing and Rehabilitation - Little Rock, AR
+meta	experience	February 2013 to September 2013
+meta	experience	Responsibilities
+meta	experience	Clean patient rooms,restrooms,mop,dust make beds, pull trash
+meta	experience	Accomplishments
+meta	experience	History/wisdom of patients, putting a smile on the face of the elderly along with making them comfortable
+meta	experience	Janitorial
+meta	experience	Baptist Health Medical Group
+meta	experience	October 2010 to May 2011
+meta	experience	Responsibilities
+meta	experience	Clean patients rooms,restrooms,pull trash,sweep,mop,vacuum,dust, make midflight beds daily
+meta	experience	Accomplishments
+meta	experience	Removing hazardous germs

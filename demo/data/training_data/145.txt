@@ -1,0 +1,6 @@
+content	education	Science in High School
+content	education	Parkview High School
+meta	experience	Sales Associate
+meta	experience	Cinemark - Little Rock, AR
+meta	experience	June 2017 to Present
+meta	experience	I do concession sales mostly sometimes I help clean the theaters

@@ -1,0 +1,28 @@
+content	education	general education
+content	education	Rosemont High School Sacramento, CA
+content	education	September 2010 to June 2014
+meta	experience	Warehouse Lead
+meta	experience	DeSoto Sales - North Highlands, CA
+meta	experience	January 2015 to June 2018
+meta	experience	• Warehouse duties
+meta	experience	•General maintenance on the warehouse with hand tools 
+meta	experience	•Drive box truck and deliver product 
+meta	experience	• Load/unload trucks
+meta	experience	• Customer service
+meta	experience	• Inventory
+meta	experience	• Flooring sales
+meta	experience	Forklift
+meta	experience	•Driving flat bed truck and box truck
+meta	experience	• General maintenance around the warehouse.
+meta	experience	•Answer and make phone calls to customers
+meta	experience	• input inventory using Microsoft excel
+meta	experience	• create PowerPoint to show potential clients
+meta	experience	•File all invoices in filling cabinets
+meta	experience	• maintain a clean and organize office
+meta	experience	•Clean office and warehouse 
+meta	experience	•Buff floors
+meta	experience	Supervisor
+meta	experience	Eco Thrift - Sacramento, CA
+meta	experience	February 2013 to December 2014
+meta	experience	Maintain a clean and safe work environment for employees and customers
+meta	experience	Close store every night while ensuring the deposits

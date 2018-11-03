@@ -1,0 +1,30 @@
+content	education	West Point High School Cullman, AL
+content	education	August 1980
+meta	experience	Sales
+meta	experience	Century Automotive Group - Huntsville, AL
+meta	experience	2005 to October 2018
+meta	experience	Keep new and used inventory in presentable condition for retail. Also have great CSI in sales, following up with customers with CRM system, follow up with after sales, and keeping up with fast moving technology. Knowledge off purchasing vehicles at auction and trade acv's. Master Sales Consultant for Land Rover and Jaguar, also familiar with electric, hybrid, and PHEV vehicles.
+meta	experience	Merchandiser/Customer Service
+meta	experience	Continental Services Group - Atlanta, GA
+meta	experience	May 2003 to December 2004
+meta	experience	Placement of products in Lowes and Home Depot Stores, resetting racking system according to planograms set by stores and working with Managers and store employees to place product to be effectively be sold.
+meta	experience	Owner
+meta	experience	Southern Import Auto Wholesale - Madison, AL
+meta	experience	February 2001 to November 2004
+meta	experience	Sales of highline automobiles such as Mercedes Benz, BMW, Lexus, etc. Average per year of 75 cars while also working full time job also.
+meta	experience	Merchandiser
+meta	experience	R.A. Siegel Co - Atlanta, GA
+meta	experience	April 2001 to May 2003
+meta	experience	Install flooring displays in stores in Southeast region.
+meta	experience	Distribution Manager
+meta	experience	SERTA BEDDING - Cullman, AL
+meta	experience	February 1995 to February 1995
+meta	experience	Distribution of mattresses to stores in South East, also in charge of up to 15 employees at a time.
+meta	experience	Warehouse Manager
+meta	experience	Perfect Home, Inc - Huntsville, AL
+meta	experience	October 1992 to February 1995
+meta	experience	Manage shipping and receiving duties of lace products to such stores as Wal Mart, K Mart, and other small retailers. Managing up to 5 employees in packing, sorting, and shipping product in a JIT system.
+meta	experience	Warehouse Worker
+meta	experience	Oneita Industries - Cullman, AL
+meta	experience	August 1980 to October 1992
+meta	experience	Load and unload truck full of cloth material to make baby clothes for stores such as Sears, Wal Mart, K- Mart, etc., licensed fork lift operator.

@@ -1,0 +1,38 @@
+content	education	Vet assistant
+content	education	Middlesex community college
+content	education	2016
+content	education	Platt High school
+content	education	June 2014
+meta	experience	Verizon Wireless Customer Service Representative
+meta	experience	Sales representative - Wallingford, CT
+meta	experience	May 2017 to Present
+meta	experience	Assist customers with there phone needs
+meta	experience	make phone calls about up coming sales 
+meta	experience	demonstrate our new products 
+meta	experience	money handling
+meta	experience	open and close the store
+meta	experience	Babysitter
+meta	experience	 - Meriden, CT
+meta	experience	January 2011 to Present
+meta	experience	babysat for a APRN. 
+meta	experience	Stayed over night to watch the kids 
+meta	experience	fed, dressed, and put them on the bus 
+meta	experience	assisted them with there homework 
+meta	experience	played with them
+meta	experience	Sales associate
+meta	experience	Gentle Jungle
+meta	experience	2015 to 2017
+meta	experience	Works one on one with customers
+meta	experience	Memorized prices of animals and supplies
+meta	experience	Memorized the warranty that comes with the purchase of animals
+meta	experience	Money handling skills
+meta	experience	"Top dog" (selling the most dogs in a week) three time in a row and four more times after that
+meta	experience	Made champions list for selling the most dog in a week
+meta	experience	Able to explain and find out a customer's monthly payments on our financing application ( We finance through united consumer).
+meta	experience	Managed paperwork 
+meta	experience	LEADERSHIP AND TEAM EXPERIENCE
+meta	experience	Dietary Aide
+meta	experience	2015 to 2015
+meta	experience	Memorized meal plans and served clients according to their needs
+meta	experience	Served clients in the dining room as well as in their rooms
+meta	experience	 Interacted with clients

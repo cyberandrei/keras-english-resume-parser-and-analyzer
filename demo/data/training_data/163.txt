@@ -1,0 +1,68 @@
+content	education	Some college
+meta	experience	Sales
+meta	experience	Jampro Antennas - Sacramento, CA
+meta	experience	July 2018 to Present
+meta	experience	Business to Business Sales and Marketing
+meta	experience	Social Media Marketing
+meta	experience	Constant Contact
+meta	experience	Telephone Sales (Heavy Phones)
+meta	experience	Create Proposals and Technical Proposals
+meta	experience	Antennas, RF Systems and Technology Sales
+meta	experience	Finance Manager
+meta	experience	Folsom Lake Honda - Folsom, CA
+meta	experience	June 2017 to June 2018
+meta	experience	Responsible for reviewing and completing contracts, disclosures, and DMV/Government paperwork as it pertains to new and used auto sales.
+meta	experience	➢ Obtain auto financing for customers while assuring profitability
+meta	experience	➢ Sales of warranties, extended service contracts, and other back end product
+meta	experience	➢ Strong customer service skills
+meta	experience	➢ Strong vendor relationship skills
+meta	experience	Finance Manager
+meta	experience	AutoNation BMW of Roseville
+meta	experience	February 2016 to August 2016
+meta	experience	Responsible for reviewing and completing contracts, disclosures, and DMV/Government paperwork as it pertains to new and used auto sales.
+meta	experience	➢ Obtain auto financing for customers while assuring profitability
+meta	experience	➢ Sales of warranties, extended service contracts, and other back end product
+meta	experience	➢ Strong customer service skills
+meta	experience	➢ Strong vendor relationship skills
+meta	experience	Internet Sales Manager
+meta	experience	AutoNation Mazda Subaru Roseville
+meta	experience	June 2014 to February 2016
+meta	experience	Responsible for sales performance and management for E-Commerce Sales Team of 9 sales people.
+meta	experience	➢ Managed performance by monitoring sales reports, managing customer service, CRM software management, lead follow up, closed deals for sales people.
+meta	experience	➢ Established a working schedule for E-commerce sales department.
+meta	experience	➢ Managed my own sales as well. Managed to sell 20-25 cars per month while managing the department too.
+meta	experience	➢ Displayed excellent customer service before, during and after the sale.
+meta	experience	General Manager
+meta	experience	Ultratone Guitars
+meta	experience	October 2009 to June 2014
+meta	experience	E-commerce sales of new musical instruments and accessories on eBay, Amazon, Reverb, other online marketplaces, and our own websites.
+meta	experience	➢ Excellent customer service skills via telephone and email.
+meta	experience	➢ Business Accounting practices including AP, AR, Tax preparation, BOE, General Ledger
+meta	experience	➢ Vendor management
+meta	experience	➢ Inventory control including shipping, receiving, packaging, and procurement of new products and vendors.
+meta	experience	➢ Social network management, creation, and maintenance.
+meta	experience	Branch Manager
+meta	experience	Able Body Labor
+meta	experience	December 2008 to October 2009
+meta	experience	Responsible for management of construction and light industrial temporary labor agency.
+meta	experience	➢ Recruited for and screened new employees via resume sites, EDD, website, and walk in applicants
+meta	experience	➢ Outside sales duties to obtain new business for the branch.
+meta	experience	➢ Client visits to assure quality customer care and to obtain new and continued business.
+meta	experience	➢ Processed weekly sales reports, payroll, and employee evaluations
+meta	experience	Recruiter
+meta	experience	Pro Trades Connection - Sacramento, CA
+meta	experience	May 2008 to December 2008
+meta	experience	Responsible for recruiting for new temporary employees based on client needs.
+meta	experience	➢ Screened and Interviewed new employees.
+meta	experience	➢ Worked with existing clients to create new positions.
+meta	experience	➢ Quality customer service skills and administrative skills
+meta	experience	➢ Processed daily and weekly payrolls.
+meta	experience	Payroll Specialist
+meta	experience	Golden 1 Credit Union
+meta	experience	August 2006 to May 2008
+meta	experience	Responsible for processing payroll for 6500-7000 employees.
+meta	experience	➢ Managed e-Time electronic time keeping system by assigning users, fixing errors, and training new users.
+meta	experience	➢ Processed semi-monthly payroll, bonus payroll, special payrolls via ADP Payroll for Windows.
+meta	experience	➢ Manual check creation including payroll corrections, bonus payrolls, special payrolls, and employee reimbursements.
+meta	experience	➢ Delivered quality internal and external customer service by helping employees with payroll and benefits questions and communicating effectively with management.
+meta	experience	References Are Available Upon Request

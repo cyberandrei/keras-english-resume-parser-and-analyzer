@@ -1,0 +1,19 @@
+content	education	Some High School
+meta	experience	sales
+meta	experience	Intouch - Aurora, CO
+meta	experience	November 2016 to November 2016
+meta	experience	Aurora, CO -   CSR2
+meta	experience	● Ensuring   resource   schedules   were   managed   and   call   response   times   acceptable.
+meta	experience	● Developed sales   agents   through   coaching   and   training   to   achieve   targets   and   excellent
+meta	experience	levels   of   customer   service.
+meta	experience	Cashier
+meta	experience	King - Aurora, CO
+meta	experience	2011 to July 2015
+meta	experience	Operate   cash   register
+meta	experience	● Handling   cash, check, and   credit   card   transactions
+meta	experience	● Deal   with   customer   inquiries   and   complaints
+meta	experience	● Process   returns   and   exchanges
+meta	experience	● Assist   with   product   display   and   pricing
+meta	experience	● Issue   refunds   and   credits
+meta	experience	● Help   customers   in   person   and   telephonically
+meta	experience	● Restocked   returned   items

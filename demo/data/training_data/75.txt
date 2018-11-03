@@ -1,0 +1,46 @@
+content	education	High school or equivalent in Business
+content	education	Agua Fria
+content	education	September 2003 to May 2005
+meta	experience	Sales Manager
+meta	experience	Aaron's Sales and Lease
+meta	experience	May 2017 to October 2018
+meta	experience	General Manager (GM)
+meta	experience	Aaron's Sales and Lease
+meta	experience	March 2014 to May 2017
+meta	experience	Responsible & accountable for all customers over 32 days non-renewed as well as 1st payment resells, manage the CAM Department for results on a daily basis, close all customer agreements & make quality control follow-up calls to ensure red carpet delivery, informing those customers about our survey and making sure there is no other merchandise they need. Present at the back door whenever inventory movement takes place, always facilitate & reconcile weekly inventories, authorize all customer returns with the mission of saving customers. Attend monthly profit and loss meetings with the other stores in our Phoenix region to discuss and compare ways to improve our store profits and go over opportunities and areas to overall improve business day to day, create contests, train new associates, coach underperforming associates, carry out performance management meetings with associates, organize and implement disciplinary actions for associates, scheduling/payroll duties, recruiting and hiring your own associates, training those associates and helping our associates reach the next level and get promoted, perform yearly evaluations of associates. Recruiting associates for the Region as well as take on roll as a hiring GM for the Region. Ordering merchandise from our Distribution Center while keeping a good balance of New to Pre-Owned Merchandise.
+meta	experience	Customer Accounts Manager
+meta	experience	Aaron's Sales and Lease
+meta	experience	December 2013 to March 2014
+meta	experience	Supervise Account Advisors, make outbound collections/retention calls to customers that are 1-3 days non-renewed, 4-16 days non-renewed, 17-31 days non renewed, 32+ days non-renewed offering the convenience of making a renewal payment over the phone with debit/credit card. Keep an updated goal board and track our progress daily with all accounts team associates by carrying out daily strategy meetings and weekly performance management meetings with associates to assure we are all on the same page and on track to achieve our monthly goals and whatever daily, weekly, monthly, quarterly contests the company is running. Make sure the accounts office is clean, organized, ready for business. Train new associates, coach underperforming associates, carry out performance management meetings with associates, organize and implement disciplinary actions for associates. In-home collection field trips to customers who are not able to be reached by phone, broken appointments to pay. Perform an occasional pickup if the customer can't make the monthly payment and all other tool belt options were utilized. Assist customers towards gaining ownership of their dream merchandise.
+meta	experience	Sales Manager
+meta	experience	Aaron's Sales and Lease
+meta	experience	May 2012 to December 2013
+meta	experience	Welcome walk in customers, offer them assistance in finding merchandise they may be looking for, inform them of any promotions, sales, clearance, cash and carry specials we are offering. Follow the FLOW Process to ensure the highest level of customer satisfaction. Always promote and implement the Yes Program. Make outgoing calls to current customers, inactive paid out customers as well as inactive customers that returned their merchandise, soliciting new promotions and specials trying to regain their business. Keep an updated goal board and track our progress daily with all sales team associates by carrying out daily strategy meetings and weekly performance management meetings to assure we are on track to achieve our monthly goals and whatever daily, weekly, monthly, quarterly sales contests the company is running. Make sure the sales showroom is clean, organized, always stocked with a "no holes policy" and all merchandise is clearly priced. Inventory scan. Schedule deliveries and follow up with customers to ensure they had a red carpet delivery.
+meta	experience	Google Adwords Marketing Team Lead
+meta	experience	Revana Assigned To Google
+meta	experience	May 2011 to May 2012
+meta	experience	Supervising over 20 agents. Offering guidance and insight into creating successful Google Adwords advertising accounts for small and medium sized businesses. Creating easy to follow phone scripts that  agents can use while on the phone to navigate and make easy transitions while assisting customers and overcoming all objections. Train new agents, coach underperforming agents, carry out performance management meetings with agents, while creating incentives and contests so associates stay motivated and enthusiastic to reach and surpass department goals set.
+meta	experience	Google Adwords Marketing Campaign Specialist
+meta	experience	Revana Assigned To Google
+meta	experience	July 2010 to May 2011
+meta	experience	Creating, building and maintaining Google Adwords advertising accounts for small and medium sized businesses. Assisting advertisers for their 1st 30 days to ensure they have an effective campaign and are seeing a return on their investment. Selecting keywords, writing ads and optimizing accounts to ensure effectiveness. Incoming and outgoing calls.
+meta	experience	Prime Bank Owned Loss Mitigation
+meta	experience	JPMorgan Chase
+meta	experience	December 2009 to March 2010
+meta	experience	Make outgoing calls to current customers who are 120 plus days delinquent on their mortgage loan attempting to collect payments to bring their loan current, establish a reason for default and come up with possible workout options to bring loan current, run customers through our system to see if they qualify for either the Government loan modification (HAMP) or a Chase loan modification program, keep up to date on current policy changes, refer short sales offers to Negotiators for further review, review customers documentation such as pay stubs, bank statements, hardship letters, tax returns, profit & loss, proof of income, sales contracts, settlement statements, leasing agreements, etc.
+meta	experience	Prime Bank Owned Collector III
+meta	experience	JPMorgan Chase
+meta	experience	June 2009 to December 2009
+meta	experience	Make outgoing calls to current customers who are 30-119 days delinquent on their mortgage loan attempting to collect payments to bring their loan current.
+meta	experience	Sales/Retention Supervisor
+meta	experience	The Arizona Republic
+meta	experience	January 2007 to March 2009
+meta	experience	Supervise Sales/Retention associates, run and create campaigns for the dialer, create contests, train new associates, coach underperforming associates, carry out performance management meetings with associates, organize and implement disciplinary actions for associates, scheduling/payroll duties, hiring/termination experience, perform call monitoring valuations of associates on outbound/inbound phone calls, create new commission structures, create new attendance policy, perform yearly evaluations of associates.
+meta	experience	Sales/Retention Associate
+meta	experience	The Arizona Republic
+meta	experience	January 2006 to January 2007
+meta	experience	Make outgoing calls to current customers soliciting new promotions and specials, calling current customers to collect past balances owed plus solicit new promotions and specials, calling inactive customers soliciting new promotions and specials, cold calling to try and establish new customers.
+meta	experience	Customer Service Representative
+meta	experience	The Arizona Republic
+meta	experience	July 2005 to January 2006
+meta	experience	Answer incoming customer service calls, accessing personal accounts, handling complaints, updating account information, taking payments and up-selling customers on new promotions and specials.

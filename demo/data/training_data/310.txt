@@ -1,0 +1,48 @@
+content	education	Business Management
+content	education	Delaware Technical Community College Dover, DE
+content	education	January 2018 to Present
+meta	experience	Sales Associate
+meta	experience	PANDORA JEWELRY - Dover, DE
+meta	experience	April 2018 to Present
+meta	experience	• Meeting and exceeding company sales goals by utilizing sales techniques and communicating product knowledge to the customer effectively.
+meta	experience	• Recommend merchandise selections based on customers' specific needs and desires.
+meta	experience	• Educate customers on important product information such as proper Pandora jewelry care and the special meanings of the various pieces.
+meta	experience	• Performing various sales and register transactions using POS system on tablets and other computerized equipment.
+meta	experience	• Maintaining standards in merchandise handling, presentation, loss prevention, and all other duties as directed by management.
+meta	experience	• Maintaining knowledge of current sales and promotions; maintaining pricing and marketing standards.
+meta	experience	• Following all company policies and procedures
+meta	experience	• Top performer in store for customer credit card conversion.
+meta	experience	Resident Care Partner
+meta	experience	Enlivant - Dover, DE
+meta	experience	April 2018 to October 2018
+meta	experience	• Provide quality resident care as indicated on the care plan according to specific needs of each individual.
+meta	experience	• Promote residents independence and assist in rehabilitation.
+meta	experience	• Participate in community's Life Enrichment Activities, events and outings, while encouraging residents to attend.
+meta	experience	• Provide assistance with housekeeping, laundry, dressing and any other tasks that resident may need assistance with.
+meta	experience	• Provide a positive environment and emotional nourishment for residents in care.
+meta	experience	Customer Service Associate
+meta	experience	LOWE'S - Dover, DE
+meta	experience	January 2017 to April 2018
+meta	experience	• Responding to customer inquiries and requests.
+meta	experience	• Providing support throughout their shopping experience including promoting customer loyalty plans
+meta	experience	and/or extended protection/replacement plans.
+meta	experience	• Processing sales and returns using a cash register.
+meta	experience	• Built strong relationships with customers within the community to increase likelihood of repeat
+meta	experience	business.
+meta	experience	Signal Support Systems Specialist
+meta	experience	U.S ARMY - Augusta, GA
+meta	experience	February 2016 to October 2016
+meta	experience	Installation, operation and maintenance of all signal support systems to include local area and wide
+meta	experience	area networks and routers.
+meta	experience	• Network integration using radio, wire, satellite and battlefield automated systems.
+meta	experience	• Distribution and troubleshooting of information systems and devices valued at $650,000
+meta	experience	Sales Advisor
+meta	experience	BANANA REPUBLIC - New York - New York, NY
+meta	experience	January 2015 to February 2016
+meta	experience	Coordinated with customers by asking open-ended questions to identify requirements and make
+meta	experience	relevant merchandise suggestions.
+meta	experience	• Communicated offers to customers such as daily promotions and Banana Republic Store Card to influence buying decisions and loyalty.
+meta	experience	• Performed the tasks of assisting customers in finding items that fit their specific needs or substitutions for out-of-stock products.
+meta	experience	• Worked closely with store management to set up marketing displays and set the store up for holidays
+meta	experience	and special events.
+meta	experience	• Replenishment, garment care and a solid knowledge of all departments and product.

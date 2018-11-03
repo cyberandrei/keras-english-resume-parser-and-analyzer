@@ -1,0 +1,64 @@
+content	education	BA in Political Science
+content	education	Delaware State University
+meta	experience	Sales Professional
+meta	experience	Littman's Jewelers - Dover, DE
+meta	experience	2017 to Present
+meta	experience	Commissioned Sales
+meta	experience	Inventory
+meta	experience	Stock balance
+meta	experience	Operations Manager
+meta	experience	JC Penney
+meta	experience	2012 to 2017
+meta	experience	- Chosen as an honorable mention "Top Market Performer" for Look and Feel in our market
+meta	experience	- Chosen as "Top Performer" in our district in look and feel.
+meta	experience	- Assisted store in exceeding Customer Experience by maintaining the highest look and feel and meeting productivity expectations.
+meta	experience	- Coached and developed a team on the importance of core standards and its affect on customer service.
+meta	experience	- Executed compelling and inviting floor sets throughout the store
+meta	experience	- Maintained the highest look and feel in the districts two years in a row. Far exceeding company, region and district.
+meta	experience	- Exceeded company goal for our inventory results.
+meta	experience	- Assisted other store with visual and core standards.
+meta	experience	- Exceeded company UPH goal by successfully following the door to floor process and holding team members accountable.
+meta	experience	-   In charge of visual, restock, operations, pricing and signing, cleaning crew, Hazmat, loss       prevention, .com, enterprise fulfillment, recovery, ordering supplies, customer experience from a merchandising perspective and coaching and developing a team.
+meta	experience	Setup tech equipment
+meta	experience	Francesca's Collections
+meta	experience	2010 to 2012
+meta	experience	Check in inventory, partner with supplies and visual department concerning any missing supplies.
+meta	experience	- Walk punch list and partner with project director and general contractor to finish any outstanding issues.
+meta	experience	- Completed final walkthrough with building inspector to obtain COO.
+meta	experience	- Hand-off to Boutique Manager and Regional Manager
+meta	experience	- Send completion forms to corporate along with pictures of completed locations.
+meta	experience	- Submit expense reports in a timely manner.
+meta	experience	- Partner closing with corporate.
+meta	experience	- Created a Boutique Service Guide focused on customer service.
+meta	experience	- Travel to other stores assisting with training, visuals and recruiting.
+meta	experience	-Saved thousand of dollars for the company during a store opening.
+meta	experience	Store Manager
+meta	experience	Maxrave/BCBG - Newark, DE
+meta	experience	2008 to 2010
+meta	experience	- Assisted throughout the district with store coverage, organization, and merchandising.
+meta	experience	- Trained new store managers throughout our district (extensive traveling).
+meta	experience	- Ensured we were on track as a team to achieve company/store goals and mission.
+meta	experience	- Decreased inventory shrinkage from double digits to single digit exceeding company goal.
+meta	experience	Visual Merchandising Manager
+meta	experience	Banana Republic - Newark, DE
+meta	experience	2004 to 2008
+meta	experience	- Supervised stock team and visual team.
+meta	experience	- Achieved and exceeded UPH (units per hour) goal while processing shipment.
+meta	experience	- Coached and developed team on a daily basis.
+meta	experience	- Increased our men's business by more than 7%.
+meta	experience	- Increased standard awareness and expectations.
+meta	experience	- Tracked and merchandised sell through weekly by maintaining and updating my reports.
+meta	experience	- Assisted stores within our district with corporate visits and major rollouts.
+meta	experience	- Participated in new store openings.
+meta	experience	- Received high marks on our customer experience surveys for presentation and replenishment on a monthly basis.
+meta	experience	- Won holiday visual district contest chosen by DM and VMM (district consisted of 16 stores two of them flagship stores Walnut Street and King of Prussia).
+meta	experience	- Number one in the company scoring 92% on our CES for merchandising in March 2007.
+meta	experience	- Built props/paint/wallpaper if called for in floor set.
+meta	experience	- Won over all set up and organization of stockroom and props in the district revamp stockroom contest.
+meta	experience	Instructor
+meta	experience	Barbizon School and Modeling Agency - Wilmington, DE
+meta	experience	February 1997 to April 2003
+meta	experience	- Taught major modeling curriculum which consist of wardrobe planning, public speaking, skin care, career and social savvy, modeling.
+meta	experience	- Assisted other instructors when needed.
+meta	experience	- Assisted professional photographer during class photo shoots.
+meta	experience	- Assisted with professional graduation show.

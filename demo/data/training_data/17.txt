@@ -1,0 +1,16 @@
+content	education	Diploma in Information technology
+content	education	Virginia college Huntsville Huntsville, AL
+content	education	June 2018 to May 2019
+content	education	Some college
+meta	experience	Sales associate
+meta	experience	Walmart
+meta	experience	October 2015 to Present
+meta	experience	Sales floor associate at walmart
+meta	experience	Caregiver
+meta	experience	Senior helpers - Huntsville, AL
+meta	experience	May 2017 to September 2017
+meta	experience	Caregiver for elderly with dementia
+meta	experience	Truck driver
+meta	experience	Shelby contracting - Huntsville, AL
+meta	experience	May 2002 to December 2008
+meta	experience	I drove a destributor. And a dump truck. I no longer have CDL's

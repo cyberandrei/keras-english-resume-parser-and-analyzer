@@ -1,0 +1,19 @@
+content	education	Associate in Arts
+content	education	Pulaski Technical College North Little Rock, AR
+content	education	August 2012 to December 2015
+meta	experience	Sales Associate
+meta	experience	Dillard's, Inc. - North Little Rock, AR
+meta	experience	June 2016 to February 2018
+meta	experience	As the sales associate I work hard to maintain all the freight that comes through for my area. I process and display the different merchandise in areas I think its best fit for sales.
+meta	experience	Sales Associate
+meta	experience	Champs Sports - North Little Rock, AR
+meta	experience	June 2010 to April 2017
+meta	experience	As an assistant manager, I worked hard to make sure that my co workers and I completed the various tasks and goals that were set daily for us. These task could vary from but not limited to processing the shipment to changing the shoe wall, apparel wall and windows. Our main goal was to surpass the dollar amount we made the previous year on that day. These goals can range from $1500-$25,000 I help achieve those goals by properly having my co-workers assisting the customers and managing their area. I managed to have at least 30%-40% of the sales on average.
+meta	experience	Sales Associate
+meta	experience	Academy Sports
+meta	experience	April 2015 to December 2015
+meta	experience	As sales associate I assisted the customers in finding a variety of shoes while maintaining the organization of the shoes in my assigned area.
+meta	experience	Intermittent Laborer
+meta	experience	City of North Little Rock
+meta	experience	May 2012 to July 2014
+meta	experience	Depending on the time of year I was either cutting grass, trimming bushes, cutting tree limbs, or cleaning the bathrooms in the surrounding area throughout the parks in the city.

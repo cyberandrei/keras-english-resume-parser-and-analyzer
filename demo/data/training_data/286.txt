@@ -1,0 +1,26 @@
+content	education	Bachelor of Science in Homeland Security
+content	education	St. John's University Queens, NY
+content	education	May 2018
+meta	experience	Sales Associate
+meta	experience	Bottle Stop - Avon, CT
+meta	experience	June 2018 to Present
+meta	experience	In charge of stock merchandise for sales.
+meta	experience	Red Bull Sales Associate
+meta	experience	St. John's University Athletics - Queens, NY
+meta	experience	October 2016 to May 2018
+meta	experience	Queens, NY
+meta	experience	Mascot October 16'-May18'
+meta	experience	• Rally the crowd without any verbal communication.
+meta	experience	Brescome & Barton North Haven, CT
+meta	experience	Red Bull Sales Associate 2015- 01/18
+meta	experience	• In charge of promoting products to on premise customers.
+meta	experience	• Tasked with creating and delivering sell sheets, table tents, and menus to promote
+meta	experience	• the products.
+meta	experience	• Worked extensively with Excel to record all our data to then report to the company.
+meta	experience	Camp Jewell YMCA Colebrook, CT
+meta	experience	Camp Counselor Summers13'14'
+meta	experience	• Responsible for 10-12 campers at all times of the day.
+meta	experience	Warehouse Employee
+meta	experience	Empire Distributors - Brooklyn, NY
+meta	experience	June 2017 to August 2017
+meta	experience	Sorted out broken or damaged bottles for repack.

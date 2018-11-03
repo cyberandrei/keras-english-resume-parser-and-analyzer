@@ -1,0 +1,10 @@
+content	education	High School Diploma
+meta	experience	Sales
+meta	experience	 - Belle Glade, FL
+meta	experience	January 2016 to Present
+meta	experience	Promote Hair Sales
+meta	experience	Cashier/Customer Service
+meta	experience	KFC - Clewiston, FL
+meta	experience	February 2017 to May 2017
+meta	experience	While working as a cashier I was responsible to provide exceptional customer service skills while taking and preparing orders.
+meta	experience	Cashier/Customer Service

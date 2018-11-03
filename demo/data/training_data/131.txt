@@ -1,0 +1,43 @@
+content	education	B.A. in Business Administration
+content	education	Philander Smith College Little Rock, AR
+content	education	May 1992
+meta	experience	Sales Consultant
+meta	experience	La-Z-Boy Furniture Gallery - Davenport, IA
+meta	experience	October 2010 to December 2012
+meta	experience	Responsible for meeting weekly and quarterly sales goals.
+meta	experience	• Maintain customer base and track customer orders.
+meta	experience	• In-Home Design Services.
+meta	experience	• Working directly with corporate headquarters.
+meta	experience	Client Development Director
+meta	experience	Horizon Payroll Services - Saint Charles, IL
+meta	experience	2007 to 2009
+meta	experience	In Charge of the development of customer base in new market.
+meta	experience	• Increasing sales and client base at predetermined rate.
+meta	experience	• Client retention/customer service.
+meta	experience	• Created name recognition.
+meta	experience	Sales Manager
+meta	experience	Assembly International - Elk Grove Village, IL
+meta	experience	2003 to 2007
+meta	experience	In charge of sales, marketing and advertising for EMS (electronic manufacturing services).
+meta	experience	• Increased sales and customer base without having marketing or advertising budgets.
+meta	experience	• Sales increased by an average of 25 % each year I was employed by the company, adding approximately $1 million in sales.
+meta	experience	Program/Sales Manager
+meta	experience	Harrington Signal - Moline, IL
+meta	experience	1998 to 2003
+meta	experience	In charge of sales, marketing and advertising for EMS, which included a customer base of over 250 companies coast to coast.
+meta	experience	• Developed and implemented promotion campaigns for trade shows and seminars.
+meta	experience	• Provided quarterly reports on sales projections for EMS company to CEO.
+meta	experience	• Maintained and expanded upon customer base with limited budget for marketing and promotion.
+meta	experience	• Met annual growth goals for both revenue and customer base set by the company and CEO at the beginning of each fiscal year.
+meta	experience	• Primary contact for all customers, providing feedback on product delivery, quality and customer service.
+meta	experience	Customer Service Representative
+meta	experience	DST Systems Inc - Kansas City, MO
+meta	experience	1996 to 1998
+meta	experience	Field calls from investors.
+meta	experience	• Entered all daily purchases, redemptions and transferred monies from specific mutual funds handled by the transfer agency.
+meta	experience	• The daily transactions affected the following days per share cost of each specific mutual fund company.
+meta	experience	Quality Control Representative
+meta	experience	Kemper Financial Company - Kansas City, MO
+meta	experience	1994 to 1998
+meta	experience	Verification of all purchase redemptions and transfer of monies on a daily basis for the transfer agency.
+meta	experience	• Lead quality rep.

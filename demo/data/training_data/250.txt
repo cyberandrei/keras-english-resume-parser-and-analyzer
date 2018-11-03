@@ -1,0 +1,42 @@
+content	education	Bachelor of Arts in Law and Society
+content	education	University of California at Santa Barbara Santa Barbara, CA
+content	education	1995
+meta	experience	Territory Sales Manager
+meta	experience	Mosaic Sales Solutions
+meta	experience	2018 to Present
+meta	experience	• Performed sales and marketing support functions for 48 National Retail locations in CT, RI and MA.
+meta	experience	• Supported Google, Nest, Pixel, and Pixelbook sales at Best Buy, The Home Depot, Lowe's, Target and Costco.
+meta	experience	• Consistently met key performance indicators at 100%.
+meta	experience	CEO and Marketing Operations
+meta	experience	Forward Services Interactive LLC, Virtual Office
+meta	experience	2009 to Present
+meta	experience	• Acquired a network of 25+ affiliates  and engaged in Social Media, Search Engine, Email, PPC and other forms of internet marketing.
+meta	experience	• Conducted marketing functions for companies such as Appen Butler Hill, North American Power, and Tempo Wireless.
+meta	experience	• Implemented a consistent weekly routine that included weightlifting, Kenpo, Karate, Judo, Brazilian Jiu-Jitsu and boxing.
+meta	experience	Outside Sales Representative
+meta	experience	Netpique, Hartford Territory, CT
+meta	experience	2008 to 2008
+meta	experience	- 2008
+meta	experience	• Engaged in contract-based Business to Business Office Depot product sales to small businesses and the Education segments.
+meta	experience	• Achieved daily sales targets consistently at 100% or greater by using D2D canvassing techniques.
+meta	experience	• Account Management for a territory of existing clients consisting of 200 K-12 schools.
+meta	experience	Senior Indirect Account Manager
+meta	experience	Sprint-Nextel Corporation - Boston, MA
+meta	experience	2000 to 2006
+meta	experience	• Aligned 10 to 15 multi-unit, multi-channel Agent/Partner organizations with company goals, objectives, and metrics.
+meta	experience	• Relationship management, communication management, and conflict resolution.
+meta	experience	• Acted as a small business consultant for improved profitability and performance.
+meta	experience	• Achieved balanced sales performance of 125% to sales targets.
+meta	experience	CORE Store Manager
+meta	experience	Cellular One - Monterey, CA
+meta	experience	1996 to 2000
+meta	experience	• Responsible for store sales, marketing, finances, customer service and operations.
+meta	experience	• Managed a team consisting of a CORE Sales Lead and CORE Sales Associates.
+meta	experience	• Grand opened the Palo Alto, CA location and participated in marketing outreach programs.
+meta	experience	• Achieved balanced sales performance of 132% to sales targets.
+meta	experience	Retail Sales Manager
+meta	experience	TSR Wireless - Phoenix, AZ
+meta	experience	1995 to 1996
+meta	experience	• Responsible for store sales and operations.  Managed a monthly marketing budget to increase customer traffic.
+meta	experience	• Achieved month over month pager sales growth trend consistently during tenure.
+meta	experience	• Performed at over 100% to retail sales targets.

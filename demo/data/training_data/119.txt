@@ -1,0 +1,49 @@
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	TeleTech - Sherwood, AR
+meta	experience	May 2017 to Present
+meta	experience	• Outbound Calls
+meta	experience	• Soft Sales
+meta	experience	• Customer service
+meta	experience	◦ Enrollments
+meta	experience	◦ Data Entry
+meta	experience	Front Desk Clerk
+meta	experience	Holiday Inn Express - Benton, AR
+meta	experience	October 2016 to May 2017
+meta	experience	• Front Desk, including
+meta	experience	◦ Counting drawer
+meta	experience	◦ Closing paper work
+meta	experience	◦ Making Keys
+meta	experience	◦ Checking ID's for safety of guest
+meta	experience	Customer Service
+meta	experience	Cosmetology
+meta	experience	October 2015 to July 2016
+meta	experience	• Business administration, including
+meta	experience	◦ Counting drawer
+meta	experience	◦ Closing paper work
+meta	experience	◦ Setting alarm.
+meta	experience	Customer Service
+meta	experience	Cosmetology - Little Rock, AR
+meta	experience	June 2014 to October 2015
+meta	experience	• Business administration, including
+meta	experience	◦ Counting drawer
+meta	experience	◦ Closing paper work
+meta	experience	◦ Setting alarm.
+meta	experience	Customer Service
+meta	experience	Cosmetology - Little Rock, AR
+meta	experience	November 2012 to April 2014
+meta	experience	• Inbound / Outbound calls.
+meta	experience	• Customer service
+meta	experience	◦ Accepted payments
+meta	experience	◦ Corrected accounts containing mistakes
+meta	experience	◦ Refunds
+meta	experience	◦ Data entry.
+meta	experience	Customer Service
+meta	experience	Copy Stop - Little Rock, AR
+meta	experience	2000 to 2008
+meta	experience	• Completed customer orders using black/white and color printers
+meta	experience	• Delivery and pick up in company vehicle
+meta	experience	• Assisted customers with difficult orders
+meta	experience	• Open and closed store
+meta	experience	• Counted register in preparation for deposit
+meta	experience	• Set alarm

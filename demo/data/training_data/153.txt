@@ -1,0 +1,11 @@
+content	education	High School Diploma
+content	education	Mesa High School Santa Rosa, CA
+content	education	August 2012 to June 2016
+meta	experience	Sales
+meta	experience	Apples and Berries / Sales - Roseville, CA
+meta	experience	June 2017 to December 2017
+meta	experience	Job Description:
+meta	experience	-   Helped customers decide what product(s) were best for them
+meta	experience	-   Set up in the mornings and closed up the kiosk at night which
+meta	experience	included storing products in their rightful spots
+meta	experience	-   Counted inventory

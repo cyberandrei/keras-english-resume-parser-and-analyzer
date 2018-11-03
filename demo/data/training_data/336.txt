@@ -1,0 +1,48 @@
+content	education	Diploma in General
+content	education	Anne Arundel Christian School
+content	education	June 2007
+meta	experience	Field Sales Marketing Representative
+meta	experience	Vivint - North East, MD
+meta	experience	March 2018 to Present
+meta	experience	Residential and small business sales
+meta	experience	♦ Develop new accounts and grow existing customer sales in assigned territory
+meta	experience	♦ Territory management
+meta	experience	♦ Maintain records of home and site visits and customer contacts
+meta	experience	♦ Visit existing and potential customers
+meta	experience	♦ Inventory and invoicing management
+meta	experience	♦ Maintain and manage current customer accounts
+meta	experience	♦ Effectively close on a one-call basis by presenting the benefits of our company to prospective customers
+meta	experience	♦ Provide highest level of customer service by addressing customer concerns and identifying customer needs/wants
+meta	experience	♦ Develop and deliver sales presentations in a professional and effective manner
+meta	experience	♦ Participated in the General Manager Program
+meta	experience	Senior Account Sales Representative
+meta	experience	Lukerative Solutions - Newark, DE
+meta	experience	March 2017 to March 2018
+meta	experience	Train and develop new employees
+meta	experience	♦ Acquire and retain customer on behalf of Verizon FiOS and Verizon Wireless
+meta	experience	♦ Door to door sales
+meta	experience	♦ Conduct interviews daily for new applicants using a 3 round interview process
+meta	experience	♦ Professionally run campaign on how to develop in the business, while teaching product knowledge
+meta	experience	♦ Direct sales trainer and developer in customer relations
+meta	experience	♦ Maintain customers account to ensure that they are getting the necessary attention for a great customer and business relationship
+meta	experience	♦ Territory management
+meta	experience	Systems Administrator
+meta	experience	TALEN Energy - Dundalk, MD
+meta	experience	July 2015 to October 2015
+meta	experience	Bridged the gap and helped solved technical issues during network migration
+meta	experience	♦ Documented current IT policies and procedures
+meta	experience	♦ Initiated and created new IT policies and procedures to be implemented upon migration completion
+meta	experience	♦ Worked independently as well as with a team to ensure smooth migration
+meta	experience	Lead IT Support
+meta	experience	Keller Foundations LLC - Hanover, MD
+meta	experience	April 2013 to May 2015
+meta	experience	Provided day to day Tier 1/2/3 Level support to 27 offices in 2 countries and 1500 end users and 4 domains
+meta	experience	♦ Managed 4 IT Support Technicians
+meta	experience	♦ Created and implemented IT Policy, solutions and SOP alongside IT Director and CIO
+meta	experience	♦ Mobile application support and Mobile device management support including Blackberry Administrative Service and Airwatch Mobile device management
+meta	experience	♦ Proficient with BMC Track-It ticketing system and solutions
+meta	experience	♦ Manage IT inventory and asset tags through asset management software
+meta	experience	♦ Worked hand in hand with CDW and other vendors getting pricing and bundles for the company's needs
+meta	experience	♦ Sysprep images for windows XP, 7 and 8 utilizing xml files and Automated Installation Kit and Systems Image Manager.
+meta	experience	♦ Use of and deployment of Windows MDT
+meta	experience	♦ Support use of multiple Citrix environments and applications

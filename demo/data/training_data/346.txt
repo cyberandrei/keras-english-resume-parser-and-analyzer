@@ -1,0 +1,10 @@
+content	education	Smyrna High School Smyrna, DE
+content	education	August 2014 to June 2018
+meta	experience	Sales Associate/Cashier
+meta	experience	Dollar general
+meta	experience	July 2018 to Present
+meta	experience	I’m a sales associate and cashier. I help customers find what they’re looking for as well as obtaining great customer service. I stock items and merchandise on the shelves and make sure the store looks nice and well kept. I also use the register to ring up customers items quickly and efficiently.
+meta	experience	Sales Associate
+meta	experience	Style encore - Dover, DE
+meta	experience	February 2018 to May 2018
+meta	experience	I helped customers look for clothesline that made them feel beautiful and that they felt good in as well as accessories such as purses, wallets, shoes, and belts. I tagged the stores items and stocked them in the racks.  I also used the register to ring up customers efficiently and checked in customers who were looking  to sell their clothing items to the store.

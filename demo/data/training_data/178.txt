@@ -1,0 +1,17 @@
+content	education	Santa Ana High School-Santa Ana, CA Santa Ana, CA
+meta	experience	Sales Associate
+meta	experience	Paul Blanco Good Car Company - Stockton, CA
+meta	experience	December 2014 to Present
+meta	experience	Used car Sales Specialist
+meta	experience	Warehouse Distributor
+meta	experience	Napa Auto Parts - Sacramento, CA
+meta	experience	May 2014 to December 2014
+meta	experience	Warehouse inventory Distributor, Delivery Driver and dispatcher
+meta	experience	DETAILER
+meta	experience	Premier Car Wash and Detail - Elk Grove, CA
+meta	experience	March 2014 to May 2014
+meta	experience	Supervising Employees, Customer Complaints, Customer Service
+meta	experience	CAR WASH AND DETAIL
+meta	experience	Pavilion Car Wash and Detail - Sacramento, CA
+meta	experience	March 2009 to May 2014
+meta	experience	key holder,Customer Service

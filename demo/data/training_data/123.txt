@@ -1,0 +1,44 @@
+content	education	Personal training in Health
+content	education	Heritage College Little Rock, AR
+content	education	2014 to 2015
+content	education	Arkansas Tech University Russellville, AR
+content	education	2007 to 2008
+meta	experience	Sales Manager
+meta	experience	AutoZone - Little Rock, AR
+meta	experience	November 2017 to Present
+meta	experience	customer service, inventory, sales, opening/closing, shipping/receiving, basic vehicle part application
+meta	experience	Tire and Lube Technician
+meta	experience	Donnies foreign car service - Little Rock, AR
+meta	experience	March 2018 to July 2018
+meta	experience	Oil changes and tire repair or installation primarily. Ive performed repairs such as alternators, miscellaneous gaskets and CV axle replacement. I was responsible for porting vehicles in and out of the shop at closing and opening. Through experience I've gained proficient knowledge of vehicle entry level repair.
+meta	experience	Loader
+meta	experience	UPS - Little Rock, AR
+meta	experience	April 2017 to March 2018
+meta	experience	Loading various semi tractor trailers with shipments of merchndise.
+meta	experience	Assistant Manager
+meta	experience	Members fitness club - Little Rock, AR
+meta	experience	March 2015 to November 2017
+meta	experience	Responsibilities
+meta	experience	Maintenance, customer service, cleaning, training
+meta	experience	Stocker
+meta	experience	Big Lots - Benton, AR
+meta	experience	March 2016 to July 2016
+meta	experience	Responsibilities
+meta	experience	Stocking merchandise, customer service, unloading freight
+meta	experience	Cook/Food prep
+meta	experience	Rib Crib - Benton, AR
+meta	experience	2014 to 2014
+meta	experience	I was responsible for the grill, deep fryer, smoker, and griddle
+meta	experience	Laborer
+meta	experience	Four Star Plumbing - Little Rock, AR
+meta	experience	2008 to 2009
+meta	experience	General labor Little Rock, Arkansas
+meta	experience	Responsible for planning and improvement stage of the operation.
+meta	experience	Fully responsible for maintaining sensitive items necessary to carry out various improvement projects.
+meta	experience	McDonald's 2009
+meta	experience	Russellville, Arkansas
+meta	experience	Cashier/ Fry cook
+meta	experience	Cashier
+meta	experience	Walmart - Bryant, AR
+meta	experience	2005 to 2008
+meta	experience	Responsible for cash transactions at registers throughout the store. I was also capable of working other departments not including tire/lube express

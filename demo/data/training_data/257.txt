@@ -1,0 +1,48 @@
+content	education	High school diploma
+meta	experience	Sales Associate
+meta	experience	Metro Pcs NGM Wireless - Miami, FL
+meta	experience	July 2017 to September 2018
+meta	experience	Sales
+meta	experience	Sales Associate
+meta	experience	MetroPCS - Miami, FL
+meta	experience	June 2018 to August 2018
+meta	experience	Sales
+meta	experience	Lot Attendant
+meta	experience	Belise Ready credit - Springfield, MA
+meta	experience	August 2017 to June 2018
+meta	experience	Lot attendant
+meta	experience	Hha/pca
+meta	experience	Stavros Personal Care - Springfield, MA
+meta	experience	January 2016 to June 2018
+meta	experience	Person Care Attendant
+meta	experience	• Assisted in personal care such as ambulation and personal hygiene.
+meta	experience	• Performed housekeeping duties, cooking, cleaning and errands.
+meta	experience	• Provided translation services when necessary.
+meta	experience	• Advocated for clients at doctor's appointments.
+meta	experience	• Prepared and served simple modified meals.
+meta	experience	Receptionist
+meta	experience	C&L Auto Transport - Springfield, MA
+meta	experience	February 2014 to March 2018
+meta	experience	Front Desk receptionist 
+meta	experience	Scheduling
+meta	experience	Crew Member
+meta	experience	Chipolte Mexican Grill - Chicopee, MA
+meta	experience	June 2016 to February 2017
+meta	experience	• Greeted customers
+meta	experience	• Maintained superior standards of cleanliness.
+meta	experience	• Followed recipes accurately and maintained food preparation processes such as marinating, seasoning and grilling meats.
+meta	experience	• Prepared food throughout the day as needed.
+meta	experience	Housekeeping
+meta	experience	Autumn Inn - Northampton, MA
+meta	experience	January 2015 to February 2016
+meta	experience	• Cleaned hotel establishment, including rooms, lobbies lounges, restrooms, and elevators.
+meta	experience	• Report any guest issues to housekeeping supervisor.
+meta	experience	• Replenished room supplies, such as drinking glasses, writing supplies and hotel brochures, and bathroom items.
+meta	experience	• Greeted all guests pleasantly and resolved all queries.
+meta	experience	Home Health Aide
+meta	experience	A Better Life Home Care - Springfield, MA
+meta	experience	January 2014 to January 2016
+meta	experience	• Assisted with treatment plan as ordered by the physician and approved and supervised by the nurse.
+meta	experience	• Performed frequent transfers and lifting, dressing, bathing, grooming, and feeding for all assigned patients.
+meta	experience	• Assisted the client with toileting activities.
+meta	experience	• Prepared and served simple modified meals.

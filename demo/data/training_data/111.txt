@@ -1,0 +1,20 @@
+content	education	Prescott High School Prescott, AR
+content	education	August 2009 to May 2012
+content	education	High school or equivalent
+meta	experience	Retail Sales Associate
+meta	experience	Camping World and RV Sales - North Little Rock, AR
+meta	experience	May 2018 to September 2018
+meta	experience	Ran cash register , sale good sams memberships , visas, protection plans roadside assistance and gave my guest great customer service as I walk them through the store to show them everything they need to start a successful camping experience
+meta	experience	Front of House
+meta	experience	Burger 21 - Little Rock, AR
+meta	experience	June 2017 to May 2018
+meta	experience	Take guest orders , serve guest food , make shakes and give guest 100% great customer service
+meta	experience	Packer
+meta	experience	Southern Bakeries - Hope, AR
+meta	experience	June 2016 to February 2017
+meta	experience	Pack bread on off the machine , box everything up getting ready for shipping
+meta	experience	Sales Associate
+meta	experience	Forever 21 - Bossier City, LA
+meta	experience	September 2014 to April 2016
+meta	experience	Ran fitting room , cash register fold clothes on the tables dressed up  mannikins and help guest find everything great while shopping at forever 21
+meta	experience	Retail Sales Associate

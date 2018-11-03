@@ -1,0 +1,36 @@
+content	education	High school or equivalent
+meta	experience	Merchandiser/Sales
+meta	experience	Elite Brands of Colorado - Denver, CO
+meta	experience	March 2018 to October 2018
+meta	experience	Responsibilties Stocking shelves full of beer and assisting with hand sales and product promotions.
+meta	experience	Warehouse Associate
+meta	experience	Pacific Storage Company - Sacramento, CA
+meta	experience	September 2015 to April 2017
+meta	experience	Responsibilities Stocking the warehouse, pulling boxes for deliveries and putting away for storage. Loading
+meta	experience	trucks for morning routes and shredding documents for clients.
+meta	experience	Plumber's Helper
+meta	experience	Connect Plumbing - Broomfield, CO
+meta	experience	July 2015 to August 2015
+meta	experience	Responsibilities
+meta	experience	I demo sinks and toilets, and cut out old pipe out of buildings.
+meta	experience	Accomplishments
+meta	experience	Ability to work hard and efficient in a timely fashion.
+meta	experience	Production Worker
+meta	experience	CoorsTek - Golden, CO
+meta	experience	January 2015 to June 2015
+meta	experience	I worked on the kiln production line, sanding down ceramic material, and assisting with other duties as needed.
+meta	experience	Merchandiser
+meta	experience	DBI Beverage Company - West Sacramento, CA
+meta	experience	January 2010 to August 2013
+meta	experience	Responsibilities
+meta	experience	Merchandising grocery stores on my route, building displays and working with store directors to give the best
+meta	experience	service possible.
+meta	experience	Accomplishments
+meta	experience	My impact was getting display space to further our sales and bring in more product and keep the store fully stocked.
+meta	experience	Merchandiser
+meta	experience	Capitol Beverage Company - West Sacramento, CA
+meta	experience	January 2006 to December 2009
+meta	experience	Responsibilities
+meta	experience	Merchandising, building displays and filling shelves full of the products we cary.
+meta	experience	Accomplishments
+meta	experience	I was merchandiser of the month 2 time while at this company, and I developed great social skills and rapport with my assigned stores.

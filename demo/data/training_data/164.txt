@@ -1,0 +1,4 @@
+meta	experience	Sales
+meta	experience	Ice-Pix - Sacramento, CA
+meta	experience	April 2008 to May 2010
+meta	experience	Phone sales, customer service, direct sales

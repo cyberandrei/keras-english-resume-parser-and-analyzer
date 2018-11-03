@@ -1,0 +1,14 @@
+content	education	Associates Degree in Mechanical Electrical Technology
+content	education	Sacramento City College
+content	education	July 2018
+content	education	Bachelor's Degree in Physical Education
+content	education	Al Quds University
+content	education	May 2017
+meta	experience	Sales and Finance
+meta	experience	Save Auto Sales - Sacramento, CA
+meta	experience	January 2018 to Present
+meta	experience	HVAC Installer/Helper
+meta	experience	Service Express - Lexington, KY
+meta	experience	August 2017 to December 2017
+meta	experience	Tiling, Plumbing, Painting, Build Homes - Tel Aviv, IL
+meta	experience	January 2013 to May 2017

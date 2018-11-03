@@ -1,0 +1,8 @@
+content	education	3 years govt. polytechnic all college in Associate Mechanical Engineer
+content	education	High school Pakistan
+content	education	1980 to 1985
+meta	experience	Sales Manager
+meta	experience	Alliance World Group llc - Berlin, CT
+meta	experience	Sales and inventory
+meta	experience	Sales Associate/Cashier
+meta	experience	Alliance World group llc

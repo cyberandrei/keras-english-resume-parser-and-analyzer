@@ -1,0 +1,9 @@
+content	education	Ridgeland High School Ridgeland, MS
+content	education	2004 to 2008
+meta	experience	Verizon Wireless Sales Representative
+meta	experience	Verizon
+meta	experience	June 2013 to Present
+meta	experience	Sales rep and business specialist
+meta	experience	Driver/Warehouse Worker
+meta	experience	FedEx Ground - Little Rock, AR
+meta	experience	January 2011 to June 2013

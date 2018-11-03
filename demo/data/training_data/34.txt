@@ -1,0 +1,21 @@
+content	education	Business
+content	education	Calhoun Community College Decatur, AL
+content	education	2007
+content	education	Business
+content	education	Lawrence County Center of Technology Moulton, AL
+content	education	2002
+content	education	Lawrence County High School Moulton, AL
+content	education	2002
+content	education	High School Diplo
+meta	experience	Sales, Daily
+meta	experience	Insurance for Credit /Zales - Decatur, AL
+meta	experience	August 2013 to May 2016
+meta	experience	I sell retail products, goods and services to customers. Sales representatives work with customers to find what they want, create solutions and ensure a smooth sales process. i  will work to find new sales leads, through business directories, client referrals, etc.
+meta	experience	Assembly Line, Changed Reactors, Operator
+meta	experience	Ascend Performance Materials LLC - Decatur, AL
+meta	experience	May 2010 to August 2013
+meta	experience	Management Accountant, Sales, Inventory Control
+meta	experience	Smith Poultry of Moulton - Moulton, AL
+meta	experience	April 2002 to August 2010
+meta	experience	Lawrence County Board of Education - Moulton, AL
+meta	experience	March 1999 to June 2002

@@ -1,0 +1,45 @@
+content	education	Insight Leadership Series
+content	education	Arizona State University Tempe, AZ
+content	education	1998
+content	education	Mesa Community College Mesa, AZ
+content	education	1995 to 1997
+meta	experience	Owner
+meta	experience	Sales Consulting - Chandler, AZ
+meta	experience	2013 to Present
+meta	experience	* Increased revenue growth by 300%, generating multiple lines of revenue.
+meta	experience	* Acquiring net new clients, retention focus and reactivating clients; 200% net new clients in 6 months.
+meta	experience	* SWOT, marketing campaigns, account planning, software training, streamline processes, implemented CRM, implemented effective sales compensation plans.
+meta	experience	* Donate time and services for non-profits including fundraising events and networking.
+meta	experience	Regional Market Manager
+meta	experience	Insight - Tempe, AZ
+meta	experience	2004 to 2011
+meta	experience	* Recognized as the top producing manager surpassing personal and team sales quotas by as much as 182% and earning numerous organizational and vendor partners awards.
+meta	experience	* Strong interpersonal communication, able to compliment peers and client communication.
+meta	experience	* Provided leadership and coaching for a solution-based approach to sales team of 17, focused on market growth through acquiring net new business increasing category breadth and depth within a current client base and forging new business partnerships to produce a continuous pipeline of sales; Exceeding monthly, quarterly and annual quotes consistently.
+meta	experience	* Forecasted revenue and gross profit numbers on a monthly, quarterly and annual basis and developed comprehensive success plans to grow revenue and profit targets for sales team, 100% on target with growth.
+meta	experience	* Partnered with internal clients and field-based vendor representatives to drive brand recognition to capture new business while securing loyalty and winning clients away from competitors.
+meta	experience	* Aligned clients with company vendors and manufacturers to standardize client platforms and ensure recurring sales and client satisfaction, collaborated with clients on needs discovery, developed configurations to meet client needs and provided value-added services based on findings.
+meta	experience	* Increase sales from 40M to 74M by focusing on industries, networking and value add services.
+meta	experience	* Face to face client meetings, maintaining relationships, travel 30% of the time.
+meta	experience	* Developed scalable hardware and software solutions for clients that demonstrated positive ROI for both the clients and the company.
+meta	experience	* Conducted quarterly business reviews (QBRs) with clients to provide in-depth analysis and suggest custom innovative solutions.
+meta	experience	Mid- Market Senior Sales Account Executive
+meta	experience	Insight - Tempe, AZ
+meta	experience	1999 to 2004
+meta	experience	* Built account base grossing $24M in annual revenue and exceeded monthly, quarterly and annual goals.
+meta	experience	* Created a book of accounts from 0 to 78 buying clients.
+meta	experience	* Acquired and reactivated accounts through strategic prospecting, partnering, referrals and persistence.
+meta	experience	* Increased depth and breadth of buying accounts by probing contacts and uncovering opportunities while aggressively selling IT solutions to fit client needs.
+meta	experience	* Consistently leveraged manufacturer field relationships to earn net new leads while securing special pricing and product availability for current client base.
+meta	experience	* Aligned clients with company vendors and manufacturers to standardize client platforms and ensure recurring sales and client satisfaction.
+meta	experience	* Presidents Club member multiple years.
+meta	experience	ranked in top five in production, audit and customer service
+meta	experience	Bank One - Tempe, AZ
+meta	experience	1996 to 1999
+meta	experience	Tempe, AZ, 1996 - 1999
+meta	experience	Tele-lender
+meta	experience	* Consistently closed $11 million dollars monthly in loan products while consistently maintaining a large pipeline.
+meta	experience	* Recognized as high sales producer consistently; ranked in top five in production, audit and customer service
+meta	experience	* Maintained direct accountability for the marketing and promotions of loans over the telephone.
+meta	experience	* Interviewed clients for a host of different consumer loan products; analyzed credit histories and loan applications.
+meta	experience	* Provided clients loan decisions in compliance with bank policies and Fair Lending Act.

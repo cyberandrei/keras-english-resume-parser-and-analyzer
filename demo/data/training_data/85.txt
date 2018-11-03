@@ -1,0 +1,14 @@
+content	education	High School Diploma
+content	education	Paso Robles High School Paso Robles, CA
+content	education	2018
+meta	experience	Sales
+meta	experience	Hay Delivery - Paso Robles, CA
+meta	experience	March 2015 to July 2018
+meta	experience	In charge of loading/delivering hay and feed
+meta	experience	Organized hay and feed warehouses
+meta	experience	Outside sales interacting with customers about our products
+meta	experience	Golf Instructor
+meta	experience	The First Tee Golf
+meta	experience	November 2014 to April 2016
+meta	experience	Volunteered helping younger kids out with the basic fundamentals and rules of the game
+meta	experience	Teaching them leadership skills that can help them out in their life and in the sport

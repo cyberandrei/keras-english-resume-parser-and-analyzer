@@ -1,0 +1,35 @@
+content	education	High School Diploma
+content	education	Kitchen Academy
+meta	experience	Sales / Detailer
+meta	experience	Car Deal Auto Sales - Sacramento, CA
+meta	experience	2013 to 2015
+meta	experience	Sacramento, Ca
+meta	experience	Kitchen Manager
+meta	experience	-  prepare, cook and present food quickly and efficiently. To ensure the smooth running of the kitchen, at all times and to supervise, train and motivate others with the key aim of delivering food to our customers in a timely manner.
+meta	experience	Solution Sales Specialist
+meta	experience	Verizon Wireless - New Orleans, LA
+meta	experience	2011 to 2013
+meta	experience	Sold Verizon Wireless products such as phones, accessories and services
+meta	experience	Actively listen to customers and then provided them with solutions that helped them make the best decision
+meta	experience	Informed customers about how new products can enhance their lives
+meta	experience	Explained to customers about the best things their products could do so they can immediately enjoy them
+meta	experience	Built genuine customer relationships by earning their loyalty and trust
+meta	experience	Construction Worker
+meta	experience	J.W. & Sons - Atlanta, GA
+meta	experience	2010 to 2011
+meta	experience	Home Improvement
+meta	experience	Skilled in carpentry 
+meta	experience	Framing walls and hanging drywall
+meta	experience	Cabinetry, flooring 
+meta	experience	Mudding and painting
+meta	experience	Minor electrical
+meta	experience	Stock Clerk
+meta	experience	Winco Foods Co - Folsom, CA
+meta	experience	2009 to 2010
+meta	experience	Overnight Replenishment
+meta	experience	Maintained and replenished stock in a safe 
+meta	experience	Efficient manner to meet customer purchasing needs
+meta	experience	Overnight Replenishment / Sales associate
+meta	experience	Michael's Arts and Crafts - Folsom, CA
+meta	experience	2008 to 2009
+meta	experience	responsible for ensuring proper maintenance of store inventory and maintained at the highest level of presentation and that all planograms are set correctly in a timely manner.

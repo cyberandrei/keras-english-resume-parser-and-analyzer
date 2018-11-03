@@ -1,0 +1,24 @@
+content	education	Associates in Business
+content	education	Glendale Community College Glendale, AZ
+content	education	October 2018 to October 2020
+content	education	High school diploma
+meta	experience	Insurance Sales and Service
+meta	experience	Insurance Sales - Phoenix, AZ
+meta	experience	December 2017 to Present
+meta	experience	Currently working in the insurance field I have sold insurance via cold call as well as serviced over hundreds of policies.
+meta	experience	Sales Consultant Mentor
+meta	experience	CarMax - Tolleson, AZ
+meta	experience	January 2016 to December 2017
+meta	experience	Sell vehicles and other services provided by Carmax. Meeting and excelling sales quotas on a monthly basis. Coaching and working as a team to lift each other up and make sure every consultant is successful in his or her position.
+meta	experience	Lead technical support agent
+meta	experience	cox communications - Phoenix, AZ
+meta	experience	January 2015 to December 2015
+meta	experience	Responsibilities
+meta	experience	Handle customer escalations, resolve various problems in an orderly fashion, as well as cross selling on every call for all of the services the company provides.
+meta	experience	Accomplishments
+meta	experience	I lead my team in sales and I am one of the top performers in the department, after a very short time of being with the company I was promoted to lead agent handling all four products and taking filtered calls.
+meta	experience	Skills Used
+meta	experience	Patience, efficiency, problem solving, selling, as well as coaching up others to perform at a level that met with our team statistics.
+meta	experience	Reservation Agent
+meta	experience	BestWestern
+meta	experience	May 2014 to December 2014

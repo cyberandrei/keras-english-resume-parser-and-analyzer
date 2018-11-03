@@ -1,0 +1,13 @@
+content	education	Business Management
+content	education	(Current) Calhoun Community College
+content	education	2017
+content	education	High School Diploma
+content	education	Decatur High School
+content	education	2015
+meta	experience	Sales Assistant
+meta	experience	Gloria's Good Health - Decatur, AL
+meta	experience	August 2014 to Present
+meta	experience	• Greet customers and ascertains what each customer wants and needs.
+meta	experience	• Describe merchandise and explain use, operation, and care of merchandise to customers.
+meta	experience	• Compute sales prices, total purchases and receive process cash or credit payment.
+meta	experience	• Receives and places stock in the designated areas of the store.

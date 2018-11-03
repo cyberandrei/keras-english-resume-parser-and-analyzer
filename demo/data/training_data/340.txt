@@ -1,0 +1,30 @@
+content	education	Associate of Applied Science in Business Management/ Entrepreneurship
+content	education	Cumberland County College Vineland, NJ
+content	education	2018
+content	education	Introduction to Marketing
+content	education	Vineland Senior High School Vineland, NJ
+content	education	2011
+meta	experience	Sales Associate
+meta	experience	Hamilton Mall - Mays Landing, NJ
+meta	experience	August 2015 to November 2016
+meta	experience	Providing excellent written/verbal communication skills, helping guests on the sales floor, informing customers of current sales, basic math skills, cash wrap experience, practicing safety rules procedures, housekeeping (cash register, dressing rooms, sales floor), processing sales of gift cards and ringing up purchases.
+meta	experience	Sales Associate
+meta	experience	Hamilton Mall - Mays Landing, NJ
+meta	experience	September 2015 to January 2016
+meta	experience	Seasonal), Providing customer service skills by working in a busy environment with cashiering, selling and processing items. Promote store sale growth while answering the phones, customer questions, floorsets projects and lifting at least 50lbs.
+meta	experience	Sales Advisor
+meta	experience	Foreign Exchange - Irvine, CA
+meta	experience	June 2014 to December 2015
+meta	experience	Optimizes the store's selling by providing the customers with a pleasant shopping experience, consistent moving and standing on sales floor, balancing cash drawer, sort inventory/loss prevention, house cleaning (cash register, stock room, dressing room, bathroom, etc.) engaging with customers with garment options and direct service.
+meta	experience	Sales Associate
+meta	experience	Foreign Exchange - Mission Viejo, CA
+meta	experience	October 2014 to December 2014
+meta	experience	Seasonal), Providing customer with written/verbal communication skills, converting returns with offers and other promotion into larger sales. Delivering a friendly and efficient cash wrap experience with transactions and keeping an awareness of building personal capability in loss prevention.
+meta	experience	Crew Member
+meta	experience	Panda Express - Irvine, CA
+meta	experience	June 2013 to September 2014
+meta	experience	People Oriented - enjoyed working with the guest and fellow associates, possess good communication and interpersonal skills. Greeted and served customers with  quality food and service.  Assisted in ensuring a clean, safe and well-organized  restaurant
+meta	experience	Clerical Aid
+meta	experience	Cumberland & Salem Family Support Organization Elmer - Elmer, NJ
+meta	experience	June 2009 to September 2009
+meta	experience	Seasonal) Faxing, coping, answering the telephone, provided office support to low income families, data entry, stocking old files away in boxes

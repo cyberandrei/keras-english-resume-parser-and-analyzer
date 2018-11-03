@@ -1,0 +1,7 @@
+content	education	High School
+content	education	William Blount High School Maryville, TN
+content	education	1987 to 1990
+meta	experience	Sales Associate
+meta	experience	M&J Concessions - Seivierville TN
+meta	experience	June 2006 to Present
+meta	experience	Maintain inventory, customer service, sales, inventory counts, stock orders.

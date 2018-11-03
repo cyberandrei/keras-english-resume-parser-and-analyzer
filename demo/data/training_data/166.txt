@@ -1,0 +1,6 @@
+content	education	Rio Cazadero High (Continuation) Sacramento, CA
+content	education	January 2010 to August 2012
+meta	experience	Sales Associate
+meta	experience	Assurance Wireless - Sacramento, CA
+meta	experience	January 2014 to April 2015
+meta	experience	Customer service. Phone sales

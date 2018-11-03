@@ -1,0 +1,32 @@
+content	education	DSMT Denver School of Massage Therapy
+content	education	August 2017 to Present
+content	education	High School Diploma
+content	education	Gateway High School
+content	education	August 2008 to June 2011
+meta	experience	Customer Service Representative
+meta	experience	Acosta Sales & Marketing - Aurora, CO
+meta	experience	March 2016 to Present
+meta	experience	Acosta Sales & Marketing
+meta	experience	Managing and Handling accounts CSR
+meta	experience	 -Customer sales representative in account sales management. Responsibilities include editing and overseeing large account order sales such as Coca Cola, Hostess, and Clorox. Other responsibilities include servicing customers through emails such as Albertsons, Safeway, and Target with on demand request for delivery date changes, off invoices and other order discrepancies.
+meta	experience	Also responsible for managing and overseeing accounts, working and building a client customer sales base.
+meta	experience	Anthem Insurance Agency
+meta	experience	July 2014 to May 2016
+meta	experience	-Handling outbound/inbound calls with members assisting them with health benefits optimizing membership and profile value, maintaining member's cases and profiles obtaining PHI and assisting members to help and maintain healthy lifestyles.
+meta	experience	Emergency Processer
+meta	experience	-Handling Emergency health calls assisting members with none life threating illnesses and conditions. Managing campaigns, and member's profiling for health conditions and other health programs.
+meta	experience	Facility Intake HPR-Handling inbound/outbound calls for nurse's aide and members. Data processing such as member's profiles in facility caretaking, and providing members in a health program while in treatment.
+meta	experience	Deli Clerk
+meta	experience	KingSoopers City Market
+meta	experience	April 2012 to June 2014
+meta	experience	-Responsible for filling and maintaining costumer orders such as party trays operating cash registers, meat cheese slicers, oven fryer, microwave, cutting tools, other deli equipment.
+meta	experience	Cashier
+meta	experience	- Responsibilities include handling money, taking care of customer needs, and maintain store quality. Communicating on a level of satisfaction based on store conditions and representation. Checking out store bought items and returned items.
+meta	experience	Desk Op
+meta	experience	-Responsible for maintaining and obtaining customer satisfaction including maintain work establishment with employees, and other work capabilities such as maintaining Q-Vision and conducting a clean work environment.
+meta	experience	housekeeping task and other related health support
+meta	experience	Private Home Care
+meta	experience	April 2009 to August 2010
+meta	experience	04-15-2009- 08-08-2010
+meta	experience	-Responsible for maintaining home duties include health care task, personal hygiene maintenance, cooking diet meals, assistance with medication, daily exercise, housekeeping task and other related health support.
+meta	experience	3503 Gaylord St Denver, Co 80205

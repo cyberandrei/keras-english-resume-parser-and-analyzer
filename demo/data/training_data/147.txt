@@ -1,0 +1,23 @@
+content	education	Bachelor's in Business/Psychology
+content	education	Ouachita Baptist University Arkadelphia, AR
+content	education	August 1978 to May 1982
+meta	experience	Sales Associate
+meta	experience	Dillard's, Inc. - Little Rock, AR
+meta	experience	October 2017 to Present
+meta	experience	Retail sales of women's clothing.
+meta	experience	Sales Associate
+meta	experience	I-40 Antiques - Little Rock, AR
+meta	experience	September 2009 to September 2011
+meta	experience	Retail sales of antiques and decorative accessories.
+meta	experience	Insurance Clerk
+meta	experience	Cornerstone Clinic for Women - Little Rock, AR
+meta	experience	June 1984 to September 1985
+meta	experience	Filing insurance claims for an ob/gyn practice.
+meta	experience	Teller
+meta	experience	Pulaski Bank and Trust - Little Rock, AR
+meta	experience	August 1983 to March 1984
+meta	experience	Teller.
+meta	experience	Teller
+meta	experience	First National Bank - Little Rock, AR
+meta	experience	June 1982 to August 1983
+meta	experience	Teller.

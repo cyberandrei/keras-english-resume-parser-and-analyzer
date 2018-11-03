@@ -1,0 +1,23 @@
+content	education	Bachelor of Arts in Psychology & French
+content	education	SYRACUSE UNIVERSITY Syracuse, NY
+meta	experience	Sales
+meta	experience	EBBY HALLIDAY REALTORS - Dallas, TX
+meta	experience	February 2013 to December 2015
+meta	experience	Leveraged credentials and skills as a Realtor to advance client financial goals, reducing housing debt and release
+meta	experience	equity for retirement.
+meta	experience	* Sourced locations with the assistance of capital appreciation prospects for clients seeking investment properties.
+meta	experience	* Met/exceeded sales growth targets.
+meta	experience	* Demonstrated CRM proficiency, marketing, and business development skills.
+meta	experience	OPERATIONS MANAGER
+meta	experience	SOUND FINANCIAL TECHNOLOGIES, LLC - Stamford, CT
+meta	experience	February 2002 to May 2005
+meta	experience	* Developed organizational-wide infrastructure.
+meta	experience	* Performed broad range of HR functions, including payroll processing and presenting pension and 401k benefits,
+meta	experience	and medical/dental plans.
+meta	experience	* Provided financial oversight, including preparing of financial statements and taxes, managing AP/AR, and conducting cash flow analysis.
+meta	experience	* Drove business development activities, including establishment of license structuring and pricing models,
+meta	experience	establishing 3rd party partnerships, and performing various editing tasks.
+meta	experience	Sales/ Trading Development
+meta	experience	BLOOMBERG LP - New York, NY
+meta	experience	November 1989 to February 1994
+meta	experience	Sales/ Trading implementation Specialist

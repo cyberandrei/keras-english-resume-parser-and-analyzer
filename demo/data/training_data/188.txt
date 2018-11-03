@@ -1,0 +1,11 @@
+content	education	High school or equivalent
+meta	experience	Car Salesman
+meta	experience	Flyby auto sales - Sacramento, CA
+meta	experience	November 2017 to June 2018
+meta	experience	- Went from janitor position to sales within 2 months
+meta	experience	- practiced patience, negotiation, and other social skills
+meta	experience	- also worked as a partime mechanic working on the used cars at the shop
+meta	experience	Sign Waiver
+meta	experience	Liberty Tax Service - Sacramento, CA
+meta	experience	January 2017 to April 2017
+meta	experience	Showed up on time everyday

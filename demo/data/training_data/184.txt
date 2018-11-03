@@ -1,0 +1,19 @@
+content	education	Associates in Sacramento
+content	education	The Art Institute of California Sacramento, CA
+meta	experience	Sales Associate
+meta	experience	Aaron Brothers Art & Framing - Folsom, CA
+meta	experience	May 2018 to August 2018
+meta	experience	- Sales                                   - Merchandising
+meta	experience	- Recovery                           - Shipping/Receiving
+meta	experience	- Cashier
+meta	experience	Manager in Training
+meta	experience	Five Guys - Roseville, CA
+meta	experience	April 2017 to March 2018
+meta	experience	- Line cook                         - Cash handling/Cashier
+meta	experience	- Cleaning                           - Opening/ Closing procedures
+meta	experience	- Customer Service
+meta	experience	Sales Associate
+meta	experience	Nine West - Folsom, CA
+meta	experience	June 2016 to January 2018
+meta	experience	- Merchandising              - Shipping/Receiving
+meta	experience	- Recovery                         - Sales Changes

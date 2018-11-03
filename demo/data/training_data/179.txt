@@ -1,0 +1,48 @@
+content	education	High School Diploma
+content	education	Monterey Trail High School Elk Grove, CA
+content	education	2008
+content	education	Cosumnes River College Sacramento, CA
+meta	experience	Operations Manager
+meta	experience	Pacific Sales Kitchen & Home - Roseville, CA
+meta	experience	June 2017 to Present
+meta	experience	Performed assigned projects and completed checklists in an efficient and accurate manner.
+meta	experience	Maintained daily record of all transactions.
+meta	experience	Directed and supervised employees engaged in sales, inventory-taking and reconciling cash receipts.
+meta	experience	Completed weekly schedules according to payroll policies.
+meta	experience	Reorganized the sales floor to meet company demands.
+meta	experience	Stocked and restocked inventory when shipments were received.
+meta	experience	Wrote order supply requests to replenish merchandise.
+meta	experience	Resolved customer questions, issues and complaints.
+meta	experience	Improved service quality and increased sales by developing a strong
+meta	experience	knowledge of company's products and services.
+meta	experience	Owned team productivity metrics.
+meta	experience	Completed research on complex problems and resolved issues in a timely
+meta	experience	manner.
+meta	experience	Department Manager
+meta	experience	Home Depot - Sacramento, CA
+meta	experience	March 2014 to June 2017
+meta	experience	Employed process improvement initiatives within the department.
+meta	experience	Built customer confidence by actively listening to their concerns and giving
+meta	experience	appropriate feedback.
+meta	experience	Delegated work to employees based on shift requirements, individual
+meta	experience	strengths and unique training.
+meta	experience	Held each team member accountable for achieving brand and performance goals.
+meta	experience	Answered customers' questions and addressed problems and complaints in person and via phone.
+meta	experience	Verified that all merchandising standards were maintained on a daily
+meta	experience	basis.
+meta	experience	Kept the showroom clean and maintained neat, orderly product displays.
+meta	experience	Balanced the needs of multiple customers simultaneously in a fast-paced
+meta	experience	retail environment.
+meta	experience	Customer Service Associate
+meta	experience	 - Sacramento, CA
+meta	experience	March 2010 to October 2013
+meta	experience	Showcased features of diverse products, provided information and redirected objections.
+meta	experience	Met with customers to discuss needs and offered relevant options from company line.
+meta	experience	Gave top-notch service to everyone in order to provide ample sales
+meta	experience	opportunities.
+meta	experience	Cross-trained and provided back-up for other customer service
+meta	experience	representatives when needed.
+meta	experience	Resolved product/policy issues and shared benefits of new technology.
+meta	experience	Completed floor replenishment to guarantee size availability and promote
+meta	experience	customer satisfaction.
+meta	experience	Assisted customers with store and product complaints.

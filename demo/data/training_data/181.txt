@@ -1,0 +1,28 @@
+content	education	High school or equivalent
+content	education	CCCS; Community collaborative charter school Sacramento, CA
+content	education	January 2013 to June 2013
+meta	experience	Sales Associate
+meta	experience	Forever 21 - Roseville, CA
+meta	experience	December 2017 to September 2018
+meta	experience	•Sales associates include greeting customers
+meta	experience	• Helping guests on the sales floor, informing customers of sales or specials, and ringing up purchases 
+meta	experience	• Several stocking, cashier, and administrative duties.
+meta	experience	Medicaid Eligibility Specialist
+meta	experience	AppleOne - Folsom, CA
+meta	experience	August 2016 to November 2017
+meta	experience	Provide excellent customer service to Medicaid members 
+meta	experience	• Notated 50-70 Calls every day while accessing 7 Medicaid systems 
+meta	experience	• Educated Medicaid members with Insurance eligibility status  
+meta	experience	• Operated off Computer programs with access granted using Special codes
+meta	experience	Cashier/Customer Service
+meta	experience	Obrien Employment services - Sacramento, CA
+meta	experience	May 2016 to July 2016
+meta	experience	• Cashier for Cafe style restaurant  
+meta	experience	• Assist customers with daily food specials  
+meta	experience	• Trained new employees for dishwasher, cashier, & food prep
+meta	experience	Crew Member
+meta	experience	NATIONS GIANT HAMBURGERS - Folsom, CA
+meta	experience	January 2016 to May 2016
+meta	experience	• Utilize listening skills to attentively take food orders 
+meta	experience	• Mathematically receive payment for food orders   
+meta	experience	• Ability to multi task by taking orders, preparing orders, cooking orders, problem solving, and using prioritization skills to carry out daily functions of restaurant

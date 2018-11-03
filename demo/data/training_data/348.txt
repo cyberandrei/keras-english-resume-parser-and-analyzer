@@ -1,0 +1,46 @@
+content	education	Certification
+content	education	Howard County Community College
+meta	experience	Sales Professional
+meta	experience	AT&T, TWE - Chester, MD
+meta	experience	July 2017 to March 2018
+meta	experience	Create custom wireless and TV solutions for each client based off their wants and needs
+meta	experience	● Offer additional services and products based off of current promotions and potential savings
+meta	experience	● Help customers with non-sales requests ranging anywhere from bill payments, insurance claims, and other various AT&T support
+meta	experience	IT Administrator/Digital Marketing Manager
+meta	experience	Selbyville & Felton Holly Kia
+meta	experience	October 2012 to December 2016
+meta	experience	Berlin Chevy & CDJR
+meta	experience	Multiple Locations in DE and MD October 2012 - December 2016
+meta	experience	IT Administrator/Digital Marketing Manager
+meta	experience	● Respond to end user support requests, ranging from basic help, to virus removal, to PC repairs or replacement
+meta	experience	● Manage and support all technical vendors such as ISP's, hardware vendors (leased or OEM required), core business applications, and all OEM technical concerns with Kia, Chevrolet, and Chrysler Dodge Jeep Ram
+meta	experience	● In charge of pricing and purchasing all IT related items such as laptops, desktops, routers, switches, wireless AP's, Microsoft Windows/Office, etc.
+meta	experience	● Domain and Email management through Godaddy and Rackspace
+meta	experience	● Launched and monitored a reputation campaign, bringing both Kia stores to 4.x+ stars (from 1.x each) and achieved 4+ stars on Berlin Chevy/CDJR stores (these stores were buyouts)
+meta	experience	● Revamped both Berlin Websites, against OEM recommended sites, the stores went from total new and used 50's, to the 90's (over a year)
+meta	experience	Network Engineer/Search Specialist
+meta	experience	Aegis Mobile - Columbia, MD
+meta	experience	July 2008 to June 2012
+meta	experience	Administer the primary and backup domain controllers for the organization.
+meta	experience	● Provide desktop support for all software installations and troubleshooting.
+meta	experience	● Onboard and turn down employees computer systems and accounts for those entering and leaving the company.
+meta	experience	● Manage the company's internal and external DNS settings across 7 active domains.
+meta	experience	● Set up new websites on the development and production servers when required by the application developers.
+meta	experience	● Monitor all company server and network hardware and respond to faults.
+meta	experience	● Competitively price new hardware equipment across multiple vendors.
+meta	experience	● Track the software and hardware inventory for the organization.
+meta	experience	● Configure the companies firewall IP and security settings.
+meta	experience	● Test new media programs on a variety of mobile devices to support Aegis' core business.
+meta	experience	Owner
+meta	experience	Geekabyte.net LLC - Edgewater, MD
+meta	experience	April 2011 to April 2012
+meta	experience	Lead technician responsible for all on-call tasks which include all of the company's services.
+meta	experience	● Pricing and purchasing of all new customer and company equipment.
+meta	experience	● Managing the advertising, banking, and vendor accounts, as well as QuickBooks.
+meta	experience	Sales Professional
+meta	experience	Radio Shack - Easton, MD
+meta	experience	March 2007 to July 2008
+meta	experience	Help customers with all of their electronic needs, from small parts to cellular phones and iPods
+meta	experience	● Inventory and restock items on product walls and islands
+meta	experience	● Undergo monthly and quarterly sales trainings, mostly pertaining to cellular sales and customer service techniques
+meta	experience	● Provide technical assistance on a wide variety of products brought in by customers, not always necessarily purchased within the store

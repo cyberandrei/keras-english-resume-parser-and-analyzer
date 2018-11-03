@@ -1,0 +1,96 @@
+content	education	Bachelor of Science in Biology
+content	education	Manila Central University
+content	education	1994
+content	education	Secondary Education batch
+content	education	1990
+content	education	Primary School batch
+content	education	1986
+meta	experience	Youtuber
+meta	experience	iSportzone - Centennial, CO
+meta	experience	Youtube Channel owner - iSportzone. I have 52,000 subscribers and adding at least 400 daily.
+meta	experience	Creative Director
+meta	experience	Solaire Resort & Casino - Manila
+meta	experience	January 2015 to May 2015
+meta	experience	Responsibilities
+meta	experience	► Overall in-charge of managing the creative group’s operations which includes the production of artworks and materials used in the marketing of the hotels, restaurants, gaming, events and services of Solaire Resort and Casino.
+meta	experience	►Provides creative direction in copywriting, artwork, and video editing for various promotional materials like posters, flyers, e-flyers, printed menus, digital menus, brochures, print-ads, billboards, videos, as well as digital collaterals for web and social media.
+meta	experience	►Leads the production and management of content for all screens inside the property that includes LEDs, elevator screens, upright LED screens and room televisions as well.
+meta	experience	►Assists the Marketing Services Director by providing support through the production of branding and marketing tools as requested by various internal clients.
+meta	experience	Accomplishments
+meta	experience	I was able to speed up the production process and made it more efficient. The video displayed inside the property used to be still images only. I trained and mentored the editors and in a short soan of time, we were already making broadcast quality work. 
+meta	experience	Skills Used
+meta	experience	Conceptualizing
+meta	experience	Copywriting
+meta	experience	Video editing
+meta	experience	Post production
+meta	experience	Motion graphics animation
+meta	experience	Art direction
+meta	experience	Creative Manager (Video) Integrated Marketing
+meta	experience	ABS-CBN Broadcasting Corporation - Manila, AR
+meta	experience	January 2011 to January 2015
+meta	experience	►Heads a team of video editors and graphic artists in generating concepts for the creation of storyboards and the production of various videos and promo materials for ABS-CBN and its allied channels, as well as external clients.
+meta	experience	►Tasks include conceptualizing, supervising video and sound editing, artwork direction and    on-air design for both external clients and network-initiated projects.
+meta	experience	►Trains and supervises contractual and junior editors.
+meta	experience	►Participates in meetings and brainstorming with marketing personnel and other creative departments in the planning of various network on-air campaigns and branded promos.
+meta	experience	►Liases with sales executives, marketing specialists and the creative team to help settle production schedules, network guidelines as well as various creative concerns.
+meta	experience	►Manages the workload for the video group by assigning projects and keeping a weekly production log to ensure that job requests are met on time and according to guidelines.
+meta	experience	►Liases with the production coordinator and the creative team in the entire production process which includes script writing, gathering of video materials, shoot scheduling, talent sourcing, equipment and staff requests, voicing of scripts, video editing and post production and delivery of approved materials to the TOC.
+meta	experience	►Edits materials like audio-visual presentations, promo spots as well as commercials when necessary.
+meta	experience	Creative Manager (Copy) Integrated Marketing
+meta	experience	ABS-CBN Broadcasting Corporation - Manila
+meta	experience	July 2007 to December 2011
+meta	experience	Concept & Copy Group Head
+meta	experience	►Heads a team of copywriters, graphic artists, video editor and production assistants in writing, storyboard creation and production of promo materials both for ABS-CBN, its
+meta	experience	allied channels, companies, as well as outside clients.
+meta	experience	►Tasks include creation, supervision and direction of copy, scripts, conceptualization, layout for print and video materials as well as concepts for network promo mechanics and short commercials.
+meta	experience	Promo Producer (Writer/Editor)
+meta	experience	ABS-CBN Broadcasting Corporation
+meta	experience	2001 to 2007
+meta	experience	Conceptualizes and writes sponsored promotional spots based on client guidelines and directions as well as network-initiated promos. Promo materials air on ABS-CBN, Studio 23, and allied cable channels like Cinema One, Lifestyle Network, Myx, Velvet, Balls, ANC, ABS-CBN Teleradyo and the ABS-CBN regional television.
+meta	experience	►Conceptualizes and writes print promotional materials used in marketing various ABS-CBN programs.
+meta	experience	►Non-linear audio-video editing and post production of promo materials based on client
+meta	experience	recommendation and direction.
+meta	experience	Promo Producer for TV Entertainment Promo (Writer/Editor)
+meta	experience	ABS-CBN Broadcasting Corporation
+meta	experience	1998 to 2001
+meta	experience	Conceptualized and write copy for ABS-CBN programs, special events and sponsored promo materials.
+meta	experience	►Conceptualized and write copy for promotional print materials including
+meta	experience	brochures, flyers and print ads.
+meta	experience	►Conceptualize and write scripts for audio visual presentations used in the promotion of various ABS-CBN program launches.
+meta	experience	►Supervised copywriting and production of promo spots for ABS-CBN programs,
+meta	experience	special events and sponsored promo materials.
+meta	experience	►Assist in the formulation of media plans for new program launches.
+meta	experience	►Non-linear audio and video editing and post production.
+meta	experience	►Was in charge of the promo launch of several ABS-CBN programs.
+meta	experience	Media Researcher
+meta	experience	ABS-CBN Broadcasting Corporation
+meta	experience	1997 to 1998
+meta	experience	Daily monitoring of news and featured articles regarding
+meta	experience	ABS-CBN-managed talents.
+meta	experience	►Prepare written reports for evaluation of the division head to determine
+meta	experience	which artists need publicity support.
+meta	experience	High School Teacher
+meta	experience	Jesus is Lord Colleges Foundation
+meta	experience	1995 to 1997
+meta	experience	Handled general science, English and physical education subjects for the high school curriculum.
+meta	experience	Major Workshops attended
+meta	experience	►The Inaugural ABC/Disney Marketing Workshop in Hongkong (November 2011)
+meta	experience	►Guthrie Jensen, Effective presentation Skills, October 2011.
+meta	experience	►ABS-CBN Entrepreneurial Program (ongoing)
+meta	experience	►Promax BDA Intensive Promo 2010- Manila
+meta	experience	►The 1st Busan Mindmapping Workshop Manila, 2009
+meta	experience	►John Maxwell Leadership Summit-Building Real Leaders, 2008
+meta	experience	►ABS-CBN Management Seminar, July 2007
+meta	experience	►PROMAX-BDA CONFERENCE in Mumbai, India, July 2004
+meta	experience	►DDI Interaction Management at ABS-CBN compound. October, 2004
+meta	experience	Proficient in the following softwares
+meta	experience	1. Adobe Premiere Pro CC
+meta	experience	2. Adobe After Effects
+meta	experience	3. Keynote
+meta	experience	4. Microsoft Powerpoint
+meta	experience	5. Microsoft Word
+meta	experience	6. Photomatix Pro (photography software)
+meta	experience	With working knowledge of the following:
+meta	experience	1. Final Cut Pro
+meta	experience	2. Adobe Soundbooth
+meta	experience	3. Basic Photoshop

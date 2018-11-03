@@ -1,0 +1,5 @@
+content	education	Some college
+meta	experience	Pools District Sales/Operations
+meta	experience	B&L Pools District Sales - Phoenix, AZ
+meta	experience	2012 to Present
+meta	experience	Responsible for the sales year over year growth across 7 retail stores. Works with our vendor partners to choose strategic new products and sales training to insure our professional staff is current on all new and existing product lines. Design and manage all operational programs for inventory, safety, and staffing in stores and warehouse. Works with branch managers to oversee all store management sales, operational metrics, and create a culture of customer-centered excellence.

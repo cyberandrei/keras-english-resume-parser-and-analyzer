@@ -1,0 +1,19 @@
+content	education	High School Diploma
+content	education	ACCESS Fullerton, CA
+content	education	2009 to 2013
+meta	experience	Sales Associate
+meta	experience	Best Buy- Pacific Sales - Chandler, AZ
+meta	experience	July 2018 to Present
+meta	experience	• Maintain thorough knowledge of product and services in order to accurately answer all questions and effectively recommend products.
+meta	experience	• Zoning sales floor to makes sure customers are contacted as soon as they enter the department.
+meta	experience	• Helping customers understand the benefits in our services and protections plans to help protect them for the future and create repeat customers.
+meta	experience	• Listening to customers needs and showing them full packages solutions.
+meta	experience	Customer Service Representative
+meta	experience	Best Buy- Pacific Sales - Fullerton, CA
+meta	experience	August 2014 to June 2018
+meta	experience	Administrative Assistant
+meta	experience	Snowden Electric Company - Buena Park, CA
+meta	experience	January 2013 to August 2014
+meta	experience	-schedule and coordinate meetings/appointments
+meta	experience	-oversee receptionist area
+meta	experience	-file paperwork/ organizing files.

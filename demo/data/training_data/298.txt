@@ -1,0 +1,63 @@
+content	education	Crosby High School Waterbury, CT
+content	education	June 2004
+meta	experience	AT&T Sales Representative
+meta	experience	At&t - Hamden, CT
+meta	experience	July 2018 to Present
+meta	experience	• sales
+meta	experience	• customer service
+meta	experience	Sous chef/bar manager
+meta	experience	Brass City Bistro
+meta	experience	March 2008 to Present
+meta	experience	• Ensured quality and quantity of food according to standards and specifications as determined by the Restaurant Chef.
+meta	experience	• Cooked and prepared food according to recipes.
+meta	experience	• Cut, trimmed and boned meats and poultry for cooking.
+meta	experience	• Portioned cooked foods according to size of portions and methods of garnishing.
+meta	experience	• Cleaned and sanitized equipment used.
+meta	experience	• Provided support to Chef and production leadership to subordinates.
+meta	experience	• Prepared and maintained the station used for prep cooks.
+meta	experience	• Maintained sanitary working environment at all times.
+meta	experience	• Responsible for following recipes and ensured quality of meals for patrons.
+meta	experience	• Responsible for promoting positive morale in kitchen.
+meta	experience	• Assisted Sous Chef in the creation of specials, soups etc.
+meta	experience	Commercial Account Manager
+meta	experience	Orkin - East berl
+meta	experience	April 2018 to July 2018
+meta	experience	• B2B sales 
+meta	experience	• Prospecting / Cold calling
+meta	experience	• Customer service
+meta	experience	• Meet or exceed Company sales goals
+meta	experience	Route Sales Representative
+meta	experience	Aramark - Rocky Hill, CT
+meta	experience	July 2017 to September 2017
+meta	experience	• Ensured garments quantity and quality were suitable for customers.
+meta	experience	• Up sell additional products from catalog
+meta	experience	• Maintain a route consisting of 300 customers 
+meta	experience	• Customer service
+meta	experience	• Follow all DOT applicable laws
+meta	experience	Service Sales Representative
+meta	experience	Cintas First Aid and Safety
+meta	experience	February 2013 to January 2017
+meta	experience	• Service and Sell to current customer base.
+meta	experience	• Prospect for new business while servicing current customers.
+meta	experience	• Meet and exceed company goals.
+meta	experience	• Top Service Sales Representative in current location. Took on Route that was struggling.  This Route is now one of the most profitable routes in this location.
+meta	experience	• Moved to new route and currently growing the route through hard work, product knowledge and customer service skills.
+meta	experience	Executive Assistant Manager
+meta	experience	Rent A Center
+meta	experience	November 2008 to April 2012
+meta	experience	• Successfully increased store revenues and recognized as top-selling Associate for four years.
+meta	experience	• Gained new customers as well as sold more to existing customers.
+meta	experience	• Provided outstanding customer service to ensure customer satisfaction on the front lines.
+meta	experience	• Accountable for customer retention.
+meta	experience	• Identified and initiated new sales strategies.
+meta	experience	• Handled past due accounts and took appropriate action to collection outstanding payments or retrieve merchandise.
+meta	experience	• Outbound calls with 500 plus calls per week.
+meta	experience	• Managed and supported delivery personnel as well as collection personnel.
+meta	experience	Warehouse Associate
+meta	experience	Kitchen Cabinet Outlet
+meta	experience	September 2006 to February 2008
+meta	experience	• Unloaded and processed incoming merchandise.
+meta	experience	• Moved, stored and transferred merchandise
+meta	experience	• Maintained stock in an ordered fashion on shelves or in correct locations
+meta	experience	• Processed outbound shipments of inventory
+meta	experience	• Maintained a clean and safe condition of equipment and work area.

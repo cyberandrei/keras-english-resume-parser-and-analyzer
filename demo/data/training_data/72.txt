@@ -1,0 +1,16 @@
+content	education	English
+content	education	Westham Secondary School
+content	education	Responsibilities At School
+meta	experience	Sales Representative
+meta	experience	Natal Sales & Merchandising - NSM
+meta	experience	June 2001 to Present
+meta	experience	Manager: Sagie Naidoo & Tony Ramlugan
+meta	experience	Period Of Employment: 01 / 06 / 2001 - Present
+meta	experience	Field Marketer
+meta	experience	Sales & Merchandising Specialists - Sms
+meta	experience	August 1999 to May 2001
+meta	experience	Reason For Leaving: Retrenched
+meta	experience	Merchandising
+meta	experience	Natal Sales & Merchandising - NSM
+meta	experience	April 2001 
+meta	experience	30 / 04 / 2001

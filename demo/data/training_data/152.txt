@@ -1,0 +1,39 @@
+content	education	MBA
+content	education	University of Phoenix Sacramento, CA
+content	education	B.S. in Marketing
+content	education	University of Phoenix Pleasanton, CA
+meta	experience	Senior Outside Sales Representative
+meta	experience	Acosta Sales & Marketing - Sacramento, CA
+meta	experience	2012 to Present
+meta	experience	Regional Retail Sales Manager
+meta	experience	Managed projects, meeting monthly sales goals and objectives for Kraft/Heinz.
+meta	experience	Sales Management
+meta	experience	• Led a sales team inside commissaries on 22 military bases throughout the northwestern states, including Alaska.
+meta	experience	• Managed and coached 16 Sales Representatives to present sales plans to commissary managers, sell in objectives, and work the products with the vendor stockers at point of sale.
+meta	experience	• Connected with DeCA Zone Managers on a quarterly basis to ensure opportunities and issues were regularly addressed and met.
+meta	experience	Client/Customer Management
+meta	experience	• Helped ramp up the Hostess Blue Team from scratch to better serve grocery stores at the warehouse and bakery levels.
+meta	experience	• Acted as a client representative to the retail teams, presenting sales plans to Zone and District Managers.
+meta	experience	• Met weekly and monthly goals & objectives supporting execution of displays, distribution, and education to customers.
+meta	experience	• Trained new and existing representatives on Hostess best practices to ensure quality customer service and increased sales.
+meta	experience	• Presented material for client at quarterly meetings with 50 or more attendees' to provide maximum training and exposure to best practices.
+meta	experience	Unit Management
+meta	experience	• Managed, coached, and motivated a team of twelve Retail Coverage Merchandisers in selling Procter & Gamble and Kraft products, resulting in increased display compliance and new item speed to shelf.
+meta	experience	• Continued to meet weekly coverage and frequency goals of 96% by continuous in person sales training.
+meta	experience	• Improved team's retail score from 95% to 97.7% in a four month period by inspecting what was expected.
+meta	experience	Retail Supervisor
+meta	experience	CROSSMARK
+meta	experience	2010 to 2012
+meta	experience	In early 2011, helped to ramp up a brand new division that provides customer service in Walmart paint departments.
+meta	experience	• Exceeded weekly execution goals and followed sales trends to better serve the needs of our client.
+meta	experience	• Managed a territory ranging from California to Utah down to Las Vegas.
+meta	experience	• Managed and coached a team of 19 to 20 paint specialists to sell Glidden products which resulted in increased sales of the "best and better" paints over inferior paints.
+meta	experience	Retail Market Manager
+meta	experience	Procter & Gamble, RetailPULSE
+meta	experience	2000 to 2010
+meta	experience	Supervised and motivated a team of 25 retail coverage merchandisers.
+meta	experience	• Worked directly with top executives of national corporations to deliver excellent implementation of Procter & Gamble products.
+meta	experience	• Improved display implementation 20% in Walmart by regular inspections of quality work and continuous communication with Market Managers about issues and opportunities.
+meta	experience	• Called on top executives of Walmart and Target to increase sales through a partnership focused on out of stocks and display implementation.
+meta	experience	• Successfully sold in new Tide Compaction in Target and Walmart through huddle and morning meetings.
+meta	experience	• Coordinated inventory levels with store advertisements and sales to better serve the customers and increase profit margins.

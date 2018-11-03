@@ -1,0 +1,27 @@
+content	education	B.Sc. IT
+content	education	CMJ University
+meta	experience	Sales Manager
+meta	experience	Cricket Wireless - Brooklyn, NY
+meta	experience	October 2015 to September 2018
+meta	experience	• Customer Service Operations • Office Management & Administration.
+meta	experience	• Inventory Control & Management.
+meta	experience	• Motivated employees with positive reinforcement.
+meta	experience	• Sales & Financial Reporting • Creative, Determined and Goal Oriented.
+meta	experience	• PC proficient with Microsoft Word, Microsoft Excel.
+meta	experience	• Deliver a strong genuine customer experience.
+meta	experience	• Describe merchandise and explain use, operation, and care of merchandise to customers.
+meta	experience	• Persuasive communicator with strong listening, and verbal skills.
+meta	experience	IT Technician
+meta	experience	Khanna Paper Mills
+meta	experience	September 2008 to October 2015
+meta	experience	- Punjab, India
+meta	experience	• Computer Hardware & Networking, Configuring LAN and WAN Protocols.
+meta	experience	• Troubleshooting, managing, maintaining and installing Servers on MS Windows.
+meta	experience	• Configuring windows systems for LAN and WAN environment.
+meta	experience	• Configure and managing WIFI Routers and managing LAN network.
+meta	experience	• Troubleshooting and installation of Windows XP/2003/Vista/Seven/Eight/2008server.
+meta	experience	• Tweaking and configuration of Desktop Services.
+meta	experience	• Assigning user rights for use addition, deletion, modifying and other functions for maintaining data integrity.
+meta	experience	• Remote installation services in windows servers.
+meta	experience	• Setup/installation/troubleshooting of Software's and External devices.
+meta	experience	• TCP/IP, Cabling, Working on server, Security and Permission, Share and Accessing

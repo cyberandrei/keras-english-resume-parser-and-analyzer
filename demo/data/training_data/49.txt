@@ -1,0 +1,55 @@
+content	education	Bachelor of Science in Business Management
+content	education	Arcadia University Glenside, PA
+meta	experience	Sales Support
+meta	experience	SEA Wire and Cable - Huntsville, AL
+meta	experience	July 2018 to Present
+meta	experience	• Assist two Sales Representatives with annual combined sales of $5 million.
+meta	experience	• Accept over-flow customer calls and address needs of call.
+meta	experience	• Assist in quotation generation to include sourcing of needed product.
+meta	experience	• Handle all administrative functions regarding the order process of writing orders, customer confirmations, filing, and order follow up.
+meta	experience	• Assist in customer service related issues of on time shipment, rejections, problem orders, back orders, and resolve incomplete orders.
+meta	experience	Customer Service Representative III
+meta	experience	 - Jacksonville, FL
+meta	experience	2015 to 2018
+meta	experience	• Managed daily process of all work including contractor status of member contact, site inspection, estimate upload, client approval and update of in-progress work using proprietary database.
+meta	experience	• Selected as Team Trainer responsible for training new employees on all facets of property file management including instruction on data entry and routine use of proprietary software.  Trained and mentored 15 new employees to ensure smooth transition from training environment to their daily work role.
+meta	experience	• Assists client and customers with questions through all stages of claims and repair work.
+meta	experience	• Completes daily and weekly reports to include daily brief and work claims timeline reports.
+meta	experience	• Consistently scores 98% or above on all monthly quality reviews with senior management.
+meta	experience	• Reduced the 60+ days in progress case timeline in Texas territory by  13.88%.
+meta	experience	• Received the company Employee Excellence Award, August 2017 for superior performance.
+meta	experience	• Selected by senior management to attend and represent the workforce at the 2018 Contractor Connection Conference which was attended by more than 3000 network providers.
+meta	experience	• Assists Assignment Center as needed to create and process new claim assignments.
+meta	experience	Account Manager
+meta	experience	USM, Inc - Norristown, PA
+meta	experience	2006 to 2015
+meta	experience	• Managed three separate and unique accounts with each billing over $1Million annually.
+meta	experience	• Managed 250+ locations and providers ensuring required daily janitorial services were met.
+meta	experience	• Responsible for client satisfaction, contractor selection and payment and on-going margin management.
+meta	experience	• Increased profit margin from 10% to 11.3% on high profile accounts.
+meta	experience	• Identified At-Risk locations for service and selected new contractors, negotiated rates within margin requirement and obtained all required compliance paperwork for service commencement.
+meta	experience	• Ensured accuracy of monthly billings for accuracy and submitted to client on time; maintained 100% on time submission rate.
+meta	experience	• Conducted monthly reviews of billing/payment margins to target financial areas of opportunity.
+meta	experience	• Served as Supervisor in Primaries absence completing all required reports and reporting to Department Director.
+meta	experience	• Point of Contact for all clients including Regional Area Manager and multiple District Managers.
+meta	experience	• Only employee of 150 in Operations Department who worked remotely; effectively managed all work requirements and assignments.
+meta	experience	Work Order Manager
+meta	experience	USM, Inc - Norristown, PA
+meta	experience	2003 to 2006
+meta	experience	• Supervised a team of five account coordinators who had regional responsibility that encompassed entire United States.
+meta	experience	• Completed quarterly audits and annual reviews for team members who were direct reports. Audits and annual reviews were tools used to determine merit increases and future opportunities for advancement.
+meta	experience	• Routinely exceeded company directed sales margin requirements.
+meta	experience	• Responsible to address all client and employee related issues and resolve in timely manner.
+meta	experience	• Supervised three new account rollouts with target savings of 10%; final realized savings was 12%.
+meta	experience	Store Manager
+meta	experience	CVS Pharmacy - Warrington, PA
+meta	experience	1986 to 1998
+meta	experience	• Managed multiple stores with over $2 Million in sales annually.
+meta	experience	• Supervised staff of 30 crew members.
+meta	experience	• Responsible for ordering regular and seasonal merchandise on a weekly basis.
+meta	experience	• Responsible for hiring, training, and managing crew members to maintain staffing levels in each store; approximately 10 new employees annually.
+meta	experience	• Developed work schedules for employees at store level to ensure daily staffing needs were met.
+meta	experience	• Provided excellent customer service to ensure that company's goals were maintained.  Resolved all customer service situations.
+meta	experience	• Counted and verified daily sales averaging $2000. Transferred deposits to local banks ensuring safety and accountability procedures were followed.
+meta	experience	• Responsible for loss prevention and shrinkage at store.  Completed six inventories and each time had less shrinkage than company's expectation of 2%.
+meta	experience	• Opened one new store and responsible for staffing, physical set up and merchandising of product.

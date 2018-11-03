@@ -1,0 +1,13 @@
+content	education	High school or equivalent
+content	education	Francis T. Maloney high school Meriden, CT
+content	education	June 2018
+meta	experience	Sales Associate
+meta	experience	Once Upon a Child - Meriden, CT
+meta	experience	February 2018 to Present
+meta	experience	As a sales associate I got offered a supervisor position.
+meta	experience	Product Specialist/Sales
+meta	experience	Executve dodge jeep ram - Meriden, CT
+meta	experience	August 2018 to November 2018
+meta	experience	Sales Associate/Cashier
+meta	experience	KFC - Meriden, CT
+meta	experience	July 2016 to July 2017

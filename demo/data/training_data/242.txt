@@ -1,0 +1,59 @@
+content	education	Bartending
+content	education	Bartending and Casino College Denver, CO
+content	education	2016 to 2016
+content	education	High school or equivalent in General Studies
+content	education	Mitchell High School Mitchell, SD
+content	education	2009 to 2013
+meta	experience	Sales Specialist
+meta	experience	Medved Autoplex - Wheat Ridge, CO
+meta	experience	January 2017 to Present
+meta	experience	Consistently Top sales specialist in the Autoplex
+meta	experience	Bartender
+meta	experience	Bout Time - Arvada, CO
+meta	experience	April 2016 to December 2016
+meta	experience	Product Sales Specialist
+meta	experience	HERNDON CHEVROLET - Lexington, SC
+meta	experience	January 2015 to October 2015
+meta	experience	Responsibilities
+meta	experience	Understand cars by studying their features and capabilities, as well as comparing and contrasting competitive models.
+meta	experience	Develop buyers by keeping good rapport with previous and new customers; also by suggesting trade-ins; respond to inquiries; recommend sales campaigns and promotions.
+meta	experience	Qualify buyers by understanding their interests and requirements; matching requirements and interests to various models, etc.
+meta	experience	Close sales by overcoming objections; complete sales or purchase contracts; explain provisions; offer services, warranties and financing; collect payment and deliver automobile.
+meta	experience	Update own job knowledge by participating in educational opportunities, attending seminars and reading professional publications.
+meta	experience	Explore new opportunities in order to add value to job accomplishments. 
+meta	experience	Figure out customer’s needs by listening and asking questions 
+meta	experience	Perform walk-around with new and old customer and demonstrate features of suitable vehicles 
+meta	experience	Effectively close sales 
+meta	experience	Ensure that customers understand the vehicle’s operating features, paperwork and warranty. Establish and maintain follow-up system, which encourages repeat business cum referrals.
+meta	experience	Report to the sales manager regarding reviews, analyses , objectives, and planned activities. Participates in sales meetings and training provided by the dealership and manufacturers. Review sales statistics and plan more effectively to improve sales.
+meta	experience	Accomplishments
+meta	experience	Held a perfect attendance record
+meta	experience	Met deadlines consistently
+meta	experience	Grew customer base
+meta	experience	Finished sales quota
+meta	experience	Skills Used
+meta	experience	Persuasion
+meta	experience	Negotiation
+meta	experience	Social Perceptiveness
+meta	experience	Reading Comprehension 
+meta	experience	Critical Thinking
+meta	experience	Time Management
+meta	experience	Complex Problem Solving 
+meta	experience	Sales and Marketing
+meta	experience	Server
+meta	experience	Hooters - Orland Park, IL
+meta	experience	August 2013 to October 2014
+meta	experience	Responsibilities
+meta	experience	Primary responsibilities included serving food and drinks and accommodating every need of customers in a very friendly and courteous manner. Also greeting customers as they enter or leave the restaurant, answer questions, provide helpful suggestions to customers with regards to food, drinks, and overall customer service. Efficiently relay all food orders to the kitchen and or service bar through the POS terminal,also to present customers the check and accept payment, make correct change or complete the appropriate change card system.
+meta	experience	Skills Used
+meta	experience	Cash Out Orders in Point-of-Sale System
+meta	experience	Managing Stress
+meta	experience	Communication 
+meta	experience	Food and Beverage Knowledge
+meta	experience	Conflict Resolution
+meta	experience	Manual Dexterity
+meta	experience	Customer Service 
+meta	experience	Dependability
+meta	experience	Detail Orientation
+meta	experience	Energetic
+meta	experience	Enthusiasm

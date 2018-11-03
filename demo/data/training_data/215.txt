@@ -1,0 +1,46 @@
+content	education	Associates of Arts
+content	education	Arapahoe Community College Littleton, CO
+meta	experience	Sales
+meta	experience	Alpha Wine Company
+meta	experience	2011 to Present
+meta	experience	Sales of  California wines, liquor and expanded knowledge on Spanish, French, Italian, New Zealand and South African wines
+meta	experience	• Maintain a smaller territory of off- premise establishments
+meta	experience	Director of Operations
+meta	experience	• Oversee the accounts receivable for over 500 accounts
+meta	experience	• In charge of the banking and deposits
+meta	experience	• Mastered QuickBooks for accounting
+meta	experience	• Make purchase orders for Vendors
+meta	experience	• Track Inventory
+meta	experience	• Input daily orders from employees for delivery to retail
+meta	experience	• Help interview and managed Employees
+meta	experience	• Update territories and knowledge of wines for Employees
+meta	experience	Marketing and Sales
+meta	experience	Cocetti Wines - Centennial, CO
+meta	experience	2007 to Present
+meta	experience	Integral part of building and maintaining sales territory, including local marketing of numerous wine houses and in-person sales.
+meta	experience	o Created highest Denver sales volume by developing and presenting sales marketing plans for a dedicated territory used to promote new sales opportunities and to maintain high customer retention.  As a result, the sales region produced 45% of total company sales.
+meta	experience	o Collaborated with the winemaker, distribution channels, retail on-premise/ off-premise locations, and the general public to consistently sell product.
+meta	experience	o Increased market penetration by 17% by locating, setting up, and developing new vendors in multiple locations.
+meta	experience	o Maintained 100% client retention through exemplary customer service and the ability to problem solve and act as an emissary to the winemaker; including developing repeatable presentations for new products, and developing marketing plans.
+meta	experience	Wine Sales Rep
+meta	experience	CTS Wine Distributing
+meta	experience	2010 to 2011
+meta	experience	Presented new and old Wines from around the world every week
+meta	experience	• Building and maintaining a territory
+meta	experience	• Maintained marketing and building new wines for my territory
+meta	experience	• Managed all the marketing material for my products and clients
+meta	experience	• Build strong relationships with clients and was able to manage account with trust, accounts receivable and hand selling
+meta	experience	Office Manager/ Bookkeeper
+meta	experience	Howe Productions - Edwards, CO
+meta	experience	2004 to 2007
+meta	experience	Independent contractor responsible for all the corporate operations involved in maintaining a business from the bookkeeping, marketing, customer retention and employee relations.
+meta	experience	• Created and implemented organizational processes resulting in major impacts to efficiency in the company.
+meta	experience	o Maintained client satisfaction through constant personal care and an ever-evolving business process and strategy.
+meta	experience	o Developed employee motivation strategy that resulted in greater employer retention and satisfaction.
+meta	experience	Owner Music Store
+meta	experience	B-Side Music Llc - Edwards, CO
+meta	experience	1999 to 2004
+meta	experience	Oversaw everyday operations of the store and managed all employees. Sourced vendors and managed all marketing and sales efforts.
+meta	experience	o Increased foot traffic through multiple creative marketing and public relations strategies growing the operation to become the premier music store in the Vail Valley.
+meta	experience	o Responsible for developing the marketing and sales process including print ads, radio spots, and grass roots marketing efforts resulting in very high customer satisfaction and world class word-of-mouth sales.
+meta	experience	o Utilized local media to increase recognition, including producing a weekly radio show to build client recognition, and numerous third party endorsements in the print media.

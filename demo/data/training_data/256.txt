@@ -1,0 +1,75 @@
+content	education	Associate in Criminal Justice
+content	education	Naugatuck Valley Community College Waterbury, CT
+content	education	September 2016 to Present
+meta	experience	SALES REPRESENTATIVE
+meta	experience	ADVANTAGE SALES SOLUTION MARKETING
+meta	experience	March 2018 to September 2018
+meta	experience	• Welcome customers who approach the cart and ask if they like to try a sample
+meta	experience	• Repeat orders to ensure order accuracy
+meta	experience	• Ensure that equipment and utensils are clean and maintained at all times
+meta	experience	• Stock and rotate  items appropriately
+meta	experience	• Discard near expiry or expired items as per the policy of the company
+meta	experience	• Handle cleaning activities to ensure that the cart counter is clean at all times
+meta	experience	• Make sure that the cart case is restocked with fresh food items
+meta	experience	• Prepare prepackaged  items, pack them and label them appropriately
+meta	experience	• Ensure that price tags on all  items are accurate and updated
+meta	experience	• Provide customers with information regarding each type of product
+meta	experience	• Clean food preparation and order areas
+meta	experience	Seasonal
+meta	experience	Target
+meta	experience	October 2017 to December 2017
+meta	experience	• Able to lift and haul heavy loads
+meta	experience	• Excellent ability to follow written and verbal instructions
+meta	experience	• Exceptional customer service and communication skills
+meta	experience	• Able to follow and maintain safe workplace rules
+meta	experience	• Able to help construct and place marketing displays
+meta	experience	• Dedicated to maintaining product stocking schedules
+meta	experience	Picker Packer
+meta	experience	August 2017 to October 2017
+meta	experience	• Highly skilled in picking and packaging a variety of materials
+meta	experience	• Order speed: 45 units per hour.
+meta	experience	• Proven record of placing, arranging, marking, sealing, and tagging items
+meta	experience	• Lifting capabilities of up to 75 to 100 lbs.
+meta	experience	• Able to work efficiently in a fast-paced environment
+meta	experience	Deli Counter Attendant
+meta	experience	Walmart
+meta	experience	February 2017 to April 2017
+meta	experience	• Welcome customers who approach the deli counter and ask for their orders
+meta	experience	• Take orders and punch them in database
+meta	experience	• Repeat orders to ensure order accuracy
+meta	experience	• Ensure that equipment and utensils are clean and maintained at all times
+meta	experience	• Stock and rotate deli items appropriately
+meta	experience	• Discard near expiry or expired items as per the policy of the company
+meta	experience	• Handle cleaning activities to ensure that the deli counter is clean at all times
+meta	experience	• Make sure that the deli case is restocked with fresh food items
+meta	experience	• Prepare prepackaged deli items, pack them and label them appropriately
+meta	experience	• Ensure that price tags on all deli items are accurate and updated
+meta	experience	• Cut, slice and weigh deli items such as meats and cheeses
+meta	experience	• Provide customers with information regarding each type of deli product
+meta	experience	• Clean food preparation and order areas
+meta	experience	Stocker/Cashier
+meta	experience	Dollar Tree
+meta	experience	November 2016 to December 2016
+meta	experience	• Procure items from storage areas and arrange them properly on shelves
+meta	experience	• Mark item with appropriate information such as batch numbers and price tags
+meta	experience	• Rotate products according to specific promotional campaigns being run at the moment
+meta	experience	• Ascertain that each item is properly placed on the shelf and cleaned on a regular basis
+meta	experience	• Clean out shelves and ensure that they are in good working order
+meta	experience	• Check each product to ensure that no expired items are being stocked
+meta	experience	• Clear out expired items and arrange to have them discarded
+meta	experience	• Handle product inventories and ensure that any item which is low in stock is procured as promptly as possible
+meta	experience	• Respond to customers' queries regarding locating and prices of products
+meta	experience	• Assist customers through the payment processes by scanning and bagging their purchases
+meta	experience	• Provide assistance to cashiers in balancing their drawers and ensure that any shopping carts left around are returned to their parking areas
+meta	experience	• Operate cash registers by punching in purchased item and processing cash and credit card payments
+meta	experience	• Tender change and receipts and ensure that customers check both before they leave the cash counter
+meta	experience	• Balance cash register at the end of the shift and ensure any obvious discrepancies are properly addressed
+meta	experience	• Arrange for change to be acquired at the beginning of each shift and create and submit reports regarding sales and levied discounts
+meta	experience	Picker Packer
+meta	experience	Dollar Tree
+meta	experience	November 2016 to December 2016
+meta	experience	• Highly skilled in picking and packaging a variety of materials
+meta	experience	• Order speed: 45 units per hour.
+meta	experience	• Proven record of placing, arranging, marking, sealing, and tagging items
+meta	experience	• Lifting capabilities of up to 75 to 100 lbs.
+meta	experience	• Able to work efficiently in a fast-paced environment

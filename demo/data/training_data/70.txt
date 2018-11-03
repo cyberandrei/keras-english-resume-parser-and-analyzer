@@ -1,0 +1,77 @@
+content	education	Journalism
+content	education	Northern AZ University
+content	education	1981 to 1984
+content	education	Air Force Intelligence School Goodfellow AFB, TX
+content	education	1979
+content	education	Camelback HS Phoenix, AZ
+content	education	1976
+meta	experience	Retail Merchandiser - Acosta Sales and Marketing
+meta	experience	Acosta Sales and Marketing
+meta	experience	2018 to Present
+meta	experience	Assigned to cover 39 grocery stores and pet food stores on a monthly basis. Visit each store and merchandise each
+meta	experience	assigned account, such as Tyson, Foster Farms or Hormel.
+meta	experience	Answer questions on a proprietary tablet computer to ascertain if select items were currently tagged and on the
+meta	experience	shelf available for immediate retail sale. If items were
+meta	experience	missing, work with store/department manager to get items
+meta	experience	cut in. Inform managers of upcoming sales and ask for more stock to be brought in. Maintain mileage and time
+meta	experience	logs for reimbursement.
+meta	experience	Autonomous Vehicle Safety Driver
+meta	experience	Waymo
+meta	experience	2018 to Present
+meta	experience	Learning to operate and watch over autonomous vehicle
+meta	experience	safely. Keep myself and other drivers and pedestrians safe.
+meta	experience	Use car-mounted laptop to track down and fix small
+meta	experience	problems with autonomous program.
+meta	experience	Private Merchandiser
+meta	experience	Bashas and Albertsons
+meta	experience	2001 to Present
+meta	experience	Concurrently work (PT) for Bashas and Albertsons thru JR
+meta	experience	Demos/Superfridge, merchandising food products on a weekly basis. Previously have worked for SASR,
+meta	experience	Impact/Huffy, Crossmark, General Mills, and in WalMarts,
+meta	experience	CVS, Walgreens, Lowes, and Toys R Us. Work consists of stocking promotional foods/items, cleaning displays,
+meta	experience	setting items to planogram, packing out product from the backroom/coolers. Maintain cordial relationships with store
+meta	experience	management and associates. Report work online at customers' website. Assemble cardboard displays, movie
+meta	experience	theater displays, bikes, BBQ grills, RTA furniture and wheelbarrows using own tools.
+meta	experience	Route Driver
+meta	experience	Intelliquick Delivery Inc - Mesa, AZ
+meta	experience	June 2016 to 2018
+meta	experience	daily, driving 100+ miles to Payson, AZ. Pick up
+meta	experience	medical specimens for LabCorp from various doctor's
+meta	experience	offices. Upon finishing in Payson, travel down to the Ft.
+meta	experience	McDowell Indian Reservation to pick up specimens. Then
+meta	experience	onto Fountain Hills to pick up more specimens, especially at LabCorp's Patient Service Center. Then deliver all
+meta	experience	specimens to LabCorp's main lab in Phoenix, AZ.
+meta	experience	Delivery Driver
+meta	experience	Bashas and Albertsons
+meta	experience	2014 to 2016
+meta	experience	On a daily basis, load wood cabinet doors into delivery
+meta	experience	truck in Payson. Deliver product to various shops and customers all over Maricopa County.
+meta	experience	Inspector/Owner
+meta	experience	Parsons Insurance and Commercial
+meta	experience	2001 to 2013
+meta	experience	Visually inspect real estate properties, usually
+meta	experience	unbeknownst to the home owner, measure footprint of property, take digital photos, complete reports online for
+meta	experience	banks, mortgage companies, and government entities
+meta	experience	(such as FNMA, SNAP). Using my own website, took orders
+meta	experience	from car buyers nationwide to inspect vehicles sold in Maricopa County. Inspected vehicles for paint/accident
+meta	experience	damage, mileage. Test drove each one. Reported to customer online or over phone.
+meta	experience	Inspector/Arbitrator/Quick Lube Manager - Greater Auto
+meta	experience	Toyota and Subaru
+meta	experience	2001 to 2004
+meta	experience	Estimate damage to program vehicles (Toyota and Subaru)
+meta	experience	using tablet PC and proprietary software. Apply arbitration
+meta	experience	rules fairly to buyers and sellers of disputed cars. Supervise
+meta	experience	2 inmates in oil change shop. Inspected frames and oil
+meta	experience	changes of Certified Chrysler vehicles.
+meta	experience	Arizona Manager
+meta	experience	CT Services, Inc
+meta	experience	1999 to 2001
+meta	experience	Inspect rental program cars from Hertz, Budget, etc. Create
+meta	experience	individual vehicle inspection reports, accept and process
+meta	experience	titles, ship vehicles via rail or truck to auto auctions
+meta	experience	nationwide. Post photos and descriptions of select vehicles
+meta	experience	online for auction. Managed staff of 2.
+meta	experience	Previous Years
+meta	experience	1976-1999
+meta	experience	Spent the early years of my career working for various auto
+meta	experience	parts stores, auto dealers and body shops.

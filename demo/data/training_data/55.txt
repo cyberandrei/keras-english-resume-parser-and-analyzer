@@ -1,0 +1,26 @@
+content	education	sales
+content	education	Ohio and the Ohio State University
+meta	experience	West Coast Region Sales Representative
+meta	experience	Ocotillo Lumber Sales - Phoenix, AZ
+meta	experience	July 2007 to Present
+meta	experience	• Government contract fencing procurement specialist.
+meta	experience	• Identified bids for pricing and award.
+meta	experience	• Performed takeoffs and pricing for new business development.
+meta	experience	• Provided problem solving solutions for full cycle sales.
+meta	experience	• Held the three largest sales in company history.
+meta	experience	• Developed new fencing products specifically for government contract.
+meta	experience	• Developed multi-state territory from scratch, including salvaging of customers from prior damaged relationships.
+meta	experience	Director of Fencing Operations
+meta	experience	Rocky Fork Fence & landscaping - New Albany, OH
+meta	experience	September 2004 to July 2007
+meta	experience	• Managed fence division.
+meta	experience	• Maintained inventory, orders, a nd purchasing.
+meta	experience	• Responsible for complete project management from point of sale to completion.
+meta	experience	• Facilitated increased profit margin from 18% to 35%.
+meta	experience	• Produced earnings from $800,000 to $2 million in sales in two years.
+meta	experience	• Established 8 to 9 projects with staff simultaneously.
+meta	experience	Lee's Fencing Columbus, Ohio
+meta	experience	Commercial Sales and Operations
+meta	experience	Residential
+meta	experience	January 1996 to September 2004
+meta	experience	Ensured sales, ordering, purchasing, price contract negotiations, and new business development requirements were met in a timely manner.

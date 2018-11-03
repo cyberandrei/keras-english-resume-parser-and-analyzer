@@ -1,0 +1,46 @@
+content	education	Nursing
+content	education	Manuel career & technology center Kansas City, MO
+content	education	August 2012 to May 2013
+content	education	Diploma
+content	education	East High School Kansas City, MO
+content	education	August 2011 to May 2013
+meta	experience	Sales Associate
+meta	experience	Kids footlocker - Tempe, AZ
+meta	experience	May 2016 to Present
+meta	experience	• Sales associate- Customer Service, Sales
+meta	experience	Call Center Representative
+meta	experience	Adecco: USA Target - Tempe, AZ
+meta	experience	October 2016 to January 2017
+meta	experience	• Customer service rep- Target.com orders, returns, Axiom system, Outlook email, Sterling system, Base 24 system, Collections
+meta	experience	Order Picker
+meta	experience	Staffmark Temp Jcpenny - Kansas City, MO
+meta	experience	January 2016 to March 2016
+meta	experience	• Packaging, Picking orders, RF scanner
+meta	experience	Sales Associate
+meta	experience	BABIES R US - Independence, MO
+meta	experience	January 2016 to March 2016
+meta	experience	• Customer Service, Cashier, retail, baby registries
+meta	experience	Production Worker
+meta	experience	Manpower Temp Yanfeng - Riverside, MO
+meta	experience	November 2015 to January 2016
+meta	experience	• Production- Car part production, Labels, Welding, Clips, scanning
+meta	experience	Picker/Packer
+meta	experience	Staffmark temp Hallmark - Kansas City, MO
+meta	experience	October 2015 to November 2015
+meta	experience	• Pick and Pack, RF scanner, packaging, picking orders
+meta	experience	CNA - Certified Nursing Assistant
+meta	experience	Bridgewood Health Care Center - Kansas City, MO
+meta	experience	March 2015 to October 2015
+meta	experience	• CNA -Personal care taker, behavioral residents
+meta	experience	Sales Associate
+meta	experience	Citi Trends - Kansas City, MO
+meta	experience	October 2013 to August 2015
+meta	experience	• Sales associate, Customer Service, Retail, Cashier, freight, RF scanner
+meta	experience	Crew Member
+meta	experience	McDonald's - Kansas City, MO
+meta	experience	September 2014 to March 2015
+meta	experience	• Crew member, Customer Service, Cashier, Headsets, Order taker, restocked
+meta	experience	Warehouse Worker
+meta	experience	Staffmark Greenies Temp - Kansas City, MO
+meta	experience	June 2014 to September 2014
+meta	experience	• Packaging dog and cat treats, aired bags up, used a dating machine

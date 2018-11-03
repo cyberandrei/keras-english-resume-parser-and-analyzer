@@ -1,0 +1,58 @@
+content	education	EPA,Certification in Universal
+content	education	Porter & Chester Institute Chicopee, MA
+content	education	1996
+meta	experience	Sales representative
+meta	experience	Pepboys Automotive - Springfield, MA
+meta	experience	January 2013 to Present
+meta	experience	• Knowledge and sales of the products carried
+meta	experience	• Achieving monthly sales goals
+meta	experience	• Handling customer service issues
+meta	experience	• Inventory management of auto parts
+meta	experience	• Handling cash and deposits
+meta	experience	Maintenance Supervisor and HVAC Technician for Eastfield Mall
+meta	experience	Mountain Development Corp - Springfield, MA
+meta	experience	September 2011 to Present
+meta	experience	Springfield, MA                                                 September 2011 - present
+meta	experience	Maintenance Supervisor and HVAC Technician for Eastfield Mall
+meta	experience	• Manage a team of people who perform maintenance work for the mall
+meta	experience	• Train and recruit current and new hires
+meta	experience	• Purchase supplies, equipment, and materials necessary to complete job
+meta	experience	• Perform HVAC repairs on all units for the mall (103, 3 phase RTU)
+meta	experience	• On call for emergencies 24/7
+meta	experience	• Repair electrical and plumbing issues, painting, doors&locks
+meta	experience	• Drywall repair where needed
+meta	experience	• Mig welding, flooring, carpentry
+meta	experience	Sheetrock Hanger/Drywall Repair
+meta	experience	RMD Drywall - East Longmeadow, MA
+meta	experience	April 2004 to 2011
+meta	experience	• Finish taper
+meta	experience	• Sheetrock hanging
+meta	experience	• Finish sanding
+meta	experience	• Coordinating with builders for finish time and delivery
+meta	experience	• Provide necessary repairs
+meta	experience	Professional Experience (continued)
+meta	experience	Sheetrock Hanger/Drywall Repair
+meta	experience	Professional Drywall - West Springfield, MA
+meta	experience	March 2001 to 2004
+meta	experience	• Steel stud framing
+meta	experience	• Framing layouts
+meta	experience	• Finish taper, plaster tender
+meta	experience	• Finish sanding, sheetrock
+meta	experience	• Densglass
+meta	experience	• Hanging base coat stucco
+meta	experience	On call Service Technician
+meta	experience	McNeil Heating - West Springfield
+meta	experience	March 1998 to 2001
+meta	experience	• Maintain parts supply for truck
+meta	experience	• Ac/gas heat cleanings
+meta	experience	• AC/gas heat installation, humidifier installations
+meta	experience	• Duct work make up and installation
+meta	experience	• on call service tech
+meta	experience	Maintenance Technician
+meta	experience	Holiday INN - Springfield, MA
+meta	experience	January 1996 to 1998
+meta	experience	HVAC Maintenance and Repair
+meta	experience	• Trouble shoot and repair hvac
+meta	experience	• Perform preventative maintenance
+meta	experience	• Daily Water heater checks, lock repair, grounds keeping
+meta	experience	• Snow removal, painting, drywall repair, plumbing and electrical, locks.

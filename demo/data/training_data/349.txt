@@ -1,0 +1,7 @@
+content	education	Marketing / Business
+content	education	Dover High School Dover, DE
+content	education	August 2015 to June 2019
+meta	experience	Sales
+meta	experience	Self Own Business - Dover, DE
+meta	experience	May 2017 to July 2018
+meta	experience	I sold my own belongings and helped other people sell their belongings to others for money

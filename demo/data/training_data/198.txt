@@ -1,0 +1,39 @@
+content	education	Dimploma in General Ed
+content	education	Bear Creek High School Stockton, CA
+content	education	2012 to 2016
+meta	experience	Sales Coordinator
+meta	experience	Sherwin-Williams - Sacramento, CA
+meta	experience	February 2018 to April 2018
+meta	experience	Stocking
+meta	experience	Pos Sales
+meta	experience	Forklift
+meta	experience	Unloading/Loading
+meta	experience	Paint Mixing
+meta	experience	Customer Service
+meta	experience	Pallet jacking
+meta	experience	Courtesy Clerk
+meta	experience	Nugget Market, Inc. - Elk Grove, CA
+meta	experience	May 2017 to December 2017
+meta	experience	Bag groceries 
+meta	experience	Help and seek out guest
+meta	experience	Loss Prevention
+meta	experience	Sweeps
+meta	experience	Temperature logs
+meta	experience	Pallet jack
+meta	experience	I also was top courtesy. I got the duer award 3 moths in a row. Also got very good compliments from guest every time i work.
+meta	experience	After School Program Teacher
+meta	experience	UNIVERSITY OF PACIFIC - Stockton, CA
+meta	experience	October 2016 to December 2016
+meta	experience	Assist kids with homework 
+meta	experience	Create daily schedule
+meta	experience	communicate with teachers/parents
+meta	experience	grade students
+meta	experience	academic
+meta	experience	spark (PE)
+meta	experience	enrichment
+meta	experience	Sports Official
+meta	experience	City of Stockton, Park & Recreations - Stockton, CA
+meta	experience	June 2015 to November 2015
+meta	experience	Enforce rules
+meta	experience	Communicate with coaches and parents
+meta	experience	maintain safety of the kids

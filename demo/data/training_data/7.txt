@@ -1,0 +1,14 @@
+content	education	Some college
+content	education	Associate in Physical therapy assistant
+content	education	Calhoun Community College Decatur, AL
+meta	experience	Caregiver
+meta	experience	J & S Homes - Decatur, AL
+meta	experience	March 2018 to Present
+meta	experience	Administer medication to my patient , record data about my patient, cook meals, clean
+meta	experience	Sales Associate
+meta	experience	Electronic Express - Decatur, AL
+meta	experience	June 2017 to October 2017
+meta	experience	Sold products 
+meta	experience	Greeted customers
+meta	experience	Cashier
+meta	experience	Earned commission

@@ -1,0 +1,16 @@
+content	education	Current Undergraduate in Business management
+content	education	University of Arkansas at Pine Bluff Pine Bluff, AR
+content	education	July 2014 to May 2019
+content	education	Some college
+meta	experience	Sales Support
+meta	experience	Dillard's, Inc. - Little Rock, AR
+meta	experience	October 2016 to Present
+meta	experience	Maintaining overall look, and well being of store. Setting displays, assisting sales associates, customers, furniture pickups, organizing, and maintaining Dillards merchandise.
+meta	experience	Sales Representative
+meta	experience	Sky Lab Marketing - Little Rock, AR
+meta	experience	February 2018 to July 2018
+meta	experience	Selling telecommunications packages to customers.
+meta	experience	Grocery /Dairy clerk
+meta	experience	Kroger - North Little Rock, AR
+meta	experience	May 2015 to October 2016
+meta	experience	Unloading trucks with power jack. Organizing merchandise in stock rooms, stocking shelves, and assisting customers throughout store.

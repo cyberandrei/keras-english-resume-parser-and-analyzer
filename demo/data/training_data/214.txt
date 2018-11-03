@@ -1,0 +1,52 @@
+content	education	Master of Science in Counseling in Counseling
+content	education	University of Phoenix
+content	education	March 2009 to September 2012
+content	education	Bachelor of Science in Communication in Communication
+content	education	Eastern New Mexico University
+content	education	2007
+meta	experience	Cision, Manager
+meta	experience	International Sales
+meta	experience	March 2018 to Present
+meta	experience	• Consultative sales with prospects and current clients (start-ups to Fortune 1000 companies) to leverage international press releases within their communication strategy.
+meta	experience	• Serves as a subject matter expert in PR Newswire's international suite of services (press release distribution to 170 countries in 40 languages)
+meta	experience	• Responsible for $23 million goal, up in revenue 7% for Q2.
+meta	experience	Senior New Business Representative
+meta	experience	Cision
+meta	experience	August 2013 to March 2018
+meta	experience	• Competitive cold calling to prospective clients, developing rapport and repeat customers.
+meta	experience	• Converted warm leads to members, exceeded metrics and monthly sales goals, closed nearly 1.2 million in 2017, nearly 1 million dollars in 2016 at 149% of goal. In 2015, closed over 900K at 144% of goal and in 2014 closed over 500K at 116% of goal.
+meta	experience	• Implemented new membership application and process for new customers to join PR Newswire.
+meta	experience	• Calculated discounts preferred pricing & drafted custom proposals and packages for clients.
+meta	experience	• Proficient in Salesforce CRM database, managing a pipeline for more than 6 months and sales reports.
+meta	experience	• Certified in Miller Heiman sales methodology.
+meta	experience	High School Representative
+meta	experience	Educational Management Corporation
+meta	experience	July 2011 to July 2013
+meta	experience	• Program management for Brown Mackie College in the high school segment with over 60 schools.
+meta	experience	• Promoted an educational approach on the values of proprietary education, with the goal of overcoming preconceived notions while also offering our brand as the optimal solution for a segment of each student body.
+meta	experience	• Developed engaging presentation skills, by delivering more than 850 presentations a year to high school students around New Mexico with demographic adjustments.
+meta	experience	• Networked and developed rapport with teachers, counselors and faculty by cold calling, in-person visits and email.
+meta	experience	• Marketed Albuquerque programs, generating over 5,500 student inquiries (2,000 over goal)
+meta	experience	• Worked remotely within a corporate department successfully managing local campus accounts by providing service up and down the account, intense scheduling (Microsoft Dynamics CRM), and analytical approach on an individual basis for each account.
+meta	experience	Customer Service Representative
+meta	experience	Jewish Community Center
+meta	experience	May 2009 to July 2011
+meta	experience	• Sold gym memberships, fitness programs, personal training, kids camp and more.
+meta	experience	• Converted fitness trials into memberships
+meta	experience	• Attended health/fitness fairs and marketing to new members
+meta	experience	• Collected membership fees, analyzed & compiled billing and financial reports.
+meta	experience	• Wrote and received a United Way Grant for the Title One Homeless Project.
+meta	experience	Shift Leader
+meta	experience	Starbucks
+meta	experience	May 2008 to May 2009
+meta	experience	• Competed and increased sales.
+meta	experience	• Won sales award for selling the most pumpkin muffins during Fall 2008.
+meta	experience	• Managed a team of baristas and delegated responsibility during shift.
+meta	experience	• Managed money, deposits and store inventory
+meta	experience	• Handled customer complaints and concerns
+meta	experience	TV, News Producer
+meta	experience	KOB
+meta	experience	December 2007 to April 2008
+meta	experience	• Produced a compelling morning broadcast, with breaking news and live shots.
+meta	experience	• Wrote and copyedited newscast.
+meta	experience	• Conducted phone interviews and follow-ups to receive information and check accuracy.

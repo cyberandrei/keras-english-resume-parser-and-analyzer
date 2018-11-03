@@ -1,0 +1,44 @@
+content	education	Bachelor of Science in Computer Science
+content	education	Management of Technology Athens, AL
+content	education	August 1998
+content	education	Diploma
+content	education	Loretto High School Loretto, TN
+meta	experience	Sales Edge of Virginia
+meta	experience	Sales Edge of Virginia - Wytheville, VA
+meta	experience	February 2007 to August 2018
+meta	experience	Account Manager
+meta	experience	• Contracted to Lowe's Home Improvement to provide an enhanced customer experience multiple Lowe's retail stores (13-20 stores) within three states.
+meta	experience	• Worked one on one with approximately 20 employees and managers per store providing product knowledge and sales training to various departments, primarily in Millwork and Building Area.
+meta	experience	• Planned and implemented product marketing, set and help to achieve sales goals, provided displays as needed.
+meta	experience	• Worked at stores or onsite at customer homes to resolve warranty related issues to make sure every customer is satisfied.
+meta	experience	Customer Relations Manager
+meta	experience	Steve Williams Ford - Lawrenceburg, TN
+meta	experience	November 2002 to January 2007
+meta	experience	• Directly responsible for enhancing automotive sales by handling customer complaints and following up on call backs/leads to show each and every customer that they are our number one priority.
+meta	experience	• Dealership Webmaster; solely responsible for the maintenance of the website.  Developed and implemented additional features for a more user friendly and customer-based website.
+meta	experience	• As the Outside Promotions Representative, participated in several Mule Days and local Fairs, totaling 15 events within three separate counties.
+meta	experience	Sales Representative
+meta	experience	Harpeth Toyota - Franklin, TN
+meta	experience	June 2002 to November 2002
+meta	experience	Automotive sales and leasing representative.
+meta	experience	Team Leader
+meta	experience	Wal-Mart - Franklin, TN
+meta	experience	August 2001 to June 2002
+meta	experience	• While Team Leader for the Produce Department, supervised five employees.
+meta	experience	• Duties included opening the produce section and ordering fresh produce daily to ensure customer satisfaction.
+meta	experience	13180 Zehner Rd. (C) 931-242-6464
+meta	experience	Athens, AL 35611
+meta	experience	E-mail: dale.harlan12@gmail.com
+meta	experience	Jones Apparel - Lawrenceburg, TN
+meta	experience	February 1997 to August 2001
+meta	experience	Logistics
+meta	experience	• Sorted merchandise to ensure quality products to the customers and shipped merchandise throughout 48 states.
+meta	experience	• Sought after as an advisor by peers for experience and knowledge of specific job-related or logistic procedures.
+meta	experience	Agency Office Manager
+meta	experience	Harlan Insurance Company - Leoma, TN
+meta	experience	March 1988 to February 1997
+meta	experience	• Supervised 15 agents and was directly responsible for their professional development and growth within the district.  Recruited and trained approximately 40 new agents for the duration as the Agency Office Manager.
+meta	experience	• Maximized effectiveness and morale of agents by assigning tasks related to their interests and specialty, which promoted self-esteem and team competitiveness.
+meta	experience	• Developed and implemented a computerized client filing and office operations systems to keep track of the office daily operations.
+meta	experience	• Responsibilities included personal and commercial sales, which assisted clients with their personal needs and buying decisions as well as daily office duties.
+meta	experience	• Processed all Agency monies as well as office expenses accrued.

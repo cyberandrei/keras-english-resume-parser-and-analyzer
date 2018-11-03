@@ -1,0 +1,63 @@
+content	education	Business Management
+content	education	Holyoke Community College
+meta	experience	Assistant Service Manager
+meta	experience	Balise Motor Sales Company - West Springfield, MA
+meta	experience	October 2014 to October 2018
+meta	experience	Assist customers in person, on the phone or on-line with their vehicle's service needs. 
+meta	experience	Act as a liaison between the customer and the technician.  
+meta	experience	Make detailed  sales presentations based on customer concerns and vehicle needs to best help the customer while providing exceptional customer service.
+meta	experience	Be an available resource for other departments with in my store and others.
+meta	experience	Maintain compliance by completing regular training courses on-line and in person by the manufacturer and by Balise.
+meta	experience	Mortgage Consultant
+meta	experience	HUD Certified Housing - Springfield, MA
+meta	experience	January 2012 to January 2013
+meta	experience	consultant
+meta	experience	• Assist prospective buyers and household members in preparing for home ownership from the beginning to the end of mortgage process
+meta	experience	•  Provide comprehensive one-on-one counseling by assisting with budgeting, banking, debt counseling and credit resolution
+meta	experience	• Teach homebuyer and home-save workshops on a regular basis
+meta	experience	• Be active in advocacy campaigns concerning NACA's mission for economic justice
+meta	experience	• Outreach to promote the company and to drive in business traffic
+meta	experience	Customer Sales & Service Manager
+meta	experience	Hampden Bank - Springfield, MA
+meta	experience	November 2009 to February 2011
+meta	experience	Lead the branch in setting and obtaining sales goals quarterly
+meta	experience	• Provide weekly coaching plans for individuals and for branch staff on a weekly or bi-weekly basis.
+meta	experience	• Oversee the customer service standards of teller line and desk staff to ensure the proper treatment of customers and to retain customer base and present referral opportunities
+meta	experience	• Developed the basis for "Project 7", a forecasting project designed to develop projects that would assist in keeping the company ahead of competition and profitable.
+meta	experience	• Keep branch involved in community activity including block parties, charitable donations, local networking opportunities and highlighting local small business
+meta	experience	• Assist in evaluating talent in existing staff for promotions as well as potential hires for the branch
+meta	experience	• Perform general management duties as listed below
+meta	experience	Assistant Branch Manager III
+meta	experience	TD Banknorth - Amherst, MA
+meta	experience	May 2008 to October 2009
+meta	experience	Oversea the daily operations of the branch.
+meta	experience	• Develop and assist with implementing quarterly sales plan and reporting branch totals weekly or as needed.
+meta	experience	• Coach branch staff to perform to expectations for sales and service.
+meta	experience	• Assist Branch Manager in performance evaluations and development plans.
+meta	experience	• All other duties listed below.
+meta	experience	Banker II/Customer Service Representative/Acting Assistant Manager
+meta	experience	Citizens Bank - Ludlow, MA
+meta	experience	November 2003 to April 2008
+meta	experience	Assist Branch Manager in making sales goals and all other task.
+meta	experience	• Develop and assist with implementing quarterly sales plan and reporting branch totals weekly or as needed.
+meta	experience	• Originate loan applications and conduct closings for Personal, Savings Secured and Home Equity loans and Lines of Credit.
+meta	experience	• Build strong customer and community relationships. Resolve customer issues and complaints.
+meta	experience	• Initiate, create and coordinate branch sales campaigns and team activities for proactive sales outreach.
+meta	experience	• Manage branch marketing and advertisements.
+meta	experience	• Travel/site visits to existing and new business customers/prospects with Business Officer.
+meta	experience	• Refer customers to internal partners such as Business Officers, Relationship Managers, Mortgage Officers, Financial Advisors, etc.
+meta	experience	• Certified Branch Business Banker, Member of ExSell Leaders Club, and Top Banker in Region on multiple occasions.
+meta	experience	Quality Assurance Representative
+meta	experience	First Notice Systems - Springfield, MA
+meta	experience	June 1999 to November 2003
+meta	experience	Monitor all call center representatives calls and faxes.
+meta	experience	• Conducted monthly audits of monitor logs.
+meta	experience	• Test product knowledge and administer assurance programs weekly and monthly.
+meta	experience	• Created and coordinated programs to improve overall efficiency.
+meta	experience	• Assist in training of newly hired employees.
+meta	experience	VOLUNTEER / COMMUNITY INVOLVEMENT / ACTIVITIES
+meta	experience	• Former Board Member of Young Professionals of Springfield (Y.P.S.)
+meta	experience	• Former Board Member of Community Survival Center
+meta	experience	• Volunteered in the Relay for Life fund raising events
+meta	experience	• Participant in Loaves and Fishes food pantry
+meta	experience	• Springfield Schools Volunteer

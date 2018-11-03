@@ -1,0 +1,37 @@
+content	education	Masters in Business Administration in Business Administration
+content	education	University of Southern New Hampshire
+content	education	August 2017 to Present
+content	education	Bachelor of Science in Sociology / Criminal Justice
+content	education	University of Massachusetts Amherst, MA
+content	education	May 2009
+content	education	Spanish
+content	education	Universidad de Salamanca Salamanca, ES
+content	education	August 2008
+content	education	University of Connecticut Storrs, CT
+content	education	July 2006
+content	education	Diploma
+content	education	Atlantic High School Delray Beach, FL
+content	education	May 2005
+meta	experience	Customer Service, Sales / Marketing Manager
+meta	experience	Unity Homecare
+meta	experience	2012 to Present
+meta	experience	Sales
+meta	experience	Athletic Director
+meta	experience	Hartford Public Schools
+meta	experience	August 2012 to December 2017
+meta	experience	• Hiring and supervising several coaches and staff.
+meta	experience	• Sets and approves the job descriptions for each position operations budget
+meta	experience	Marketing
+meta	experience	Hartford Public Schools
+meta	experience	October 2011 to December 2017
+meta	experience	Discipline and Student Support:
+meta	experience	• Overseeing the (PBIS) team and the implementation of Positive Behavior Intervention System (PBIS) and School Culture Restorative Justice Model.
+meta	experience	• Facilitating professional development sessions for all staff to meet the school objectives.
+meta	experience	Professional Athlete
+meta	experience	NFL Draft Class- Philadelphia Eagles/ Saskatchewan Roughriders
+meta	experience	2009 to 2011
+meta	experience	National Football League (NFL) / Canadian Football League (CFL)
+meta	experience	Internship
+meta	experience	Hampshire County Jail
+meta	experience	September 2008 to December 2009
+meta	experience	Correctional Officer

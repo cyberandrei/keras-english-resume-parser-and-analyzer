@@ -1,0 +1,20 @@
+content	education	Associate in Criminal Investigations
+content	education	Everest University-South Orlando Orlando, FL
+content	education	January 2015 to April 2015
+content	education	Some college
+meta	experience	Sales Consultant
+meta	experience	Crain Hyundai of Conway
+meta	experience	August 2018 to Present
+meta	experience	Sell both preowned and new vehicles to customers and businesses alike. I also present deals, close sales, and fill out and file paperwork.
+meta	experience	Store Manager
+meta	experience	Universal Wireless - Conway, AR
+meta	experience	August 2017 to August 2018
+meta	experience	I manage the operation side of the sales floor daily to assure customer satisfaction and improve customer loyalty. I work with both customers and my coworkers to handle all escalations in an effective and timely manner. I do weekly one on one's with my reps to provide growth and feedback in an ever changing sales environment. Assist my team in closing sales as well as maximizing sales by up selling and forming consultant mentalities rather than just being a clerk. I also assure that the store cleanliness is maintained throughout the day and all operations and procedures are handled by the end of each day.
+meta	experience	Customer Service Pro
+meta	experience	Verizon Wireless
+meta	experience	August 2015 to August 2017
+meta	experience	Answered incoming calls to the company regarding escalations to retain customer loyalty with the company. I was required to meet specific sales quotas each month. I also handled basic customer service needs such as bill payments, account inquiries/changes, and equipment orders.
+meta	experience	Loss Prevention Associate
+meta	experience	Ally Bank - Morrilton, AR
+meta	experience	February 2014 to August 2015
+meta	experience	I was an online banking specialist. I worked in the Fraud Department identifying fraudulent accounts and providing step by step processes to the victims on how to handle the fraudulent account. I also worked on smaller things such as responding to customer emails to the bank. In addition, I processed orders for checks and deposit slips/books.

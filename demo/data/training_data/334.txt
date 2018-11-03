@@ -1,0 +1,49 @@
+content	education	Masters in Healthcare Administration
+content	education	Wilmington University
+content	education	2019
+content	education	BA degree in Behavioral Science in Behavioral Science
+content	education	Wilmington University
+content	education	2017
+content	education	Thomas McKean High School Wilmington, DE
+content	education	2003
+meta	experience	Sales & Marketing Director
+meta	experience	Millcroft Senior Living
+meta	experience	2016 to Present
+meta	experience	* Work closely with the Executive Director and Regional Director of Sales & Marketing in the development and execution of the sales & marketing plan.
+meta	experience	* Oversees department budget and monitors resources and expenses.
+meta	experience	* Exceeds the sales activity standards determined by the Regional Director of Sales & Marketing. Sales activity standards include quotas for daily lead base follow up calls, appointments, on-site and off-site sales activities, and other sales related performance metrics.
+meta	experience	* Supervision of sales associates team and designated sales area.
+meta	experience	* Establishing and maintaining client relationships; Discovery of client's needs and desires with the community's products and services; Closing and post-sales activities.
+meta	experience	* Completes and maintains the Five Star CRM (lead database) for all potential residents and referral contacts within 24 hours of time of activity. This includes documentation of all completed and scheduled sales activities, including move-ins and move-outs.
+meta	experience	* Hosts events for the lead base and professionals to increase traffic in the community.
+meta	experience	* Analyze completing and review sales reports and strategic planning.
+meta	experience	* Interprets and implements management policies and business planning.
+meta	experience	* Provides regular in-services and orientation training to all sales associates and management staff.
+meta	experience	* Maintains an active, working knowledge of current competition and any new entrants or changes in the market through competitive analysis.
+meta	experience	* Attends all required training, in-services, and staff meetings.
+meta	experience	Business Office Coordinator
+meta	experience	Heartland Hospice & Homecare Services
+meta	experience	2015 to 2016
+meta	experience	* Track and maintain medical records and office supplies
+meta	experience	* Fiscal budgetary planning and maintenance
+meta	experience	* Order DME supplies for all new hospice patients' in collaboration with marketing staff.
+meta	experience	* Process Initial Plan of care for hospice patients
+meta	experience	* process payroll for department staff disciplines
+meta	experience	* Schedule patient visits for social work, spiritual care, and bereavement staff members
+meta	experience	* Generate billing log for hospice patients and maintain site budget and revenue
+meta	experience	* Prepare IDG weekly meeting for hospice patients and staff
+meta	experience	* Maintain patient census list
+meta	experience	* Insurance verification and processes for new hospice patients.
+meta	experience	* Conduct new employee staff orienting and training
+meta	experience	Referral Coordinator
+meta	experience	Season's Hospice & Palliative Care
+meta	experience	2013 to 2015
+meta	experience	* Assisting the RN Team Director with patient scheduling caseload management and care plan assignments for new hospice patients.
+meta	experience	* Handling and processing all referral request.
+meta	experience	*  Medical patient billing and accounts receivable.
+meta	experience	* preparing and submitting ADR Medicare State billing request
+meta	experience	* Attain family support requested services, and arrange medical equipment to meet patient needs for facility and home patients.
+meta	experience	* Monitor patient medical records, charts, and care plan changes.
+meta	experience	* physician billing and coding and completion of daily ADT's and EMR distribution
+meta	experience	* Chart audits and State review preparations.
+meta	experience	* Assist nursing staff with updated H&P; obtain preauthorization and precertification for referrals, testing, exams, x-rays, surgeries and skilled rehab.

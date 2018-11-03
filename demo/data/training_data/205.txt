@@ -1,0 +1,49 @@
+content	education	Bachelor of Science in Marketing in Marketing
+content	education	University of Northern Colorado Greeley, CO
+meta	experience	Sales Representative, Mars Team
+meta	experience	Advantage Sales and Marketing
+meta	experience	2016 to 2017
+meta	experience	I provide solutions that increase distribution and sell through for our client.  By prioritizing opportunities, based on assessment and Perfect Store Plan, developing a pitch and negotiating placement with store management I'm able to gain additional product facings and footprints that generate additional sales.
+meta	experience	Sales and Design Consultant
+meta	experience	The Tile Shop - Westminster, CO
+meta	experience	2014 to 2015
+meta	experience	Assisted customers in design and creation of their dream home.  Worked with customers every step of the way, from conceptualization and design to installation.  Implemented suggestive selling and solution based sales techniques to ensure that each customer received the look they wanted at a price to fit their budget.
+meta	experience	Regional Manager-Rocky Mountain Territory
+meta	experience	 - Akron, OH
+meta	experience	2012 to 2014
+meta	experience	Managed a Field Staff of approximately 80 members (Installation Techs, Brand Ambassadors and Merchandising Professionals) to meet or exceed clients' and retail partners' expectations.  Analyzed data to identify trends and provide quality control.  Managed travel expenses and certified payroll for the company's largest territory, geographically.  Provided interviewing, training and coaching as needed.  Achieved deadlines and training compliance for all clients.  Built relationships with store managers and negotiated plans of action that provided solutions that increased sales.
+meta	experience	Regional Manager-NW Territory
+meta	experience	BDS Marketing - Irvine, CA
+meta	experience	2011 to 2012
+meta	experience	Provided leadership to a team of 25 sales representatives empowering store personnel to sell with confidence, educate customers and build brand awareness using merchandising techniques that increased market share and mind-share for the client.  Served as the primary dedicated expert ensuring each team member's success promoting and selling the client's products.
+meta	experience	• Hosted weekly product training seminars and team building meetings via WebEx.
+meta	experience	• Increased sales of focus SKUs from 1 unit per hour to 6 units per hour in key markets.
+meta	experience	• Elevated Canon to the #1 selling camera brand at the Big Box locations in my territory.
+meta	experience	1036 Delta Drive, Unit C • Lafayette, CO 80026
+meta	experience	303-669-8832 • 720-890-7699
+meta	experience	johntruhlar@comcast.net
+meta	experience	Regional Manager-Rocky Mountain States
+meta	experience	GREY GROUP - Cincinnati, OH
+meta	experience	2010 to 2011
+meta	experience	Developed a team of brand ambassadors and sales representatives to expand new markets, build brand awareness, educate store personnel, monitor inventory, and provide merchandising techniques that increased sales.  Utilized direct sales techniques to develop new markets and organized promotional events that provided a platform for engaging consumers to communicate and demonstrate the benefits of choosing the client's product as an on-demand solution.
+meta	experience	Training Manager
+meta	experience	CREATIVE AGENCY SERVICES TEAM - Ventura, CA
+meta	experience	2009 to 2010
+meta	experience	Developed a Training and Technical Support Program for CAST's Zoom Systems Team of Field Representatives. Training was accomplished in person on-site and over the phone. I was dedicated to the success of each new team member and committed to the success of the Zoom Systems e-store program.
+meta	experience	• Successfully set up a turnkey training program to train reps to service 70 new locations over a 4 month period.
+meta	experience	• Achieved a 100% first test success rate as measured via an on-line training quiz prior to field placement.
+meta	experience	Regional Field Manager-Midwest
+meta	experience	STRATEGIC MERCHANDISING PARTNERS - Ventura, CA
+meta	experience	2004 to 2009
+meta	experience	Successfully coordinated a team of two supervisors and 180 independent contractors for Fortune 500 clients across a twelve state region.  Conducted store audits for quality assurance. Evaluated territories against budget constraints.  Analyzed field reports to ensure accuracy.  Resolved issues for clients with win/win solutions.  Recruited and trained specialized teams to meet the needs of a diverse group of clients.  Maximized sell through by negotiating prime placement of promotional displays in high traffic locations.  Consistently met deadlines and achieved compliance goals for all clients.
+meta	experience	• Received the 2009 Field Manager of the Year Award for excellence in leadership.
+meta	experience	• Earned the Superior Supervisor Award for building business relationships, increasing brand awareness, supportive management style, and achieving company goals.
+meta	experience	• Saved the company $135K annually by assuming leadership of an additional nine state territory.
+meta	experience	New Business Development & Territory Sales Manager
+meta	experience	FOUR WINDS TRADING COMPANY - Arvada, CO
+meta	experience	1999 to 2004
+meta	experience	Managed a $1M sales territory comprised of nine states. Cultivated key relationships with buyers to expand my territory, built product awareness and created new business opportunities.  Utilized cold calling, direct mailing and creative sales techniques to develop new markets and obtain meetings with buyers.
+meta	experience	• Consistently opened more than 250 new accounts a year.
+meta	experience	• Increased sell through with effective merchandising techniques in high-traffic locations.
+meta	experience	• Spearheaded a development team to create a new booth for trade show presentations.
+meta	experience	• Coordinated selection of product mix for trade show exhibits designed to penetrate new markets.

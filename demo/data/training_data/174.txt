@@ -1,0 +1,5 @@
+content	education	High school Diploma in Diploma only
+content	education	Calvine High School Sacramento, CA
+meta	experience	Sales Rep / Detailer
+meta	experience	Autoamore
+meta	experience	Sales rep / detailer

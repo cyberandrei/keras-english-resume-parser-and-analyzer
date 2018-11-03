@@ -1,0 +1,18 @@
+content	education	Operations Specialist A school
+content	education	1979 to 1982
+content	education	HIGH SCHOOL/LYME-OLD LYME JR.-SR HIGH SCHOOL
+content	education	1979
+meta	experience	SALES
+meta	experience	NORTH FORK BOUTIQUE GARDENS INC
+meta	experience	November 2017 to September 2018
+meta	experience	Introduced first contact with garden centers and maintained weekly contact in pursuit of sales and establishing relationships. Provided dozens of contacts where there had been only a few; helped establish the brand in the marketplace.
+meta	experience	SALES
+meta	experience	DAVID ROSE PERENNIALS INC
+meta	experience	April 2011 to October 2017
+meta	experience	Took over a flagging territory and significantly increased sales. Maintained weekly contact in pursuit of sales and establishing relationships.
+meta	experience	Production and Operations Manager
+meta	experience	Safelawns and Landscapes
+meta	experience	2007 to 2009
+meta	experience	Eastablished and initiated production and purchasing protocols and procedures, franchise training regimens and day to day operations.
+meta	experience	Project Manager/B&B Landscaping
+meta	experience	Oversaw all aspects of landscape installation from design and sales to installation and billing. Various horticultural duties

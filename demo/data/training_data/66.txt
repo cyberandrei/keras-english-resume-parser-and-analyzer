@@ -1,0 +1,17 @@
+content	education	B.S. in Exercise Science
+content	education	The Pennsylvania State University, State College
+content	education	1983 to 1987
+meta	experience	Sales and Leasing Professional
+meta	experience	Centennial Sales & Leasing - Phoenix, AZ
+meta	experience	August 2016 to March 2018
+meta	experience	Responsible for Sales & Leasing of all makes of new and used vehicles for Arizona Federal Credit Union members as well as providing financing, extended service contracts and gap insurance upon request.
+meta	experience	Sales and Leasing Consultant
+meta	experience	Baierl Automotive - Pittsburgh, PA
+meta	experience	January 2007 to May 2016
+meta	experience	Sales and leasing of new and certified used vehicles
+meta	experience	* Consistently in the top 5 percent in gross profit and volume due to my professional sales skills
+meta	experience	Sales and Leasing Consultant
+meta	experience	Larry Miller Toyota - Glendale, AZ
+meta	experience	February 2004 to December 2006
+meta	experience	sales and of new and certified used vehicles
+meta	experience	* Consistently in the top 5 percent in gross profit and volume due to my relentless tenacity and desire to succeed

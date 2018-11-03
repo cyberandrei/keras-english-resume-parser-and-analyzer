@@ -1,0 +1,13 @@
+content	education	Na in Business
+content	education	Rocky Hill High School Rocky Hill, CT
+content	education	September 1984 to June 1988
+content	education	Na
+meta	experience	Sales Associate
+meta	experience	Gymboree - Farmington, CT
+meta	experience	December 2018 to Present
+meta	experience	Helping customers, sales, register
+meta	experience	Cleaner
+meta	experience	Owner operater - Newington, CT
+meta	experience	June 2018 to Present
+meta	experience	Cleaning houses and commercial offices
+meta	experience	Sales Associate

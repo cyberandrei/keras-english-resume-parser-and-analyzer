@@ -1,0 +1,26 @@
+content	education	BACHELORS OF SCIENCE in Biology
+content	education	THE OHIO STATE UNIVERSITY
+content	education	May 2019
+meta	experience	BARISTA
+meta	experience	OLD SOUL COFFEE COMPANY
+meta	experience	October 2017 to Present
+meta	experience	• Practiced skills on the espresso bar that include specialty coffee drinks.
+meta	experience	• Produce drink orders in a quick and efficient manner to guests.
+meta	experience	• Open and close café daily.
+meta	experience	• Maintain an accurate register balance and count drawer daily.
+meta	experience	• Underwent extensive bar training and informational coffee and tea teaching.
+meta	experience	BARTENDER
+meta	experience	KARMA BREW AND PUB
+meta	experience	September 2017 to January 2018
+meta	experience	• Opened and closed Bar daily.
+meta	experience	• Served custom as well as specialty alcoholic beverages in a quick and efficient manner.
+meta	experience	• Obtained basic knowledge of liquor, beer, wine, and cocktails.
+meta	experience	• Handled and organized customer tabs and balanced register drawer.
+meta	experience	MANAGER ASSISTANT/ BARTENDER/ SERVER
+meta	experience	DEWEY'S PIZZA
+meta	experience	June 2016 to August 2017
+meta	experience	• Handled guest grievances and restaurant errors.
+meta	experience	• Opened and closed restaurant daily.
+meta	experience	• Delegated front of house staff.
+meta	experience	• Took customer's orders and processed payment.
+meta	experience	• Increased order efficiency by 25% by incorporating new order methods.

@@ -1,0 +1,21 @@
+content	education	Germantown HS Germantown, TN
+meta	experience	Sales Management
+meta	experience	Chico's FAS, Inc - Huntsville, AL
+meta	experience	March 2018 to Present
+meta	experience	Responsible for all areas of operations, meeting and exceeding sales goals, personnel achievements,  loss prevention, merchandising, inventory management and recruiting.
+meta	experience	Sales Management
+meta	experience	Bath & Body Works
+meta	experience	June 2017 to November 2017
+meta	experience	District Sales Manager
+meta	experience	Casual Male Retail Group - Charlotte, NC
+meta	experience	September 1996 to October 2002
+meta	experience	Responsible for the success of 13 stores in the Carolinas and Georgia.
+meta	experience	Store Manager
+meta	experience	Casual Male Big & Tall - Charlotte, NC
+meta	experience	September 1993 to March 1995
+meta	experience	Store Manager
+meta	experience	Burlington Coat Factory - Raleigh, NC
+meta	experience	August 1992 to September 1993
+meta	experience	Store Manager
+meta	experience	Casual Male and Casual Male Big & Tall, Winston - Salem, NC
+meta	experience	September 1986 to August 1992

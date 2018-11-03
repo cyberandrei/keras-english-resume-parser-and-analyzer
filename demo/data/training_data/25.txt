@@ -1,0 +1,5 @@
+content	education	High school
+meta	experience	Automotive Leasing & Sales
+meta	experience	To be shared
+meta	experience	September 2012 to August 2018
+meta	experience	Consistently achieved sales goals

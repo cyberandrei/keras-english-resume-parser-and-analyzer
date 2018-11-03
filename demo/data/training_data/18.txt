@@ -1,0 +1,20 @@
+content	education	GED in General Studies
+content	education	Calhoun Community College Decatur, AL
+content	education	August 2011 to August 2011
+meta	experience	CNA - Certified Nursing Assistant
+meta	experience	North Alabama Specialty Hospital - Athens, AL
+meta	experience	June 2016 to Present
+meta	experience	Bathing Dressing Grooming Vital signs Blood sugars. 
+meta	experience	I also was voted Team Leader at the job after only being there 3months.
+meta	experience	I have never missed a day of work, period
+meta	experience	CNA - Certified Nursing Assistant
+meta	experience	Signature HealthCARE LLC - Huntsville, AL
+meta	experience	Bathing Dressing Grooming and Feeding patients
+meta	experience	Rehabilitation Technician
+meta	experience	Healthsouth Rehabilitation Hospital - Huntsville, AL
+meta	experience	September 2014 to June 2016
+meta	experience	Bathing Dressing Grooming and Feeding patients
+meta	experience	Certified Nursing Assistant
+meta	experience	Athens Convalescent Center - Athens, AL
+meta	experience	August 2005 to September 2014
+meta	experience	Bathing Dressing and Grooming patients, l also worked in Restorative.

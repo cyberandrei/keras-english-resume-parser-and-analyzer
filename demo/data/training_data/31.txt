@@ -1,0 +1,29 @@
+content	education	Associate of Applied Science in Dental Hygiene
+content	education	Tennessee State University
+content	education	August 1981
+content	education	High School Diploma
+content	education	Midfield High School Midfield, AL
+content	education	May 1977
+meta	experience	Event Specialist
+meta	experience	Advantage Sales and Marketing - Whitehouse, TN
+meta	experience	December 2016 to June 2018
+meta	experience	James Casserly, Supervisor (901) 488-5335
+meta	experience	Part Time Event Specialist as a retail demonstrator promoting best in class products at Kroger's in Madison, Alabama.  I am the brand ambassador that excels in captivating an audience during in-store events, with an emphasis on brand awareness, product demonstration and sales.  Responsible for reviewing program materials, set up and break down of the work area, and the presentation and sampling of products on scheduled event days.   Assesses customers individual usage needs and interests in order to best recommend products.  Interact in a friendly, enthusiastic, energetic and outgoing manner with management, clients and consumers in any setting.  I am able to work independently and as a motivated team player. I am available to work a part-time schedule, Monday through Saturday.  I have daily access to a PC computer with internet and email access.
+meta	experience	Budget and Fiscal Specialist
+meta	experience	DEPARTMENT OF JUSTICE, DEA - Arlington, VA
+meta	experience	December 2001 to September 2016
+meta	experience	Arlington, VA  22202 Dec  2001 to Sep 2016
+meta	experience	Office of Operations, Operations Management, International Budget Unit 40 hours/week
+meta	experience	Budget and Fiscal Specialist (GS-0501-13) Glenda Walker, Supervisor (202) 307-7045
+meta	experience	Budget and Fiscal Specialist
+meta	experience	DEPARTMENT OF JUSTICE, DEA
+meta	experience	December 2001 to September 2016
+meta	experience	with the Drug Enforcement Administration in the Operations Management Section, International Budget Unit.
+meta	experience	Provided advice and assistance to the Program Management team on the budget programming process and analysis required to formulate and present the International Budget Unit's current year budget for the Foreign Deployed Advisory Support Team (FAST) and the Afghanistan Initiative Training Program, Enforcement and Sensitive Investigative Units accounts and various foreign programs allowance accounts totaling over $6 million.  Verified commitments, obligations and liquidations were entered into the Unified Financial Management System (UFMS).  Ensured the data entry of all allowance and obligation transactions were accurate and supported.  Processed and entered all invoice payments verifying receipt and acceptance prior to submission for processing for payment.  Reviewed invoices related to contracts for expenditures and liquidation status.   Always remained calm and productive in a fast-paced environment.  Strong interpersonal skills are evident in the ability to interface with others at all levels.  Delivered comprehensive presentations to employees being assigned to overseas locations regarding foreign allowance entitlements.  Assisted in cost and feasibility analysis to determine the best solutions that would meet the immediate operational financial needs of FAST Team members who deployed to foreign locations.  Formulated and analyzed spreadsheets to meet budget and reporting demands.  Trained FAST employees on the handling and management of operational funds during their foreign deployments to ensure accuracy and adherence to Department of Justice financial policies.
+meta	experience	Administrative Support Specialist
+meta	experience	DEPARTMENT OF JUSTICE, DEA - Arlington, VA
+meta	experience	April 1998 to December 2001
+meta	experience	Arlington, VA  22202 April 1998 to December 2001 Intelligence Division, Office of Special Intelligence, Program Support Unit 40 hours/week
+meta	experience	Administrative Support Specialist
+meta	experience	Arnold Crayton, Supervisor (202) 273-2849
+meta	experience	Primary advisor on all administrative operations and functions for the Office of Special Intelligence. Responsible for planning, providing guidance, and/or carrying out all activities for the Program Support Unit Chief regarding financial management, supply, and accounting activities.  Researched files and analyzed materials prior to formulating preliminary budget estimates for the office.   These estimates were presented to the Unit Chief for approval.  Provided advice to managers concerning the execution of the financial plan for the office.  Possessed a working knowledge of all regulations pertaining to administrative areas, office procedures, sources of equipment and supplies, and office services.  Required to maintained current security training in the storage, forwarding and receiving of both classified and unclassified materials and the distribution of material to appropriate personnel.

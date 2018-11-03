@@ -1,0 +1,35 @@
+content	education	Associate of Science in Psychology, Communications
+content	education	Central Piedmont Community College Charlotte, NC
+content	education	May 1977
+content	education	High School Diploma in History, English
+content	education	Tennessee Military Institute Sweetwater, TN
+content	education	May 1975
+meta	experience	Regional Sales
+meta	experience	Platinum Choice Bancard - Madison, AL
+meta	experience	April 2017 to Present
+meta	experience	Credit Card processing sales B2B.
+meta	experience	Auto Sales Consultant
+meta	experience	Century Automotive Group - Huntsville, AL
+meta	experience	June 2016 to March 2017
+meta	experience	Good, classy organization. I sold about 6-8 vehicles per month at a Volvo dealership that sold about 35 per month between three salespeople. I left simply because Volvo is now sending most of it's new vehicles to China, which is really aggravating U.S. dealers in general. There was nowhere else to go at Century so I left and have been selling credit card processing B2B since March. Thank you.~
+meta	experience	Outside sales representative/ Account manager
+meta	experience	Chi Payments and Priority Payments - Verde Valley
+meta	experience	July 2015 to June 2016
+meta	experience	Sous chef/ kitchen manager
+meta	experience	Relics Restaurant LLC - Sedona, AZ
+meta	experience	May 2013 to July 2015
+meta	experience	Auto detalier/ Courtesy driver
+meta	experience	Enterprise Rent-a-Car - Sedona, AZ
+meta	experience	June 2011 to May 2013
+meta	experience	Sales consultant
+meta	experience	Hyundai of Cottonwood - Cottonwood, AZ
+meta	experience	January 2011 to May 2011
+meta	experience	Company General Manager
+meta	experience	Music n More - Concord, NC
+meta	experience	June 2005 to June 2008
+meta	experience	Shift manager/ delivery driver
+meta	experience	Papa Johns Pizza - Huntersville, NC
+meta	experience	January 2001 to May 2005
+meta	experience	Executive Chef
+meta	experience	The University of Tennessee - Knoxville, TN
+meta	experience	May 1996 to December 2000

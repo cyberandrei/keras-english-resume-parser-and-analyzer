@@ -1,0 +1,45 @@
+content	education	B.A. in Business Administration
+content	education	University College of Technology
+content	education	2011
+content	education	Diploma in English Language, Mathematics, History
+content	education	Campion College High School
+content	education	2001
+meta	experience	Sales Account Manager /Trainer
+meta	experience	Cellular Sales of Knoxville Inc
+meta	experience	2013 to Present
+meta	experience	Complete inventory on the store stock daily
+meta	experience	●   Build relationships with clients at 5 different locations weekly
+meta	experience	●   Exceed Monthly sales targets
+meta	experience	●   Provide exceptional customer service
+meta	experience	●   Troubleshoot handset issues with customers
+meta	experience	●   Balance cash transactions daily
+meta	experience	●   Train new sales representative
+meta	experience	Relationship Manager
+meta	experience	Bank Of America - West Hartford, CT
+meta	experience	Business Development Manager
+meta	experience	2006 to 2013
+meta	experience	Managed top executive corporate accounts.
+meta	experience	● Negotiated business contracts.
+meta	experience	● Facilitated the implementation of products and services.
+meta	experience	● Build and maintained strong relationships with influencers and decision makers.
+meta	experience	● Conducted weekly site visits to each account.
+meta	experience	● Monitored and balance client financial accounts.
+meta	experience	● Made presentations on products and services to prospective and existing clients.
+meta	experience	● Hosted charity events such as golf and outreach projects.
+meta	experience	● Developed effective written proposals/quotations for current and prospective customers.
+meta	experience	● Conducted special party events to promote products and services.
+meta	experience	● Monitored stock and sites.
+meta	experience	● Provided biweekly reports on account activities.
+meta	experience	Customer Care Agent
+meta	experience	Digicel Group - Kingston
+meta	experience	2003 to 2006
+meta	experience	Handled incoming calls from customers 24/7.
+meta	experience	●    Provided and promoted information on products and services.
+meta	experience	●    Provided technical assistance via the telephone.
+meta	experience	●   Assisted with quality control assessments.
+meta	experience	●   Supported and provided superior service.
+meta	experience	●   Handled client complaints.
+meta	experience	●   Established, developed and maintained relationships with customers.
+meta	experience	●   Exceeded weekly sale targets.
+meta	experience	●   Provided biweekly reports on sales.
+meta	experience	●   Assisted customers with technical issues with their instruments.

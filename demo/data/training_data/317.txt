@@ -1,0 +1,12 @@
+content	education	Bachelors of Business in Business management
+content	education	Wilmington university New Castle, DE
+content	education	2008 to 2012
+meta	experience	Sales Representative
+meta	experience	Nordstrom - Newark, DE
+meta	experience	September 2012 to Present
+meta	experience	Responsibilities
+meta	experience	Sales​​​ Cashier, help drive sales and meet goals by customer servicing, motivate my team, work the fitting room to help prevent shrink. Developing lasting impression with customers through getting to know them, staying in touch with them, and reaching out to keep them informed.
+meta	experience	Accomplishments
+meta	experience	Increased last years percentages for department, increased customer base, and remerchandised weekly. 
+meta	experience	Skills Used
+meta	experience	Very efficient. Extensive retail sales and merchandising experience. Excellent customer service skills. A self-starter. Strong leadership skills. A team player.

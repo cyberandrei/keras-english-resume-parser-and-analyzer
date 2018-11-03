@@ -1,0 +1,34 @@
+content	education	Diploma
+content	education	Streamwood High School Streamwood, IL
+meta	experience	Sales Guide
+meta	experience	Stevinson Toyota East - Aurora, CO
+meta	experience	April 2017 to Present
+meta	experience	Sales, guest satisfaction
+meta	experience	Used Car Manager
+meta	experience	Groove Ford - Centennial, CO
+meta	experience	July 2016 to February 2017
+meta	experience	Appraised vehicles, closed deals, customer satisfaction, mentored sales guides
+meta	experience	Sales Guide
+meta	experience	Groove Toyota - Englewood, CO
+meta	experience	August 2015 to July 2016
+meta	experience	Sales, guest satisfaction
+meta	experience	Sales Guide
+meta	experience	Stevinson Toyota West - Lakewood, CO
+meta	experience	January 2014 to August 2015
+meta	experience	Sales, guest satisfaction
+meta	experience	Sales Manager
+meta	experience	Auto Brokers of Colorado - Englewood, CO
+meta	experience	July 2013 to January 2014
+meta	experience	Sales management, finance management, guest satisfaction
+meta	experience	Sales Guide
+meta	experience	Groove Toyota - Englewood, CO
+meta	experience	May 2011 to June 2013
+meta	experience	Sales, guest satisfaction, delivery
+meta	experience	Sales Guide
+meta	experience	Stevinson Toyota West - Lakewood, CO
+meta	experience	February 2009 to May 2011
+meta	experience	Sales, customer satisfaction, delivery
+meta	experience	Sales Guide
+meta	experience	Burt Toyota - Englewood, CO
+meta	experience	March 2004 to February 2009
+meta	experience	Sales, customer satisfaction, delivery

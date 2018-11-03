@@ -1,0 +1,15 @@
+content	education	High School Diploma in Required
+content	education	T.F. Riggs High School Pierre, SD
+content	education	1999
+meta	experience	Customer Service Rep
+meta	experience	Aarons Sales and Lease
+meta	experience	August 2017 to May 2018
+meta	experience	Inputting and processing customers applications, sales of merchandise on the floor
+meta	experience	Front Desk Associate
+meta	experience	The Center Inn
+meta	experience	September 2015 to July 2017
+meta	experience	Make reservations, check guests in and out of hotel, assist guests with any other needs
+meta	experience	Customer Service Rep
+meta	experience	TCI Solutions
+meta	experience	June 2014 to July 2015
+meta	experience	Managed two different credit card accounts, assisted customers with any other needs

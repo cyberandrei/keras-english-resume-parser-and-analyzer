@@ -1,0 +1,53 @@
+content	education	High school or equivalent
+meta	experience	Office Manager - Inside Sales
+meta	experience	Chesapeake Advanced Technologies - Salisbury, MD
+meta	experience	June 2013 to Present
+meta	experience	Responsibilities Included:
+meta	experience	> Preparing Sales Quotes for Customers Using Microsoft Word.
+meta	experience	> Assisting Outside Sales Force with Sales Leads.
+meta	experience	> Interacting with Customers and Sales Personnel.
+meta	experience	> Designing Sales Presentations Using Microsoft PowerPoint.
+meta	experience	> Generating Monthly Sales Reports for Customers.
+meta	experience	> Managing and Distributing Commission Checks for Sales Division.
+meta	experience	> Maintaining Office Calendar.
+meta	experience	> Making Travel Arrangements/Reservations.
+meta	experience	> Inventory and Ordering of Office Supplies.
+meta	experience	> Other General Office Duties (i.e. faxing, copying, etc.) as needed.
+meta	experience	OFFICE MANAGER- INSIDE SALES
+meta	experience	Micro Lambda, LLC - Pasadena, MD
+meta	experience	July 2002 to May 2013
+meta	experience	Responsibilities Included:
+meta	experience	> Worked directly with President of Company
+meta	experience	> Preparing Sales Quotes for Customers Using Microsoft Word.
+meta	experience	> Assisting Outside Sales Force with Sales Leads.
+meta	experience	> Interacting with Customers and Sales Personnel.
+meta	experience	> Designing Sales Presentations Using Microsoft PowerPoint.
+meta	experience	> Generating Monthly Sales Reports for Customers.
+meta	experience	> Managing and Distributing Commission Checks for Sales Division.
+meta	experience	> Maintaining Office Calendar.
+meta	experience	> Making Travel Arrangements/Reservations.
+meta	experience	> Inventory and Ordering of Office Supplies.
+meta	experience	> Other General Office Duties (i.e. faxing, copying, etc.) as needed.
+meta	experience	CLASSIFIED ADVERTISING SALES ASSISTANT/SUPERVISOR
+meta	experience	Pennysaver, LLC - Hanover, MD
+meta	experience	March 1998 to July 2002
+meta	experience	Responsibilities Included:
+meta	experience	Responsibilities Included:
+meta	experience	> Worked With Upper Management In House and Satellite Offices.
+meta	experience	> Managed Payroll and Leave Requests for 40 Employees.
+meta	experience	> Coordinated and Assisted with New Employee Training
+meta	experience	> Monitored and Tracked Sales of Individual Account Managers
+meta	experience	> Prepared Monthly Reports and Classified Budgets
+meta	experience	> Maintained and Tracked Expense Budgets for Two Departments.
+meta	experience	> Prepared Invoices and Tearsheets for Over 180 Customers per Week.  Assisted Customers with Cash Payments and Deposits.
+meta	experience	> Major Participation in Launching of New Books As Well As Creating Monthly Department Promotions.
+meta	experience	> Responded to All Correspondence Regarding Subscriptions
+meta	experience	> Cold Call Sales
+meta	experience	> Other Office Duties as needed (i.e. backup to receptionist, faxing, copying, etc.)
+meta	experience	Other Jobs Held while working Full Time
+meta	experience	Part Time Positions
+meta	experience	Planet Fitness - Front Desk, Middletown, DE
+meta	experience	Deli Assistant - Food Lion - Millington, MD
+meta	experience	Sales Associate - Good Will - Pasadena, MD
+meta	experience	Food Associate - Hardees - Pasadena, MD
+meta	experience	Creativity Associate - Pic N Paint Pottery - Pasadena

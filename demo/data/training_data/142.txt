@@ -1,0 +1,11 @@
+content	education	Associate in Arts
+content	education	Mott Community College Flint, MI
+content	education	September 2016 to June 2018
+meta	experience	Sales Associate
+meta	experience	Michael Kors - Birch Run, MI
+meta	experience	September 2017 to August 2018
+meta	experience	I have many years of customer service and sales experience. I  am very motivated and goal driven. I have good time management and organizational skills.
+meta	experience	Goodwill Industries
+meta	experience	Your Fashion Secret - Birch Run, MI
+meta	experience	September 2015 to July 2017
+meta	experience	Sales Associate

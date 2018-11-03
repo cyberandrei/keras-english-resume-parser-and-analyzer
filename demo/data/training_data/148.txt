@@ -1,0 +1,12 @@
+content	education	High school or equivalent in High school
+content	education	County Line High School Branch, AR
+content	education	August 1985 to May 1997
+meta	experience	Sales Representative
+meta	experience	Acosta Sales & Marketing - Jacksonville, FL
+meta	experience	September 2016 to Present
+meta	experience	Stock, put up end caps
+meta	experience	Manager
+meta	experience	KMAC Enterprises - Fort Smith, AR
+meta	experience	August 1996 to June 2007
+meta	experience	Ordered, inventory, deposit, customer service.
+meta	experience	Acosta Sales and Marketing

@@ -1,0 +1,21 @@
+content	education	High school or equivalent
+content	education	Twin Rivers Adult School North Highlands, CA
+content	education	August 2016 to January 2017
+meta	experience	Seasonal Sales Associate
+meta	experience	Bath & Body Works - Sacramento, CA
+meta	experience	October 2018 to Present
+meta	experience	Sales , operation cash register , stocking
+meta	experience	Concession Worker
+meta	experience	Cinemark - Carmichael, CA
+meta	experience	June 2018 to October 2018
+meta	experience	Serve popcorn , maintain a clean work area , food prepping , cashier
+meta	experience	Cashier / Customer Service Rep
+meta	experience	Domino's Pizza - Antelope, CA
+meta	experience	August 2016 to June 2017
+meta	experience	Answered phones, filled specific orders, make pizzas, completed cash and credit card transactions,stocking shelves with new products, folding boxes, Kitchen & lobby cleaning
+meta	experience	Telemarketer
+meta	experience	K Designers - Sacramento, CA
+meta	experience	March 2016 to May 2016
+meta	experience	*   Made outbound calls, describing products or services
+meta	experience	*   Received customer's important information, and set appointments
+meta	experience	*   Adjust sales scripts to better target the needs and interests of specific individuals

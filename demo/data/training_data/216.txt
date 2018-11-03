@@ -1,0 +1,105 @@
+content	education	GED
+content	education	Emily Griffith Opportunity School Denver, CO
+content	education	1999
+meta	experience	Sales
+meta	experience	Discount Forklift - Denver, CO
+meta	experience	July 2018 to Present
+meta	experience	80239
+meta	experience	• Services existing accounts, obtains orders, and establishes new accounts by planning and organizing daily work schedule to call on existing or potential sales outlets and other trade
+meta	experience	factors.
+meta	experience	• Adjusts content of sales presentations by studying the type of sales outlet or trade factor.
+meta	experience	• Focuses sales efforts by studying existing and potential volume of suppliers.
+meta	experience	• Referring to price lists and product literature to submit orders.
+meta	experience	• Monitors competition by gathering current marketplace information on pricing, products, new
+meta	experience	products, delivery schedules, merchandising techniques, etc.
+meta	experience	• Resolves customer complaints by investigating problems; developing solutions; preparing
+meta	experience	reports; making recommendations to management.
+meta	experience	• Maintains professional and technical knowledge by attending educational workshops;
+meta	experience	reviewing professional publications; establishing personal networks; participating in professional societies.
+meta	experience	• Provides historical records by maintaining records on area and customer sales.
+meta	experience	• Contributes to team effort by accomplishing related results as needed.
+meta	experience	New Section 2 ~~~~~~
+meta	experience	• Contributes to team effort by accomplishing related results as needed.
+meta	experience	Account management/Sales
+meta	experience	Complete Consulting LLC - Denver, CO
+meta	experience	July 2015 to Present
+meta	experience	80219
+meta	experience	• Complete Consulting LLC
+meta	experience	• Spearheaded expansion and development initiatives in Denver, Colorado.
+meta	experience	• Identified revenue opportunities by collaborating with distribution partners.
+meta	experience	• Managed a portfolio of 3 accounts totaling $50,000 in sales.
+meta	experience	• Developed comparison tables of products and services by researching product pricing, ratings
+meta	experience	and performance.
+meta	experience	• Evaluated current service needs and product satisfaction levels with established customers.
+meta	experience	• Uncovered and qualified prospects and sales opportunities in targeted markets using external
+meta	experience	resources.
+meta	experience	• Quoted prices, credit terms and other bid specifications.
+meta	experience	New Section 2 ~~~~~~
+meta	experience	• Quoted prices, credit terms and other bid specifications.
+meta	experience	• Evaluated market trends and recommended marketing budget allocations to top management.
+meta	experience	• Created sales contacts with on- and off-premise accounts.
+meta	experience	• Organized joint sales calls with current customers and outside vendors.
+meta	experience	Account Executive
+meta	experience	Toco Warranty - Lakewood, CO
+meta	experience	May 2017 to February 2018
+meta	experience	80235
+meta	experience	• Creating detailed business plans to facilitate the attainment of goals and quotas
+meta	experience	• Managing the entire sales cycle from finding a client to securing a deal
+meta	experience	• Unearthing new sales opportunities through networking and turn them into long term
+meta	experience	partnerships
+meta	experience	• Present products to prospective clients
+meta	experience	• Provide professional after-sales support to enhance the customers' dedication
+meta	experience	• Remain in frequent contact with the clients in your responsibility to understand their needs
+meta	experience	• Respond to complaints and resolve issues aiming to customer contentment and the preservation
+meta	experience	of the company's reputation
+meta	experience	• Negotiate agreements and keep records of sales and data
+meta	experience	Sales
+meta	experience	Discount Forklift - Denver, CO
+meta	experience	March 2017 to May 2017
+meta	experience	80239
+meta	experience	• Services existing accounts, obtains orders, and establishes new accounts by planning and organizing daily work schedule to call on existing or potential sales outlets and other trade
+meta	experience	factors.
+meta	experience	• Adjusts content of sales presentations by studying the type of sales outlet or trade factor.
+meta	experience	• Focuses sales efforts by studying existing and potential volume of suppliers.
+meta	experience	• Referring to price lists and product literature to submit orders.
+meta	experience	• Monitors competition by gathering current marketplace information on pricing, products, new
+meta	experience	products, delivery schedules, merchandising techniques, etc.
+meta	experience	• Resolves customer complaints by investigating problems; developing solutions; preparing
+meta	experience	reports; making recommendations to management.
+meta	experience	• Maintains professional and technical knowledge by attending educational workshops;
+meta	experience	reviewing professional publications; establishing personal networks; participating in professional societies.
+meta	experience	• Provides historical records by maintaining records on area and customer sales.
+meta	experience	• Contributes to team effort by accomplishing related results as needed.
+meta	experience	Product Development / Sales
+meta	experience	Herbal Options LLC - Englewood, CO
+meta	experience	June 2009 to July 2010
+meta	experience	80110
+meta	experience	• Built client relationships by acting as the liaison between the customer service and sales
+meta	experience	teams.
+meta	experience	• Consulted with clients after sales and contract signings to resolve problems and provide
+meta	experience	ongoing support.
+meta	experience	• Reviewed sales and activity reports to measure productivity and meet company performance
+meta	experience	targets.
+meta	experience	• Analyzed industry trends and compiled market research data to inform planning and strategy.
+meta	experience	• Directed targeted marketing efforts that introduced new products and promoted product
+meta	experience	visibility.
+meta	experience	• Developed, marketed and sold a full range of cannabis products, including infused creams and infused edibles.
+meta	experience	• Managed business finances, including paying vendors and suppliers for products services
+meta	experience	rendered.
+meta	experience	• Prospected to obtain new accounts while maintaining relationships with existing accounts.
+meta	experience	• Researched public perception of products and services and used information gathered to guide strategy
+meta	experience	• development.
+meta	experience	• Cad
+meta	experience	Cad Drafter
+meta	experience	RK Mechanical - Denver, CO
+meta	experience	August 2007 to January 2009
+meta	experience	80238
+meta	experience	• Designed and optimized mechanical components for hospital and other large scale plumbing
+meta	experience	applications i.e.,
+meta	experience	Drain, waste, vent, and supply lines.
+meta	experience	• Read and interpreted blueprints, technical drawings, schematics, and computer-generated
+meta	experience	reports.
+meta	experience	• Developed concept layout and design of plumbing applications from product specifications
+meta	experience	using 3D CAD
+meta	experience	software.
+meta	experience	• Managed continuous improvement projects.

@@ -1,0 +1,29 @@
+content	education	Some college
+meta	experience	Sales
+meta	experience	Hoffman Honda
+meta	experience	March 2017 to Present
+meta	experience	Negotiate the sale price of vehicles, including any
+meta	experience	trade-in price for customers old cars
+meta	experience	Arrange test-drives
+meta	experience	Complete paperwork and pre-delivery inspections
+meta	experience	SALES Developed a network of customers for future
+meta	experience	business
+meta	experience	Complete one on one transactions with fleet/leasing
+meta	experience	companies
+meta	experience	Lot organization and Direction
+meta	experience	90% CSI(Customer satisfaction index) per Honda
+meta	experience	CONTACT
+meta	experience	SALES MANAGER
+meta	experience	Barberino Brothers
+meta	experience	March 2017 to September 2017
+meta	experience	Online sales specialist
+meta	experience	Buys all Vehicles
+meta	experience	Controls all day to day events
+meta	experience	Developed efficient and effective strategy for sales of all types
+meta	experience	INTERNET SALES MANAGER
+meta	experience	CROWLEY NISSAN
+meta	experience	August 2010 to August 2017
+meta	experience	COORDINATE INTERNET SALES ACTIVITIES.
+meta	experience	PROPERLY HANDLE INCOMING SALES LEADS.
+meta	experience	DEVELOP A NETWORK OF CUSTOMERS FOR FUTURE
+meta	experience	BUSINESS.

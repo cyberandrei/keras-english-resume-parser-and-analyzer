@@ -1,0 +1,43 @@
+content	education	Angelo State University
+content	education	2015 to 2016
+content	education	High School Diploma
+content	education	Cal Farleys High School
+content	education	2012 to 2015
+meta	experience	Regional sales advisor
+meta	experience	Cellular Sales - Clearwater, FL
+meta	experience	December 2017 to August 2018
+meta	experience	Greeting clients, talking and finding out their needs and then finding out ways to make room to pitch everything I can.
+meta	experience	Build report with each and every client that walked in.
+meta	experience	Business lead hunter
+meta	experience	Retail to business
+meta	experience	Was the # 1 rep in The state of Florida my second month in.
+meta	experience	Sales Manager/Project Manager
+meta	experience	Golden Spruce Roofing - Longmont, CO
+meta	experience	March 2017 to August 2017
+meta	experience	* Work with customers to find what they want, create solutions and ensure a smooth sales process from beginning to end
+meta	experience	* Sells construction (windows, roofing)products and services by implementing sales plans
+meta	experience	* Services existing accounts, obtains orders, and establishes new accounts by planning and organizing daily work schedule to call on existing or potential sales outlets
+meta	experience	* Trains and supervises sales staff
+meta	experience	* Work with internal and external leads
+meta	experience	* Submit orders by referring to price lists and product literature
+meta	experience	Assistant Vocational Counselor
+meta	experience	Cal Farleys - Amarillo, TX
+meta	experience	November 2014 to May 2015
+meta	experience	* Assisted High School Vocation Counselor with all tasks necessary
+meta	experience	* Help students develop and implement realistic career and academic goals
+meta	experience	* Evaluate and advise students using interviews, counseling sessions, interest and aptitude assessment tests
+meta	experience	* Provide students with information on such topics as college degree programs and admission requirements, financial aid opportunities, trade and technical schools, and apprenticeship programs.
+meta	experience	* Provide classroom advice and guidance
+meta	experience	* Help students develop job search skills.
+meta	experience	Team Lead Butcher shop
+meta	experience	Cal Farleys - Amarillo, TX
+meta	experience	October 2013 to November 2014
+meta	experience	* Train new staff to policies and procedures.
+meta	experience	* Monitor day to day operations.
+meta	experience	* Cutting and preparing all varieties and cuts of meat, including the safe operation of tools
+meta	experience	* Clean and inspect all products and tools.
+meta	experience	* Clean equipment according to company/OSHA standards
+meta	experience	* Mark products, work pieces, equipment with identifying information
+meta	experience	* Weigh finished products
+meta	experience	* Cut, trim, bone, tie, and grind meats, such as beef, pork, poultry, and fish, to prepare meat in cooking form.
+meta	experience	* Prepare meat products for sale or consumption

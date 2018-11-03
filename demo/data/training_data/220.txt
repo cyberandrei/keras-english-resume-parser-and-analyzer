@@ -1,0 +1,40 @@
+content	education	Some college
+meta	experience	Sales
+meta	experience	Pulse Secure, ServiceSource - Denver, CO
+meta	experience	August 2016 to Present
+meta	experience	Renewals Sales • Strategic solutions selling with focus on revenue retainment and growth with Multi-Channel selling expertise
+meta	experience	Specialist • Created value-add processes within sales cycle management; subject matter expert and sales coaching
+meta	experience	• Responsible for a global sales territory while meeting or exceeding quarterly quotas
+meta	experience	• Close collaboration with directors and executives on top level client forecasting
+meta	experience	Contract Management
+meta	experience	Pulse Secure, ServiceSource - Denver, CO
+meta	experience	August 2015 to August 2016
+meta	experience	Operations • Exceeded service levels of logistical requirements, vendor performance, and sales support
+meta	experience	Specialist • Maintained the integrity and accuracy of support renewal quotes created for sales representatives
+meta	experience	• Facilitated data management for clients with a multitude of diverse solution platforms
+meta	experience	• Provided daily administrative assistance to Pulse management regarding support cases and necessary approvals
+meta	experience	Contract Management
+meta	experience	TELUS, ServiceSource - Denver, CO
+meta	experience	December 2014 to August 2015
+meta	experience	Operations Team • Leader in prioritizing workflow; provided support and coaching of operations reps
+meta	experience	Lead • Provided consistent updates to Senior Management regarding KPIs; presented QBR to top level management
+meta	experience	• Developed, coordinated, and executed daily production goals
+meta	experience	• Created official training documentation to improve on-boarding timeline
+meta	experience	Contract Management
+meta	experience	TELUS, ServiceSource - Denver, CO
+meta	experience	July 2010 to December 2014
+meta	experience	Operations • Investigate, analyze, and resolve directly with customer all inquiries including contract maintenance
+meta	experience	Specialist • Liaison between technicians, vendors, and clients for all necessary business operations
+meta	experience	• Managed contract database and worked with management to streamline quoting process to gain efficiency
+meta	experience	• Resolved complex administrative problems and increased productivity within the tea
+meta	experience	Sales, Custom Design Consultant
+meta	experience	Hard Edge Design - Norman, OK
+meta	experience	May 2008 to July 2010
+meta	experience	Customer • Responsible for assisting customers with all needs pertaining to product sales
+meta	experience	Service • Collaborated with clients to develop custom screen printed and embroidered garments and promotion products
+meta	experience	Representative • Managed numerous accounts simultaneously while ensuring customers receive excellent service
+meta	experience	• Comfortable dealing with stressful situations such as deadlines, conflict management, and sales presentations
+meta	experience	LEADERSHIP EXPERIENCE
+meta	experience	EVOLVE Emerging Leaders Program, ServiceSource
+meta	experience	Member • Selected out of numerous internal applicants as a High Potential Customer Success and Sales Representative •
+meta	experience	• Entered program to learn necessary managerial and leadership skills to further professional career

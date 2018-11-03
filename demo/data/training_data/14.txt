@@ -1,0 +1,5 @@
+content	education	Other
+meta	experience	Sales Associate
+meta	experience	RAILROAD BAZAAR - Athens, AL
+meta	experience	2007 to 2008
+meta	experience	Sales associate

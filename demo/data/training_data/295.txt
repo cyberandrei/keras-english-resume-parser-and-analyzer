@@ -1,0 +1,63 @@
+content	education	Some college
+meta	experience	Wholesale/Retail parts sales
+meta	experience	O'Reilly Auto Parts - Barkhamsted, CT
+meta	experience	July 2018 to Present
+meta	experience	working as DSS, counter sales.
+meta	experience	Inventory Management Consultant
+meta	experience	Shaker L/M Quality Care - Naugatuck, CT
+meta	experience	June 2018 to July 2018
+meta	experience	• Correct inventory discrepancies from unskilled personnel
+meta	experience	• Cleanse warranty retention area
+meta	experience	• Reinforce proper documentation procedures with new manager
+meta	experience	ASSISTANT PARTS MANAGER
+meta	experience	Lombard Ford - Winsted, CT
+meta	experience	September 2005 to February 2018
+meta	experience	• Supplied customer support for nationwide internet accessory operations including email and phone inquiries
+meta	experience	• Coordinated daily wholesale deliveries
+meta	experience	• Processed daily special orders including internet orders
+meta	experience	• Assisted in suggesting and implementing cost cutting measures, inventory reduction, alternate sources of supply
+meta	experience	• Managed counter sales, including front counter and wholesale sales
+meta	experience	• Assisted with shop counter sales
+meta	experience	PARTS MANAGER
+meta	experience	Shaker L/M Quality Care - Naugatuck, CT
+meta	experience	January 2004 to September 2005
+meta	experience	• Responsible for entire Parts Department operation, supplying necessary parts to Service Department in a non-Ford specific repair facility
+meta	experience	• Assisted at Service Desk for customer write-up when needed
+meta	experience	• Achieved goals of reducing idle capital (from 26.6% to 12.5%), overall inventory value (from $57k down to $42K), while improving total sales and profit margins.
+meta	experience	RETAIL PARTS COUNTER SALES
+meta	experience	Morande Ford - Berlin, CT
+meta	experience	March 2002 to December 2003
+meta	experience	• Responsible for wholesale parts sales, coordinating customer needs with supplier shipping and delivery schedules
+meta	experience	• Responsible for retail customer sales, inquiries, and assistance, including co-ordination of parts requests with service department appointments for customers
+meta	experience	ASSISTANT PARTS MANAGER
+meta	experience	Family Ford - Waterbury, CT
+meta	experience	September 1997 to February 2002
+meta	experience	• Part of a  parts team that increased department 'net profits' from under $100,000 in 1996, to over $250,000 in 2001
+meta	experience	• Developed and instituted procedures enabling the reduction of on hand inventory from approximately $180,000 in 1997 to $130,000 in 2000 with an improved service fill rate.
+meta	experience	• Worked with sales and service departments to develop mutually beneficial increases in sales
+meta	experience	• Familiarized new department manager with existing procedures and suggested ways to co-ordinate these with his ideas
+meta	experience	contracted employee
+meta	experience	Parts Management Services - Danbury, CT
+meta	experience	January 1992 to August 2001
+meta	experience	Part of a team that performed physical inventories and obsolescence returns for various dealerships including Ford, General Motors, Isuzu, and Chrysler
+meta	experience	INVENTORY MANAGEMENT CONSULTANT
+meta	experience	ADMI - Ann Arbor, MI
+meta	experience	June 1997 to August 1997
+meta	experience	• Instructed client dealers on revised procedures to ensure efficient inventory management
+meta	experience	• Established reporting procedures to measure dealership progress in various areas, including idle capital reduction, database accuracy and proper stocking levels
+meta	experience	• Assisted parts managers in locating problem areas in their departments and developed systems to correct them
+meta	experience	• Assessed parts department situation and presented analysis and recommendations to dealer management
+meta	experience	PARTS MANAGER
+meta	experience	Wagner Nissan - Simsbury, CT
+meta	experience	June 1996 to June 1997
+meta	experience	• Managed inventory of $100,000, created computer reports to track slow moving parts, assisted in ordering and forecasting new parts for stock
+meta	experience	• Coordinated stock and sales promotions with sales and service departments
+meta	experience	• Supervised and trained new personnel in the use of computer systems, to include dealership and manufacturer specific procedures
+meta	experience	• Served as liaison between customers and manufacturer, resolving customer issues in a professional and timely manner
+meta	experience	ASSISTANT PARTS MANAGER
+meta	experience	Litchfield Ford - Litchfield, CT
+meta	experience	October 1994 to June 1996
+meta	experience	• Implemented computer conversion from Ford DCS to UCS 7000 System
+meta	experience	• Trained new personnel, including computer system training for new Parts Manager
+meta	experience	• Assisted in implementation of ADMI procedures for an inventory base of $160,000.
+meta	experience	• Satisfied shop, wholesale & retail sales requests

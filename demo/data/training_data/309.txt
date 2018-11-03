@@ -1,0 +1,23 @@
+content	education	Bachelor's Degree of Science in General Management
+content	education	Delaware State University Dover, DE
+content	education	September 2006 to May 2011
+meta	experience	Sales Representative
+meta	experience	AT&T, Dover Mall - Dover, DE
+meta	experience	August 2018 to August 2018
+meta	experience	October
+meta	experience	Make sure every customer got their answers, concerns problems
+meta	experience	solved.
+meta	experience	Assure to maximize sales opportunities my upgrading to other different
+meta	experience	services and products offered by AT&T
+meta	experience	Store Manager
+meta	experience	Cricket Wireless, Dover Plaza - Dover, DE
+meta	experience	January 2018 to May 2018
+meta	experience	Work together with team associates or advocates to achieve monthly
+meta	experience	performance and sales quotas.
+meta	experience	●   Manage the store in every aspect and assure profitability every month.
+meta	experience	Private Tutor
+meta	experience	WyzAnt Tutoring Inc
+meta	experience	December 2011 to December 2017
+meta	experience	Follow up with potential tutoring clients being funnel by online
+meta	experience	marketing done by WyzAnt.
+meta	experience	●   Assure the student success either in math or Spanish.

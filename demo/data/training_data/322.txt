@@ -1,0 +1,68 @@
+content	education	Associate of Applied Science in Process Operator Technology
+content	education	Salem Community College
+content	education	August 2018
+content	education	Certificate
+content	education	Delaware Technical Community College New Castle, DE
+content	education	May 2012
+meta	experience	Sales Associate
+meta	experience	Union Park BMW - Wilmington, DE
+meta	experience	September 2018 to Present
+meta	experience	• Maintained strong and extensive knowledge of all vehicle features, makes, and models and inventory in order to consistently provide the best customer service.
+meta	experience	• Presented vehicle prices, interest, and payment numbers to customers; communicated with sales managers and finance managers in order to close deals and maintain loyal customer base.
+meta	experience	• Followed up on all sales leads from a variety of sources in efforts to bring in customers.
+meta	experience	• Mentored new sales associates to contribute to the store's positive culture.
+meta	experience	• Attended training sessions that developed negotiation techniques that were utilized to increase closing sales ratio and to overcome objectives.
+meta	experience	• Utilized CRM database as a selling instrument to complete open deals and find sales opportunities.
+meta	experience	Sales Associate
+meta	experience	Kay Jewelers
+meta	experience	February 2018 to Present
+meta	experience	• Directed individuals to merchandise locations.
+meta	experience	• Suggested accessories and complementary purchases.
+meta	experience	• Accepted and processed returns.
+meta	experience	• Maintained adherence to all company protocols.
+meta	experience	Sales Floor Associate
+meta	experience	Ashley Homestore
+meta	experience	September 2017 to February 2018
+meta	experience	• Wrote sales slips and sales contracts.
+meta	experience	• Maintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices.
+meta	experience	• Recommended merchandise to customers based on their needs and preferences.
+meta	experience	• Engaged with customers in a sincere and friendly manner.
+meta	experience	Internet Sales Coordinator
+meta	experience	Matt Slap Subaru - Newark, DE
+meta	experience	July 2016 to January 2017
+meta	experience	• Coordinating the sales team by managing schedules.
+meta	experience	• Help direct customer traffic for online sales and marketing.
+meta	experience	• Utilized CRM database as a selling instrument to complete open deals and find sales opportunities.
+meta	experience	• Attended training sessions that developed negotiation techniques that were utilized to increase closing sales ratio and to overcome objectives.
+meta	experience	Assistant Manager/Sales Associate
+meta	experience	Carman Fiat - New Castle, DE
+meta	experience	April 2013 to July 2015
+meta	experience	• Maintained strong and extensive knowledge of all vehicle features, makes, and models and inventory in order to consistently provide the best customer service.
+meta	experience	• Presented vehicle prices, interest, and payment numbers to customers; communicated with sales managers and finance managers in order to close deals and maintain loyal customer base.
+meta	experience	• Followed up on all sales leads from a variety of sources in efforts to bring in customers.
+meta	experience	• Mentored new sales associates to contribute to the store's positive culture.
+meta	experience	• Attended training sessions that developed negotiation techniques that were utilized to increase closing sales ratio and to overcome objectives.
+meta	experience	• Utilized CRM database as a selling instrument to complete open deals and find sales opportunities.
+meta	experience	General Laborer
+meta	experience	Grout Lines USA LLC - Middletown, DE
+meta	experience	November 2011 to April 2013
+meta	experience	• Prepared and cleaned construction sites by removing debris.
+meta	experience	• Loaded and unloaded building materials used for construction.
+meta	experience	• Applied caulk, sealants and other agents to installed surfaces.
+meta	experience	• Completed teardown of existing structures and prepared for new construction.
+meta	experience	• Consistently assumed additional responsibilities and worked extended hours to meet project deadlines.
+meta	experience	Cashier/Stocker
+meta	experience	Grout Lines USA LLC - Middletown, DE
+meta	experience	January 2012 to July 2012
+meta	experience	• Welcomed customers into the store and helped them locate items.
+meta	experience	• Operated a cash register for cash, check and credit card transactions.
+meta	experience	• Stocked and replenished merchandise according to store merchandising layouts.
+meta	experience	• Priced merchandise, stocked shelves and took inventory of supplies.
+meta	experience	• Cleaned and organized the store, including the checkout desk and displays.
+meta	experience	• Alerted customers to upcoming sales events and promotions.
+meta	experience	• Identified potential shoplifters and alerted management.
+meta	experience	• Handled all customer relation's issues in a gracious manner and in accordance with company policies.
+meta	experience	Delivery Driver
+meta	experience	Nino's Pizza - Middletown, DE
+meta	experience	May 2011 to August 2011
+meta	experience	Loaded food and delivered to destination ins a safe and productive manner

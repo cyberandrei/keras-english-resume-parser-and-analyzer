@@ -1,0 +1,7 @@
+content	education	High school in general study
+content	education	Smyrna High School Smyrna, DE
+content	education	June 2018 to November 2018
+meta	experience	Sales Associate
+meta	experience	tranquil essence - Dover, DE
+meta	experience	April 2014 to Present
+meta	experience	My responsibilities were to keep the product clean, put the product in the right place, and keep track of the money. I was a sales person my job was to display product for purchase.

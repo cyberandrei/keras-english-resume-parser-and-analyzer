@@ -1,0 +1,16 @@
+content	education	Certificate in Paralegal
+content	education	Rasmussen College
+content	education	2016 to 2017
+meta	experience	Counter sales
+meta	experience	Penco Corporation - Camden, DE
+meta	experience	October 2015 to April 2016
+meta	experience	• Counter sales
+meta	experience	• Problem solving
+meta	experience	• Created quotes/bids for sales
+meta	experience	• Researching products for customers
+meta	experience	• Sending and receiving transfers
+meta	experience	• Networking with other companies for product pricing and availability
+meta	experience	Sales Specialist/Assistant Manager
+meta	experience	Brunswick Doverama - Dover, DE
+meta	experience	May 2014 to May 2015
+meta	experience	Scheduling staff

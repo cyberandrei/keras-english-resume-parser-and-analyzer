@@ -1,0 +1,29 @@
+content	education	Diploma
+content	education	Benny Benson Anchorage, AK
+meta	experience	Sales Associate
+meta	experience	Soap Des Jour - Mesa, AZ
+meta	experience	August 2018 to Present
+meta	experience	Sales
+meta	experience	Sales Associate
+meta	experience	SoupDejJour - Tempe, AZ
+meta	experience	August 2018 to Present
+meta	experience	The Owner Of This Store Makes All Natural Soap  And She Has A Store In The Az Mills And I Help sell her Products
+meta	experience	Program staff
+meta	experience	CAMPFIRE AK - Anchorage, AK
+meta	experience	August 2016 to Present
+meta	experience	Interacting with students after school.
+meta	experience	Cashier
+meta	experience	Fredy Myers - Anchorage, AK
+meta	experience	April 2016 to August 2016
+meta	experience	Checking in and out customer making sure they are satisfied.
+meta	experience	Alorica
+meta	experience	DIRECTV - Mesa, AZ
+meta	experience	March 2015 to July 2015
+meta	experience	Telemarking
+meta	experience	Program Aide
+meta	experience	Campfire AK
+meta	experience	August 2013 to January 2015
+meta	experience	Setting up Snack
+meta	experience	• Interacting with the children
+meta	experience	• Helping out with Activies
+meta	experience	• Helping the kids with there homework

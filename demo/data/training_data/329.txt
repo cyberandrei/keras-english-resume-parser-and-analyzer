@@ -1,0 +1,40 @@
+content	education	Psychology
+content	education	Delaware State University Dover, DE
+content	education	May 2020
+meta	experience	Sales Associate
+meta	experience	Lane Bryant - Middletown, NY
+meta	experience	May 2018 to August 2018
+meta	experience	Demonstrated selling, incentive, and product knowledge strategies
+meta	experience	● Maintained awareness of all sales promotions and informed guests accordingly
+meta	experience	● Handled monetary transactions using a computerized POS system
+meta	experience	● Contributed to the efforts to prevent shrink and raise safety awareness
+meta	experience	Sales Associate
+meta	experience	Lane Bryant - Middletown, NY
+meta	experience	May 2018 to August 2018
+meta	experience	Created a fun and engaging selling environment
+meta	experience	● Utilized strong listening skills to identify customer needs
+meta	experience	● Assisted with inventory management in a team setting; maintained the organization of the selling floor displays
+meta	experience	● Balanced customer needs and store tasks simultaneously, using good judgment and teamwork
+meta	experience	Sales Associate
+meta	experience	Macy's - Middletown, NY
+meta	experience	December 2017 to January 2018
+meta	experience	Used sales techniques to secure sales and make sure customers return to the store
+meta	experience	● Diligently monitored the sales floor to answer customer questions and prevent shrink
+meta	experience	● Informed customers of rewards programs, credit card programs, discounts and limited time offers
+meta	experience	● Used numeracy skills to manage cash register; handled cash, debit, gift, and credit card as necessary
+meta	experience	Team Member
+meta	experience	Mystery Room - Middletown, NY
+meta	experience	May 2017 to August 2017
+meta	experience	Managed the day-to-day operations and financial success of the store
+meta	experience	● Attentively monitored game play to give an exceptional experience
+meta	experience	● Facilitated accurate recovery of each mystery room immediately after use
+meta	experience	Waitress
+meta	experience	Sunflower Café - Goshen, NY
+meta	experience	February 2016 to March 2017
+meta	experience	Used customer service skills to tend to customer's needs; took orders and maintained guests' satisfaction on the selling floor
+meta	experience	● Used problem solving skills to satisfy the customer's request and assist in quick management of the dining room
+meta	experience	floor service
+meta	experience	● Prepared smoothies and other menu options in the kitchen
+meta	experience	Leadership & Affiliations
+meta	experience	● Captain                     DSU Hornets Soccer Team          Delaware State University
+meta	experience	● Poet                        SWAU (Spoken Word)               Delaware State University

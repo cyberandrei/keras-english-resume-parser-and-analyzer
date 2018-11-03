@@ -1,0 +1,26 @@
+content	education	Bachelor of Arts in Political Science
+content	education	Western New England University Springfield, MA
+meta	experience	Sales
+meta	experience	Property & Casualty Sales - Simsbury, CT
+meta	experience	May 2017 to Present
+meta	experience	Sales of Property and Casualty products
+meta	experience	Operations Fleet Manager
+meta	experience	AAA Pioneer Valley - West Springfield, MA
+meta	experience	2005 to 2016
+meta	experience	Controlled entire accountability for fleet operations by providing supervision for Fleet Supervisor, Fleet Administrator, Fleet Repair technician and 35 plus line staff. Managed activities of 35 contractor facilities. Enforced club Safety Culture. Supplied promotional ideas and strategic initiatives to Marketing Department. Performed technical accounting duties including forecasting, budgeting, and expense control. Oversaw inventory control, identified sales opportunities, and hired/trained salesforce.
+meta	experience	* Awarded AAA National recognition for Best Fleet member service performance within a metropolitan area (score 95%/ Ranking # 9)
+meta	experience	* Created and fostered team growth expanding fleet from 4 to 35   plus employees.
+meta	experience	* Grew service network geographic area from 3 towns to 12 plus towns/cities in Western Ma.
+meta	experience	* Achieved Products Sales growth from 400 units per annum of total network to 5000 units per annum of Total network
+meta	experience	* Streamlined operations to maximize productivity/efficiency of team.
+meta	experience	* Administered $4M budget for facilities, services, supplies, and workforce.
+meta	experience	Credit Operations Manager
+meta	experience	American Honda Finance - South Hadley, MA
+meta	experience	1991 to 2005
+meta	experience	Orchestrated branch support for service contracts, leases, dealer financing and related services. Provided finance options for dealers. Supplied solutions in complex situations. Executed credit agreements and closed sales negotiations. Cultivated strong trust partnerships with industry influencers to achieve company objectives. Fostered healthy competition increasing growth optimizing $4B credit portfolio. Forecasted production schedules.
+meta	experience	* Cultivated a network of 160 Honda and Acura dealers forming loyal associations.
+meta	experience	* Implemented procedures resulting in recapturing of substantial revenue ($1M per annum).
+meta	experience	* Conducted audits utilizing internal and governmental guidelines.
+meta	experience	* Structured operations through monthly volume growth from $10K to $100K within one year's time.
+meta	experience	* Managed, developed, and mentored team consisting of 25 credit analyst and discounting specialists.
+meta	experience	* Revitalized training/practices producing elevated Customer Service Index scores of 90% or greater.

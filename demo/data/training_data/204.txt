@@ -1,0 +1,48 @@
+content	education	University of Colorado at Denver School of Engineering Denver, CO
+content	education	2013 to 2016
+content	education	Thunderridge High School Highlands Ranch, CO
+content	education	2009 to 2013
+meta	experience	Inside Sales Representative
+meta	experience	English Damco Sales
+meta	experience	September 2017 to Present
+meta	experience	English Damco Sales
+meta	experience	I work inside sales which means I am responsible for vetting any leads. I also have been on many sales calls traveling to customers to have a discussion. My responsibilities as an inside sales rep include but are not limited to:
+meta	experience	◦ Vetting leads for more sales
+meta	experience	◦ Giving customers the help they need (via phone or email)
+meta	experience	◦ Entering information into data systems
+meta	experience	◦ Quoting prices and quantities for customers
+meta	experience	◦ Working with and connecting manufacturers, distributors, and end customers
+meta	experience	Carpenter
+meta	experience	apprentice carpenter
+meta	experience	Hawk Construction Inc - Littleton, CO
+meta	experience	August 2016 to September 2017
+meta	experience	where I learned the problems and solutions that come with remodels as opposed to my previous knowledge of new builds. My responsibilities as an apprentice carpenter include but are not limited to:
+meta	experience	◦ Installing interior trim
+meta	experience	◦ Installing all types of cabinets (kitchen, bathroom, uppers and base)
+meta	experience	◦ Finishing work including punch lists and touch ups
+meta	experience	◦ Framing of new rooms and additions
+meta	experience	◦ Learning brand new things every day with a hands on approach
+meta	experience	Assistant Site Supervisor
+meta	experience	Cardel Master Home Builders - Morrison, CO
+meta	experience	December 2015 to August 2016
+meta	experience	For the past 5 months I have had the opportunity to be the assistant site supervisor. I am learning from studying schedules and from guidance of coworkers in order to gain a complete understanding of what it takes in order to build a home. Responsibilities of the assistant supervisor include but are not limited to:
+meta	experience	◦ Creating multiple schedules in order to meet deadlines
+meta	experience	◦ Reviewing all plans, color sheets, and inspection cards to make sure every little thing is correct
+meta	experience	◦ Constant upkeep of the entire jobsite
+meta	experience	◦ Enforcing safety regulations
+meta	experience	◦ Effectively communicating via phone or email
+meta	experience	Laborer
+meta	experience	Cardel Master Home Builders - Highlands Ranch, CO
+meta	experience	October 2014 to December 2015
+meta	experience	During my employment with Cardel, I was responsible for both preparing the homes as well as laborious tasks to aid in the construction from start to finish. Responsibilities of the prep position include but are not limited to:
+meta	experience	o    Cabinet Work
+meta	experience	o Rough framing work
+meta	experience	o Small finishing trim work
+meta	experience	o Giving homes a good clean look
+meta	experience	o Quality checking everything in the house
+meta	experience	o Small handyman fixes and repairs
+meta	experience	Responsibilities of laborer include but are not limited to:
+meta	experience	o Aiding all trades with whatever they need help with o Walking with inspectors and getting things up to code
+meta	experience	o Make sure the work site is safe and meets local and state codes
+meta	experience	o Locking up all houses and site gates at the end of day and clearing the sites of workers
+meta	experience	o Work with residents to fix any problem they might have with the site or their own current homes

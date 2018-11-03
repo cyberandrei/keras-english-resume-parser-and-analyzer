@@ -1,0 +1,40 @@
+content	education	High school diploma
+content	education	Pomona High School Arvada, CO
+content	education	1990
+meta	experience	Sales Representative
+meta	experience	Single Source Inc - Commerce City, CO
+meta	experience	2009 to Present
+meta	experience	* Customer Service/Problem Solving
+meta	experience	* Product Ordering
+meta	experience	* Prospective Customer Sales Calls
+meta	experience	* Computer skills
+meta	experience	* Account receivables
+meta	experience	* Delivery sales
+meta	experience	Photo Analyst
+meta	experience	Klode Salvage Center - Littleton, CO
+meta	experience	2006 to 2009
+meta	experience	* Photo cars
+meta	experience	* Set up sales
+meta	experience	* Dispatch
+meta	experience	* Computer skills
+meta	experience	Customer Service
+meta	experience	National Oak Distributing - Saint Petersburg, FL
+meta	experience	2004 to 2006
+meta	experience	* Customer service
+meta	experience	* Phone orders
+meta	experience	* Warehouse
+meta	experience	Customer Service
+meta	experience	Auto Body Express - Tampa, FL
+meta	experience	2003 to 2004
+meta	experience	* Phone orders
+meta	experience	* Delivery route
+meta	experience	* Warehouse
+meta	experience	Store Manager
+meta	experience	Advance Paint - Lakewood, CO
+meta	experience	1997 to 2003
+meta	experience	* Customer service
+meta	experience	* Manage crew of six
+meta	experience	* Balance daily cash
+meta	experience	* Price updates
+meta	experience	* Warehouse/Inventory
+meta	experience	* Computer skills

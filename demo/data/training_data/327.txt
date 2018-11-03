@@ -1,0 +1,25 @@
+content	education	Lake Forest High School Felton, DE
+content	education	September 1985 to June 1989
+meta	experience	Sales Associate/Cashier
+meta	experience	Talbots - Dover, DE
+meta	experience	August 2018 to Present
+meta	experience	greet customers, assist with apparel selection;advise of promotional sales/incentives; cashier
+meta	experience	Appeal Analyst
+meta	experience	Aetna Inc
+meta	experience	October 2007 to November 2017
+meta	experience	*work at home
+meta	experience	Provide customer service, such as limited instructions on proceeding with claims or appeals, review
+meta	experience	insurance claim forms/appeals or related documents and determine if charges are eligible for payment, Enter
+meta	experience	appeal/claims information into database systems
+meta	experience	Review insurance policy, provider contract and State legislation to determine coverage/payment using
+meta	experience	computers to enter, access, search or retrieve data
+meta	experience	Documenting/Recording Information and forwarding to Clinical experts for further review; Making
+meta	experience	Decisions and Solving Problems if no medical review of appeal is required
+meta	experience	Sign advertising/pricing, Cashier
+meta	experience	Kohls Dept Store
+meta	experience	October 2014 to March 2015
+meta	experience	Claims Processor/Service Consultant
+meta	experience	Aetna Insurance - Dover, DE
+meta	experience	January 1998 to September 2007
+meta	experience	Review and properly adjudicate claims submitted by the provider by researching database/member files for benefit coverage
+meta	experience	Handle incoming calls from the member in regards to claim payments or denials, plan benefit requirements or coverage;Follow-up calls to the member or provider to ensure issue has been resolved, Image and document faxes received from the member and/or provider

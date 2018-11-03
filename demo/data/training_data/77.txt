@@ -1,0 +1,37 @@
+content	education	Real Estate Agent
+content	education	Arizona School of Real Estate & Business
+content	education	July 2015
+content	education	General Education
+content	education	Cabrillo College
+content	education	December 2009
+meta	experience	Sales of New Homes - Open
+meta	experience	New Home Sales Counselor - KB
+meta	experience	February 2017 to Present
+meta	experience	a new community April of 2017 with 31 net sales. Earned a Silver award for closed loan retention for Q1, 2018 using the builder lender.
+meta	experience	- Greet and qualify home buyers in a professional and ethical manner.
+meta	experience	- Coordination of all aspects of the new home sales and transaction process.
+meta	experience	Sales/Realtor
+meta	experience	Bluegreen Vacation Unlimited
+meta	experience	November 2016 to January 2017
+meta	experience	July 2015 -  November 2015
+meta	experience	- Provided the customer a unique vacation ownership plan.
+meta	experience	- Sold $50,590.00 of vacation ownership in the month of December 2016.
+meta	experience	- Hired for frontline agent, quickly promoted to educate and increase (sell) points for in house owners.
+meta	experience	New Home Sales Associate
+meta	experience	Richmond American Homes Arizona Division
+meta	experience	September 2016 to November 2016
+meta	experience	- Helping first time and first move up home buyers with empathy, patience and perseverance, to achieve obtaining the home of their dreams, navigating the complexities of purchasing a new home build.
+meta	experience	- Coordination of all aspects of the new home sales and production process.
+meta	experience	New Home Sales Associate
+meta	experience	Homes by Towne
+meta	experience	July 2016 to September 2016
+meta	experience	- Greet potential home buyers; determine their needs, present features and benefits of the home.
+meta	experience	- Sold 2 Quick Move in Homes, 1 condominium and wrote one new build sale.
+meta	experience	Realtor/ Sales Assistant
+meta	experience	JWilliams Staffing Real Estate Agency
+meta	experience	May 2016 to July 2016
+meta	experience	Hired by Homes by Towne.
+meta	experience	Realtor
+meta	experience	MAX Professionals
+meta	experience	July 2015 to May 2016
+meta	experience	Buyer agent.

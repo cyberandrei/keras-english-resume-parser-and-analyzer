@@ -1,0 +1,26 @@
+content	education	Bachelor of Science in Computer Information Systems
+content	education	University of Arkansas in Monticello Monticello, AR
+content	education	January 2013 to May 2017
+content	education	High school or equivalent
+content	education	Hermitage High School
+content	education	1984 to 1987
+meta	experience	Sales Professional
+meta	experience	Fred Meyer Jewlers - Little Rock, AR
+meta	experience	June 2017 to Present
+meta	experience	Meeting sales goals every month
+meta	experience	Excellent customer service skills
+meta	experience	Owner
+meta	experience	Temple Farms
+meta	experience	January 2008 to May 2018
+meta	experience	Responsible for managing financial aspects of the farm by controlling expenses and income.
+meta	experience	Oversee and supervise staff of farm hands, established work priorities, organize work schedules, and assign duties.
+meta	experience	Manages financial operations of properties.
+meta	experience	Teller Supervisor
+meta	experience	Union Bank & Trust Company - Monticello, AR
+meta	experience	August 1999 to March 2008
+meta	experience	Provided direction and leadership to branch employees with emphasis on superior customer service skills, achieving 98 -100% of sales referral goals.
+meta	experience	Performed monthly branch reviews that routinely resulted in losses of < than .50% of monthly transaction volume.
+meta	experience	Audited all branch cash and cash items, intra- bank transfers and ATM settlement.
+meta	experience	Balanced and reconciled branch transactions daily, researched errors and discrepancies in order to minimize losses for the customer and bank.
+meta	experience	Reviewed and analyzed business and operations reports to convey relevant information to staff and department leaders for effective decision making and problem solving.
+meta	experience	Provided periodic training for staff to ensure compliance with bank and federal regulations in all retail operation.

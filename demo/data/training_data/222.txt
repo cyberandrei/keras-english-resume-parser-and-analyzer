@@ -1,0 +1,28 @@
+content	education	Business
+content	education	metropolitan state university Denver, CO
+content	education	2016
+meta	experience	Sales
+meta	experience	Rhino rack - Aurora, CO
+meta	experience	May 2013 to August 2014
+meta	experience	Responsibilities
+meta	experience	Created sales and invoices. 
+meta	experience	Skills Used
+meta	experience	Typing, customer service, organization.
+meta	experience	Associate
+meta	experience	Kohls - Brighton, CO
+meta	experience	August 2012 to December 2012
+meta	experience	Responsibilities
+meta	experience	Worked the floor to assist customers find what they where shopping for and also helped kept the store clean and organized. 
+meta	experience	Accomplishments
+meta	experience	Learned the importance of good customer service. 
+meta	experience	Skills Used
+meta	experience	Working in a fast pace environment and good customer service.
+meta	experience	Crew
+meta	experience	McDonald's - Commerce City, CO
+meta	experience	November 2010 to March 2012
+meta	experience	Responsibilities
+meta	experience	Responsible for drive thru and making sure the customers have a good experience.  
+meta	experience	Accomplishments
+meta	experience	I realized no matter what the job is, it's important to strive in every task that is presented to you. 
+meta	experience	Skills Used
+meta	experience	Working well in a fast past environment.

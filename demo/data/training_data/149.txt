@@ -1,0 +1,54 @@
+content	education	None in General Studies
+content	education	Central Baptist College Conway, AR
+content	education	August 1997 to May 1999
+content	education	Honors Diploma in College Prep
+content	education	Morrilton High School Morrilton, AR
+content	education	August 1994 to May 1997
+meta	experience	Sales Associate
+meta	experience	T-Roc
+meta	experience	June 2018 to Present
+meta	experience	Present. Sales Associate
+meta	experience	I am responsible for the sale of prepaid and post paid phones. With a focus on post paid phones for Verizon and AT&T.
+meta	experience	Sales Associate/Cashier
+meta	experience	Fred's - Beebe, AR
+meta	experience	January 2018 to May 2018
+meta	experience	Duties are to check out customers purchases, zone front end, keep register clean, greet customers as they enter the store. Put up sales tags, and stock front end on truck day.
+meta	experience	Licensed Sales and Service Agent
+meta	experience	Stephanie May State Farm Insurance - Cabot, AR
+meta	experience	October 2016 to December 2016
+meta	experience	Insurance sales and servicing. Understanding the wants and needs of insureds, interpreting insurance regulations and guidelines in a way that others can understand. File paperwork, keep records, follow ups, problem solving, excellent communications. Contact and meet with potential clients either through referrals from existing customer's or cold calls. Listening and taking detailed notes of clients wishes. Contacting customers who are behind on their bills, processing customers payments, making policy changes, making policy additions, or writing new policies for existing customers. Was bank certified therefore I opened checking accounts certificates of deposits, started the process of mortgages, and completed the entire process of auto loans. Opened and closed the office daily and completed daily bank deposit.
+meta	experience	Cashier
+meta	experience	Walmart - Clinton, AR
+meta	experience	September 2016 to October 2016
+meta	experience	Duties were to check out customers purchases, take credit card payments, and offer credit cards to customers
+meta	experience	Licensed Insurance Sales and Service Agent
+meta	experience	David Kemp State Farm Insurance - Wichita, KS
+meta	experience	March 2015 to September 2016
+meta	experience	Insurance sales and servicing. Understanding the wants and needs of insureds, interpreting
+meta	experience	insurance regulations and guidelines in a way that others can understand. File paperwork, keep records, follow ups, problem solving, excellent communications. Contact and meet with potential clients either through referrals from existing customer's or cold calls. Listening and taking detailed notes of clients wishes. Contacting customers who are behind on their bills, processing customers payments, making policy changes, making policy additions, or writing new policies for existing customers. Was bank certified therefore I opened checking accounts, certificates of deposits, started the process of mortgages, and completed the entire process of auto loans. Opened and closed the office daily and completed daily bank deposit.
+meta	experience	Quality Service Representative
+meta	experience	Olympia Incorporated - Conway, AR
+meta	experience	March 2013 to October 2013
+meta	experience	Contacted businesses to raise money for non-profit organizations.
+meta	experience	Licensed Insurance Sales and Service Agent
+meta	experience	Ancel Carlon State Farm Insurance - Morrilton, AR
+meta	experience	August 2008 to April 2010
+meta	experience	Understanding the wants and needs of insureds, interpreting
+meta	experience	insurance regulations and guidelines in a way that others can understand. File paperwork, keep records, follow ups, problem solving, excellent communications. Contact and meet with potential clients either through referrals from existing customer's or cold calls. Listening and taking detailed notes of clients wishes. Contacting customers who are behind on their bills, processing customers payments, making policy changes, making policy additions, or writing new policies for
+meta	experience	existing customers. Was bank certified therefore I opened checking accounts, certificates of deposits, started the process of mortgages, and completed the entire process of auto loans. Opened and closed the office daily and completed daily bank deposit.
+meta	experience	Team Leader/Supervisor
+meta	experience	IXT Group - Morrilton, AR
+meta	experience	May 2008 to August 2008
+meta	experience	Supervised a group of 18-20 employment. Ran daily status reports, answered employees questions and took supervisor call's.
+meta	experience	Licensed Insurance Sales and Service Agent
+meta	experience	Am Sparks State Farm Insurance - Conway, AR
+meta	experience	June 2007 to May 2008
+meta	experience	Understanding the wants and needs of insureds, interpreting
+meta	experience	insurance regulations and guidelines in a way that others can understand. File paperwork, keep records, follow ups, problem solving, excellent communications. Contact and meet with potential clients either through referrals from existing customer's or cold calls. Listening and taking detailed notes of clients wishes. Contacting customers who are behind on their bills, processing customers payments, making policy changes, making policy additions, or writing new policies for
+meta	experience	existing customers. Was bank certified therefore I opened checking accounts, certificates of deposits, started the process of mortgages, and completed the entire process of auto loans. Opened and closed the office daily and completed daily bank deposit.
+meta	experience	Licensed Insurance Sales and Service Agent
+meta	experience	Ancel Carlon State Farm Insurance - Morrilton, AR
+meta	experience	January 2005 to June 2007
+meta	experience	Understanding the wants and needs of insureds, interpreting
+meta	experience	insurance regulations and guidelines in a way that others can understand. File paperwork, keep records, follow ups, problem solving, excellent communications. Contact and meet with potential clients either through referrals from existing customer's or cold calls. Listening and taking detailed notes of clients wishes. Contacting customers who are behind on their bills, processing customers payments, making policy changes, making policy additions, or writing new policies for
+meta	experience	existing customers. Was bank certified therefore I opened checking accounts, certificates of deposits, started the process of mortgages, and completed the entire process of auto loans. Opened and closed the office daily and completed daily bank deposit.

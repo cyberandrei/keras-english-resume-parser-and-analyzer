@@ -1,0 +1,19 @@
+content	education	High school diploma
+content	education	Littleton High School Littleton, CO
+content	education	August 2016 to May 2018
+meta	experience	Sales Associate
+meta	experience	Foot Locker - Littleton, CO
+meta	experience	September 2018 to Present
+meta	experience	A customer focused sales representative
+meta	experience	Team Member
+meta	experience	Elvis Cinemas - Littleton, CO
+meta	experience	August 2018 to Present
+meta	experience	All around team support member
+meta	experience	Target Team Member
+meta	experience	Target
+meta	experience	October 2017 to December 2017
+meta	experience	Greet guests, restock/backstock, make sure isles are nice and neat
+meta	experience	Busser/Food Runner
+meta	experience	ViewHouse - Littleton, CO
+meta	experience	May 2017 to August 2017
+meta	experience	Buss tables make sure they were ready for the next guests and serve food to tables

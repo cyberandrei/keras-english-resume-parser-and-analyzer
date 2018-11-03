@@ -1,0 +1,20 @@
+content	education	Some college
+meta	experience	SALES MANAGER/TRAINER/SALES
+meta	experience	B&B RV CENTER - Anderson, CA
+meta	experience	April 2016 to October 2018
+meta	experience	(PURCHASED BY CAMPING
+meta	experience	WORLD IN APRIL 2018, STILL OPERATES AS B&B)
+meta	experience	Sales Manager - Manage sales team; develop weekly trainings; recruit and train new staff; set monthly goals; assist during sales process to train and mentor; identify coaching needs and work one-on-one; track sales staff for trends; desking and closing deals; and overcoming objections.
+meta	experience	Sales - Steps of sales process; expert knowledge of products; build value in myself, dealership and product; overcome objections; close sales; client follow-up and retention.
+meta	experience	DIGITAL ADVERTISING DIRECTOR/RETAIL SALES MANAGER/SALES
+meta	experience	EUREKA HUMBOLDT PUBLISHING - Eureka, CA
+meta	experience	October 2002 to October 2015
+meta	experience	Multi-Media Advertising Director - Hire, manage and train multi-media sales team; develop new business and manage sales cycle; stay current on ever changing digital landscape; present digital advertising options; communicate with corporate weekly/monthly to provide revenue forecasts; budget and management of four newspapers and digital advertising; set goals and hold team accountable; drive customer retention; review market trends and capture new revenues; expert knowledge of newspaper and digital products and marketing.
+meta	experience	Sales - Prospect new business; face to face sales; understand business to suggest more personalized approaches and promotions; design creative ad campaigns to generate more client sales; attend networking and community events; negotiate yearly advertising budgets; build strong professional relationships for client retention; always meets deadlines; and consistently meet or exceed goals.
+meta	experience	SALES MANAGER/FINANCE MANAGER/SALES/LOT PORTER/SERVICE
+meta	experience	ALPINE RECREATION - Morgan Hill, CA
+meta	experience	1995 to 2002
+meta	experience	General Sales Manager - Create annual dealership forecasts; hire, train and evaluate staff; weekly staff meetings/trainings; setting goals; marketing and displaying merchandise; order/acquire inventory; advertising plans and sales promotions; ensuring customer satisfaction; and audit trade-in appraisal.
+meta	experience	Finance Manager - Establish relationships with lenders; financial institutions negotiations; finalizing sales contracts; sell aftermarket products, protectants, extended service contracts; clear communication to customers, sales team and general manager; attention to detail and accuracy of information.
+meta	experience	Sales - Same as duties listed under B&B Sales position above, plus: house calls; joined camping clubs; and always learning more about the industry.
+meta	experience	Lot Porter/Service - Ensure lot and units are clean; move units on lot; set up units at shows; pre-delivery inspection and repairs; customer walk-throughs; and PDI technician.

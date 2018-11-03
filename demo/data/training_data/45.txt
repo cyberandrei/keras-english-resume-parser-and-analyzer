@@ -1,0 +1,48 @@
+content	education	B.S. in Behavioral Science in Human Development
+content	education	Athens State University Huntsville, AL
+content	education	January 2018 to December 2019
+meta	experience	Sales Consultant
+meta	experience	AT&T - Madison, AL
+meta	experience	February 2018 to Present
+meta	experience	Created and implemented marketing campaigns and sales strategies aimed at driving sales
+meta	experience	Provided continuous assessment of key markets, territories, and potential clients
+meta	experience	Addressed key client queries and resolved them in an expedited manner
+meta	experience	Acted as a liaison between multiple parties inside and outside of organization
+meta	experience	Kept track of special orders, damaged products, and buy-backs
+meta	experience	Responsible for the general promotion of the products and sold all the products of the store
+meta	experience	Handled customer queries and complaints about the products and resolved them
+meta	experience	Managed sales, maintenance, and customer service
+meta	experience	Clinical Assistant
+meta	experience	Huntsville Hospital - Huntsville, AL
+meta	experience	November 2016 to January 2018
+meta	experience	Handled the tasks of recording medications, allergies and pertinent laboratory work
+meta	experience	Assisted patients in completing health history 
+meta	experience	Handled the tasks of maintaining patients confidentiality and communicating with staff
+meta	experience	Maintained CPR certification on yearly basis and performed errands as per the instructions of supervisor
+meta	experience	Attended clinical meetings
+meta	experience	Responsible for updating situations to clinical supervisor
+meta	experience	Handled the tasks of maintaining hygiene of equipment and facilities
+meta	experience	Called maintenance for repairs and occasionally guided lower techs for day to day activities 
+meta	experience	Handled the tasks of gathering data, compiling information and preparing records for nursing staff
+meta	experience	Sorted and routed incoming mail
+meta	experience	Performed other essential tasks as required under the instructions of Clinical Assistant
+meta	experience	After School Teacher
+meta	experience	Appleton Learning - Huntsville, AL
+meta	experience	January 2014 to November 2016
+meta	experience	Developed and implemented lesson plans and daily activities focused on language arts; reading, grammar, spelling
+meta	experience	Provided individual teaching to motivate and instill enthusiasm for learning; approx. 20-25 students
+meta	experience	Led weekly enrichment activities for assigned academic group
+meta	experience	Designed individualized curricula for academically under achieving students
+meta	experience	Liaison between parents, students, and schools
+meta	experience	Developed human relations skills through interactions with parents and co-workers.
+meta	experience	Assistant Office Manager
+meta	experience	Insanity Complex - Madison, AL
+meta	experience	May 2014 to July 2016
+meta	experience	Managed schedules, organized office functions, and oversaw daily operations of office
+meta	experience	Hired, trained, and on-boarded over 53 new employees, providing initial support
+meta	experience	Implementing inventory control, and standardizing ordering procedures
+meta	experience	Implemented online system to manage data, process orders, and integrate processes
+meta	experience	Served as go-to-person regarding any administrative and operational related functions
+meta	experience	Prepared daily, weekly, and monthly reports, and updated calendar of appointments
+meta	experience	Performed basic accounting functions including cash reconciliation and payroll
+meta	experience	Answered, screened, and redirected numerous telephone calls with professionalism and efficacy

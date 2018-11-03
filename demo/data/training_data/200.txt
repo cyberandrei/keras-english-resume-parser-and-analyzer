@@ -1,0 +1,64 @@
+content	education	Master of Business Administration in Advanced Lipids and Hypertension
+content	education	Harvard University
+content	education	Bachelor of Science in Marketing in Marketing
+content	education	Southeastern Oklahoma State University
+content	education	Certification
+content	education	Southeastern Oklahoma State University
+meta	experience	Drove sales
+meta	experience	PHARMACEUTICAL SALES - Denver, CO
+meta	experience	October 2018 to Present
+meta	experience	Denver, CO (10/18 - Present)
+meta	experience	Relaunched Vascepa to Cardiologists and Primary Care physicians successfully throughout Colorado
+meta	experience	♦ Won second place in regional market share growth sales contest Q1 2018
+meta	experience	♦ Drove sales in the territory for an all-time high Q1 and twice in Q2 2018
+meta	experience	♦ Increased market share to 4% with a #1 growth rate in the district of 35% Q3 2018
+meta	experience	COACH/BUSINESS ADVISOR
+meta	experience	Association for Leadership Practitioners - Denver, CO
+meta	experience	October 2014 to Present
+meta	experience	Provide high level sales coaching and marketing consulting to organizations nationwide. Provide individual, group, and corporate workshops and training. Provide specific tactics to grow volume, improve strategic measures, mitigate risk, and heighten success rates faster.
+meta	experience	DISTRICT MANAGER
+meta	experience	Association for Leadership Practitioners - Denver, CO
+meta	experience	November 2015 to June 2016
+meta	experience	Reporting to the CEO, supported eighteen sales representatives who promote the CVProfiler Diagnostics buy and bill services to clinicians and Universities throughout Colorado.
+meta	experience	AndroGel
+meta	experience	2015 to 2015
+meta	experience	The district achieved Colorado Medicaid formulary acceptance for AndroGel
+meta	experience	♦ 2014 Regional Synthroid Liaison to marketing team providing feedback and updates
+meta	experience	♦ Increased market share from 30% to 40% over 12 months. This impact increased revenue by $68,400 per month despite 30% of the market being NDC blocked for AndroGel
+meta	experience	♦ As a part of the National Catalyst initiative, the Denver District finished #1/20 in the Nation for Market growth in 2013
+meta	experience	SENIOR DISTRICT MANAGER
+meta	experience	Abbvie Biopharmaceuticals - Denver, CO
+meta	experience	March 2013 to October 2014
+meta	experience	Promoted $23M in annual sales for AndroGel and Synthroid with 12 representatives to various specialists and primary care physicians throughout Colorado, New Mexico and Wyoming.
+meta	experience	SENIOR DISTRICT MANAGER
+meta	experience	Abbott Laboratories - Denver, CO
+meta	experience	January 2008 to March 2013
+meta	experience	Responsible for the Cholesterol franchise with $28 million dollars in annual sales in the state of Colorado. Successfully launched Simcor and Trilipix; and maintained a portfolio market shares well above the national average throughout my tenure.
+meta	experience	District Manager
+meta	experience	2013 to 2013
+meta	experience	selected from the Area to present my business plan to senior management
+meta	experience	♦ 2012 - Finished #4/36 in Summit ranking for quota achievement
+meta	experience	♦ 2010 - Summit winner. Finished the year #1/40 for sales and quota achievement in the western area
+meta	experience	♦ 2009 - District was #1 in the region with Simcor launch in market share and top 10% in the western area
+meta	experience	♦ 2008 - Ranked #1 in the region for quota attainment with all 4 products
+meta	experience	SENIOR CARDIOVASCULAR/PULMONARY SPECIALTY MANAGER
+meta	experience	P.A.C.E
+meta	experience	2008 to 2008
+meta	experience	representative development, and creative strategies
+meta	experience	KOS Pharmaceuticals - Denver, CO
+meta	experience	March 1998 to December 2007
+meta	experience	sold to Abbott) ~ Denver, CO (3/98 - 12/07)
+meta	experience	Lead territory managers in the states of CO, WY, WA, OR, UT, ID, AK, and MT. Responsible for exceeding sales and market share growth, representative development, and creative strategies.  Responsibilities also included the development and management of the National and International key opinion leaders throughout the geography.
+meta	experience	♦ 2006 - Ranked 5th in the nation out of 54 for sales growth
+meta	experience	♦ 2006 - Invited as guest trainer in DM training class
+meta	experience	♦ 2005 - Medallion award winner for finishing #3 in the nation most improved sales growth
+meta	experience	♦ 2005 - Medallion award winner for finishing #3 in the nation for total sales
+meta	experience	♦ 2003 - Ranked #1 in the region for Advicor market share as a district
+meta	experience	district manager
+meta	experience	2001 to 2001
+meta	experience	in July of 2001
+meta	experience	♦ 2000 - Finished the year in the top ten percent of the nation for Medallion club
+meta	experience	♦ 1998 - Launched Niaspan in a territory that included responsibility for cardiologists, VAs, residents, fellows, and attending physicians
+meta	experience	territory account manager covering VA hospitals and teaching institutions promoting Niaspan
+meta	experience	1998 to 2001
+meta	experience	Advicor and Mavik

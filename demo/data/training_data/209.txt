@@ -1,0 +1,7 @@
+content	education	High school or equivalent in General studies
+content	education	Mount Tabor High School Winston-Salem, NC
+content	education	August 2011 
+meta	experience	Sales
+meta	experience	Optimum readers service - Bradenton, FL
+meta	experience	January 2017 to Present
+meta	experience	Door to door sales and training

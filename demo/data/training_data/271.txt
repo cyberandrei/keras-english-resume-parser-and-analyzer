@@ -1,0 +1,12 @@
+content	education	Attending
+content	education	Adult Education
+meta	experience	Cashier/Sales Associate
+meta	experience	Wheels of CT - Newtown, CT
+meta	experience	July 2016 to Present
+meta	experience	Customer Sales
+meta	experience	Housekeeper
+meta	experience	Village Green Rehabilitation & Health Care Center - Waterbury, CT
+meta	experience	December 2015 to November 2016
+meta	experience	Care for kids provider
+meta	experience	Care for Kid
+meta	experience	2014 to September 2015

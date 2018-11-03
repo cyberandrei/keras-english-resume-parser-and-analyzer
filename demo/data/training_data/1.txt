@@ -1,0 +1,9 @@
+content	education	High School Diploma
+content	education	Lawrence County High School
+meta	experience	Sales Assistant/Customer Service/administrative assistant
+meta	experience	Magic Steel Sales - Decatur, AL
+meta	experience	November 2015 to Present
+meta	experience	I have a small leadership role. Three people work under me. It is my job to verify all material meet customer specifications and there are no defects. assisted and trained with inside sales representatives. Communicated with customers via email, telephone, fax.
+meta	experience	Assembly Line Worker
+meta	experience	Lyons HR - Decatur, AL
+meta	experience	June 2015 to December 2015

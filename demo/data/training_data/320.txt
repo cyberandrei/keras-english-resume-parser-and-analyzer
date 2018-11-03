@@ -1,0 +1,9 @@
+content	education	Business
+content	education	St. Marks Wilmington, DE
+content	education	September 1985 to June 1988
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Waterbed land - Wilm. De
+meta	experience	February 2001 to December 2014
+meta	experience	Data entry ,shipping and receiving,inventory control,answering phones, sales
+meta	experience	Retail Sales Associate

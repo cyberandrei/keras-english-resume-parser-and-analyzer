@@ -1,0 +1,35 @@
+content	education	Bachelor of Arts in planning
+content	education	Washburn University
+content	education	February 2005 to April 2006
+content	education	conjunction
+content	education	Kansas State Treasurer's Office
+content	education	2004
+meta	experience	Director of Marketing & Sales
+meta	experience	Marketing and Group Sales
+meta	experience	August 2015 to Present
+meta	experience	Customer Relationship Responsible for the development and execution of all aspects of the Marketing and Group Sales programs to drive ticket sales
+meta	experience	Management and revenue.  Create pre-season marketing and financial plans. Conduct monthly forecast of financial and attendance
+meta	experience	matrices based on trends and expected performance. Produce weekly reports and lead monthly meetings to compare sales, and attendance revenue against projections. Manage a 4-person full time sales team. Create and execute sponsorship
+meta	experience	opportunities.
+meta	experience	Project Management
+meta	experience	October 2013 to August 2015
+meta	experience	Responsible for all marketing and sales programs to drive attendance and revenue through sales of group programs, season
+meta	experience	passes and promotions.  Proactively prospect, solicit and close advance ticket sales and promotional programs.  Manage the Event Planning
+meta	experience	marketing expense budgets.  Responsible for the creation of all marketing and sales collateral. Management of the advertising
+meta	experience	campaign and schedule. Execute monthly email blasts, direct mail campaigns, social marketing content and park web content.
+meta	experience	Write and distribute press releases to the appropriate media outlets.  Stay abreast of events in the area, identify competition
+meta	experience	Evaluate & Project and recommend and implement program changes as necessary. Reporting to track attendance and revenue trends and measure success of sales and marketing strategy.
+meta	experience	Market Trends
+meta	experience	Marketing Manager
+meta	experience	Frontier City & White Water Bay
+meta	experience	February 2008 to October 2013
+meta	experience	Responsible for all public relations writing including press releases, newsletters, companywide announcements, scripts,
+meta	experience	Public Relations statements, speeches and web content. Serve as company spokesperson for local broadcast and print media. Manage social
+meta	experience	media campaigns and presence in social networking sites. Increase community awareness by park participation and partnerships within the community.  Develop and execute promotional programs in both core and outer markets that increase
+meta	experience	market and brand awareness. Create and execute internal and market promotional pieces.
+meta	experience	Marketing Specialist
+meta	experience	Comprehensive
+meta	experience	August 2006 to February 2008
+meta	experience	Responsible for the coordination, proofing and approval of all marketing requests within the creative services department.
+meta	experience	Produce weekly project status reports to all LOB managers.  Manage the bidding of all print and mail projects. Coordinate
+meta	experience	print media placement.  Manage promotional and media calendars.  Coordination of Banking Center Grand Openings.

@@ -1,0 +1,71 @@
+content	education	High School Diploma
+content	education	Grant Skill Center Sacramento Sacramento, CA
+meta	experience	Sales Manager
+meta	experience	Rent-A-Center - Sacramento, CA
+meta	experience	May 2018 to Present
+meta	experience	Assist in managing the selection, training and development of staff; ensure monthly sales quota are met.
+meta	experience	Ensure internal policies and procedures are adhered to by the team.
+meta	experience	Train sales staff, implement sales incentive programs and goals to increase employee performance.
+meta	experience	Handle and resolve escalated customer complaints and issues.
+meta	experience	Assist in overseeing the day-to-day operations and staff; monitor and prioritize workflow and schedules.
+meta	experience	Vendor Service Representative
+meta	experience	Clear Capital - Roseville, CA
+meta	experience	July 2016 to Present
+meta	experience	Outbound and inbound calls to residential appraiser.
+meta	experience	Soliciting their work and also building trusting relationships with them. Utilizing multiple computer programs. Google plays a big part in the job.
+meta	experience	Customer Service Representative
+meta	experience	Healthnet / Centene - Sacramento, CA
+meta	experience	July 2017 to January 2018
+meta	experience	Respond to customer inquiries via telephone and written correspondence in a timely and appropriate manner. 
+meta	experience	Respond to telephone or written correspondence inquiries from members and/or providers within established timeframes utilizing current reference materials and available resources 
+meta	experience	Provide assistance to members and/or providers regarding website registration and navigation 
+meta	experience	Document all activities for quality and metrics reporting through the Customer Relationship Management (CRM) application 
+meta	experience	Process written customer correspondence and provide the appropriate level of timely follow up 
+meta	experience	May coordinate member transportation and make referrals to other departments as appropriate 
+meta	experience	Maintain performance and quality standards based on established call center metrics including turn-around times 
+meta	experience	Research and identify any processing inaccuracies in claim payments and route to the appropriate site operations team for claim adjustment 
+meta	experience	Identify any trends related to incoming or outgoing calls that may provide policy or process improvements to support excellent customer service
+meta	experience	Phone Banker
+meta	experience	Wells Fargo - Sacramento, CA
+meta	experience	June 2015 to October 2015
+meta	experience	Responsibilities
+meta	experience	Responsibilities 
+meta	experience	Taking inbound calls in a high call volume call center. 
+meta	experience	Servicing customers needs pertaining lo bank accounts, credit cards, loans etc.  
+meta	experience	showing empathy, reassuring customer needs would be taken care of. 
+meta	experience	Using multiple computer programs toggling between. 
+meta	experience	Making sales referrals  
+meta	experience	Meeting a daily sales quota 
+meta	experience	Skills Used
+meta	experience	Multitasking, toggling between 10 or more computer applications, customer service, soft phone computer program
+meta	experience	Customer Service Representative
+meta	experience	Pacific Gas & Electric - Sacramento, CA
+meta	experience	September 2013 to March 2014
+meta	experience	Maintained control of phone conversations, moving the customers politely along while maintaining a professional and pleasant level of customer service.
+meta	experience	 Answered inbound calls in fast-paced environment. Helped customers with billing inquiries and analyzing their bills and usage of natural gas and electricity
+meta	experience	 Resolved product or service problems by clarifying the customer complaints; determining the cause of the problem; selected and explained the best solution to solve the problem; expedited corrections or adjustments; followed up to ensure resolution.
+meta	experience	  Demonstrated the ability to find information in a quick and efficient manner.
+meta	experience	Followed call center script, in some cases word-for-word, and made suggestions on ways to save energy
+meta	experience	Customer Service Representative
+meta	experience	ADVANCED CALL CENTER TECHNOLOGIES,LLC - Sacramento, CA
+meta	experience	August 2012 to February 2013
+meta	experience	Operated communication systems, such as telephones, switchboards, and worked between multiple computer screens with good technical skills
+meta	experience	 Greeted callers, screened and transferred calls in a professional polite manner, processed orders, forms and application.
+meta	experience	 Accurately processed purchases, transactions, forms and applications while following all policies and procedures effectively.
+meta	experience	 Handled a high volume of inbound calls within a dynamic environment and maintained effective results in a quota driven
+meta	experience	workplace
+meta	experience	  Provided an excellent level of customer service while asking discovery questions in order to off the right up sale
+meta	experience	Sales Associate
+meta	experience	Target - Sacramento, CA
+meta	experience	October 2011 to September 2012
+meta	experience	Highly skilled in greeting guests with a gracious smile and offering them to help with their shopping needs
+meta	experience	 Proven ability to suggest, choose, and help locate products based on guest needs and desires        
+meta	experience	 Provided great customer service while working cash register and also working as store operator.
+meta	experience	Provided an excellent level of customer service both internally and externally
+meta	experience	Sales Associate
+meta	experience	Citi Trends - Sacramento, CA
+meta	experience	July 2010 to January 2011
+meta	experience	Highly skilled in greeting guests with a gracious smile and offering them to help with their shopping needs
+meta	experience	Proven ability to suggest, choose, and help locate products based on guest needs and desires
+meta	experience	 Provided great customer service while working cash register and also working as store operator.
+meta	experience	Provided an excellent level of customer service both internally and externally

@@ -1,0 +1,27 @@
+content	education	Sacramento City College Sacramento, CA
+content	education	High school diploma in General education
+content	education	Luther Burbank High School Sacramento, CA
+meta	experience	Sales Consultant
+meta	experience	Maita Chevrolet - Elk Grove, CA
+meta	experience	March 2018 to Present
+meta	experience	Sell new and used auto, Customer service, Follow up, Answer sales calls.
+meta	experience	OTR Truck driver
+meta	experience	NTL Inc - Elk Grove, CA
+meta	experience	June 2013 to March 2018
+meta	experience	Pick and drop loads as directed, Secure loads, Asist on unload if paid, Count freight, Maintain truck, Pre Trip inspections, Maintain hours of service on Elog.
+meta	experience	OTR Truck driver
+meta	experience	Cargo Transit - Sacramento, CA
+meta	experience	August 2010 to June 2013
+meta	experience	Pick and drop loads as directed, secure loads, Asist on unload if paid, Count freight, Maintain truck, Pre trip inspection, Maintain HOS log.
+meta	experience	Sales & Finance Manager
+meta	experience	A-1 Auto Wholesale - Sacramento, CA
+meta	experience	August 2008 to August 2010
+meta	experience	Sell & wholesale of used Toyota & Lexus. Follow up with clients, Monitor funding from lenders and business accounts, Provide customer service as required after and before sale, Package deals for lenders, Sell aftermarket product.
+meta	experience	Sales & Finance Manager
+meta	experience	Daewoo of Sacramento - Sacramento, CA
+meta	experience	September 1999 to August 2010
+meta	experience	Sell new and used vehicle, Monitor funding of sold units, Train sales and finance manager, Package deals, Desk deals, Close deals.
+meta	experience	Private Security Supervisor
+meta	experience	Victory Security Patrol - Sacramento, CA
+meta	experience	June 1995 to August 1999
+meta	experience	Check on sites contracted with, monitor employees, and provide safety training to staff on patrol, Daily activity report and incident report filling.

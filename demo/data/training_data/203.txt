@@ -1,0 +1,20 @@
+content	education	B.A. in Industrial Communications in Industrial Communications
+content	education	Metropolitan State College Denver, CO
+content	education	1981
+content	education	Sciences
+content	education	Brigham Young University Provo, UT
+content	education	1974 to 1976
+meta	experience	Environmental Industry, Technical Sales
+meta	experience	Sales Management & Marketing
+meta	experience	1990 to 1998
+meta	experience	• Managed a portfolio of energy products for the last fifteen years, requiring marketing/sales planning, strategy & forecasting, full P&L responsibility, promotions, purchasing, sales training, inventory management, back-office processes, and operational processes. Exceeded goals all fifteen years.
+meta	experience	• Authored and conducted sales training workshops for non-sales staff and sales staff in several industries.  Resulted in expanded and more effective sales organizations.
+meta	experience	• Established regional marketing/sales plans, set annual sales goals, provided monthly sales forecasts, established budgets, and hired and trained many new sales persons and manufacturer reps. Effective results in even the most challenging markets.
+meta	experience	• Successfully managed sales people for over twelve years in the Petroleum, Environmental Engineering, and Steel Industries.  Had responsibility for as many as twelve persons in a sales organization at one time producing successful sales results in each industry.
+meta	experience	• Sold technical products and services throughout North America, to a wide-variety of customers in the Utility, Petroleum, Construction, Environmental, Manufacturing, Paper & Pulp, and Mining industries. Widened my knowledge and contact base within these North American markets.
+meta	experience	• Completed many workshops on Sales Management, Tactical Selling, Marketing Strategies, Program Management, Energy Management, and Time Management.  Continuing education in each of these areas has greatly increased my knowledge and sharpened my skills.  
+meta	experience	• Designed and conducted many sales presentations and product information seminars for a wide variety of audiences.  Expertise in presenting technical information to non-technical audiences.
+meta	experience	• Start up of my own geophysical services business in 1986.  Raised start-up capital, bought equipment, managed all operations, including sales and marketing activities. Strong profit position within 6 months.  Debt-free in 12 months.
+meta	experience	Petroleum Industry, Technical Sales
+meta	experience	Sales Management & Marketing
+meta	experience	1979 to 1989

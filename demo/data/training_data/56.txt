@@ -1,0 +1,24 @@
+content	education	Three Rivers High School
+content	education	2016
+meta	experience	Wireless Sales Associate
+meta	experience	Mosaic Sales Solutions - Paw Paw, MI
+meta	experience	March 2018 to June 2018
+meta	experience	Pushed boost mobiles wireless sales by giving customers knwledge about the serivce
+meta	experience	Sales Associate
+meta	experience	Stage Stores - Three Rivers, MI
+meta	experience	January 2018 to June 2018
+meta	experience	Sales Associate for Peebles, In charge of mens department
+meta	experience	Machine Operator
+meta	experience	American Metal Fabricators - Three Rivers, MI
+meta	experience	August 2017 to February 2018
+meta	experience	Laser machine operatior included sanding and measuring
+meta	experience	Precision Wire Forms
+meta	experience	 - Three Rivers, MI
+meta	experience	April 2017 to July 2017
+meta	experience	Sorter
+meta	experience	Pioneer - Constantine, MI
+meta	experience	September 2016 to July 2017
+meta	experience	Team Member
+meta	experience	KFC - Three Rivers, MI
+meta	experience	July 2015 to November 2016
+meta	experience	My job including tending the buffet and being front and drive thru cashier, I also was the after hours cleanup crew.

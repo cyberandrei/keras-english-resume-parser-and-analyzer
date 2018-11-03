@@ -1,0 +1,9 @@
+content	education	Diploma
+content	education	Valley High School Sacramento, CA
+meta	experience	Sales
+meta	experience	Oasis Pure Water and Ice - Elk Grove, CA
+meta	experience	March 2016 to Present
+meta	experience	Company Name / Best Buy Mobile  9131   W   Stockton   Blvd, Elk   Grove, Ca   95758-8051
+meta	experience	Company Name / Oasis Pure Water and Ice 5109 Laguna Blvd unit 4 95758
+meta	experience	Company Name / FedEx 8200 Elder Creek Rd, Sacramento, CA 95824
+meta	experience	Company Name / Foot   Lockers   Retail   Sales   Arden   Fair, 1689   Arden   Way   #2090, Sacramento, Ca   95815 In- Home Care Support Service November 2013 - Present •Sacramento Bee NewsPaper Bundler August 2012- October 2012 2025   Yarnell   Way   Elk   Grove   Ca, 95758

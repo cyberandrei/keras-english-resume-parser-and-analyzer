@@ -1,0 +1,27 @@
+content	education	High school or equivalent
+content	education	Sweet Home High School Amherst, NY
+content	education	2005 to 2009
+meta	experience	Outbound Sales Representative
+meta	experience	Premier Energy Sales - Tarpon Springs, FL
+meta	experience	June 2018 to July 2018
+meta	experience	Make outbound phone calls and persuade them to choose the company I'm representing as their energy supplier.
+meta	experience	Inbound Sales Agent/Customer service representative
+meta	experience	The Results Companies - Phoenix, AZ
+meta	experience	June 2017 to September 2017
+meta	experience	I assisted Comcast customers with their needs and sold them better or new services. Also sold Xfinity home security systems.
+meta	experience	Outbound Sales Representative/Customer service
+meta	experience	Associated Supply Company - Phoenix, AZ
+meta	experience	January 2017 to May 2017
+meta	experience	I sold ink and toner to business owners. Within a few weeks I was one of their top 3 sales reps and even was able to close my own deals and train new employees within a week or two.
+meta	experience	Appointment Setter/Customer Service
+meta	experience	Eschelon Merchant Services - Phoenix, AZ
+meta	experience	October 2016 to January 2017
+meta	experience	I called and set appointments with business owners to meet with the local sales representative in their area. Also entered data about the business and it's owner into the system.
+meta	experience	Outbound Sales Representative
+meta	experience	Emperion - Phoenix, AZ
+meta	experience	July 2016 to October 2016
+meta	experience	I sold Directv/at&t working through a third party company.
+meta	experience	Sales Rep/Customer Service
+meta	experience	Iowa Steaks - Akron, OH
+meta	experience	January 2012 to July 2016
+meta	experience	Door to door sales. Selling meat.

@@ -1,0 +1,76 @@
+content	education	Bachelor of Arts in History
+content	education	Temple University Philadelphia, PA
+meta	experience	Director of Sales
+meta	experience	Hulbnrok Sales, LLC - West Hartford, CT
+meta	experience	2015 to Present
+meta	experience	US-based sales agency representing Italian textile manufacturers in the cycling and sports apparel industries, as well as product management and brand consultation. 
+meta	experience	Brand portfolio includes:
+meta	experience	Dual Press (Dr. Pad) 
+meta	experience	Manifattura Effe Pi
+meta	experience	MAS Italia
+meta	experience	M.A.R.C Trading
+meta	experience	WindTex Europe
+meta	experience	Piave Maitex
+meta	experience	Marketing Manager (Contractor)
+meta	experience	Kermesse Sport
+meta	experience	2012 to Present
+meta	experience	Endurance sports event production company based in Bucks County, PA.
+meta	experience	Duties include:
+meta	experience	-Sports event planning, budgeting, and event execution
+meta	experience	-Social media strategy
+meta	experience	-Municipal and regional partner liaison
+meta	experience	-Sponsorship acquisition and cultivation
+meta	experience	-Event operations and staff management
+meta	experience	www.kermessesport.com
+meta	experience	National Sales Manager
+meta	experience	Verge Sport Ltd/Sommerville Sports - Brooklyn, NY
+meta	experience	2012 to 2015
+meta	experience	Custom cycling apparel company based in Brooklyn, NY. My official role at Sommerville was International Sales Manager, overseeing sales operations in the North American and Australian markets, but also included product management, marketing strategy, and operations management. We grew from a kitchen table start-up to a regional leader in our industry, later selling our company to a competitor (Verge Sport Ltd) in 2015.
+meta	experience	Duties included:
+meta	experience	-Creation and implementation of annual sales goals
+meta	experience	-Creation and implementation of marketing strategy
+meta	experience	-Creation and implementation of sales tools for outside sales team
+meta	experience	-Hiring, training, and management of inside and outside sales teams
+meta	experience	-Regular travel to Asia to meet with manufacturing partners
+meta	experience	-Constant involvement in product management, including assisting in design and roll-out of all new products
+meta	experience	-Brand strategy planning and implementation
+meta	experience	-Social media strategy and implementation
+meta	experience	-Trade and consumer show staffing and management
+meta	experience	-Regular regional, national, and international travel, either for trade events or sales meetings
+meta	experience	Following the sale of Sommerville Sports, I remained through the first year of the transition in this role. The expanded role included the following duties:
+meta	experience	-Management of outside sales team
+meta	experience	-Management of annual sales budget, including setting and managing monthly metrics for all sales team members
+meta	experience	-Coordination with inside sales team for a constant positive customer experience
+meta	experience	-Management of marketing budget per sales territory
+meta	experience	-Management of special marketing initiatives, including customer experience demos and retail sales training
+meta	experience	-Creation and implementation of sales training tools
+meta	experience	Business Development Director
+meta	experience	Family Dermatology - Philadelphia, PA
+meta	experience	2008 to 2012
+meta	experience	During my employment at Family Dermatology I helped grow the company from a 2-state 15+ location dermatology practice to a multi-state operation with over 60 offices in 9 states throughout the USA (by January 2012). Duties included data analysis, practice acquisition management, provider relations management, and staff transition. The company has since downsized and the management that existed during my tenure split into another practice group, still growing and still very successful.
+meta	experience	Duties included:
+meta	experience	-Research into growth markets for expanding practice
+meta	experience	-Lead interface with physicians during entire acquisition process, from pitch to turnover
+meta	experience	-Single point of contact for all practice acquisition transition team members, including HR, staffing, medical training teams, billing, and physicians
+meta	experience	-Local and national marketing lead
+meta	experience	-Physician relationship management
+meta	experience	-Regular travel throughout all 9 states to oversee physician and patient satisfaction
+meta	experience	Director of Operations
+meta	experience	Cadence Cycling and Multisport Center - New York, NY
+meta	experience	2006 to 2008
+meta	experience	Hired in December 2006 to assist in overseeing the construction/renovation of 11,000 sq ft retail location in TriBeCa. Staffed the location with retail specialists and eventually accepted a promotion from Retail Manager to Director of Operations, overseeing operations for all retail, mechanical service, cafe, and coaching business units for the Philadelphia-based company. The NYC location was closed several years ago and the company was subsequently sold by the founders to a group of employees and still thrives in Philadelphia's Manayunk neighborhood.
+meta	experience	Duties included:
+meta	experience	-Assist in construction communication with builder's representative, working as liaison between owners, construction management, and staff
+meta	experience	-On-the-ground employee during building renovation through store opening (6 month process)
+meta	experience	-Assisted buying team in product selection to meet local market demand
+meta	experience	-Staff hiring and training, including retail, cafe, and coaching staff
+meta	experience	-Management of cafe operations
+meta	experience	-P&L review
+meta	experience	-Local marketing initiative lead
+meta	experience	-Local event lead
+meta	experience	-Sponsorship management and strategy lead
+meta	experience	-Building management communication
+meta	experience	Store Manager
+meta	experience	Eastern Mountain Sports - Marlton, NJ
+meta	experience	2005 to 2007
+meta	experience	Managed corporate retail store outfitting outdoor adventure customers. Responsible for hiring/management of staff, forecasts, merchandising, promotion and events.

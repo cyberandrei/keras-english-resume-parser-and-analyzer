@@ -1,0 +1,6 @@
+content	education	High school or equivalent in Basic
+content	education	Abundant Life Little Rock, AR
+content	education	January 2000 to May 2002
+meta	experience	Sales Associate
+meta	experience	McLarty Automotive Group - Little Rock, AR
+meta	experience	Automotive Sales

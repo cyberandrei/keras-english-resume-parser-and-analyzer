@@ -1,0 +1,25 @@
+content	education	High school or equivalent
+meta	experience	Inside/Outside sales/Management
+meta	experience	Moutainside Sales, LLC
+meta	experience	2012 to 2018
+meta	experience	Experienced and versatile in carpentry and woodworking with background in residential construction and remodeling to include managing trim crews, scheduling installation for  railings, trim, windows, doors and hardware. In-depth knowledge of construction process from material selection, techniques, tools and equipment to quality assurance, cost control, and safety. Accurately read blueprints, project plans, and specifications; determine material needs, estimate costs, and prioritize tasks to minimize production delays. Proven expertise in project / team supervision; excel at communicating with clients, architects, and subcontractors to deliver results within budget and stated requirements.
+meta	experience	History:
+meta	experience	Moutainside Sales, LLC -2012-2018-Present
+meta	experience	• Owned and Operated Vending Company
+meta	experience	• Inside/Outside sales
+meta	experience	• Product ordering/billing
+meta	experience	• Customer service: filling machines, insuring quality of food
+meta	experience	• Supervising employees
+meta	experience	• Machine Repair, Placement and Removal
+meta	experience	Inside and outside sales
+meta	experience	dba TNT Sales LLC
+meta	experience	2002 to 2012
+meta	experience	• Owned and operated residential door, hardware, trim installation company
+meta	experience	• Managed several crews - schedules, pay and qualifications
+meta	experience	• Ordered, tracked and billed all materials for jobsites
+meta	experience	• Inside and outside sales
+meta	experience	Burton Lumber
+meta	experience	1996 to 2002
+meta	experience	• Managed several installation crews - schedules, pay and qualifications
+meta	experience	• Ordered, tracked and billed all materials and labor for jobsites
+meta	experience	• Bid /estimate all jobs for finish trim and hardware, windows

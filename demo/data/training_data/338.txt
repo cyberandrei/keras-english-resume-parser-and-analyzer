@@ -1,0 +1,27 @@
+content	education	Dawn Career Inst it ut e Inc
+content	education	November 2014
+meta	experience	counter sales
+meta	experience	Jcpenney
+meta	experience	February 2017 to Present
+meta	experience	02/2017 - Present Vet erinary R ecept ionist Brandywine Valley SPCA
+meta	experience	Responsibilities include scheduling appointments, answering the telephone, setting up new clients and patients,
+meta	experience	preparation and maintenance of medical records, admitting and discharging patients, filling some prescriptions, over the counter sales, mailings, computer operation, financial transactions, filing, and front office and reception
+meta	experience	area maintenance.
+meta	experience	Assist ant Manager
+meta	experience	Hair Zone
+meta	experience	March 2016 to October 2016
+meta	experience	Ensuring company policies are followed.
+meta	experience	Optimizing profits by controlling costs.
+meta	experience	Hiring, training and developing new employees.
+meta	experience	Resolving customer issues to their overall satisfaction.
+meta	experience	Maintaining an overall management style that follows company best practices.
+meta	experience	Providing leadership and direction to all employees.
+meta	experience	Sales associat e
+meta	experience	J CPenney
+meta	experience	November 2014 to January 2015
+meta	experience	Greeting customers.
+meta	experience	Operating cash registers.
+meta	experience	Increasing in store sales.
+meta	experience	Maintaining sales floor appearance.
+meta	experience	Cross-selling products.
+meta	experience	Directing customers to merchandise.

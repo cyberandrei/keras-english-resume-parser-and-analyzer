@@ -1,0 +1,48 @@
+content	education	Bachelor of Science in Electrical Engineering
+content	education	Arizona State University Tempe, AZ
+content	education	May 2007
+content	education	Bachelor of Science in Interpersonal Communication
+content	education	Central Michigan University Mount Pleasant, MI
+content	education	December 1990
+meta	experience	Technical Sales Engineer
+meta	experience	Zeus Sales Division (Aerospace and Defense) - Phoenix, AZ
+meta	experience	October 2012 to Present
+meta	experience	Responsible for total customer interaction in key military, aerospace, and defense accounts across all facets of support: design engineering, executive management, and long-term direction for engineering strategy.
+meta	experience	◦ Successfully managing multimillion-dollar revenue accounts including focus on direct and indirect business at two of the largest US based defense contractors in the world.
+meta	experience	◦ Design-in activity in my accounts has grown by 18% year on year while establishing and expanding relationships with many top semiconductor and passive electromechanical manufacturers.
+meta	experience	◦ Coordinating a plan to optimize revenue and program assurance with continuity of supply on End of Life devices.  Potential to increase top line revenue goal by 30% year on year.
+meta	experience	◦ Developing new engineering and technical presentations that will be rolled out to all Arrow Electronic branches as part of a new corporate library/training program.
+meta	experience	Recognition
+meta	experience	◦ 2015 President's Club Winner (Technical Sales Engineer - Cat IV Category).
+meta	experience	Product Marketing Engineer
+meta	experience	ON Semiconductor - Phoenix, AZ
+meta	experience	June 2011 to August 2012
+meta	experience	Led global pricing strategy and pricing thresholds for $100 million AC/DC Power Conversion Division.
+meta	experience	◦ Created in-depth competitor pricing analysis for product engineering teams, driving cost reduction initiatives with manufacturing, and new product development strategies.
+meta	experience	◦ Developed bottoms up, unconstrained demand forecasts for Sales and Operations Planning.  Insured future capacity requirements were met and capital investments were initiated ahead of demand.
+meta	experience	◦ Drove facility transfer timing, sample and qualification metrics for closure of a major Fab in Japan.  Partnered closely with Quality and Sales, which required product transfers for all top tier customers.  Developed effective bridge strategies that comprehended customer requirements and minimized internal inventory carrying costs.
+meta	experience	Supply Chain Planning Manager
+meta	experience	ON Semiconductor - Phoenix, AZ
+meta	experience	December 2007 to June 2011
+meta	experience	Managed supply chain operations for $120 million AC/DC Division including both front and back end manufacturing.  Matrix and functional leadership across business unit, global supply chain, global manufacturing, and customer service.
+meta	experience	◦ Base KPI's around revenue and margin maximization, inventory management, lead-time, asset utilization, and service goals such as on time delivery, days of delinquency and reschedules.
+meta	experience	◦ Drove 25% revenue growth with a 19% reduction in days of supply while maintaining 97.5% factory utilization and 95% OTD.
+meta	experience	◦ Owned all global customer escalations.  Allocation strategies developed for up to 40% of the business.    Comprehended customer tiering while balancing corporate and the business unit strategic customers, manufacturing capability and capacity expansion timelines.
+meta	experience	◦ Assessed tradeoffs between capital investment and inventory "pre-build" strategies/capital avoidance.
+meta	experience	Recognition
+meta	experience	◦ Certificate of Recognition for Operational Excellence in Global Supply Chain.
+meta	experience	◦ Service Excellence Award for support of America Sales and Key Customers.
+meta	experience	Technical Director
+meta	experience	National Clay Pipe Institute - Phoenix, AZ
+meta	experience	July 2007 to December 2007
+meta	experience	Influenced purchasing and contract decisions regarding municipal and civil waste water management.
+meta	experience	◦ Prepared and managed a budget to maintain Phoenix operating and marketing expenses.  Cut budget by 15% while increasing market penetration in the rural Phoenix area.
+meta	experience	◦ Developed existing business and increased revenue while broadening new customer base by 25%.
+meta	experience	Custom Sales Engineer
+meta	experience	DataCal Enterprises - Gilbert, AZ
+meta	experience	January 1993 to January 2007
+meta	experience	Actively expanded and maintained DataCal's largest U.S. Corporate and government accounts.  Year on year growth was 12% on average over 10 years.
+meta	experience	◦ Designed and implemented new products and product strategies for our Fortune 500 customer base.
+meta	experience	◦ Consistently rated in the highest technical sales bracket for exceeding sales forecasts and profit margins with a peak of 55% GPM.
+meta	experience	◦ Formed partnerships with retail and distribution channels to promote and sell software products.
+meta	experience	◦ Budgeted and managed all expenses to position DataCal's software in the most aggressive markets.

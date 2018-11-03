@@ -1,0 +1,9 @@
+content	education	High School Diploma
+meta	experience	Assembly
+meta	experience	SteelCase
+meta	experience	May 2018 to May 2018
+meta	experience	I was making drawers for the hospital
+meta	experience	Assembly
+meta	experience	General Electric - Decatur, AL
+meta	experience	February 2018 to May 2018
+meta	experience	Making copper for the back of the refridgerators.

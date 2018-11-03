@@ -1,0 +1,13 @@
+content	education	High school or equivalent
+meta	experience	Sales Consultant
+meta	experience	Autosource Motors - new jersey
+meta	experience	March 2013 to November 2015
+meta	experience	taking of inventory, sales, negotiating prices
+meta	experience	Walmart Stocker
+meta	experience	walmart supercenter - Vineland, NJ
+meta	experience	February 2011 to March 2013
+meta	experience	stocking bins, end tables, display cases shelving and inventory of products
+meta	experience	Assistant Store Manager
+meta	experience	McDonald's - Vineland, NJ
+meta	experience	April 2006 to January 2011
+meta	experience	setting of schedules , taking inventory , overseeing of shift supervisors

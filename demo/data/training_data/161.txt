@@ -1,0 +1,13 @@
+content	education	Some college
+meta	experience	Operations Analyst - Team Lead
+meta	experience	USI Insurance Services - Rancho Cordova, CA
+meta	experience	November 2010 to Present
+meta	experience	California State Health Insurance License.
+meta	experience	Database construction and maintenance for all reporting aspects.
+meta	experience	Ad Hoc reporting as required by Account Managers/Managing Brokers for selling points and presentation.
+meta	experience	Data Validation of incoming records in order to upload to proprietary system.
+meta	experience	Establish relationships with client IT teams to streamline processes.
+meta	experience	Automate internal processes in order to improve efficiency.
+meta	experience	Maintain strong relationships with clients in order to provide the best service.
+meta	experience	Loan Operations Specialist
+meta	experience	September 2007 to November 2010

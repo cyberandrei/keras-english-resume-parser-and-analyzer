@@ -1,0 +1,17 @@
+content	education	Some college
+meta	experience	Sales Representative
+meta	experience	Sears Holdings - Baltimore, MD
+meta	experience	July 2018 to August 2018
+meta	experience	outside sales
+meta	experience	Marketer/Appointment Setter
+meta	experience	PJ Fitzpatrick, Inc. - New Castle, DE
+meta	experience	October 2015 to July 2018
+meta	experience	I made in-home  appointments for sales reps at home shows, fairs, and festivals.
+meta	experience	Marketer/Appointment Setter
+meta	experience	Five Star Home Foods, Inc. and their co. Good Neighbor Greetings, Inc. - King of Prussia, PA
+meta	experience	August 2007 to April 2016
+meta	experience	I have worked home shows, fairs, festivals etc. making appointments for in-home sales representatives.  This work is done for Five Star.  For Good Neighbor Greetings, I was a Marketing Director.
+meta	experience	Sales Manager and Trainer
+meta	experience	American Frozen Foods, Inc. - Milford, CT
+meta	experience	September 1990 to July 2007
+meta	experience	I had many different positions with AFF during the long time that I was employed there.  Beginning as an in home Sales Rep and Sales Administrative Manager,   I worked my way up to everything from a Reorder Sales Trainer to a Regional Vice President of Sales.

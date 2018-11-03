@@ -1,0 +1,52 @@
+content	education	Some college
+meta	experience	Division Sales Director
+meta	experience	Heaven Hill Sales Co - Louisville, KY
+meta	experience	October 2015 to Present
+meta	experience	¬ Coordinate the merging of Deep Eddy Vodka within Heaven Hill Sales Co; tasked with rebuilding sales structure of 17 employees
+meta	experience	¬ Responsible for the development & implementation of Division’s Sales, Marketing & Finance plan
+meta	experience	¬ Create & implement regional business plan that delivers the company’s strategic imperatives
+meta	experience	¬ Actively managing 10 distributors performance & building strong lines of communication with Sr. levels of their organization
+meta	experience	¬ Accountable to deliver a division P&L of $15MM on a 210M case depletions
+meta	experience	Executive Vice President & General Manager
+meta	experience	Young's Market Company - Tustin, CA
+meta	experience	February 2011 to February 2015
+meta	experience	¬ Led an organization of 450 employees
+meta	experience	¬ Orchestrated the complete overhaul of the companies post I-1183 route to market 
+meta	experience	¬ Spearheaded vision & culture, created on-boarding, training, mentoring & succession programs
+meta	experience	¬ Managed annual depletions of 5.2MM case depletions, $500MM in revenue & 45% market share
+meta	experience	¬ Established collaborative dialogue with stakeholders - 300 suppliers, chain customers, shared service partner, WRA & WSLCB
+meta	experience	¬ Tasked with building lasting relationships with the senior leadership teams of some of the industry’s largest suppliers
+meta	experience	Business Unit Director
+meta	experience	Pernod Ricard USA - New York, NY
+meta	experience	June 2008 to January 2011
+meta	experience	¬ Accountable to deliver a regional P&L of $55MM; 750M case depletions
+meta	experience	¬ Responsible for development & implementation of the region’s Sales, Marketing & Finance strategy
+meta	experience	¬ Created & implemented regional business plan that delivers Pernod Ricard’s core imperatives
+meta	experience	¬ Actively managed 23 employees & 7 distributors performance and cultivated authentic partnership relationships
+meta	experience	¬ Negotiated market level depletion & presence KPI’s
+meta	experience	¬ Region growth rate soared from 10th to 2nd out of 14 sales regions
+meta	experience	¬ Ranked “Exceeds Expectations” on all six performance evaluations
+meta	experience	Regional Manager
+meta	experience	Pacific Northwest
+meta	experience	January 2006 to June 2008
+meta	experience	¬ Accountable to deliver a regional P&L of $34MM; 550M case depletions
+meta	experience	¬ Cultivated & implemented go to market strategy “ACE” with NW Region liquor boards, brokers & trade channels
+meta	experience	¬ Created & administered a formal business plan including market specific strategies to help drive portfolio presence
+meta	experience	¬ Negotiated market level depletion & presence targets
+meta	experience	¬ Outperformed the industry, gained .4% share; placed 1st or 2nd in industry market share gains in each of the 7 states
+meta	experience	¬ NW Region growth rates ranked 1st out of Pernod Ricard’s 14 regions in FY06, FY07 & FY08
+meta	experience	Territory Manager - Washington
+meta	experience	Allied Domecq Spirits & Wine
+meta	experience	January 2003 to January 2006
+meta	experience	¬ Directed “First Choice” strategy with the Washington Liquor Control Board, broker & all trade channels
+meta	experience	¬ Increased market share by +1.3% over a (3) year period (8.8%–10.1%); 360M case depletions
+meta	experience	¬ Tasked with the development of broker standardization & best practices guidelines for North American leadership team
+meta	experience	¬ Awarded 2004 Territory Manager of the Year; ranked in top 10% of all employees on all performance evaluations
+meta	experience	Sales Manager - Washington
+meta	experience	Young's Market Company - Tustin, CA
+meta	experience	August 1993 to December 2002
+meta	experience	¬ Responsible for the hiring, development & motivation of 20 sales people & supervisors
+meta	experience	¬ Negotiated, coordinated & executed all programming across all trade channels for 40+ supplier partners
+meta	experience	Sales Representative - Seattle
+meta	experience	K&L Distributors/Anheuser Busch - Renton, WA
+meta	experience	April 1990 to August 1993

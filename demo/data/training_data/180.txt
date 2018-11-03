@@ -1,0 +1,33 @@
+content	education	place
+content	education	Dale Carnegie Salesmanship
+content	education	2008
+content	education	Business Management
+content	education	West Valley College
+content	education	1988 to 1990
+meta	experience	Sales Manager
+meta	experience	The Appropriate Connections Inc
+meta	experience	February 2017 to Present
+meta	experience	Re-defining sales processes, Hiring, developing a sales team, assigning territories, budgets, sales goals, maintaining existing accounts, and referral business.
+meta	experience	Operations Consultant
+meta	experience	The Appropriate Connections Inc - Gilroy, CA
+meta	experience	October 2016 to Present
+meta	experience	Working in a Consulting capacity, helping the company with their Internal and Field operations, creating Job Descriptions, assessing their employee's talents, enabling cross training, developing policies and procedures for the custom installation department, reconciling large projects to determine profitability.
+meta	experience	Project Manager
+meta	experience	Magnolia Audio Video - Roseville, CA
+meta	experience	July 2012 to 2016
+meta	experience	Responsible for achieving financial budgets and supports the District Service Manager in achieving financial budgets and goals for the custom installation market. Build tools and processes to improve the efficiency of the Custom Installation operation by improving turn-around time, lowering costs, improving customer satisfaction. Determine scopes, contract with customers, secure and assign installation and subcontractor resources, monitor/communicate progress, escalate issues, manage quality, and control budgets.
+meta	experience	Account Manager
+meta	experience	Long Beach Convention Center
+meta	experience	March 2011 to March 2012
+meta	experience	Managed existing client relationships, by making sure project requirements were well understood and communicated between the management team, the engineering team and the client.
+meta	experience	Expanded business opportunities and managed client relations.
+meta	experience	Reviewed department efficiencies, aligned with management and accounting to make sure we were on budget and profitable.
+meta	experience	Supported my staff and our clients in all circumstances and did whatever it took to ensure the customer was completely satisfied.
+meta	experience	Owner
+meta	experience	Residential Systems Inc - Granite Bay, CA
+meta	experience	February 2002 to July 2010
+meta	experience	Founded an Audio Video Integration firm in 2002. Secured several Local Custom Builders, Spec Home Builders, Designers and Architects. Worked mostly as an independent consultant and system designer. Sub-contracted most installation and programming labor. Closed operations after 7 years.
+meta	experience	Owner
+meta	experience	Los Gatos Home Theater Inc - Los Gatos, CA
+meta	experience	February 1994 to July 2001
+meta	experience	Founded an Audio Video Integration firm in 1994. Grew the business consistently over a 6-year period to over 2.8 million in annual sales with 8 employees. Featured in many magazines for our design and innovation. Sold to an IBM spin-off company (Home Director) in 2000. Worked with the new company for 1 year to ensure a smooth transition.

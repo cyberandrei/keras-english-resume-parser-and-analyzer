@@ -1,0 +1,26 @@
+content	education	Bachelor of Science in Pharmacy
+content	education	University of Colorado Boulder, CO
+content	education	1981
+meta	experience	Sales
+meta	experience	Avon, Ebay, Etsy - Parker, CO
+meta	experience	June 1996 to Present
+meta	experience	• Dedicated to continuously improving sales abilities and product knowledge
+meta	experience	• Learned referenced and applied product knowledge information
+meta	experience	• Replenished supplies, bags and other materials
+meta	experience	Registered Pharmacist
+meta	experience	King Soopers - Denver, CO
+meta	experience	August 1981 to May 1997
+meta	experience	• Answered an average of 40 calls per day by addressing customer inquiries, solving problems and sharing new product information
+meta	experience	• Input prescriptions into computer with care and speed
+meta	experience	• Greeted customers entering the store to ascertain what each customer wanted or needed.
+meta	experience	• Described product to customers and accurately explained details and care of merchandise.
+meta	experience	• Earned management trust by serving as key holder, responsibly opening and closing store.
+meta	experience	• Politely assisted customers in person and via telephone.
+meta	experience	• Provided an elevated customer experience to generate a loyal clientele.
+meta	experience	• Recommended selected and helped locate and obtain out-of-stock product based on customer requirements
+meta	experience	• Answered product questions with up-to-date knowledge of sales and store promotions
+meta	experience	• Handled daily heavy flow of paperwork and cooperated with the accounting departments on invoice shipping problems
+meta	experience	• Restocked inventory every month and reviewed cash operation data to verify proper replenishment
+meta	experience	• Bagged and boxed sold merchandise per customer's request
+meta	experience	• Ensured superior customer experience by addressing customer concerns, demonstrating empathy and resolving problems on the spot.
+meta	experience	• Maintained cleanliness and presentation of stock room and production floor.

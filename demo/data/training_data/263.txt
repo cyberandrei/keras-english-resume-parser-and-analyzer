@@ -1,0 +1,21 @@
+content	education	High School Diploma
+content	education	Damascus International High School Damascus, SY
+content	education	May 2006
+meta	experience	Sales Associate
+meta	experience	Marshalls - New Britain, CT
+meta	experience	May 2018 to Present
+meta	experience	sales associate
+meta	experience	Data Entry Clerk
+meta	experience	New England Carousel Museum - Bristol, CT
+meta	experience	April 2017 to Present
+meta	experience	United States
+meta	experience	Entering data sales and facility budgets using Microsoft Excel and Word Approach browsing customers and initiate
+meta	experience	conversations to determine buying preferences.
+meta	experience	Organize items in appropriate ways and keep them clean.
+meta	experience	Assist manager with day to day workloads.
+meta	experience	Sales Associate
+meta	experience	Almadina Halal Supermarket LLC - New Britain, CT
+meta	experience	March 2014 to April 2017
+meta	experience	United States
+meta	experience	Maintain constant presence on sales floor to address customer needs.
+meta	experience	Approach browsing customers and initiate conversations to determine buying preferences.

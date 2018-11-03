@@ -1,0 +1,18 @@
+content	education	Howell Cheney Technical High School Manchester, CT
+content	education	August 2004 to January 2008
+meta	experience	Sales Consultant
+meta	experience	Sears - Manchester, CT
+meta	experience	October 2018 to Present
+meta	experience	Appliance sales.
+meta	experience	Sales Consultant
+meta	experience	Nissan - Manchester, CT
+meta	experience	July 2018 to September 2018
+meta	experience	I became certified and began selling cars. I worked more than 50 hours
+meta	experience	per week.
+meta	experience	Driver
+meta	experience	Lyft/Uber - Manchester, CT
+meta	experience	January 2016 to January 2018
+meta	experience	I was in a car for a few hours a day for both Lyft and Uber in my local and surrounding areas.
+meta	experience	Cashier
+meta	experience	Dollar Tree - Manchester, CT
+meta	experience	March 2016 to April 2016

@@ -1,0 +1,52 @@
+content	education	Futures Academy Aurora, CO
+meta	experience	Sales Representative and Oxygen Specialist
+meta	experience	American Medical Sales and Rentals - Centennial, CO
+meta	experience	February 2018 to Present
+meta	experience	• Target potential customers using leads program with both in and outbound calls
+meta	experience	• Exceed weekly sales quota of $30,000 to receive extra commission rate
+meta	experience	• Look for cross sale opportunities by introducing new products
+meta	experience	• Build relationships by performing needs evaluation for correct oxygen devices, and maintained those relationships through phone, email and in-person interactions.
+meta	experience	• Awarded promotion to a dual role of rental and sales rep
+meta	experience	Sales Associate
+meta	experience	Lumber Liquidators - Aurora, CO
+meta	experience	July 2017 to September 2018
+meta	experience	• Suggest flooring ideas to potential customers
+meta	experience	• Provide quotes for installation prices
+meta	experience	• Schedule installation dates for customer orders
+meta	experience	• Warehouse level packaging and inventory
+meta	experience	CSR Broadridge
+meta	experience	In Touch - Aurora, CO
+meta	experience	October 2017 to February 2018
+meta	experience	• Troubleshoot technical difficulties related to Netflix, using a troubleshooting flow with an emphasis on one call resolution
+meta	experience	• Address billing inquiries and process payments
+meta	experience	• Look for cross sale opportunities by introducing new products
+meta	experience	• Provide excellent customer service resulting in a #1 ranking among 175 employees.
+meta	experience	Various Temporary Positions
+meta	experience	Prime Source - Denver, CO
+meta	experience	January 2017 to June 2017
+meta	experience	• Warehouse level packaging and inventory
+meta	experience	• Call center assignments
+meta	experience	CSR Netflix
+meta	experience	In Touch - Aurora, CO
+meta	experience	August 2015 to December 2016
+meta	experience	• Troubleshoot technical difficulties related to Netflix, using a troubleshooting flow with an emphasis on one call resolution
+meta	experience	• Address billing inquiries and process payments
+meta	experience	• Look for cross sale opportunities by introducing new products
+meta	experience	• Provide excellent customer service resulting in a #1 ranking among 175 employees.
+meta	experience	Green Chef Corporation - Denver, CO
+meta	experience	May 2015 to August 2015
+meta	experience	• Ingredient Prep- Cut, chop, dice and peel fruits/vegetables
+meta	experience	• Assembled prepared measured ingredients into shipment package
+meta	experience	• Followed all state regulations in regards to sanitation
+meta	experience	Team Member/Closer
+meta	experience	Orange Julius at Dairy Queen - Aurora, CO
+meta	experience	January 2015 to April 2015
+meta	experience	• Processed orders in a quick and efficient manner
+meta	experience	• Followed all state regulations in regards to cleaning duties and sanitation
+meta	experience	• Processed currency in the form of both cash and credit card transactions
+meta	experience	Cashier/Server
+meta	experience	China Chef
+meta	experience	 - Denver, CO
+meta	experience	October 2014 to March 2015
+meta	experience	• Processed orders in a quick and efficient manner
+meta	experience	• Used high levels of customer service when serving tables and delivering food

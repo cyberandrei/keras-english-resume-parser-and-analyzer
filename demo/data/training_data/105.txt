@@ -1,0 +1,27 @@
+content	education	Cornerstone Christian High School
+content	education	high school diploma in Education I
+content	education	Cornerstone Christian Correspondence School
+meta	experience	Sales Representative
+meta	experience	Dillards
+meta	experience	September 2018 to Present
+meta	experience	Fragrance sales rep
+meta	experience	Sales Representative
+meta	experience	NEW AGE BEVERAGE - Little Rock, AR
+meta	experience	July 2017 to September 2018
+meta	experience	To drive to stores make sales of our merchandise. Rotate product, make sure shelf and store is in stock with our merchandise and to assure that my merchandizer and truck driver were on the same page
+meta	experience	Store Manager
+meta	experience	Dollar General - North Little Rock, AR
+meta	experience	April 2011 to July 2017
+meta	experience	Offered Leadership and  Respect When Managing Other Team Members
+meta	experience	Performed Necessary Tasks Managing a 7-Day Workflow
+meta	experience	Trained Many Team Members at Four Different Locations
+meta	experience	Took Pride in My Stores Ensuring Their Success
+meta	experience	Practiced Problem Solving Skills to Find Solutions When Necessary
+meta	experience	Provided Excellent Phone Support to Customers When Necessary
+meta	experience	Worked Well With District and Regional Management
+meta	experience	Maintained and Enforced Company Schedules for Team Members
+meta	experience	Showed Loyalty To My Company By Showing Up and Working Hard
+meta	experience	Maybelline
+meta	experience	Staffmark - North Little Rock, AR
+meta	experience	January 2009 to April 2011
+meta	experience	I worked with staffmark on and off for 2 years. Started in liquid. Then they did a lay off for a short time. Went back to liquid inspecting. Then was placed in cake press and succeeded very well in 2 weeks I was running my own machine. Completing paper work and test weighting on my on. Very exciting work experience

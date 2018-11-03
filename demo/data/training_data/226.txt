@@ -1,0 +1,14 @@
+content	education	G.E.D Pittsburgh, PA
+content	education	July 2010 to July 2010
+meta	experience	Sales Representative
+meta	experience	T-Mobile - Denver, CO
+meta	experience	December 2015 to Present
+meta	experience	Manage cash
+meta	experience	Customer service 
+meta	experience	Sales
+meta	experience	Sales Representative
+meta	experience	RadioShack - Lebanon, PA
+meta	experience	August 2012 to November 2015
+meta	experience	Manage cash
+meta	experience	Customer service 
+meta	experience	Sales

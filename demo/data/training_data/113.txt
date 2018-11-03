@@ -1,0 +1,20 @@
+content	education	High school or equivalent
+content	education	Osceola High School
+content	education	N/A
+content	education	Philander Smith College
+meta	experience	Sales Advisor
+meta	experience	H&M - Little Rock, AR
+meta	experience	July 2018 to Present
+meta	experience	Assisted customers with product selection, exceeded sales goals, and multi-tasked between transactions and sales floor duties.
+meta	experience	Crew Member
+meta	experience	McDonald’s - Little Rock, AR
+meta	experience	August 2017 to August 2018
+meta	experience	Followed procedures for safe food preparation and maintained excellent customer service while working in a fast paced environment.
+meta	experience	Sales Associate
+meta	experience	Kohl's Corporation - Little Rock, AR
+meta	experience	June 2017 to January 2018
+meta	experience	Assisted customers with purchases, maintained a neat and organized work area, stocked new inventory on store shelves, and drove credit sales.
+meta	experience	Cashier
+meta	experience	Walmart - Osceola, AR
+meta	experience	August 2016 to January 2017
+meta	experience	Greeted customers in a friendly manner, stocked merchandise on store shelves, assisted customers with inquiries about store products, and handled cash from pos transactions.

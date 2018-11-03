@@ -1,0 +1,13 @@
+content	education	Some college
+meta	experience	Sales Associate
+meta	experience	BEBE
+meta	experience	November 2015 to May 2016
+meta	experience	Cashier, Floor sales
+meta	experience	Sales Associate
+meta	experience	DSW Show Warehouse
+meta	experience	January 2014 to July 2014
+meta	experience	Cashier, Floor sales
+meta	experience	Clerical
+meta	experience	Salud Primary Care
+meta	experience	August 2013 to January 2014
+meta	experience	Organizing documents, Filling patient papers, Answering calls.

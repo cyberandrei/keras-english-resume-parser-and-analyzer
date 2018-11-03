@@ -1,0 +1,15 @@
+content	education	Medical assistant
+content	education	Branford Hall Career Institute-Springfield Campus Springfield, MA
+content	education	August 2015 to January 2017
+meta	experience	Sales Associate
+meta	experience	Metro by T-Mobile - Springfield, MA
+meta	experience	April 2013 to April 2016
+meta	experience	Sales associate,customer service, cashier
+meta	experience	Sales Associate
+meta	experience	Iksa furniture - Springfield, MA
+meta	experience	March 2013 to August 2014
+meta	experience	Sell furniture, take care of customers, handling calls, handling cash.
+meta	experience	PCA Personal Care Assistant
+meta	experience	Stavros - Springfield, MA
+meta	experience	June 2011 to September 2012
+meta	experience	Taking care of patients such as bathing, dressing, feeding, and daily activities.

@@ -1,0 +1,20 @@
+meta	experience	Sales Associate
+meta	experience	Bob's Discount Furniture - West Springfield, MA
+meta	experience	October 2016 to October 2018
+meta	experience	Sales Associate
+meta	experience	Sales Consultant
+meta	experience	Crown Furniture & Design - Enfield, CT
+meta	experience	October 2003 to October 2016
+meta	experience	Sales consultant for this high end furniture and design company that is over 60 years old.
+meta	experience	My duties entailed working closely with both our internal interior designers as well as outside designers in choosing various furniture pieces and accessories. I also helped in fabric selection, custom rug design as well as some window treatments. My duties also required that I make in-home client calls with our in-house interior designer for furniture design and layout.
+meta	experience	Home Furnishings Consultant
+meta	experience	Raymour & Flanigan - Manchester, CT
+meta	experience	2000 to 2003
+meta	experience	One of about 26 sales consultants for his large furniture
+meta	experience	company.  Was one of the sales staff that opened this new store.
+meta	experience	Word Processing Manager, Personnel Manager, Office Services Manager
+meta	experience	Law Firm of Gold & Vanaria, P.C - Springfield, MA
+meta	experience	1983 to 2000
+meta	experience	Secretary
+meta	experience	James River Graphics - South Hadley, MA
+meta	experience	1973 to 1983

@@ -1,0 +1,11 @@
+content	education	High school or equivalent
+content	education	High school of science and technology Springfield, MA
+content	education	August 2013 to June 2017
+meta	experience	Sales Associate
+meta	experience	The children’s place - Springfield, MA
+meta	experience	September 2018 to Present
+meta	experience	Cashier , sales associate.
+meta	experience	Sales Associate
+meta	experience	Macy's - Holyoke, MA
+meta	experience	November 2017 to January 2018
+meta	experience	Cashier, shoe support, stocking.

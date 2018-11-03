@@ -1,0 +1,27 @@
+content	education	Waterbury Arts Magnet School (High) Waterbury, CT
+content	education	August 2012 to June 2015
+content	education	High school or equivalent
+meta	experience	Sales
+meta	experience	Victoria's Secret - Waterbury, CT
+meta	experience	May 2017 to Present
+meta	experience	Sales, customer service, phones/reception, bra specialist, sizing, cash handling, filing deposits, opening/closing registers, shipping and receiving, floor sets, inventory and maintenance.
+meta	experience	Process Operator
+meta	experience	FuelCell Energy - Torrington, CT
+meta	experience	August 2016 to December 2016
+meta	experience	Manufacturing, processing, analyzing, repairing parts, inspection, machine operation, quality testing, record keeping, filling.
+meta	experience	Customer Service
+meta	experience	Market 32 - Torrington, CT
+meta	experience	November 2015 to October 2016
+meta	experience	Baker, cake decorator, kitchen maintenance, florist, greeter
+meta	experience	Customer Service Manager
+meta	experience	Toys 'R' Us - Waterbury, CT
+meta	experience	January 2014 to August 2015
+meta	experience	Generating sales leads, communicating with internal teams to discuss sales targets, reporting back on result, managing a large number of incoming calls and emails,   delivering a comprehensive service to enquiring customers.
+meta	experience	Sales Associate
+meta	experience	JCPenney - Waterbury, CT
+meta	experience	October 2013 to August 2015
+meta	experience	Customer service, marketing, floor sales,  cash handling, opening/ closing registers, phones/reception, inventory, maintenance, shipping and receiving
+meta	experience	General Laborer
+meta	experience	Noel Contracting Services - Waterbury, CT
+meta	experience	March 2011 to 2013
+meta	experience	Demolition, heavy cleaning and light labor of pre and post construction residential sites. Cleaning and restoration of appliances, painting, landscaping, clearing large areas of overgrown bush, lawn care, and flower beds.

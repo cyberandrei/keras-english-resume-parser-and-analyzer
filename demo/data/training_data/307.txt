@@ -1,0 +1,13 @@
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Journeys - Dover, DE
+meta	experience	June 2017 to Present
+meta	experience	Worked on the sales floor along with in the stockroom. Assisted customers with clothing and shoe purchases.
+meta	experience	Sales Associate
+meta	experience	Kohl's - Dover, DE
+meta	experience	October 2016 to October 2017
+meta	experience	Worked in numerous departments such as children, mens and women clothing, electronics, toys and house wears. Along with that I assisted Customers at the kiosk and customer service desk and worked at POS.
+meta	experience	Sales Associate
+meta	experience	TEAM SPORTS INK - Dover, DE
+meta	experience	September 2015 to October 2016
+meta	experience	Mainly worked on the sales floor maintaining cleanliness and assisting customers with purchases. Also worked in the stockroom

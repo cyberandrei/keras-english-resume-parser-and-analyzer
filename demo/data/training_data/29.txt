@@ -1,0 +1,79 @@
+content	education	Emergency medical technician basic
+content	education	Calhoun Community College Huntsville, AL
+content	education	2008 to 2009
+content	education	Financial Management
+content	education	Business Tech Essentials Pulaski, TN
+content	education	2005 to 2006
+content	education	Graduate Bob Jones High School Madison, AL
+content	education	2005
+meta	experience	Sales Associate
+meta	experience	Bubba Hill Auto Plaza - Panama City, FL
+meta	experience	January 2018 to October 2018
+meta	experience	Detailer, Sales Associate. Sales cars and perform customer service. Laid off due to Hurricane Michael.
+meta	experience	Time share sales
+meta	experience	Westgate Resorts - Gatlinburg, TN
+meta	experience	September 2017 to December 2017
+meta	experience	Time share sales. Licensed
+meta	experience	Service Advisor
+meta	experience	Rick McGill Toyota - Alcoa, TN
+meta	experience	June 2017 to August 2017
+meta	experience	Assistant Service Manager
+meta	experience	John roberts toyota - Manchester, TN
+meta	experience	August 2015 to May 2017
+meta	experience	Greetings customers, explain to customers information about their vehicles, sale services for fixing vehicles, cash customers out, distribute work to technicians in shop, also Toyota technician
+meta	experience	Firefighter/EMT
+meta	experience	Hickerson Fire Department - Tullahoma, TN
+meta	experience	March 2015 to October 2015
+meta	experience	Volunteer firefighter/EMT
+meta	experience	Umpire
+meta	experience	Madison Baseball Association - Madison, AL
+meta	experience	2000 to August 2015
+meta	experience	Officiate rookie league baseball - Ages 6-8
+meta	experience	➢ Member of the Madison Baseball Board
+meta	experience	Advanced cardiac technician and nuclear medicine tech.
+meta	experience	Huntsville Hospital Heart Center - Huntsville, AL
+meta	experience	March 2011 to June 2015
+meta	experience	Manage hallway for up to 5 doctors a day, patient relations, conducted stress tests, nuclear tests, reading ekgs and starting ivs
+meta	experience	Firefighter/EMT
+meta	experience	Hazel Green Fire and Rescue - Hazel Green, AL
+meta	experience	April 2013 to April 2015
+meta	experience	Firefighter/EMT with volunteer department. Run any call the department receives. Was never sent the Fire College, needed me more for EMT due to number of medical calls the area receives.
+meta	experience	Intern Firefighter/EMT
+meta	experience	Madison Fire Department - Madison, AL
+meta	experience	April 2010 to May 2013
+meta	experience	Intern with fire department.
+meta	experience	Head Camp Counselor
+meta	experience	Kids camp - Madison, AL
+meta	experience	2006 to 2013
+meta	experience	Supervise children during camp activities
+meta	experience	➢ Play games
+meta	experience	➢ Supervise children on bus after school
+meta	experience	Temporary Rec Aide
+meta	experience	Dublin park - Madison, AL
+meta	experience	2006 to 2013
+meta	experience	Gym manager
+meta	experience	➢ Help maintain sports complex
+meta	experience	➢ Assists with school intramural sports
+meta	experience	Camp Counselor
+meta	experience	Kids camp - Madison, AL
+meta	experience	2007 to 2011
+meta	experience	Supervise children during summer camp
+meta	experience	➢ Play games
+meta	experience	➢ Conduct sports clinics for age appropriate kids
+meta	experience	Firework manager
+meta	experience	Local Firework store - Madison, AL
+meta	experience	July 2004 to July 2010
+meta	experience	Responsibilities
+meta	experience	Sale fireworks, manage products, decide customers needs to what they want to spend, responsible for money and credit card sales and inventory 
+meta	experience	Accomplishments
+meta	experience	Learned a lot about how to sell items for what the customer wants to spend and sometimes more than they thought 
+meta	experience	Skills Used
+meta	experience	Working with public and how to manage a store
+meta	experience	Guest Services / Maintenance Worker
+meta	experience	Sunset Landing Golf Course - Madison, AL
+meta	experience	2002 to 2007
+meta	experience	Clean/prepare carts for use
+meta	experience	➢ Pick range
+meta	experience	➢ Re-stock driving range with balls
+meta	experience	➢ Keep 19th hole supplied with food and beverages
+meta	experience	➢ Golf Course Maintenance

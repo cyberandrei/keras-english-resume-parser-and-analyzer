@@ -1,0 +1,30 @@
+content	education	AAS in Business Marketing and Management
+content	education	Delaware Technical Community College-Terry Dover, DE
+content	education	January 1996 to June 2000
+meta	experience	Regional Sales Consultant
+meta	experience	Brass Sales Company - Felton, DE
+meta	experience	March 2015 to Present
+meta	experience	• Represent Distributor of Mobile Home and RV Parts to Dealers and Repair Center
+meta	experience	• Works in Eastern PA, New Jersey & Binghamton, NY
+meta	experience	• Increased Customer Base by 30+ and total profits also
+meta	experience	Sales Consultant
+meta	experience	Kenny Ross Nissan - Zelienople, PA
+meta	experience	2012 to 2013
+meta	experience	• Selling Nissan Cars and Trucks
+meta	experience	• Selling upgrades and used cars
+meta	experience	Sales Consultant
+meta	experience	Kolaja Fire Equipment - Union City, PA
+meta	experience	2010 to 2012
+meta	experience	• Selling Ambulances and Fire Apparatus in South Western Pennsylvania
+meta	experience	• Quick Repairs to Customers Apparatus
+meta	experience	Sales Manager and Consultant
+meta	experience	DPC Emergency Equipment - Marydel, DE
+meta	experience	1998 to 2010
+meta	experience	Sales of Fire Apparatus, Loose Equipment and Emergency
+meta	experience	Services Gear.
+meta	experience	* Computer Operations in Word, Excel, Powerpoint, Specification
+meta	experience	Programming and Contract Writing
+meta	experience	• Created the Advertisement Sheets for Publishing
+meta	experience	* Expanded personnel from 4 to 28 personnel at company
+meta	experience	* Increased sales in the market from a couple hundred thousand to several million dollars.
+meta	experience	* Expanded sales to include mass-market accounts with governments.

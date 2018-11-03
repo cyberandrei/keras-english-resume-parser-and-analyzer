@@ -1,0 +1,28 @@
+content	education	academic transfer program
+content	education	Southeast Community College Lincoln, NE
+content	education	April 2015 to March 2016
+meta	experience	Sales
+meta	experience	M&M Auto Sales - Lincoln, NE
+meta	experience	January 2016 to June 2018
+meta	experience	• Four consecutive months of 15+ car sales
+meta	experience	• New team member trainer
+meta	experience	• Car auction team lead
+meta	experience	DSP (Direct Support Professional)
+meta	experience	Develpmental Services of Nebraska - Lincoln, NE
+meta	experience	July 2016 to March 2017
+meta	experience	-worked one on one with clients with mental and physical disabilities
+meta	experience	-take clients to school programs, shopping and other outdoor activities to help develop adult and independent sitting for clients that they can build on. 
+meta	experience	-giving medication to clients
+meta	experience	Assistant GM
+meta	experience	Pickleman's Gourmet Cafe - Lincoln, NE
+meta	experience	April 2014 to April 2016
+meta	experience	• Opening store manager
+meta	experience	• Food catering operations manager
+meta	experience	Assistant Manager
+meta	experience	Complete Nutrition - Lincoln, NE
+meta	experience	March 2012 to June 2014
+meta	experience	• Working to create custom diet and nutrition plans, goals and spread
+meta	experience	sheets for customers who were looking to get to their fitness goals
+meta	experience	• top 10 in company sales in Complete Nutrition related products, 13
+meta	experience	consecutive months
+meta	experience	• Opening Store and inventory manager

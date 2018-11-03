@@ -1,0 +1,15 @@
+content	education	High school or equivalent in General Ed
+content	education	Chana High (Continuation) Auburn, CA
+content	education	August 2014 to May 2017
+meta	experience	Clothing Sales Associate
+meta	experience	Mc Calous Department store - Auburn, CA
+meta	experience	September 2017 to January 2018
+meta	experience	Cashier, Clothing sales customer service
+meta	experience	Cashier
+meta	experience	Panda Express Group - Novato, CA
+meta	experience	December 2016 to July 2017
+meta	experience	Stocked, worked register, customer service
+meta	experience	Register
+meta	experience	Jack in the Box - Novato, CA
+meta	experience	October 2015 to November 2016
+meta	experience	Worked the register, Customer service, Drive through

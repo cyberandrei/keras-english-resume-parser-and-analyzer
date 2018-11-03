@@ -1,0 +1,21 @@
+content	education	Central High School Saint Joseph, MO
+content	education	2006 to 2010
+meta	experience	Sales Associate
+meta	experience	Burlington Stores - Little Rock, AR
+meta	experience	July 2016 to Present
+meta	experience	Responsibilities
+meta	experience	Sales Rep talking to customers making sure the store was looking it's best
+meta	experience	Skills Used
+meta	experience	customer service
+meta	experience	Janitor
+meta	experience	Ems
+meta	experience	May 2016 to July 2018
+meta	experience	Cleaning buildings breakrooms restrooms and office space buffing and stripping floors
+meta	experience	Customer Service Representative
+meta	experience	CenturyLink - Saint Joseph, MO
+meta	experience	April 2012 to October 2015
+meta	experience	Selling basic home phone with or without long distance internet up to 100mg and direct tv
+meta	experience	Caregiver
+meta	experience	CHOICES - Saint Joseph, MO
+meta	experience	June 2010 to April 2013
+meta	experience	Cooking cleaning passing meds and exercise with the residents

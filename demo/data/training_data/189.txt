@@ -1,0 +1,24 @@
+content	education	Diploma in General Ed
+content	education	Rio Linda High School Rio Linda, CA
+content	education	August 2007 to June 2011
+content	education	High school or equivalent
+meta	experience	Sales Representative
+meta	experience	Power 5 Concepts LLC - North Highlands, CA
+meta	experience	August 2018 to Present
+meta	experience	Sales representative
+meta	experience	Team Member
+meta	experience	Firehouse Subs - Natomas, CA
+meta	experience	August 2018 to September 2018
+meta	experience	Sandwich maker
+meta	experience	Food Runner
+meta	experience	Joes Crabs Shack - Sacramento, CA
+meta	experience	March 2018 to April 2018
+meta	experience	Prep food, take food to customers
+meta	experience	Variety Clerk
+meta	experience	Win Co Foods - Antelope, CA
+meta	experience	September 2017 to December 2017
+meta	experience	Stock shelves, assist customers with needs, clean organize backroom, scan backstock
+meta	experience	Cashier/Customer Service
+meta	experience	Tractor Supply Company - Antelope, CA
+meta	experience	September 2016 to July 2017
+meta	experience	Cashiering, clean and organize, assist customers

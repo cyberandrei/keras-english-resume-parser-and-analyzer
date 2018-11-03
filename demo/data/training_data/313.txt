@@ -1,0 +1,22 @@
+content	education	Certification in Business Management
+content	education	Delaware Technical and Community College Seaford, DE
+content	education	2015 to Present
+meta	experience	Sales Associate
+meta	experience	Nike
+meta	experience	2014 to Present
+meta	experience	Customer service is the number one goal to provide, as well as product knowledge, driving sales and being an ambassador.
+meta	experience	• Actively work sales floor and engage customers for product sales
+meta	experience	2014-present
+meta	experience	• Actively provide customer with needed services
+meta	experience	• Ensure point of sale is maximized
+meta	experience	• Efficiently recover and restock sales floor
+meta	experience	• Execute floor moves
+meta	experience	Assistant Manager (Operations)
+meta	experience	Sony Outlet
+meta	experience	2006 to 2014
+meta	experience	Oversee store operations, guest experience and manage a team of 10-15 people in driving top line sales.
+meta	experience	• Effectively communicate correspondence and ideas
+meta	experience	• Work with management team to layout seasonal transitions
+meta	experience	• Strive for clear expectations through policy and procedures
+meta	experience	• Successfully drive profitable sales in store through leadership and training
+meta	experience	• Review and analyze profit and losses monthly

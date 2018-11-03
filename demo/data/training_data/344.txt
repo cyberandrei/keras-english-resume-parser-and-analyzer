@@ -1,0 +1,63 @@
+content	education	High School Diploma in Business
+content	education	Cumberland Regional High School Deerfield, NJ
+content	education	September 1987 to June 1991
+meta	experience	Part Time Sales Lead
+meta	experience	LANE BRYANT - Millville, NJ
+meta	experience	August 2011 to Present
+meta	experience	Performs opening/closing and store operations activities.
+meta	experience	♦ Monitors sales and credit profitability.
+meta	experience	♦ Executes loss prevention requirements, regulates payroll and prepares bank deposit with deposit bank drop-offs.
+meta	experience	♦ Administers inventory control/marketing displays and merchandising placement.
+meta	experience	♦ Trains and supervises associates performances with customer service standards and procedures.
+meta	experience	Data Entry Clerk
+meta	experience	PAY BY TOUCH - Millville, NJ
+meta	experience	November 2003 to January 2008
+meta	experience	Performed productive data entry/records management of offline/online internet capture of several stores' courtesy cards and confidential patients' hospital billing forms.
+meta	experience	♦ Regularly appointed to perform speedy data entry jobs that needed to be accurately completed under a tight time limit.
+meta	experience	Assistant Manager
+meta	experience	AVENUE - Millville, NJ
+meta	experience	June 2002 to May 2003
+meta	experience	Managed all functions and supervising responsibilities as a key holding sales lead.
+meta	experience	♦ Administered associate training, inventory control, loss prevention procedures, product placement and marketing, records management and deposit preparation and drop-offs.
+meta	experience	♦ Produced the company's highest credit card generator for the district repeatedly.
+meta	experience	Customer Service Representative
+meta	experience	AVENUE - Millville, NJ
+meta	experience	April 2002 to June 2002
+meta	experience	Expedited cash and credit sales on electronic cash register.
+meta	experience	♦ Performed opening of new credit cards as well as credit look-ups for clientele.
+meta	experience	♦ Assisted in prepping product for placement and participating in marketing displays.
+meta	experience	Customer Service Associate
+meta	experience	DOLLAR TREE, INC - Millville, NJ
+meta	experience	December 2001 to May 2002
+meta	experience	Handled cash register operations and procedures.
+meta	experience	♦ Performed product stocking and display and delivery truck unloading.
+meta	experience	♦ Conducted preparation of bank deposit and deposit bank drop-off.
+meta	experience	♦ Assisted customers with their shopping experience while providing exceptional customer service.
+meta	experience	Administrative Service Assistant
+meta	experience	PRUDENTIAL HEALTH INSURANCE - Millville, NJ
+meta	experience	February 1999 to November 2000
+meta	experience	Reported as Unit Leader of a team of ten people to Unit Supervisor.
+meta	experience	♦ Performed productive data entry processing of highly confidential healthcare facilities' patients insurance claims.
+meta	experience	♦ Maintained daily batch reports for several in-company units and provided reports for online distribution.
+meta	experience	♦ Compiled daily reports for batch mail outs for FedEx.
+meta	experience	Associate Service Assistant
+meta	experience	PRUDENTIAL HEALTH INSURANCE - Millville, NJ
+meta	experience	June 1995 to February 1999
+meta	experience	Provided productive computer data entry and data look-up retrieval of hospital health insurance billing claims.
+meta	experience	♦ Performed operations for incoming mail, front end/back end claim preparation for unit distribution.
+meta	experience	♦ Executed claim shipping/receiving via FedEx.
+meta	experience	♦ Handled incoming clients' cash and check currency.
+meta	experience	Customer Service Representative
+meta	experience	WEST COAST VIDEO - Bridgeton, NJ
+meta	experience	March 1995 to June 1995
+meta	experience	Provided cash register assistant during customer sales.
+meta	experience	♦ Stocked product while maintaining product organization.
+meta	experience	♦ Served as designated person to handle deposit bank drop-offs for on-duty managers.
+meta	experience	Data Entry Associate
+meta	experience	DYNCORP INSURANCE - Vineland, NJ
+meta	experience	January 1993 to December 1993
+meta	experience	Performed productive data entry captures and records management of health insurance claims.
+meta	experience	Data Entry Clerk
+meta	experience	PRUDENTIAL INSURANCE COMPANY - Vineland, NJ
+meta	experience	November 1989 to December 1991
+meta	experience	Computed productive data entry captures from health claim forms transferring information into electronic online and microfilm records.

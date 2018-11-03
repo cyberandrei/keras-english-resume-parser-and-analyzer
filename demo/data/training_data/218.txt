@@ -1,0 +1,18 @@
+content	education	GED in NA
+content	education	Brighton Charter Denver, CO
+meta	experience	Car Salesman
+meta	experience	Queen Auto Sales - Denver, CO
+meta	experience	November 2017 to May 2018
+meta	experience	Car sales and car promotions
+meta	experience	Office Manager
+meta	experience	5280 Electric Inc. - Denver, CO
+meta	experience	January 2017 to November 2017
+meta	experience	Answerphone, billing, permits, hiring, registration, Inspections, Ordering.
+meta	experience	Assistant Manager
+meta	experience	7 Eleven. - Denver, CO
+meta	experience	February 2011 to January 2017
+meta	experience	3617 E. 112th Place
+meta	experience	Thornton, CO  80233
+meta	experience	Phone: 720-398-7932
+meta	experience	E-mail vrose0391@gmail.com 
+meta	experience	Volunteer Experience

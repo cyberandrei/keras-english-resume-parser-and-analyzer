@@ -1,0 +1,33 @@
+content	education	Other
+meta	experience	Personal Trainer
+meta	experience	Self-Employed - Sacramento, CA
+meta	experience	January 2014 to Present
+meta	experience	I am a strength and conditioning coach, as well as a diet coach. I typically train my clients in their homes. I also meal prep or make meal plans for clients. I also hold outdoor bootcamps at local parks. Many clients have had great success with weight loss, mobility improvment, better posture, better mood/sleep & more.
+meta	experience	Sales
+meta	experience	Kimberley's Kitchen - Sacramento, CA
+meta	experience	March 2018 to November 2018
+meta	experience	I worked at Farmers Markets on weekends and did the set up, sales/marketing, and tear down, all as a 1 woman show. I also worked in the kitchen as a prep cook.
+meta	experience	Brand Ambassador/Promotional Model
+meta	experience	Samplers Inc - Sacramento, CA
+meta	experience	June 2017 to May 2018
+meta	experience	I did food demos as an independent contractor.
+meta	experience	Front Desk/Sales
+meta	experience	Fitness 19 - Fair Oaks, CA
+meta	experience	May 2016 to October 2017
+meta	experience	I took care of all Front Desk/Sales tasks, as well as light janitorial work, usually as the Manager on Duty. I also helped out in the Daycare when needed.
+meta	experience	Front Desk Receptionist
+meta	experience	Safe Medical Transportation - Fair Oaks, CA
+meta	experience	March 2015 to March 2016
+meta	experience	Take and direct all calls. Schedule patients. Customer Service.
+meta	experience	Vitamin Clerk & Cashier
+meta	experience	Sprouts Farmers Market - Citrus Heights, CA
+meta	experience	February 2011 to July 2014
+meta	experience	Worked in Health/Wellness department, as back up cashier, and also in the deli for Food Demos
+meta	experience	Health Enthusiast
+meta	experience	The Vitamin Shoppe - Citrus Heights, CA
+meta	experience	February 2010 to February 2011
+meta	experience	Worked the sales floor and register simultaneously for each customer.
+meta	experience	Administrative Assistant
+meta	experience	Dave's Tax Services - Sacramento, CA
+meta	experience	November 2004 to January 2010
+meta	experience	Filed paperwork. Greeted clients upon arrival. Answered/directed multi-line phones/took memos. Created excel spreadsheets. Assisted with tax documents as necessary. Sent mail/packages out. And any other tasks that helped the office run smoothly.

@@ -1,0 +1,7 @@
+content	education	some college (15 credits) in Hospitality Management- Business,Marketing
+content	education	Manchester Technical College- Quinnebaug Community College Manchester, CT
+content	education	September 1997 to June 1999
+meta	experience	Sales Representative
+meta	experience	A Better Way - Naugatuck, CT
+meta	experience	March 2015 to October 2016
+meta	experience	Sales and financing of automobiles

@@ -1,0 +1,4 @@
+content	education	Decatur High School
+meta	experience	Team Member
+meta	experience	Arby's
+meta	experience	August 2016 to Present

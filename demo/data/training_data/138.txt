@@ -1,0 +1,47 @@
+content	education	Bachelor of Sciences in Education
+content	education	University of Arkansas at Little Rock Little Rock, AR
+meta	experience	Sales Associate
+meta	experience	Cleo's Furniture - Little Rock, AR
+meta	experience	2013 to Present
+meta	experience	• Assist customers in selecting furniture according to their wants and needs.
+meta	experience	• Effectively manage sales to increase commissioned salary.
+meta	experience	• Top 3 in sales for 2014, 2015, 2016, 2017.
+meta	experience	Senior Product Consultant - SEPHORA
+meta	experience	JC Penney - Little Rock, AR
+meta	experience	2007 to 2012
+meta	experience	(Reference Letter)
+meta	experience	• Senior Consultant on top sales team nationally for 2008.
+meta	experience	• Assist supervisor with computer work by, but not limited to, daily touchbase
+meta	experience	forms, correspondences and e-mail distribution.
+meta	experience	• Monitor and supervise sales floor to assure that associates adhere to customer service standards set forth by Sephora inside JCP.
+meta	experience	• Supply customers and associates with educational information of product brands and application techniques.
+meta	experience	Administrative Assistant
+meta	experience	The BridgeWay - North Little Rock, AR
+meta	experience	2006 to 2007
+meta	experience	• Provide secretarial and administrative support directly to the Chief Executive Officer and supervisory personnel directly reporting to this executive.
+meta	experience	• Effectively schedule and manage meetings and appointments.
+meta	experience	• Collect data and compile informational reports.
+meta	experience	• Communicate effectively with a variety of corporate and external personnel.
+meta	experience	• Possess knowledge of the organizational structure and functions of the company's key interfacing departments.
+meta	experience	•  Possess effective organization skills and ability to work independently.
+meta	experience	Executive Assistant
+meta	experience	QualChoice/QCA - Little Rock, AR
+meta	experience	2000 to 2006
+meta	experience	(Reference Letter)
+meta	experience	• Provide secretarial and administrative support directly to the Chief Executive Officer, Chief Financial Officer, Chief Compliance Officer and supervisory personnel directly reporting to these executives.
+meta	experience	• Effectively schedule and manage meetings and appointments.
+meta	experience	• Communicate with a variety of corporate and external personnel.
+meta	experience	• Possess knowledge of the organizational structure and functions of the company's key interfacing departments.
+meta	experience	• Possess effective organization skills and ability to work independently.
+meta	experience	Administrative Assistant
+meta	experience	Optus Telemation - Little Rock, AR
+meta	experience	1999 to 2000
+meta	experience	• Provide secretarial and administrative support to the general manager and sales staff.
+meta	experience	• Generate and enter service call tickets, dispatch technicians, and complete service call tickets.
+meta	experience	• Create and disseminate invoices for new system installation and existing system additions.
+meta	experience	• Apply payments made on customer accounts and administer collections on overdue balances.
+meta	experience	Account Manager
+meta	experience	International Computer Systems - Little Rock, AR
+meta	experience	1997 to 1999
+meta	experience	• Administer third-party collection procedures on various types of overdue accounts.
+meta	experience	• Effectively manage accounts to regularly increase outbound calls and funds collected to exceed set goals and obtain bonus.

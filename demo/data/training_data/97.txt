@@ -1,0 +1,47 @@
+content	education	Master of Business Administration in Marketing
+content	education	Fordham University
+content	education	2000
+content	education	Bachelor of Arts in Sociology
+content	education	University of Wisconsin
+content	education	1992
+meta	experience	Sales
+meta	experience	30 Ways - Phoenix, AZ
+meta	experience	June 2011 to Present
+meta	experience	Phoenix, AZ
+meta	experience	Created HIPKNOTIES® a patent-pending, innovative, one-size-fits-all convertible garment.
+meta	experience	• Sales in 80 countries with a 17% repeat customer rate and 70% growth each year.
+meta	experience	• Generated $1,000,000 in online sales over a three-year period.
+meta	experience	• Manage all social media channels marketing strategies to determine ROR by identifying and tapping into new
+meta	experience	channels to optimize ROI and fuel revenue growth and brand awareness.
+meta	experience	• Facebook 75,000 likes, Instagram 15k followers, YouTube 3000 subscribers
+meta	experience	• Negotiate with manufacturers and fabric mills to produce the product.
+meta	experience	• Create all marketing materials including logo, website, press materials, YouTube videos (750,000 views) and a mobile app.
+meta	experience	• Develop and manage online marketing campaigns effectively driving band awareness, engagement and traffic
+meta	experience	to social media pages.
+meta	experience	Director of Sales
+meta	experience	Michael Kors Inc - New York, NY
+meta	experience	December 2000 to December 2002
+meta	experience	Worked directly with CEO on production, design and merchandising issues.
+meta	experience	• Managed four account executives and two retail sales coordinators.
+meta	experience	• Generated over $3 MM in wholesale product sales in less than 12 months; a 15%
+meta	experience	increase over the prior year.
+meta	experience	• Collaborated on launch of MK Accessories; worked with factory to negotiate pricing.
+meta	experience	• Conceptualized and executed marketing strategies for wholesale and retail teams,
+meta	experience	including sales incentives, special events and trunk shows.
+meta	experience	• Served as direct liaison between wholesale clients and internal support teams (finance, logistics,
+meta	experience	order management, technical, planning).
+meta	experience	Senior Account Executive
+meta	experience	Michael Kors Inc - New York, NY
+meta	experience	February 1996 to August 1998
+meta	experience	Responsible for North American distribution and sales of KORS Michael Kors to specialty stores.
+meta	experience	•   Tracked and analyzed sales, inventory to sales, seasonal plans and gross margins for each major account.
+meta	experience	•   Coordinated between warehouse, production team and factories; also responsible for production - cut tickets and allocation to customers of finished goods.
+meta	experience	Account Executive
+meta	experience	Michael Atchison & Associates - New York, NY
+meta	experience	August 1994 to February 1996
+meta	experience	Managed all aspects of five evening wear and bridal designer collections.
+meta	experience	Assistant Buyer Bergdorf Goodman
+meta	experience	 - New York, NY
+meta	experience	January 1993 to August 1994
+meta	experience	• Integrated financial strategies related to costing, margin and seasonal plans.
+meta	experience	• Worked with online retail, production and marketing teams.

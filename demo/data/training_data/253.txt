@@ -1,0 +1,16 @@
+content	education	High School of Science and Technology Springfield, MA
+content	education	2018
+meta	experience	Sales Representative
+meta	experience	Orchard Auto Sales & Services - Indian Orchard, MA
+meta	experience	June 2015 to Present
+meta	experience	• Landscaping including mowing
+meta	experience	• Clean up of yard, attic and basement
+meta	experience	• Make sure that the place looks clean and organized
+meta	experience	• Repair walls with plaster and paint
+meta	experience	• Moving of furniture and big objects
+meta	experience	• Help out with other duties as needed
+meta	experience	Orchard Auto Sales 2016
+meta	experience	• Online advertising of cars for sale
+meta	experience	• Cleaning and detailing cars
+meta	experience	• Accurately answered customer inquiries
+meta	experience	• Use of social media for dealership marketing

@@ -1,0 +1,44 @@
+content	education	Some college
+meta	experience	Sales Dealer
+meta	experience	Best Way Inc - Conway, AR
+meta	experience	December 2017 to Present
+meta	experience	Door to Door sales. Demonstrating and selling Kirby Vaccum Cleaners
+meta	experience	Sales Dealer
+meta	experience	BEST WAY INC - Conway, AR
+meta	experience	November 2017 to Present
+meta	experience	Door to door sales selling and demonstrating Kirby vacuum cleaners
+meta	experience	Information Associate/ER Tech
+meta	experience	Baptist Health - Little Rock, AR
+meta	experience	February 2015 to Present
+meta	experience	Answer phones, direct doctors where needed, clean patient rooms, patient assistance, transport patients, perform CPR as needed, assist docotrs and nurses with patient care and answer patient and/or doctors questions.
+meta	experience	Sales Executive
+meta	experience	Velocity - Mayflower, AR
+meta	experience	November 2017 to February 2018
+meta	experience	B2B sales. Selling business solutions, credit card processing
+meta	experience	Grocery Sales Associate
+meta	experience	Wal-Mart - Benton, AR
+meta	experience	February 2014 to March 2014
+meta	experience	Responsibilities
+meta	experience	Customer service, stocking of shelves, cleaning, building displays, setting modulars, cashier
+meta	experience	Accomplishments
+meta	experience	Excellent customer service
+meta	experience	Skills Used
+meta	experience	Product knowledge
+meta	experience	Store Manager
+meta	experience	Dollar General - Mayflower, AR
+meta	experience	April 2012 to September 2012
+meta	experience	Responsibilities
+meta	experience	Customer service, opening and closing of store, safe audits, register audits, cashier audits, associate scheduling, controlling the flow of inventory, scanning out of stocks, building displays, setting plan o grams, unloading trucks, stocking merchandise, cashier, writing effective evaluations, tracking associate performance, controlling theft, logging and tracking cashier performance, total store cleanliness
+meta	experience	Accomplishments
+meta	experience	Providing excellent customer service, mentoring associates to strive for excellence, provided excellent leadership skills
+meta	experience	Skills Used
+meta	experience	Excellent customer service, team building
+meta	experience	Assistant Manager
+meta	experience	Wal-Mart - Maumelle, AR
+meta	experience	September 1999 to September 2011
+meta	experience	Responsibilities
+meta	experience	Customer service, cashier, scan and pick out of stocks, correct perpetual inventory, control shrink, building displays, setting modulars, price changes, scheduling, budgeting, cleanliness of departments, organized back room, loaded and unloaded trucks, tracked associate performance, delegated
+meta	experience	Accomplishments
+meta	experience	Provided excellent customer service, knowledgeable of products, mentored associates 
+meta	experience	Skills Used
+meta	experience	Excellent customer service, team builder

@@ -1,0 +1,5 @@
+content	education	Bachelors in Criminal Justice
+meta	experience	Outside Sales Representative
+meta	experience	Fastenal Company - Pine Bluff, AR
+meta	experience	May 2016 to Present
+meta	experience	Outside Sales

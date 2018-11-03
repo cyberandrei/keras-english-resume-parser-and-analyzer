@@ -1,0 +1,23 @@
+content	education	Bachelor's in Interdisciplinary Studies
+content	education	Arkansas State University-Jonesboro Jonesboro, AR
+content	education	August 1999 to May 2005
+meta	experience	Sales Associate
+meta	experience	FFO Home - Little Rock, AR
+meta	experience	February 2018 to Present
+meta	experience	Furniture sales, customer service.
+meta	experience	General Manager
+meta	experience	US Beef Corporation - Little Rock, AR
+meta	experience	August 2015 to February 2018
+meta	experience	Duties include but are not limited to managing the day to day operations of the store. There are a wide range of responsibilities that include purchasing and managing food cost, meeting minimum gross profit standards, maintaining above average customer satisfaction standards, and resolving all customer complaints. As the only centralized nationally certified training manager in the Little Rock area I am responsible for training and developing crew members at this location as well as training and developing managers for surrounding stores in the region.
+meta	experience	Behavioral Instructor
+meta	experience	METHODIST FAMILY HEALTH - Maumelle, AR
+meta	experience	July 2013 to August 2015
+meta	experience	As a behavioral Instructor I was assigned to a specific unit in the hospital and worked with a team of other behavioral Instructors to provide structure and ensure safety for all patients.  Duties included working with the medical staff to observe each patient’s behavior patterns and reactions to medication changes, keep behavior observation logs current every 15 minutes of the Work shift for each patient, and administering corrective instruction when inappropriate behavior occurred.
+meta	experience	Sales Manager
+meta	experience	Aaron’s - Dallas, TX
+meta	experience	May 2009 to June 2013
+meta	experience	During my tenure as the Sales manager I was solely responsible for the acquisition of new accounts and renewing existing active and or non active account holders to exceed monthly and quarterly sales goals set by the general manager and myself. Duties included training sales department employees, staging the showroom, and managing warehouse inventory.  I was also responsible for writing and explaining the terms of lease to purchase agreements as well as fielding any customer service calls or trouble shooting issues.
+meta	experience	Manager
+meta	experience	Furniture Row - Sherman, TX
+meta	experience	August 2005 to September 2009
+meta	experience	As Manager I hired and trained salespeople.  I was responsible for maintaining a minimum amount of personal sales as well as driving sales with staff members as well. I ordered and received all inventory trucks and ensured quality of all deliveries. I was the inaugural manager of the store so I spent time developing relationships with local vendors to aid in any advertising needs for the store as well as advertising remotes held on location.

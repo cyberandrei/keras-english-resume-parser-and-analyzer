@@ -1,0 +1,16 @@
+content	education	Northern Colorado Greeley, CO
+content	education	September 1980 to May 1983
+content	education	Some college
+meta	experience	Sales Associate
+meta	experience	Green Eye Motors - Boulder, CO
+meta	experience	September 2015 to June 2016
+meta	experience	Meet monthly sales goals.
+meta	experience	Resolve customer problems.
+meta	experience	Sales Associate
+meta	experience	BOULDER TOYOTA - Boulder, CO
+meta	experience	August 2002 to September 2015
+meta	experience	Internet Sales Manager
+meta	experience	Traffic Manager
+meta	experience	EDS Service Solutions - Louisville, CO
+meta	experience	June 1983 to October 2001
+meta	experience	Ran a 6 person shipping department that shipped over 500 shipments a day.

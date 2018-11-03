@@ -1,0 +1,61 @@
+content	education	Bachelor of Science in biology
+content	education	Central Michigan University Mount Pleasant, MI
+content	education	December 1978
+content	education	Associate of Science
+content	education	Delta College University Center, MI
+content	education	June 1976
+meta	experience	Sales Manager
+meta	experience	Ally Financial - Detroit, MI
+meta	experience	October 2009 to June 2018
+meta	experience	Responsible for developing and increasing remarketing fee revenue.
+meta	experience	Worked with and trained used car department managers at new vehicle
+meta	experience	franchise dealerships, managers at independent used car dealers,
+meta	experience	cosigners, auctions and fleet companies to increase their buying and selling of used vehicles on the SmartAuction internet site. Worked with Ally sales
+meta	experience	team members to help them grow their active dealer base and complete
+meta	experience	their sales efforts through equipping, training and coaching them to attain
+meta	experience	their annual remarketing revenue targets. Conducted training sessions for dealers and sales team members as needed. Won several quarterly "Top
+meta	experience	Performer" awards.
+meta	experience	Dealer Relations Manager
+meta	experience	General Motors Acceptance Corporation - Huntsville, AL
+meta	experience	January 1998 to September 2009
+meta	experience	I trained dealership salesmen, F&I managers and sales managers on how to sell the complete portfolio of GMAC products which included the following:
+meta	experience	Retail financing
+meta	experience	SmartLease
+meta	experience	General Motors Protection Plan (GMPP)
+meta	experience	Insurance products
+meta	experience	SmartAuction
+meta	experience	Wholesale floor plan program
+meta	experience	Training sessions were held in dealership conference rooms during morning
+meta	experience	sales meetings, off-site class room settings, on the showroom floor and in the salesperson and F&I managers offices. I showed them how to increase
+meta	experience	new and used vehicle sales, increase finance penetration and improve their
+meta	experience	income potential. I consulted with retail customers on the showroom floor. I
+meta	experience	would present to them the "buy vs lease" option or the benefits of buying the General Motors Protection Plan extended service agreement coverage
+meta	experience	before they were "turned over" to the F&I manager. I would occasionally
+meta	experience	work in the dealership as an F&I manager closing customers on either a retail or lease contract and selling f&I products. I would do an in-depth
+meta	experience	Profit Center Analysis at key dealerships where sales and income trends
+meta	experience	may have been in decline. I would present to management team the results of my investigation and make recommendations on how they could
+meta	experience	increase finance penetration, GMPP sales, insurance product sales and
+meta	experience	drive their "Dollars per Retail". If a dealer was not selling a particular GMAC
+meta	experience	product, I would meet with management and present them with the features, benefits and income impact of the product. If the dealer made a
+meta	experience	commitment to start selling our product, I scheduled training to show the managers or salesmen on how to sell the product and how to properly
+meta	experience	complete the paperwork so they could make maximum profits and income.
+meta	experience	I scheduled follow-up on an "as needed" basis.
+meta	experience	I also had fill-in duties as an Acquisition Analyst, usually on a  weekend or holiday. My job was to review and make decisions on retail and lease
+meta	experience	credit applications.
+meta	experience	I won several Southeast Regional sales contests and incentives during this
+meta	experience	time.
+meta	experience	Sales Purchase Branch Manager
+meta	experience	General Motors Acceptance Corporation - Tupelo, MS
+meta	experience	March 1995 to January 1998
+meta	experience	Led a team of GMAC employees servicing GM dealers in Tupelo, MS and the surrounding area. Managed the wholesale inventory and retail portfolios.
+meta	experience	Trained my staff on how to give great customer service and how to talk to dealers (via phone or in person) on the dealer benefits of our GMAC
+meta	experience	products. I trained dealers on how to sell and maximize profits with GMAC
+meta	experience	products.
+meta	experience	F&I Sales Consultant
+meta	experience	General Motors Acceptance Corporation - Tampa, FL
+meta	experience	May 1988 to May 1995
+meta	experience	Made regular contacts at GM dealers in the Tampa, Florida territory. Helped
+meta	experience	them drive finance contract penetration and gross profits. Conducted sales
+meta	experience	meetings. Gave features and benefits presentations on SmartLease,
+meta	experience	General Motors Protection Plan, retail financing and F&I services. Certified
+meta	experience	member of the Association of F&I Professionals.

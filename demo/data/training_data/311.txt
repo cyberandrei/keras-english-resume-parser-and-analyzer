@@ -1,0 +1,31 @@
+content	education	Bachelor of Science in Business Management in Finance & Banking
+content	education	Delaware State University Dover, DE
+content	education	December 2018
+meta	experience	Sales Agent
+meta	experience	Combined Insurance - Farmingdale, NY
+meta	experience	June 2018 to Present
+meta	experience	• Conduct needs-based, consultative sales presentations
+meta	experience	• Utilize marketing tools and resources to generate new business
+meta	experience	• Deliver exceptional customer service to existing policyholders and prospective customers alike
+meta	experience	Financial Advisor Intern
+meta	experience	Edward Jones Investment Firm - Dover, DE
+meta	experience	September 2017 to November 2017
+meta	experience	• Shadow host financial advising on client appointment
+meta	experience	• Prepare and present a business plan
+meta	experience	• Plan marketing events as well as phone clinics
+meta	experience	First and Senator Class Lounge Server/ Bartender
+meta	experience	JFK Airport - Jamaica, NY
+meta	experience	June 2016 to August 2017
+meta	experience	• Provided customer service to passengers promptly and courteously
+meta	experience	• Maintained cleanliness in the lounge area and stocked all self-service areas
+meta	experience	• Served luxury alcoholic beverages and wines behind the bar
+meta	experience	Waitress/ Server
+meta	experience	Red Lobsters - Carle Place, NY
+meta	experience	April 2014 to February 2016
+meta	experience	• Serve prepared meals and beverages
+meta	experience	• Use operating computerized cash register to finalize sales transactions and secure payments.
+meta	experience	Cashier/Sales Associate
+meta	experience	Red Lobsters - Levittown, NY
+meta	experience	April 2015 to August 2015
+meta	experience	• Utilized interpersonal skills to increase customer satisfaction as reflected in customer survey results
+meta	experience	• Processed $10,000 in cash, check, and credit purchases

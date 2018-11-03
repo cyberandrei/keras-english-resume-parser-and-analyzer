@@ -1,0 +1,11 @@
+content	education	Business Management in Business
+content	education	Ccsu New Britain, CT
+content	education	September 1995 to April 1999
+content	education	Associate
+meta	experience	General Sales Manager/Finance Manager
+meta	experience	STAR AUTO SALES - Meriden, CT
+meta	experience	October 2005 to Present
+meta	experience	I currently handle the day to day sales operations as well as complete the finance process for all the sales at the dealership, witch includes the sale of warranties and other back end finance products
+meta	experience	General Sales Manager/Finance Manager
+meta	experience	Stevens Ford Lincoln - Milford, CT
+meta	experience	January 2005 to 2015

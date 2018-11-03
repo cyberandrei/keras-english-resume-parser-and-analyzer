@@ -1,0 +1,41 @@
+content	education	The Real Estate School Tallahassee, FL
+meta	experience	Sales
+meta	experience	AmeriPride - Huntsville, AL
+meta	experience	2017 to Present
+meta	experience	* Generated 98% of sales through new clients.
+meta	experience	* Closed ~75% of leads.
+meta	experience	* Earned 10 commendations for exceptional sales performance.
+meta	experience	* Developed and maintained networking relationships for new business
+meta	experience	and referral sources through community involvement.
+meta	experience	* Handled leasing, rental, and sales of assortment of textile products and services.
+meta	experience	Account Representative
+meta	experience	RJ Young Company - Huntsville, AL
+meta	experience	2016 to 2017
+meta	experience	* Achieved top 10 ranking in sales for region.
+meta	experience	* Built and managed sales pipeline that converted ~75% of prospects.
+meta	experience	* Renewed and upsold ~80% of current customers.
+meta	experience	* Oversaw sales forecasting, goal setting, and performance reporting for all accounts in my territory.
+meta	experience	* Discovered 20% of prospects through networking.
+meta	experience	* Designed competitive comparison tables of equipment, solutions and service pricing, fees, ratings, and product performance to use for
+meta	experience	account sales calls.
+meta	experience	* Negotiated prices, terms of sale, and service agreements.
+meta	experience	Moving Consultant - Coleman Worldwide
+meta	experience	 - Huntsville, AL
+meta	experience	2000 to 2016
+meta	experience	Developed leads to maximize sales opportunities. Consulted with potential
+meta	experience	customers and businesses.
+meta	experience	Buyers Specialist - Matt Curtis Real Estate, Inc.   Madison,
+meta	experience	AL
+meta	experience	Assisted clients with property sales and development. Instructed clients on best practices for selling success.
+meta	experience	Design Consultant - Alabama Custom Flooring & Design, LLC
+meta	experience	Athens, AL
+meta	experience	Sold company products and services after establishing relationships and evaluating customers' needs. Provided stylish design solutions.
+meta	experience	Realtor - Weichert Realtors   Huntsville, AL
+meta	experience	Generated leads for real estate firm through cold calling, door to door
+meta	experience	visits, networking, bulk mailings, and referrals. Marketed and promoted
+meta	experience	properties.
+meta	experience	Realtor and Property Manager - Independent Real Estate
+meta	experience	Professional   Apalachicola, FL
+meta	experience	Prospected for and sold residential properties to new customers.
+meta	experience	Manager - Coastal Building Supply   Eastpoint, FL
+meta	experience	Oversaw all financial and administrative functions for organization.

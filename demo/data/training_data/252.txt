@@ -1,0 +1,34 @@
+content	education	Enrico Fermi High School Enfield, CT
+content	education	Bachelor of Science in Finance
+content	education	Post University Waterbury, CT
+meta	experience	Sales Representative
+meta	experience	Cellular Sales - Authorized retailer for Verizon Wireless - Shelton, CT
+meta	experience	July 2018 to Present
+meta	experience	Meet/Exceed monthly & quarterly sales metrics
+meta	experience	Provided excellent customer service and technical support for customers
+meta	experience	Maintain professionalism in high pressured and escalated situations
+meta	experience	Customer Service Consultant II
+meta	experience	Liberty Bank - Middletown, CT
+meta	experience	July 2015 to July 2018
+meta	experience	Customer Experience Consultant
+meta	experience	Efficiently manage 80 - 100 inbound customer interactions daily in a highly regulated industry.  Responsibilities include, but are not limited to; gathering data required identifying customer options, presenting full complement of options to customer, completing work necessary to implement customer decision, documenting discussion and all activities taken.
+meta	experience	Successfully navigate up to 5 software applications simultaneously to complete research required to support consumer and business customer needs, initiate and/or reverse transactions, cross sale of appropriate products and or services to improve overall customer experience.
+meta	experience	Effectively implement problem resolution protocols when working with dissatisfied callers to deescalate situation, identify and implement appropriate solutions, document discussions and all actions taken.
+meta	experience	Complete all assigned tasks within defined performance metrics including; time in calls, speed to answer, call length, time completing after call work, quality of call content, quality of risk related activities, and quality of overall customer experience
+meta	experience	Successfully complete all annual training requirements to ensure compliance with state and federal regulations, risk management, and customer experience expectations.
+meta	experience	Child Development - Head Teacher, Infants & Toddlers Group
+meta	experience	The World of Imaginations Childcare - Stafford, CT
+meta	experience	June 2012 to September 2014
+meta	experience	Worked closely with senior staff to develop, implement and measure education plans for assigned age group(s)
+meta	experience	Develop and implement creative projects and physical activities to engage students, teach teamwork, encourage problem solving and collaboration
+meta	experience	Develop relationships with parents to effectively communicate child's daily activities and participation
+meta	experience	Develop skills needed to more effectively judge when to escalate student behaviors, actions or inactions, to senior team members
+meta	experience	Manage all activities and student interaction to specified schedule and within state and federal requirements/guidelines
+meta	experience	Childcare Provider
+meta	experience	Room to Grow Childcare - Somers, CT
+meta	experience	January 2011 to May 2012
+meta	experience	Care Provider - Infants & Toddlers Group
+meta	experience	Caring for members in our infant and toddler group(s)
+meta	experience	Collaborating with co-workers and owners to create activity plans and schedules to manage demands of our youngest children and to exceed expectations of parents
+meta	experience	Learning and working within state regulations and requirements
+meta	experience	Reverences available by request

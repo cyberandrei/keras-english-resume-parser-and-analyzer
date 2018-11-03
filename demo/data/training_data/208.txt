@@ -1,0 +1,5 @@
+content	education	Some college
+meta	experience	Sales
+meta	experience	Lulu develipment,kenya - Nairobi,kenya
+meta	experience	May 2009 to April 2018
+meta	experience	I was a sales representative managing sales and attending to customers making sure they buy our products. And also training the new employees.

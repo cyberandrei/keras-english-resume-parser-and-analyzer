@@ -1,0 +1,19 @@
+content	education	Associates in Criminal Justice
+content	education	Park University
+meta	experience	Sales Consultant/Customer Service
+meta	experience	ATT/Spring Mobile - Millsboro, DE
+meta	experience	March 2018 to August 2018
+meta	experience	Assist all clients with all wireless needs while maintaining a professional and customer friendly environment. Increase sales and revenue by implementing highly successful sales techniques.
+meta	experience	Sales Consultant
+meta	experience	Verizon Wireless - A Wireless Premium Retailer - Millsboro, DE
+meta	experience	October 2017 to February 2018
+meta	experience	Assist all clients with all wireless needs while maintaining a professional and customer friendly environment.
+meta	experience	Sales Consultant
+meta	experience	Selbyville Holly Kia - Selbyville, DE
+meta	experience	January 2012 to November 2016
+meta	experience	Build customer relationships and exceed sales goals. Use consultative selling skills to identify opportunities, overcome objections, and turn cold canvassing into sales.
+meta	experience	Security Forces
+meta	experience	United States Air Force - Mountainhome afb, ID
+meta	experience	January 2006 to January 2012
+meta	experience	Security Police
+meta	experience	Protect personnel and property. Respond to any emergency dispatched to and maintain vigilance in the assigned sector. Earned consistent commendations for devotion to duty with citations for excellence in rapidly resolving situations. Selected for elite security details providing dignitary protection for members of congress and other high ranking officials.

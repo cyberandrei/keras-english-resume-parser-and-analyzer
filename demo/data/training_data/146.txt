@@ -1,0 +1,30 @@
+content	education	Broadcast Journalism
+content	education	University of Central Arkansas Conway, AR
+content	education	2015 to 2017
+content	education	Mass Media Communications
+content	education	Henderson State University Arkadelphia, AR
+content	education	2013 to 2015
+meta	experience	Dillard's Sales Associate
+meta	experience	Dillard's, Inc. - Little Rock, AR
+meta	experience	February 2018 to Present
+meta	experience	I am currently a sales associate in the Junior’s department.
+meta	experience	Disney College Program Intern
+meta	experience	Walt Disney Parks and Resorts - Orlando, FL
+meta	experience	August 2017 to January 2018
+meta	experience	Concessions for Cirque du Soleil and Disney Springs food trucks.
+meta	experience	Dillard's Sales Associate
+meta	experience	Dillard's, Inc. - North Little Rock, AR
+meta	experience	May 2017 to August 2017
+meta	experience	Customer Service. After a month, I was promoted to the sales floor.
+meta	experience	Wellness Consultant
+meta	experience	Massage Envy - Little Rock, AR
+meta	experience	May 2016 to August 2017
+meta	experience	To answer phone calls, schedule appointments, file, handle medical forms and sensitive information, sell memberships, and work as a part of a team.
+meta	experience	Sales Associate
+meta	experience	Cato Fashions - Little Rock, AR
+meta	experience	June 2014 to April 2016
+meta	experience	To assist customers on the sales floor, fitting rooms, and check them out at the cash wrap.
+meta	experience	Interviewer
+meta	experience	UALR - Little Rock, AR
+meta	experience	May 2011 to May 2013
+meta	experience	To call landline and cell phones to conduct various surveys including medical, health, and leisure.

@@ -1,0 +1,39 @@
+content	education	Nursing
+content	education	Sierra College
+content	education	2017 to Present
+content	education	Nursing
+content	education	Santa Rosa Junior College
+content	education	2014 to 2017
+content	education	Sierra High School
+content	education	2010 to 2014
+meta	experience	Sales Associate
+meta	experience	Bluegreen Vacations
+meta	experience	September 2018 to Present
+meta	experience	Promote the sales of vacation packages for Bluegreen Vacations inside of Bass Pro stores.
+meta	experience	Marketing Assistant
+meta	experience	Thrive Spine Center
+meta	experience	March 2018 to September 2018
+meta	experience	Update social media pages, set up meetings and events with managers for other companies for health talks. Make advisements for social media pages for new patient specials and in-office events. Answer phone calls to schedule and check in patients, sign up new patients, update charts for patients, occasionally filling in for the receptionist.
+meta	experience	Receptionist
+meta	experience	Niello Acura
+meta	experience	September 2017 to March 2018
+meta	experience	Answer phone calls and direct them to the correct department, file paperwork and do follow up service calls.
+meta	experience	Decorative Product Specialist
+meta	experience	Sherwin Williams Paint Company
+meta	experience	June 2017 to September 2017
+meta	experience	Assist customers in choosing color schemes, colors, and inform them about the different products that we have to offer.
+meta	experience	Sales Representative
+meta	experience	Sherwin Williams Diversified Brands
+meta	experience	September 2016 to June 2017
+meta	experience	Promote the sales of Sherwin Williams paint and other products.
+meta	experience	Barista
+meta	experience	Mocha Madness
+meta	experience	August 2015 to July 2016
+meta	experience	Greeted customers, operated cash drawer, food prep and opening and closing duties.
+meta	experience	Awards and Acknowledgements
+meta	experience	Leadership
+meta	experience	Junior Leader Dog Handling group
+meta	experience	LCORT
+meta	experience	2009 to 2011
+meta	experience	2011
+meta	experience	* Honor Roll 2008-2014

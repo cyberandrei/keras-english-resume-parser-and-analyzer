@@ -1,0 +1,70 @@
+content	education	High School Diploma
+content	education	South Mountain High School
+meta	experience	Sales
+meta	experience	Coulter Cadillac
+meta	experience	September 2017 to August 2018
+meta	experience	• Understand cars by studying their features and capabilities, as well as comparing and contrasting competitive models
+meta	experience	• Develop buyers by keeping good rapport with previous and new customers; also by suggesting trade-ins; respond to inquiries; recommend sales campaigns and promotions
+meta	experience	• Qualify buyers by understanding their interests and requirements; matching requirements and interests to various models, etc.
+meta	experience	• Close sales by overcoming objection(s); complete sales or purchase contracts; explain provisions; offer services, warranties and financing; collect payment and deliver automobile
+meta	experience	• Update own job knowledge by participating in educational opportunities, attending seminars and reading professional publications
+meta	experience	• Explore new opportunities in order to add value to job accomplishments
+meta	experience	• Figure out customer's needs by listening and asking questions
+meta	experience	• Perform walk-around with new and old customer and demonstrate features of suitable vehicles
+meta	experience	• Effectively close sales
+meta	experience	• Ensure that customers understand the vehicle's operating features, paperwork and warranty
+meta	experience	• Establish and maintain follow-up system, which encourages repeat business cum referrals
+meta	experience	• Report to the sales manager regarding reviews, analyses, objectives, and planned activities
+meta	experience	• Participates in sales meetings and training provided by the dealership and manufacturers
+meta	experience	• Review sales statistics and plan more effectively to improve sales.
+meta	experience	Traffic Control Technician
+meta	experience	RoadSafe Traffic Systems
+meta	experience	January 2017 to July 2017
+meta	experience	• Monitor Street and utility projects for compliance to traffic control permit conditions.
+meta	experience	• Visit development and work sites in order to determine projects' effect on traffic and the adequacy of plans to control traffic and maintain safety, and to suggest traffic control measures.
+meta	experience	• Analyze data related to traffic flow, accident rate data, and proposed development in order to determine the most efficient methods to expedite traffic flow.
+meta	experience	• Maintain and make minor adjustments and field repairs to equipment used in surveys, including the replacement of parts on
+meta	experience	• Establish procedures for street closures and for repair or construction projects.
+meta	experience	• Interact with the public in order to answer traffic-related questions, respond to complaints and requests, or to discuss traffic control ordinances, plans, policies, and procedures
+meta	experience	Assembly Line Worker
+meta	experience	SubZero Wolf
+meta	experience	January 2016 to January 2017
+meta	experience	• Receive objects or parts as they come down the assembly line (conveyer belt).
+meta	experience	• Hand-assemble parts with the use of bolts, screws, and other fasteners.
+meta	experience	• Use any hand-held tools that are necessary (e.g., screwdrivers, rivets, wrenches).
+meta	experience	• Pass your assembled product on to the next team member so they can complete their duties.
+meta	experience	• Sweep or clean your workstation.
+meta	experience	•  Report any quality control issues to your supervisor.
+meta	experience	Machine operator
+meta	experience	SubZero Wolf
+meta	experience	February 2015 to January 2016
+meta	experience	•  Set up machines at the beginning of shift to ensure proper working order
+meta	experience	•  Perform testing procedures to ensure that machines work optimally during the production procedures
+meta	experience	•  Maintain and clean machines before and after each shift
+meta	experience	•  Feed information akin to speed, shapes and sizes through the machine set up box
+meta	experience	•  Place parts in semi automated machines
+meta	experience	•  Calibrate machines at the beginning of each shift
+meta	experience	•  Recalibrate machines at the end of each shift
+meta	experience	•  Monitor machines during every procedure to ensure optimum running
+meta	experience	•  Troubleshoot problems during machine operation
+meta	experience	•  Ensure that regular and preventative maintenance procedures are carried out
+meta	experience	•  Perform random tests to ensure accuracy
+meta	experience	•  Perform safety checks on every machine
+meta	experience	•  Ensure that machines are producing quality products by managing periodic checks on output
+meta	experience	•  Ensure stocks of needed materials are ready and available at all times
+meta	experience	•  Create and maintain activity logs
+meta	experience	•  Provide relevant information regarding progress to supervisors
+meta	experience	Stockroom clerk
+meta	experience	MJS. Designs
+meta	experience	December 2011 to May 2013
+meta	experience	• Receive incoming packages and verify quantities match invoice
+meta	experience	• Ship finished products
+meta	experience	• Adjust inventory from computer database
+meta	experience	• Build orders for floor assemblers
+meta	experience	• Audit inventory
+meta	experience	• Maintain a clean warehouse
+meta	experience	SMT Operator, MJS. Designs 5/2013 to1/2014
+meta	experience	• Pull orders from stockroom
+meta	experience	• Verify quantities match marital sheet
+meta	experience	•  Set up machines
+meta	experience	• Run product while maintaining a high quality product and meeting deadlines

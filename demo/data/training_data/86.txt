@@ -1,0 +1,49 @@
+content	education	GED in Architecture
+content	education	Bridgman Senior High School Bridgman, MI
+content	education	1998
+meta	experience	Account Manager/Sales
+meta	experience	ARIZONA CAR SALES - Mesa, AZ
+meta	experience	August 2018 to Present
+meta	experience	Manager
+meta	experience	Conn's Home Plus - Tempe, AZ
+meta	experience	April 2017 to August 2018
+meta	experience	Manage the day to day operations of store. Empower employees by coming up with new ways to motivate them to be able to exceed daily/monthly sales goals. Provide top tier customer experience and build the business with repeat customers and referrals.
+meta	experience	Sales Associate / MIT / 3rd key / Dept Specialist
+meta	experience	Conns Home Plus - Mesa, AZ
+meta	experience	March 2016 to April 2017
+meta	experience	Assist customers in purchasing product while maximizing tickets.
+meta	experience	Review credit options including in house financing.
+meta	experience	Run daily reports and conduct morning meetings.
+meta	experience	Merchandise dept and ensure signage and dept is presentable.
+meta	experience	Sales Representative
+meta	experience	Verizon Wireless - Mesa, AZ
+meta	experience	March 2006 to March 2016
+meta	experience	Managed team goals for data metrics and small business metrics.
+meta	experience	Reduced and controlled expenses by assisting in inventory procedures.
+meta	experience	Served as mentor to in store new hires as well as assisting in corporate training classes.
+meta	experience	Performed various roles as store Data Specialist, Retail to Business Specialist, and Inventory Control Specialist.
+meta	experience	Dell Level 2 ACS Computer Technician
+meta	experience	ACS - Phoenix, AZ
+meta	experience	October 2005 to January 2006
+meta	experience	Assist customers in the fastest and most productive way possible.
+meta	experience	Obtain the highest customer satisfaction rate and resolution rate possible.
+meta	experience	Adhere to all performance matrix's.
+meta	experience	Manager
+meta	experience	Circuit City Stores, Inc - Mesa, AZ
+meta	experience	August 2004 to October 2005
+meta	experience	Teach, train, and observe associates executing proper selling behaviors and techniques.
+meta	experience	Exceed sales goals while quickly and effectively solving customer challenges/issues.
+meta	experience	Ensuring proper scheduling of associates during peak hours and productivity times.
+meta	experience	Manage P&L of department and hold associates accountable for performance and merchandising.
+meta	experience	Business Machines Lead
+meta	experience	Staples Inc - Mesa, AZ
+meta	experience	September 2003 to August 2004
+meta	experience	In charge of technology department sales figures and sales floor merchandising.
+meta	experience	Micromanagement of Business Machines Associates.
+meta	experience	Ensure proper tagging, product placement, and in-stocks were compliant to company/state standards.
+meta	experience	Customer Service/Assistant Manager
+meta	experience	Office Depot, Inc - Benton Harbor, MI
+meta	experience	November 1998 to July 2003
+meta	experience	Providing superior customer service and management of front end staff.
+meta	experience	Scheduling of front end associates utilizing Peoplesoft software maximizing performance at peak times.
+meta	experience	Daily auditing of financial operations and store performance.

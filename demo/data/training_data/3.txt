@@ -1,0 +1,46 @@
+content	education	Bachelor of Science in Business Administration in Office Management
+content	education	Harding University Searcy, AR
+meta	experience	Bookkeeper Sales Associate
+meta	experience	Dixieland Sales Company Inc - Huntsville, AL
+meta	experience	January 2018 to Present
+meta	experience	Huntsville, AL (January 2018 - Present)
+meta	experience	~ Established in 1976, wholesaler of giftware, hardware, tools, and home decor.
+meta	experience	Bookkeeper   Sales Associate
+meta	experience	Performed bookkeeping, general office tasks, and postings pertaining to business transactions. Audited, computed, and classified financial data. Compiled financial records, used journals/ledgers, and tracked financial records. Created and maintained spreadsheets and databases using QuickBooks. Complied with federal, state, and company policies, procedures, and regulations. Matched invoices, receipts, and order forms to record information. Prepared and reconciled bank deposits/transactions and balanced books. Provided sales assistance to customers by appointment and during store hours.
+meta	experience	• Managed all accounts payable and receivables for company with gross sales of $5M+ annually.
+meta	experience	• Calculated and executed all aspects of payroll for 12 employees.
+meta	experience	• Prepared corporate financial taxes on monthly and quarterly basis.
+meta	experience	• Balanced sales receipts at daily close of business
+meta	experience	• Promoted sales on company's social media pages
+meta	experience	• Worked one-on-one with customers to select merchandise
+meta	experience	Bookkeeper Accounting Associate
+meta	experience	Pricebusters South - Huntsville, AL
+meta	experience	July 2016 to January 2018
+meta	experience	Huntsville, AL (July 2016 - January 2018)
+meta	experience	~ Established in 1976, wholesaler of giftware, hardware, tools, and home decor.
+meta	experience	Bookkeeper   Accounting Associate
+meta	experience	Performed bookkeeping, general office tasks, and postings pertaining to business transactions.
+meta	experience	• Worked in Quickbooks to balance accounts payable and receivable
+meta	experience	• Invoiced and processed payments for customers
+meta	experience	• Tracked delinquent accounts, identified receivable issues, and worked with customers to ensure resolution.
+meta	experience	Owner Manager
+meta	experience	Vintage Velvet Designs - Huntsville, AL
+meta	experience	November 2013 to December 2016
+meta	experience	Huntsville, AL (November 2013 - December 2016)
+meta	experience	~ Established in 2013, small boutique offering home goods, clothing, and jewelry
+meta	experience	Owner   Manager
+meta	experience	Bought and sold a variety of merchandise for small boutique which was open once a month.
+meta	experience	• Determined price mark-up and profit margin on inventory
+meta	experience	• Organized and designed displays for sale days
+meta	experience	• Advertised and promoted business on Instagram and Facebook
+meta	experience	• Handled all aspects of bookkeeping
+meta	experience	~~~~~~.   256-509-9157   kclouser4@aol.com
+meta	experience	Part-time Teller
+meta	experience	Regions Bank - Huntsville, AL
+meta	experience	September 2007 to September 2009
+meta	experience	Administrative Assistant
+meta	experience	Colsa Corporation - Huntsville, AL
+meta	experience	1986 to 1988
+meta	experience	Intern
+meta	experience	NASA - Huntsville, AL
+meta	experience	1981 to 1983

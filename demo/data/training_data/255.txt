@@ -1,0 +1,12 @@
+content	education	Diploma in Work
+content	education	Nauset Regional High School Eastham, MA
+content	education	March 1990 to May 1991
+meta	experience	Sales Manager
+meta	experience	BALISE AUTO SALES - Hyannis, MA
+meta	experience	January 2014 to March 2016
+meta	experience	Sales Associate
+meta	experience	Honda
+meta	experience	Nissan
+meta	experience	Salesforce
+meta	experience	Sales Associate
+meta	experience	Chevrolet Dealership

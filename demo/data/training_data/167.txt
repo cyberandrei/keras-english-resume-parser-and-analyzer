@@ -1,0 +1,25 @@
+content	education	Bachelors in Psychology
+content	education	San Diego State University
+content	education	May 2008
+meta	experience	Inventory Control Coordinator
+meta	experience	Metal Sales - Woodland, CA
+meta	experience	July 2014 to Present
+meta	experience	Responsible for ordering and managing all steel purchases for the Woodland warehouse. Successfully reduced overall
+meta	experience	inventory while maintaining efficient stocking levels for production. Analyzes and organizes past usage to forecast upcoming
+meta	experience	purchasing needs. Continually turning inventory to reduce overall aged material and drastically reduced dollar value of aged
+meta	experience	inventory. Maintain strong working relationships with other Metal Sales branches and corporate purchasing. Coordinate in house with shipping department on delivery schedules and pricing of transportation. Communicate with CSRs and
+meta	experience	production staff to meet deadlines. Contact vendors to set up timelines, confirm shipment dates, and product guarantee.
+meta	experience	Process accounts payable. Resolve any product discrepancy with vendors fast and recovers cost. Maintain data base system,
+meta	experience	inputting data accurately and innovating new systems. Continually gaining new product knowledge and cost saving practices.
+meta	experience	Customer Service Manager
+meta	experience	Atlantic Aviation - Rancho Cordova, CA
+meta	experience	September 2009 to July 2014
+meta	experience	Manage all customer related issues serving as first point of contact to all business related issues by telephone, email, fax, and in person service. Handle multi-phone line system responding to numerous calls daily. Manage scheduling and maintain all guest arrivals, departures, rental car reservations, catering orders, and hotel arrangements. Act as dispatch to
+meta	experience	Line Service personnel and monitor completion of tasks. Perform all accounting functions to include accounts payable and receivable, check requisitions, bank review, and daily paperwork. Invoice clients, collect payments, and update customer
+meta	experience	accounts. Reconcile daily fuel inventory and invoices daily. Train new employees on job skills and computer
+meta	experience	systems. Oversee employee job development and ongoing performance. Initially hired as Customer Service Representative and was rapidly promoted to Lead Customer Service Representative and served final role as Customer Service Manager.
+meta	experience	Administrative Assistant
+meta	experience	Atlantic Aviation - Sacramento, CA
+meta	experience	May 2013 to February 2014
+meta	experience	Manage all accounts payable functions. Review all incoming invoices, input into QuickBooks, and issue payments to vendors in a timely matter. Research and resolve any accounts payable discrepancies. Enter new employee
+meta	experience	information into computer systems and update employee files. Reviews 30+ employees' hours on a weekly basis and adjust any time discrepancies. Input employees' total hours and issue checks on a bi- weekly basis.

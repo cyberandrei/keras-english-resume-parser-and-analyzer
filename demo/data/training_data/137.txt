@@ -1,0 +1,41 @@
+content	education	AAS in Drafting Design Technology
+content	education	ITT Technical Institute Little Rock, AR
+content	education	March 2013 to March 2015
+content	education	North Little Rock high school North Little Rock, AR
+content	education	August 2003 to May 2006
+meta	experience	Sales Associate
+meta	experience	T.J Maxx - North Little Rock, AR
+meta	experience	October 2015 to Present
+meta	experience	• Customer service
+meta	experience	• Cashier
+meta	experience	• Operate Cash Register
+meta	experience	JoAnn Fabrics
+meta	experience	( Sales Associates)
+meta	experience	• Greet customers
+meta	experience	• Guide customers to products
+meta	experience	• Operate Cash register
+meta	experience	• Restock items on sells floor
+meta	experience	Lead Machine operator inspector
+meta	experience	Molex Inc - Maumelle, AR
+meta	experience	April 2016 to August 2018
+meta	experience	• Setup Machine Properly
+meta	experience	• Worked With Heavy Machinery
+meta	experience	• Produce Quality Product
+meta	experience	• Computer Controlled Equipment
+meta	experience	Molex Inc - Maumelle, AR
+meta	experience	January 2015 to October 2015
+meta	experience	• Study Assembly Operations
+meta	experience	• Positions Parts And Subassemblies
+meta	experience	• Constructs Parts Together
+meta	experience	• Assembling And Checking Product Parts
+meta	experience	Marketing Consultant
+meta	experience	CJRW - Little Rock, AR
+meta	experience	July 2013 to January 2015
+meta	experience	• Tracked Sales
+meta	experience	• Adjust Market Strategies As Necessary
+meta	experience	• Help Track and adjust marking methods
+meta	experience	Rainbow Apparel - Little Rock, AR
+meta	experience	April 2013 to June 2013
+meta	experience	• Assured proper stocking of all products
+meta	experience	• Installed shelving for new products
+meta	experience	• Part-time management responsibilities

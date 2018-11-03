@@ -1,0 +1,73 @@
+content	education	General Education
+content	education	Glendale Community College
+content	education	1992 to 1994
+meta	experience	Sales
+meta	experience	MBI Financial - Scottsdale, AZ
+meta	experience	2016 to 2017
+meta	experience	* Responsible for seeking out new Costumers and exciding department Sale goals
+meta	experience	* Upselling by using sales techniques
+meta	experience	* Introduce new product lines and how to execute them to improve the bottom line profit margins
+meta	experience	Purchasing Manager
+meta	experience	PRIDE DEVELOPMENT AND CONSTRUCTION - Phoenix, AZ
+meta	experience	2014 to 2015
+meta	experience	* Responsible for all aspects of purchasing including setting pricing, negotiating agreements, terms and conditions, capitol asset procurement, controlling the budget.
+meta	experience	* Ability to identify and implement changes to processes that increase the effectiveness and efficiency of the Purchasing department.
+meta	experience	* Establishes and implements purchasing policies and ensures compliance.
+meta	experience	Sale Representative
+meta	experience	REVANA / VERIZON - Phoenix, AZ
+meta	experience	2013 to 2014
+meta	experience	* Team leader and P.O.C. for management team
+meta	experience	* Exceeded monthly Sales and Revenue goals every month by an average of 155%
+meta	experience	* Published training material and instructed training classes for new hires
+meta	experience	* Member of the Mentor team and Platinum Club
+meta	experience	Sales
+meta	experience	VERON COATING SYSTEMS - Phoenix, AZ
+meta	experience	2009 to 2012
+meta	experience	Commercial and Residential Contractors
+meta	experience	* Sole Sales individual managing $1.2M annual business
+meta	experience	* Closed largest producing account in company history
+meta	experience	* Managed a 95%+ customer retention rate business by providing a full desk support environment for all clients
+meta	experience	* Trained all Veron partner contractors in product application
+meta	experience	* Provided customer on-site, as well as in-house, project management for entire client base
+meta	experience	* Encouraged additional responsibility at every available opportunity
+meta	experience	Sales Manager
+meta	experience	SIGN FABRICATORS - Phoenix, AZ
+meta	experience	2006 to 2009
+meta	experience	* Responsible for creating new accounts and servicing existing ones
+meta	experience	* Project management with customers, vendors, fabricators, designers, estimators and installers
+meta	experience	* Responsible for compliance with city codes, ordinances and permits
+meta	experience	* Troubleshoot field issues with installers and fabricator
+meta	experience	* Experienced inventory management and shipping/receiving functions.
+meta	experience	* Managed a team of coordinators to ensure success at all levels of production
+meta	experience	* Produced SOWs including cost analysis, invoicing and research
+meta	experience	Owner/Operator
+meta	experience	THT PROMOTIONS - Phoenix, AZ
+meta	experience	2004 to 2006
+meta	experience	* Planed, scheduled and managed all events in the Phoenix Valley for Amstel Light and Heineken via Crescent & Crown distributors
+meta	experience	* Conducted high-level communication with vendors, bar owners and sales associates
+meta	experience	* Set up marketing and advertising for each event
+meta	experience	* Responsible for production, promotion and advertisement of all events
+meta	experience	* Supply chain management of merchandise, delivery and accounts receivable
+meta	experience	Branch Manager
+meta	experience	UNITED RENTALS / TRENCH SAFETY - Las Vegas, NV
+meta	experience	1993 to 2004
+meta	experience	Assistant District Manager   Sales Representative
+meta	experience	* Increased Revenue from < $1M to an excess of  $2.6M within my first year as Branch Manager
+meta	experience	* Lowered Controllable Assets by 23% and cut inventory by $600k
+meta	experience	* Created, developed and managed a pilot for in- house retail merchandise that became a national standard
+meta	experience	* Authored materials and rained sales staff to increase revenue and rentals
+meta	experience	* Managed all DOT paperwork and service for all of the crane trucks
+meta	experience	* Created all budgets and sales goals for multiple rental centers
+meta	experience	* Product development including testing new field applications for ease of use, cost reduction, as well as, software applications
+meta	experience	Branch Manager
+meta	experience	UNITED RENTALS / TRENCH SAFETY - Phoenix, AZ
+meta	experience	1996 to 1999
+meta	experience	* In-house consultant responsible for health/maintenance check and turn-around of all under producing retail stores in the Phoenix Valley
+meta	experience	* Received over 30 sales awards
+meta	experience	* Received top 3 National Recognition award for Increase in Sales
+meta	experience	* Managed a staff of 20+
+meta	experience	* Created individual sales goals and overall store sales goals
+meta	experience	* Maintained overall look for the store with product placement and merchandising
+meta	experience	* Managed P&L by maintaining appropriate inventory in all stores
+meta	experience	* Served as regional trainer for Reebok products
+meta	experience	* Managed staff workload/schedules to control sales flow

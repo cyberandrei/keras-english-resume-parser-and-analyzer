@@ -1,0 +1,33 @@
+content	education	Associates of Science in Business Administration
+content	education	Sierra College Rocklin, CA
+meta	experience	Sales
+meta	experience	Blue Waters Marketing - Pleasanton, CA
+meta	experience	2018 to Present
+meta	experience	• Promoting companies and brands at sporting, community, and retail events
+meta	experience	• Selling digital subscriptions
+meta	experience	• Simultaneously working with media publication partners and sports league/event
+meta	experience	sponsor partners
+meta	experience	Event Lead/Appointment Setter, Chriswell Home Improvement, Sacramento, CA 2018
+meta	experience	• Gaining and reporting leads from potential clients
+meta	experience	• Knowledge of services/products provided
+meta	experience	• Sales, customer service
+meta	experience	Cashier
+meta	experience	Prep, Milo's Grill - Roseville, CA
+meta	experience	2016 to 2016
+meta	experience	• Providing great customer service, especially during rushes
+meta	experience	• Quick service, pouring drinks/beers, and prepping food before serving to guests,
+meta	experience	• Upselling and genuinely suggesting menu items
+meta	experience	Customer service
+meta	experience	Buffalo Wild Wings - Roseville, CA
+meta	experience	2016 to 2016
+meta	experience	Roseville, CA 2016
+meta	experience	• Making a first and last impression
+meta	experience	• Quickly seating guests, clearing tables, refilling drinks
+meta	experience	• Promoting specials and understanding the guest's reason of visit
+meta	experience	• Managing multiple to-go and pick-up orders
+meta	experience	• Customer service
+meta	experience	• Maintaining clean environment
+meta	experience	• Knowledge of menu and prices
+meta	experience	• Managing money
+meta	experience	• Keeping inventory
+meta	experience	• Training new employees

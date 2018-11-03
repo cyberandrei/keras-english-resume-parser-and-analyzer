@@ -1,0 +1,32 @@
+content	education	Certification
+content	education	Sierra College Rocklin, CA
+content	education	February 2016
+content	education	B.S. in Laws, Industrial
+content	education	CSU Sacramento, CA
+content	education	January 2003
+content	education	A.A. in Liberal Art and Business Administration
+content	education	American River College Sacramento, CA
+content	education	May 1999
+content	education	License
+content	education	National Center of Competency Testing
+meta	experience	sales
+meta	experience	Self-Employee, Lavish Lounge Salon - Folsom, CA
+meta	experience	August 2011 to Present
+meta	experience	Folsom CA 8/2011-present
+meta	experience	Opening and closing salon, daily tally, cash handling, appointment setting, merchandising, ordering/receiving inventory, sales, customer service, cut, perm, color, style/create hair dos, taking, receiving, and resolving customer complaints and issue when it arise
+meta	experience	Externship Phlebotomy Technician
+meta	experience	Self-Employee, Lavish Lounge Salon - Carmichael, CA
+meta	experience	February 2016 to June 2016
+meta	experience	Performed a variety of routine blood draw and skin procedures including organizing patient specimen for testing
+meta	experience	Prepared, process and stored specimens to be sent to the lab
+meta	experience	Thorough understanding of phlebotomy protocols, compliance and safety
+meta	experience	Properly identified patient, labeled specimens and transport specimens to testing area
+meta	experience	Stocked phlebotomy trays and work area
+meta	experience	Hairstylist
+meta	experience	Rinnovare Salon - Folsom, CA
+meta	experience	September 1997 to August 2011
+meta	experience	Opening and closing salon, daily tally, cash handling, appointment setting, merchandising, ordering/receiving inventory, sales, customer service, cut, perm, color, style/create hair dos, taking, receiving, and resolving customer complaints and issue when it arise
+meta	experience	Clerical work such as data entry
+meta	experience	IRS - Sacramento, CA
+meta	experience	June 1993 to August 1993
+meta	experience	typing, photo coping, organizing, filing, and answer multi-line phone

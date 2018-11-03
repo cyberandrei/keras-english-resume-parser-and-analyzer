@@ -1,0 +1,17 @@
+content	education	High school or equivalent
+content	education	Bright Rock Christian Academy Dover, DE
+content	education	March 2016 to December 2016
+content	education	High school or equivalent
+meta	experience	Sales Associate
+meta	experience	Home Goods - Dover, DE
+meta	experience	August 2018 to Present
+meta	experience	process merchandise in the back room, flow merchandise onto sales floor, ring up customers
+meta	experience	Sales Associate
+meta	experience	Walmart - Rehoboth Beach, DE
+meta	experience	May 2017 to January 2018
+meta	experience	Stock merchandise onto sales floor.
+meta	experience	Cashier
+meta	experience	Burger King - Milford, DE
+meta	experience	January 2014 to September 2016
+meta	experience	take customers orders and process payments
+meta	experience	Sales Associate

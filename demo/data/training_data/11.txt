@@ -1,0 +1,6 @@
+content	education	East Limestone High School Harvest, AL
+content	education	August 2012 to May 2017
+meta	experience	General Manager
+meta	experience	72 Auto Sales
+meta	experience	June 2017 to Present
+meta	experience	Reach Companies sales Goals

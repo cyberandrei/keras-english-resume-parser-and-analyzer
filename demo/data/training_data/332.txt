@@ -1,0 +1,10 @@
+content	education	None
+content	education	Lake forest high school Harrington, DE
+content	education	2013 to 2015
+content	education	None
+content	education	Caesar Rodney high Camden, DE
+content	education	2011 to 2013
+meta	experience	lowes
+meta	experience	sales accoiate
+meta	experience	April 2018 to July 2018
+meta	experience	i was a loader i helping people loading mulch on trucks

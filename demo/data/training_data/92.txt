@@ -1,0 +1,17 @@
+content	education	High school or equivalent
+meta	experience	Sales
+meta	experience	480 Motorsports - Mesa, AZ
+meta	experience	August 2015 to Present
+meta	experience	➢ Buying Inventory
+meta	experience	➢ Selling Vehicles 
+meta	experience	➢ Overseeing sales staff
+meta	experience	➢ Inventory Control
+meta	experience	➢ Manage Recon
+meta	experience	Owner
+meta	experience	Magnum Motors Of Loveland - Fort Collins, CO
+meta	experience	February 2002 to December 2014
+meta	experience	➢ Buying Inventory
+meta	experience	➢ Control of Multiple Entities (Warranty Company, Wheels and Tire Shop, Service Shop)
+meta	experience	➢ Overseeing 20 Employees 
+meta	experience	➢ Finalizing Car Deals 
+meta	experience	➢ Designed all Advertising Ads

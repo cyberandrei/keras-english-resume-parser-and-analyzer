@@ -1,0 +1,24 @@
+content	education	Graphic Design
+content	education	American River College Sacramento, CA
+content	education	2013 to 2017
+content	education	High school or equivalent
+content	education	El Camino Fundemental High School Sacramento, CA
+content	education	2010 to 2013
+meta	experience	Sales Consultant
+meta	experience	Capitol Yamaha - Sacramento, CA
+meta	experience	May 2017 to August 2017
+meta	experience	Achieving growth and hitting sales targets by successfully managing the sales team.    
+meta	experience	Designing and implementing a strategic sales plan that expands company’s customer base and ensure it’s strong presence.
+meta	experience	Managing recruiting, objectives setting, coaching and performance monitoring of sales representatives.
+meta	experience	Truck Crew
+meta	experience	Walmart SuperCenter - Roseville, CA
+meta	experience	September 2015 to July 2017
+meta	experience	Hired in stock room.  Daily job duties included unloading trucks, stocking the sales floor, taking inventory, removing pallets off sales floor and cart retrieval, greeting customers.
+meta	experience	Sales Representative
+meta	experience	Roseville Toyota - Roseville, CA
+meta	experience	August 2016 to January 2017
+meta	experience	Car salesman.  Experienced with regular sales knowledge and skills.
+meta	experience	Server/Waiter
+meta	experience	Leatherby's Family Creamery - Citrus Heights, CA
+meta	experience	September 2012 to November 2014
+meta	experience	Began working as an ice cream dispenser, promoted to host and then server.  In addition to seating customers and usual daily responsibilities which included trash removal, floor and window maintenance and table service.  I provided excellent customer service in delivering and serving families and customers.

@@ -1,0 +1,20 @@
+content	education	Certificate in Medical Assisting
+content	education	Kaplan College Thornton, CO
+content	education	2008 to 2009
+meta	experience	Sales Associate
+meta	experience	Interstate Batteries - Commerce City, CO
+meta	experience	June 2017 to Present
+meta	experience	Customer service, retail sales
+meta	experience	Dispatcher
+meta	experience	ASIG BBA Aviation - Denver, CO
+meta	experience	September 2016 to June 2017
+meta	experience	Dispatch fuelers according to flight plans
+meta	experience	Account Receivable Clerk
+meta	experience	Sapp Bros., Inc - Commerce City, CO
+meta	experience	June 2011 to June 2016
+meta	experience	Responsibilities
+meta	experience	balance cashiers , servers, and shop, answer phones and emails. make sure recieved payments from variouse companies. makes use of office machines, use of excel spreed sheets.
+meta	experience	Cashier
+meta	experience	Anthony's Pizza and Pasta - Brighton, CO
+meta	experience	September 2007 to March 2010
+meta	experience	Cashier, wait tables, stock, clean, answer phones, use of office machines, customer service

@@ -1,0 +1,11 @@
+content	education	Bachelor in science
+content	education	Southern Coloado State College
+content	education	1971 to 1973
+meta	experience	sales
+meta	experience	DHL Express - Tempe, AZ
+meta	experience	September 1994 to May 2017
+meta	experience	handling business to business sales
+meta	experience	wine sales
+meta	experience	DHL Express - Phoenix, AZ
+meta	experience	November 2002 to January 2016
+meta	experience	wine sales and handling wine and beer tastings

@@ -1,0 +1,54 @@
+content	education	Bachelor of Science in Business Administration
+content	education	West Virginia Wesleyan College Buckhannon, WV
+content	education	2016 to 2018
+meta	experience	Regional Sales Manager
+meta	experience	Enterprise Car Sales Division - Scottsdale, AZ
+meta	experience	July 2016 to July 2018
+meta	experience	Maintained extensive knowledge of sales, marketing, customer service, sales management, training and development, goal forecasting, asset management, business development and human resources.
+meta	experience	• Oversaw all day-to-day operations of the dealership to include management of sales team, review and monitoring of finances, overhead, and cost-control objectives.
+meta	experience	• Partnered with Business Manager, developing and implementing creative marketing plans for referral-related business, credit union, and rental-related business.
+meta	experience	• Restructured and created new company car policy, increasing sales per sales consultant due to incentives.
+meta	experience	• Implemented cost-cutting measure, reducing credit card expense by approximately $15 - $25K per month.
+meta	experience	Regional Sales Manager
+meta	experience	Enterprise Car Sales Division - Glen Burnie, MD
+meta	experience	July 2013 to July 2016
+meta	experience	• Hired, trained, mentored and developed Dealership Business Managers and Sales Consultants, achieving 3 top 25 in the country.
+meta	experience	• Grossed over $3.1M in revenue sales for the first time in Baltimore region, while growing business by 11% in 2016 after growing the business 23% in 2015.
+meta	experience	• Awarded Dealership Manager of the Year for 2016.
+meta	experience	• Achieved #2 Dealership ranking in the country, out of 154 dealerships in 2016 and achieved #8 in 2015.
+meta	experience	• Trained, coached and developed the #1 Sales Executive in the Nation, 2016.
+meta	experience	• Earned Exceptional Achievement Awards in 2015 and 2016. This award was given to top 10% of the dealerships in the country that exceeded corporate key areas sales per month, sales growth percentage, and net income and customer satisfaction.
+meta	experience	Regional Sales Manager
+meta	experience	ENTERPRISE CAR SALES - White Marsh, MD
+meta	experience	July 2010 to July 2013
+meta	experience	• Established long-term working business relationships with Affinity partner, increasing sales by $175K for MECU.
+meta	experience	• Disclosed and completed sales contracts with purchasers.
+meta	experience	• Ensured compliance with all applicable laws, sales contracts and lender requirements.
+meta	experience	• Earned Exceptional Achievement Award in 2013.
+meta	experience	• Increased customer satisfaction to 96% by having customer appreciation days and follow-up call procedures required after the sale, e.g., at anniversary of purchase and birthday calls to customers.
+meta	experience	Regional Area Sales Manager
+meta	experience	Enterprise Car Sales Division - Westminster, MD
+meta	experience	July 2008 to July 2010
+meta	experience	• Started up and grew new dealership in Westminster, Maryland.
+meta	experience	• Implemented strategic plan to market credit union partners to promote products and services, increasing backend $400 per car.
+meta	experience	• Ensured compliance with all applicable laws, sales contracts and lender requirements.
+meta	experience	• Monitored referral inventory and appraised trades, increasing wholesale revenue $140 per car.
+meta	experience	Dealership Assistant Sales Manager
+meta	experience	Enterprise Car Sales Division - White Marsh, MD
+meta	experience	March 2005 to July 2008
+meta	experience	• Reviewed credit reports and negotiated with lenders with respect to interest rates, down payments and monthly car notes.
+meta	experience	• Increased efficiency ratings of preferred lenders while increasing F&I penetration from $600 to $1K per car.
+meta	experience	• Proficient use of auto dealer software such as Dealertrack, Salesforce (SME), RouteOne, CUDL and Provision.
+meta	experience	• Performed staffing analysis, designed and implemented staffing models, developed process flows, and maintained the integrity of financial operating systems for the auto finance platform.
+meta	experience	• Directed and delivered auto finance loans to clients, facilitating sales and increasing revenue.
+meta	experience	• Developed and maintained relationships with clients, vendors, state agencies and banks, leading to increase in sales of 15% year-over-year in repeat business, customer referrals and corporate purchases.
+meta	experience	• Awarded Exceptional Achievement Award in 2006 and 2007.
+meta	experience	Senior Sales Consultant
+meta	experience	Enterprise Car Sales Division - Glen Burnie, MD
+meta	experience	July 2004 to March 2005
+meta	experience	• Consistently surpassed sales targets and exceeded specified revenue goals.
+meta	experience	• Demonstrated knowledge of the sales cycle by creating client satisfaction and referrals.
+meta	experience	• Qualified and guided buyers by understanding buyers' requirements and interests.
+meta	experience	• Maintained a buyer follow-up system that encouraged repeat and referral business and contributed to customer satisfaction.
+meta	experience	• Utilized various sales techniques for overcoming objections and building long-term relationships that encouraged repeat and referral business.
+meta	experience	• Awarded top sales performer.

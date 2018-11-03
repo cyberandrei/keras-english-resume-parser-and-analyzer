@@ -1,0 +1,35 @@
+content	education	Business Administration
+content	education	Shelton State Community College Tuscaloosa, AL
+content	education	1999 to 2001
+meta	experience	Sales
+meta	experience	Cascade Friction - Tacoma, WA
+meta	experience	2009 to 2010
+meta	experience	Heavy duty parts sales
+meta	experience	Assistant Manager
+meta	experience	Radio Shack - Tacoma, WA
+meta	experience	2009 to 2009
+meta	experience	• Assisting customers with questions regarding electronics, parts, cell-phone sales and service
+meta	experience	• Managed eight employees
+meta	experience	Sales Manager
+meta	experience	Sprint - Meridian, MS
+meta	experience	2007 to 2008
+meta	experience	• Responsible for overall sales and services provided to customers
+meta	experience	• Managed four employees
+meta	experience	Parts Sales
+meta	experience	O'Reillys - Columbis, MS
+meta	experience	2007 to 2007
+meta	experience	Assist customers as needed with auto-related questions and sales
+meta	experience	Quality Control Inspector
+meta	experience	Product Action International - Tuscaloosa, AL
+meta	experience	2006 to 2007
+meta	experience	• Responsible for quality control assurance for Toyota, Mercedes, Hyundai and Cooper Tire
+meta	experience	• Inspect parts prior to entering the assembly line
+meta	experience	Sales Associate
+meta	experience	84 Lumber Company - Bessemer, AL
+meta	experience	2005 to 2006
+meta	experience	Building material sales and delivery
+meta	experience	Assistant Store Manager
+meta	experience	Fleet Pride Inc - Tuscaloosa, AL
+meta	experience	1999 to 2005
+meta	experience	• Parts sales and forklift operator
+meta	experience	• Responsible for five employees

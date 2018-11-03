@@ -1,0 +1,44 @@
+content	education	Bachelor of Science in Business Administration in Business Administration
+content	education	University of Nebraska Lincoln, NE
+content	education	May 2015
+content	education	Creighton Preparatory School
+content	education	May 2010
+meta	experience	Inside Sales, Boyer Sales and Service
+meta	experience	Boyer Sales and Service
+meta	experience	March 2017 to October 2018
+meta	experience	• Provide mechanical and plumbing quotes for new construction projects in Colorado
+meta	experience	• Keep detailed job files and contact records
+meta	experience	• Complete order entry and purchasing of all sales
+meta	experience	Accounts Payable Assistant
+meta	experience	Excell Food Service Management
+meta	experience	November 2016 to January 2017
+meta	experience	• Compiled, sorted and verified the accuracy of invoices
+meta	experience	• Processed over 1000 invoices per month then sent to centralized invoicing system
+meta	experience	• Compiled master list of vendor terms for CFO
+meta	experience	Manager
+meta	experience	South Suburban Parks and Recreation
+meta	experience	June 2016 to September 2016
+meta	experience	• Directly managed over 50 employees
+meta	experience	• Ensured excellent customer service for four outdoor pools
+meta	experience	• Managed any issues during open swim, swim meets, and swim lessons
+meta	experience	Accounts Receivable, Environmental Stonework February 2016 - June 2016
+meta	experience	• Initiate collections proceedings against accounts past due more than 30 days
+meta	experience	• Prepare customer' statements, bills, and invoices
+meta	experience	• Post and apply cash, check, and credit card payments
+meta	experience	• Participate in conference calls to ease concerning issues with customers
+meta	experience	• Train two temporary employees to make collections calls and apply cash
+meta	experience	Manager
+meta	experience	City of Council Bluffs Aquatics
+meta	experience	May 2008 to October 2015
+meta	experience	• Directly managed 25 employees
+meta	experience	• Ensured customer service and handled any issues internal or external
+meta	experience	• Assisted in hiring and firing process of lifeguards
+meta	experience	• Oversaw the training of employees
+meta	experience	• Participated in a budget review in excess of $450,00.00
+meta	experience	Involvement
+meta	experience	• Sigmna Nu Fraternity Member
+meta	experience	• Prep Ambassadors Club
+meta	experience	• Four years of basketball at Prep
+meta	experience	• IttyBitty Sports Coach
+meta	experience	4744 S. Salida Street Aurora, CO, 80015
+meta	experience	(402) 319-1299   ajbond15@gmail.com

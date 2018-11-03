@@ -1,0 +1,44 @@
+content	education	Sociology
+content	education	University of North Alabama Florence, AL
+content	education	August 2012 to December 2018
+meta	experience	Hostess
+meta	experience	Carrabba's Italian Grill - Huntsville, AL
+meta	experience	September 2017 to Present
+meta	experience	Certified Trainer
+meta	experience	Responsible for party and floor plans
+meta	experience	Responsible for exceeding the customer expectations by providing them with friendly, prompt and attentive service
+meta	experience	Required to greet incoming and departing guest in a welcoming manner
+meta	experience	Seat the guest in the dining and bar areas while ensuring a smooth handoff to service staff
+meta	experience	Entertains wait times with hospitality offering beverages and food tasting services as applicable
+meta	experience	Answers phones in a prompt and professional manner and direct calls as applicable
+meta	experience	Customer Service Representative
+meta	experience	Alorica - Huntsville, AL
+meta	experience	October 2017 to February 2018
+meta	experience	Communicates with customers over the phone to resolve their questions or concerns
+meta	experience	Maintains and updates customer information as necessary
+meta	experience	Calmly resolves and de-escalate any issues
+meta	experience	Escalates calls to supervisor when necessary
+meta	experience	Processing of credit card authorizations
+meta	experience	Direct Care Staff
+meta	experience	Scope 310 - Florence, AL
+meta	experience	January 2017 to October 2017
+meta	experience	Assist other with daily activities such as: feeding, bathing, dressing, and medicine regimes.
+meta	experience	Crew Member
+meta	experience	Lil' Steve's - Florence, AL
+meta	experience	May 2016 to January 2017
+meta	experience	Provided excellent customer service. 
+meta	experience	Operated a cash register and exchange goods and services in exchange for currency in the forms of cash, credit/debit, and checks.
+meta	experience	Food Service Worker
+meta	experience	Sodexo - Florence, AL
+meta	experience	August 2015 to May 2016
+meta	experience	Responsibilities
+meta	experience	• Provide customer service 
+meta	experience	• Communicate with customers efficiently 
+meta	experience	• Work with a team 
+meta	experience	• Keeps inventory stations near
+meta	experience	• Prepared food
+meta	experience	• Operated a cash register
+meta	experience	Crew Member
+meta	experience	DAIRY QUEEN GRILL & CHILL - Florence, AL
+meta	experience	November 2014 to June 2015
+meta	experience	Provided speedy and excellent customer service to customers.

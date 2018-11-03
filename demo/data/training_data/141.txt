@@ -1,0 +1,30 @@
+content	education	Associate of Applied Science in Surveying Technology
+content	education	University of Arkansas Community College Morrilton Morrilton, AR
+content	education	September 2014 to March 2016
+content	education	Bachelor of Science in Political Science
+content	education	University of Central Arkansas Conway, AR
+content	education	March 2013 to September 2015
+meta	experience	Sales Associate
+meta	experience	Circle B Equipment - Mountain View, AR
+meta	experience	March 2018 to Present
+meta	experience	• Represents the company for machinery sales to walk-in customers
+meta	experience	• Maintains current product knowledge on features and benefits of all equipment potentially saleable by the dealership
+meta	experience	• Conducts new equipment and product demonstrations
+meta	experience	• Knows and follows a defined sales process
+meta	experience	• Maintains current knowledge of financing options to assist customers with securing the purchase of new and used goods
+meta	experience	Correctional Officer I
+meta	experience	Arkansas Department of Correction - Calico Rock, AR
+meta	experience	October 2017 to March 2018
+meta	experience	• Supervised the security and conduct of inmates/residents in open barracks
+meta	experience	• Maintained perimeter security from tower by watching for escapees and/or disturbances
+meta	experience	• Performed security checks of buildings and grounds, including shakedowns and strip searches of inmates/residents
+meta	experience	• Maintained a log for work release, status, and movement of inmates/residents
+meta	experience	• Wrote incident reports and took disciplinary action on rule violations of inmates/residents
+meta	experience	Surveyor Intern/Independent Contractor
+meta	experience	Advanced Land Services - Mountain View, AR
+meta	experience	January 2014 to September 2017
+meta	experience	• Utilized GPS and Electronic Distance Measuring Equipment to locate, mark, record, and set survey monuments
+meta	experience	• Researched chain of title in deed and survey records
+meta	experience	• Designed survey plats from recorded measurements and legal deeds utilizing CAD software
+meta	experience	• Identified tree species for use in survey records or deed references
+meta	experience	• Carried roughly 50lbs of equipment across large tracts of land

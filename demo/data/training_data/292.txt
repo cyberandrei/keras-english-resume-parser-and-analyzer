@@ -1,0 +1,37 @@
+content	education	Graduated in Business management
+content	education	Windsor High School Windsor, CT
+content	education	1983
+meta	experience	Sales
+meta	experience	P.C. Richard's
+meta	experience	2010 to Present
+meta	experience	Sales associate
+meta	experience	Assisting customers in the sales process
+meta	experience	Helping customers in design and convenience of appliances and electronics
+meta	experience	Helping customers with finding the right product to fit their need and wants in a specific product. Also unloaded trailers and sorted product in warehouse. Properly sorting and retrieving product for delivery or inventory.
+meta	experience	Sales
+meta	experience	Bernie's
+meta	experience	2007 to 2010
+meta	experience	Sales Trainer
+meta	experience	Executing sales plans
+meta	experience	Assisting all of customers needs and concerns
+meta	experience	Million dollar writer, also worked in warehouse to assist workers when busy. Loading trailers for delivery to customers.
+meta	experience	Account Manager
+meta	experience	Pepsi Bottling Group
+meta	experience	2005 to 2007
+meta	experience	Account Sales Manager
+meta	experience	-Inventory
+meta	experience	-Working with customers to maximize sales
+meta	experience	-Properly displaying merchandise for maximum exposure for the customer 
+meta	experience	-Keeping products fresh and new product distribution
+meta	experience	-Focusing on all my customer needs and wants
+meta	experience	Store Manager for Sav-Mor
+meta	experience	Sav-Mor Supermarket, Inc
+meta	experience	1983 to 2005
+meta	experience	Sav-Mor Supermarkets
+meta	experience	-Controlling inventory
+meta	experience	-Order Merchandise
+meta	experience	-Creating cohesive work environment
+meta	experience	-Opening and closing procedures
+meta	experience	-Scheduling receiving
+meta	experience	-Accounts receivable
+meta	experience	-Assisting customers and listening to their needs and helping them on decisions they need to make.
